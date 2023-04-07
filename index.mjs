@@ -1,22 +1,7 @@
 import http from "https";
+import regex from "./regex.mjs";
 
-const { keys } = Object;
-
-const range = (N) => {
-  const r = [];
-  for (let i = 0; i < N; i++) r.push(i);
-  return r;
-};
-
-const requestsToPerform = range(1000).map((e) => e + 1);
-
-const performRequest = (N) => {
-  console.error("Running request: " + N);
-
-  requestsToPerform.splice(requestsToPerform.indexOf(N), 1);
-  const idx = N;
-  const url = `https://www.blogger.com/feeds/746298260979647434/posts/default/-/Newsticker?max-results=3&start-index=${idx}&alt=json-in-script&callback=ABC&_=1680637997238`;
-  // `https://www.der-postillon.com/search/label/Newsticker?max-results=20&start=${idx}&by-date=false`;
+const fetchAsString = (url, cb, errCallback) => {
   http.get(url, (res) => {
     let rawData = "";
 
@@ -24,38 +9,71 @@ const performRequest = (N) => {
       rawData += chunk;
     });
 
-    res.on("end", () => {
-      const parsedData = rawData
-        .replace("// API callback", "")
-        .replace("ABC(", "")
-        .slice(0, rawData.length - 21);
+    res.on("end", () => cb(rawData));
 
-      const str = JSON.parse(parsedData).feed.entry[0].content.$t;
-
-      const regex = /<p>\+\+\+ (.*) \+\+\+<\/p>/g;
-
-      let m;
-
-      while ((m = regex.exec(str)) !== null) {
-        // This is necessary to avoid infinite loops with zero-width matches
-        if (m.index === regex.lastIndex) {
-          regex.lastIndex++;
-        }
-        console.log(m[1]);
-      }
-
-      if (requestsToPerform.length > 1) {
-        nextTimeOut = setTimeout(
-          () => performRequest(requestsToPerform[0]),
-          10
-        );
-      } else nextTimeOut = null;
-    });
+    res.on("error", errCallback);
   });
 };
 
-let nextTimeOut = setTimeout(() => performRequest(requestsToPerform[0]), 0);
+const regy =
+  /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-[0-9]+\.html)/gm;
 
-/*while (nextTimeOut !== null) {
-  console.error("Wait");
-}*/
+const regyü =
+  /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-[0-9]+.html)/gm;
+
+const regexp = /data-load=\'([^\'].*)/gm;
+
+const reg_newsletter = /<p>\+\+\+ (.*) \+\+\+<\/p>/gm;
+const reg_newsletter2 = /\+\+\+ (.*) \+\+\+<br \/>/gm;
+
+// Alternative syntax using RegExp constructor
+// const regex = new RegExp('href="(https:\\/\\/www.der-postillon.com\\/[0-9]+\\/[0-9]+\\/newsticker-[0-9]+.html)', 'gm')
+
+const urlsToFetch = [];
+
+const timer = setInterval(() => {
+  if (urlsToFetch.length > 0) {
+    const nextPageURL = urlsToFetch.shift();
+
+    console.error("FETCHING ", nextPageURL);
+
+    fetchAsString(
+      nextPageURL,
+      (pageString) => {
+        regex(pageString, reg_newsletter, (newsTicker) =>
+          console.log(newsTicker[0])
+        );
+        regex(pageString, reg_newsletter2, (newsTicker) =>
+          console.log(newsTicker[0])
+        );
+      },
+      console.error
+    );
+  }
+  console.error("Pages to retrieve", urlsToFetch.length);
+}, 500);
+
+const getThis = (
+  url = `https://www.der-postillon.com/search/label/Newsticker`
+) =>
+  fetchAsString(
+    url,
+    (res) => {
+      let newUrl = "";
+      console.error("Running regex");
+      regex(res, regy, (m) => {
+        if (urlsToFetch.indexOf(m[0]) < 0) urlsToFetch.push(m[0]);
+      });
+      regex(res, regexp, (m) => (newUrl = m[0]));
+      // console.log(res);
+      console.error("Found so far", urlsToFetch.length, " URLS");
+      console.error("FETCHING", newUrl);
+      if (newUrl.length > 0) setTimeout(() => getThis(newUrl), 100);
+    },
+    (err) => {
+      console.error(err);
+      console.log("It seems there are no more overview pages to fetch.");
+    }
+  );
+
+getThis();

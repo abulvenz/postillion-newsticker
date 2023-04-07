@@ -9,4 +9,4 @@ result = result.reduce((acc, v) => {
   return acc;
 }, {});
 
-console.log(keys(result));
+console.log(keys(result).join("\n"));
