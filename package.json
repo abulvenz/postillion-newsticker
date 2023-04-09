@@ -2,7 +2,6 @@
   "name": "postillion-newsticker",
   "version": "1.0.0",
   "description": "Extraction of very important lines of poetry.",
-  "main": "index.js",
   "scripts": {
     "dev": "nodemon index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,9 +18,14 @@
   },
   "homepage": "https://github.com/abulvenz/postillion-newsticker#readme",
   "devDependencies": {
-    "nodemon": "^2.0.22"
+    "nodemon": "^2.0.22",
+    "parcel": "^2.8.3"
   },
   "dependencies": {
-    "request": "^2.88.2"
+    "fuse.js": "^6.6.2",
+    "mini.css": "^3.0.1",
+    "mithril": "^2.2.2",
+    "request": "^2.88.2",
+    "tagl-mithril": "^1.2.2"
   }
 }

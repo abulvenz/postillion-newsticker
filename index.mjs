@@ -18,8 +18,8 @@ const fetchAsString = (url, cb, errCallback) => {
 const regy =
   /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-[0-9]+\.html)/gm;
 
-const regyü =
-  /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-[0-9]+.html)/gm;
+const regy2 =
+  /https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-([0-9]+).html/gm;
 
 const regexp = /data-load=\'([^\'].*)/gm;
 
@@ -36,15 +36,17 @@ const timer = setInterval(() => {
     const nextPageURL = urlsToFetch.shift();
 
     console.error("FETCHING ", nextPageURL);
+    let num = 0;
+    regex(nextPageURL, regy2, (m) => (num = m[0]));
 
     fetchAsString(
       nextPageURL,
       (pageString) => {
         regex(pageString, reg_newsletter, (newsTicker) =>
-          console.log(newsTicker[0])
+          console.log(nextPageURL, num, newsTicker[0])
         );
         regex(pageString, reg_newsletter2, (newsTicker) =>
-          console.log(newsTicker[0])
+          console.log(nextPageURL, num, newsTicker[0])
         );
       },
       console.error
