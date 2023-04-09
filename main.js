@@ -1,7 +1,7 @@
 import m from "mithril";
 import tagl from "tagl-mithril";
 
-import tickers from "./tickers";
+import { tickers } from "./tickers";
 import Fuse from "fuse.js";
 
 const { h1, div, a, input } = tagl(m);
@@ -33,7 +33,12 @@ m.mount(document.body, {
     selection
       .map((e) => e.item)
       .map((ticker) =>
-        div(ticker.content, " ", a({ href: ticker.url }, ticker.num))
+        div(
+          "+++ ",
+          ticker.content,
+          " +++ ",
+          a({ href: ticker.url }, ticker.num)
+        )
       ),
   ],
 });
