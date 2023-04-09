@@ -1,4 +1,4 @@
-export default tickers = [
+export const tickers = [
   {
     url: "https://www.der-postillon.com/2023/03/newsticker-1934.html",
     num: 1934,
