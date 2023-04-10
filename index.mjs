@@ -1,5 +1,6 @@
 import http from "https";
 import regex from "./regex.mjs";
+import fs from "fs";
 
 const fetchAsString = (url, cb, errCallback) => {
   http.get(url, (res) => {
@@ -15,21 +16,24 @@ const fetchAsString = (url, cb, errCallback) => {
   });
 };
 
-const regy =
+const reg_sub_url =
   /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-[0-9]+\.html)/gm;
 
-const regy2 =
+const reg_sub_url_number =
   /https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-([0-9]+).html/gm;
 
-const regexp = /data-load=\'([^\'].*)/gm;
+const reg_next_overview_link = /data-load=\'([^\'].*)/gm;
 
-const reg_newsletter = /<p>\+\+\+ (.*) \+\+\+<\/p>/gm;
-const reg_newsletter2 = /\+\+\+ (.*) \+\+\+<br \/>/gm;
-
-// Alternative syntax using RegExp constructor
-// const regex = new RegExp('href="(https:\\/\\/www.der-postillon.com\\/[0-9]+\\/[0-9]+\\/newsticker-[0-9]+.html)', 'gm')
+const reg_newsticker = /<p>\+\+\+ (.*) \+\+\+<\/p>/gm;
+const reg_newsticker_plain = /\+\+\+ (.*) \+\+\+<br \/>/gm;
 
 const urlsToFetch = [];
+
+let done = false;
+
+const resultingTickers = [];
+
+const add = (url, num, content) => resultingTickers.push({ url, num, content });
 
 const timer = setInterval(() => {
   if (urlsToFetch.length > 0) {
@@ -37,23 +41,33 @@ const timer = setInterval(() => {
 
     console.error("FETCHING ", nextPageURL);
     let num = 0;
-    regex(nextPageURL, regy2, (m) => (num = m[0]));
+    regex(nextPageURL, reg_sub_url_number, (m) => (num = m[0]));
 
     fetchAsString(
       nextPageURL,
       (pageString) => {
-        regex(pageString, reg_newsletter, (newsTicker) =>
-          console.log(nextPageURL, num, newsTicker[0])
+        regex(pageString, reg_newsticker, (newsTicker) =>
+          add(nextPageURL, num, newsTicker[0])
         );
-        regex(pageString, reg_newsletter2, (newsTicker) =>
-          console.log(nextPageURL, num, newsTicker[0])
+        regex(pageString, reg_newsticker_plain, (newsTicker) =>
+          add(nextPageURL, num, newsTicker[0])
         );
       },
       console.error
     );
+  } else {
+    if (done) {
+      clearInterval(timer);
+      fs.writeFileSync(
+        "test.js",
+        "export const tickers =" + JSON.stringify(resultingTickers)
+      );
+    }
   }
   console.error("Pages to retrieve", urlsToFetch.length);
 }, 500);
+
+let count = 0;
 
 const getThis = (
   url = `https://www.der-postillon.com/search/label/Newsticker`
@@ -63,14 +77,18 @@ const getThis = (
     (res) => {
       let newUrl = "";
       console.error("Running regex");
-      regex(res, regy, (m) => {
+      regex(res, reg_sub_url, (m) => {
         if (urlsToFetch.indexOf(m[0]) < 0) urlsToFetch.push(m[0]);
       });
-      regex(res, regexp, (m) => (newUrl = m[0]));
+      regex(res, reg_next_overview_link, (m) => (newUrl = m[0]));
       // console.log(res);
       console.error("Found so far", urlsToFetch.length, " URLS");
       console.error("FETCHING", newUrl);
-      if (newUrl.length > 0) setTimeout(() => getThis(newUrl), 100);
+      if (newUrl.length > 0 && count++ < 2) {
+        setTimeout(() => getThis(newUrl), 100);
+      } else {
+        done = true;
+      }
     },
     (err) => {
       console.error(err);

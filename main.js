@@ -1,20 +1,20 @@
 import m from "mithril";
 import tagl from "tagl-mithril";
 
-import { tickers } from "./tickers";
+import { tickers } from "./test";
 import Fuse from "fuse.js";
 
 const { h1, div, a, input, small, footer, p } = tagl(m);
 
 let range = 0;
 let search = "";
+let MAX = 1000;
 
 const createFuse = () => {
   const options = {
     includeScore: false,
     threshold: range * 0.01,
     shouldSort: true,
-    // Search in `author` and in `tags` array
     keys: ["content"],
   };
   return new Fuse(tickers, options);
@@ -22,8 +22,8 @@ const createFuse = () => {
 
 let fuse = createFuse();
 
-let selection = tickers.slice(0, 100);
-selection = fuse.search(search).slice(0, 100);
+let selection = tickers.slice(0, MAX);
+selection = fuse.search(search).slice(0, MAX);
 
 m.mount(document.body, {
   view: (vnode) => [
@@ -31,10 +31,12 @@ m.mount(document.body, {
       h1("Postillon Newsticker Recherche"),
       div.ml8(
         small(
+          tickers.length + " Tickermeldungen wurden bisher gepostet. ",
           a(
             { href: "https://www.der-postillon.com/search/label/Newsticker" },
-            "zum Original"
-          )
+            "Hier"
+          ),
+          " geht's zum Original auf der Postillon Seite"
         )
       ),
       div.container(
@@ -44,7 +46,7 @@ m.mount(document.body, {
               placeHolder: "Suchbegriff eingeben",
               oninput: (e) => {
                 search = e.target.value;
-                selection = fuse.search(search).slice(0, 100);
+                selection = fuse.search(search).slice(0, MAX);
               },
             })
           ),
@@ -58,7 +60,7 @@ m.mount(document.body, {
               oninput: (e) => {
                 range = +e.target.value;
                 fuse = createFuse();
-                selection = fuse.search(search).slice(0, 100);
+                selection = fuse.search(search).slice(0, MAX);
               },
             })
           )
