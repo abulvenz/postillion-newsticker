@@ -5,19 +5,34 @@ import { tickers } from "./test";
 import Fuse from "fuse.js";
 
 const { h1, div, a, input, small, footer, p } = tagl(m);
-
+const use = (v, f) => f(v);
+let useContains = true;
 let range = 0;
 let search = "";
 let MAX = 1000;
 
 const createFuse = () => {
-  const options = {
-    includeScore: false,
-    threshold: range * 0.01,
-    shouldSort: true,
-    keys: ["content"],
-  };
-  return new Fuse(tickers, options);
+  if (range > 0) {
+    const options = {
+      includeScore: false,
+      threshold: range * 0.01,
+      shouldSort: true,
+      keys: ["content"],
+    };
+    return new Fuse(tickers, options);
+  } else {
+    const haystack = tickers.map((t) => t.content).map((t) => t.toLowerCase());
+    return {
+      search: (needle) =>
+        use(needle.toLowerCase(), (n) =>
+          haystack
+            .map((c, i) =>
+              c.indexOf(n) >= 0 ? { item: tickers[i] } : undefined
+            )
+            .filter((e) => !!e)
+        ),
+    };
+  }
 };
 
 let fuse = createFuse();

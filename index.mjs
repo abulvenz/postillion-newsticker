@@ -84,7 +84,7 @@ const getThis = (
       // console.log(res);
       console.error("Found so far", urlsToFetch.length, " URLS");
       console.error("FETCHING", newUrl);
-      if (newUrl.length > 0 && count++ < 2) {
+      if (newUrl.length > 0 && count++ < 20000) {
         setTimeout(() => getThis(newUrl), 100);
       } else {
         done = true;
