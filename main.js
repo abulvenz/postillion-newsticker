@@ -4,7 +4,7 @@ import tagl from "tagl-mithril";
 import { tickers } from "./test";
 import Fuse from "fuse.js";
 
-const { h1, div, a, input, small, footer, p } = tagl(m);
+const { h1, div, a, input, small, footer, p, form, fieldset } = tagl(m);
 const use = (v, f) => f(v);
 let useContains = true;
 let range = 0;
@@ -56,7 +56,7 @@ m.mount(document.body, {
       ),
       div.container(
         div.row(
-          div["col-sm-6"](
+          div["col-md-6 col-sm-12"](
             input({
               placeHolder: "Suchbegriff eingeben",
               oninput: (e) => {
@@ -65,7 +65,7 @@ m.mount(document.body, {
               },
             })
           ),
-          div["col-sm-6"](
+          div["col-md-6 col-sm-12"](
             p("Diffusität der Suche"),
             input({
               type: "range",
@@ -84,7 +84,7 @@ m.mount(document.body, {
       selection
         .map((e) => e.item)
         .map((ticker) =>
-          div(
+          div.ticker(
             "+++ ",
             ticker.content,
             " +++ ",
