@@ -92,7 +92,7 @@ m.mount(document.body, {
           )
         )
     ),
-    footer.sticky(
+    footer(
       p(
         a(
           { href: "https://github.com/abulvenz/postillion-newsticker" },
