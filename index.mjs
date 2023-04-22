@@ -62,7 +62,7 @@ const timer = setInterval(() => {
     if (done) {
       clearInterval(timer);
       fs.writeFileSync(
-        "test.js",
+        "tickers.js",
         "export const tickers =" + JSON.stringify(resultingTickers)
       );
     }

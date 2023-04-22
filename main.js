@@ -1,7 +1,7 @@
 import m from "mithril";
 import tagl from "tagl-mithril";
 
-import { tickers } from "./test";
+import { tickers } from "./tickers";
 import Fuse from "fuse.js";
 
 const { h1, h2, div, a, input, small, footer, p } = tagl(m);
