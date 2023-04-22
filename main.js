@@ -4,7 +4,7 @@ import tagl from "tagl-mithril";
 import { tickers } from "./test";
 import Fuse from "fuse.js";
 
-const { h1, div, a, input, small, footer, p, form, fieldset } = tagl(m);
+const { h1, h2, div, a, input, small, footer, p } = tagl(m);
 const use = (v, f) => f(v);
 let useContains = true;
 let range = 0;
@@ -43,7 +43,8 @@ selection = fuse.search(search).slice(0, MAX);
 m.mount(document.body, {
   view: (vnode) => [
     div.outerContainer(
-      h1("Postillon Newsticker Recherche"),
+      h1("Geheimarchive des Postillon"),
+      h2("Newsticker Recherche"),
       div.ml8(
         small(
           tickers.length + " Tickermeldungen wurden bisher gepostet. ",
