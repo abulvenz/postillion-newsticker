@@ -23,7 +23,7 @@ const reg_sub_url =
 //  /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-[0-9]+\.html)/gm;
 
 const reg_sub_url_number =
-  /https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-([0-9]+).html/gm;
+  /https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-([0-9]+)[\-a-z0-9]*.html/gm;
 
 const reg_next_overview_link = /data-load=\'([^\'].*)/gm;
 
