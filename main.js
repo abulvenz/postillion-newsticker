@@ -3,7 +3,7 @@ import tagl from "tagl-mithril";
 
 import { tickers } from "./tickers";
 import Fuse from "fuse.js";
-
+const { min } = Math;
 const { h1, h2, div, a, input, small, footer, p, span } = tagl(m);
 const use = (v, f) => f(v);
 let useContains = true;
@@ -37,8 +37,8 @@ const createFuse = () => {
 
 let fuse = createFuse();
 
-let selection = tickers.slice(0, MAX);
-selection = fuse.search(search).slice(0, MAX);
+let selection = tickers;
+selection = fuse.search(search);
 const taggs = /<[^>]*>/gim;
 const sanitize = (e = "") => console.log(e) || e.replaceAll(taggs, "");
 
@@ -64,7 +64,8 @@ m.mount(document.body, {
               placeHolder: "Suchbegriff eingeben",
               oninput: (e) => {
                 search = e.target.value;
-                selection = fuse.search(search).slice(0, MAX);
+                MAX = 10;
+                selection = fuse.search(search);
               },
             })
           ),
@@ -85,24 +86,39 @@ m.mount(document.body, {
               value: range,
               oninput: (e) => {
                 range = +e.target.value;
+                MAX = 10;
                 fuse = createFuse();
-                selection = fuse.search(search).slice(0, MAX);
+                selection = fuse.search(search);
               },
             })
           )
         )
       ),
       selection
+        .slice(0, MAX)
         .map((e) => e.item)
         .map((ticker) =>
           div.ticker(
             "+++ ",
             ticker.content,
             " +++ ",
-            sanitize(ticker.creators.join("/")) + " ",
+            (ticker.creators !== ""
+              ? sanitize(ticker.creators.join("/"))
+              : "[Fehler bei Autorenbestimmung]") + " ",
             a({ href: ticker.url }, ticker.num)
           )
-        )
+        ),
+      "Das waren " +
+        min(MAX, selection.length) +
+        " von " +
+        selection.length +
+        ". ",
+      MAX < selection.length
+        ? a(
+            { onclick: () => (MAX = MAX * 10) },
+            "Zeige " + min(selection.length, MAX * 10) + "!"
+          )
+        : null
     ),
     footer(
       p(
