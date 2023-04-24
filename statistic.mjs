@@ -34,4 +34,7 @@ deduped = deduped.map((e) => +e).sort((a, b) => a - b);
 const r = range(1938).filter((n) => deduped.indexOf(n) < 0);
 
 console.log(r);
-console.log(creators);
+
+
+
+console.log(JSON.stringify(creators,null,2));

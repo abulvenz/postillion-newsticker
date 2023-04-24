@@ -4,12 +4,26 @@ import tagl from "tagl-mithril";
 import { tickers } from "./tickers";
 import Fuse from "fuse.js";
 const { min } = Math;
-const { h1, h2, div, a, input, small, footer, p, span } = tagl(m);
+const { h1, h2, div, a, input, small, footer, p, span, hr } = tagl(m);
 const use = (v, f) => f(v);
 let useContains = true;
 let range = 0;
 let search = "";
 let MAX = 10;
+let byAuthor = [];
+
+console.log(
+  Object.keys(
+    tickers
+      //    .filter((t, i) => i < 10)
+      .flatMap((ticker) => ticker.creators)
+      .map((name) => name.replaceAll("&nbsp;", "").trim())
+      .reduce((acc, v) => {
+        acc[v] = 1;
+        return acc;
+      }, {})
+  )
+);
 
 const createFuse = () => {
   if (range > 0) {
@@ -32,6 +46,21 @@ const createFuse = () => {
             .filter((e) => !!e)
         ),
     };
+  }
+};
+
+const updateAuthors = () => {
+  fuse = createFuse();
+  MAX = 10;
+  selection = fuse.search(search);
+  if (byAuthor.length > 0) {
+    console.log(byAuthor);
+    console.log(selection);
+    selection = selection.filter(
+      (ticker) =>
+        ticker.item.creators !== "" &&
+        ticker.item.creators.some((creator) => byAuthor.indexOf(creator) >= 0)
+    );
   }
 };
 
@@ -61,6 +90,7 @@ m.mount(document.body, {
         div.row(
           div["col-md-6 col-sm-12"](
             input({
+              width: "100%",
               placeHolder: "Suchbegriff eingeben",
               oninput: (e) => {
                 search = e.target.value;
@@ -69,7 +99,21 @@ m.mount(document.body, {
               },
             })
           ),
-          div["col-md-6 col-sm-12"](
+          div["col-md-2 col-sm-12"](
+            byAuthor.map((author, idx) => [
+              a(
+                {
+                  onclick: () => {
+                    byAuthor.splice(byAuthor.indexOf(author), 1);
+                    updateAuthors();
+                  },
+                },
+                author
+              ),
+              idx < byAuthor.length - 1 ? "/" : "",
+            ])
+          ),
+          div["col-md-4 col-sm-12"](
             p(
               span.tooltip.bottom(
                 {
@@ -94,21 +138,7 @@ m.mount(document.body, {
           )
         )
       ),
-      selection
-        .slice(0, MAX)
-        .map((e) => e.item)
-        .map((ticker) =>
-          div.ticker(
-            "+++ ",
-            m.trust(ticker.content),
-            " +++ ",
-            (ticker.creators !== ""
-              ? sanitize(ticker.creators.join("/"))
-              : "[Fehler bei Autorenbestimmung]") + " ",
-            a({ href: ticker.url }, ticker.num)
-          )
-        ),
-      "Das waren " +
+      "Hier sind " +
         min(MAX, selection.length) +
         " von " +
         selection.length +
@@ -118,7 +148,36 @@ m.mount(document.body, {
             { onclick: () => (MAX = MAX * 10) },
             "Zeige " + min(selection.length, MAX * 10) + "!"
           )
-        : null
+        : null,
+      hr(),
+      selection
+        .slice(0, MAX)
+        .map((e) => e.item)
+        .map((ticker) =>
+          div.ticker(
+            "+++ ",
+            m.trust(ticker.content),
+            " +++ ",
+            ticker.creators !== ""
+              ? ticker.creators.map((creator, index) =>
+                  span([
+                    a(
+                      {
+                        onclick: () => {
+                          if (byAuthor.indexOf(creator) < 0)
+                            byAuthor.push(creator);
+                          updateAuthors();
+                        },
+                      },
+                      "" + creator
+                    ),
+                    index < ticker.creators.length - 1 ? "/" : " ",
+                  ])
+                )
+              : "[Fehler bei Autorenbestimmung] ",
+            a({ href: ticker.url }, ticker.num)
+          )
+        )
     ),
     footer(
       p(
