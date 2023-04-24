@@ -16,6 +16,9 @@ const fetchAsString = (url, cb, errCallback) => {
   });
 };
 
+const reg_who_is_who =
+  /<span style="font-size: x-small;"[\n]*>(.*)<[\n]*\/span[\n]*>/gm;
+
 const reg_sub_url =
   /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/(news|musk)ticker-[0-9]+[\-a-z0-9A-Z]*.html)/gm;
 
@@ -36,7 +39,8 @@ let done = false;
 
 const resultingTickers = [];
 
-const add = (url, num, content) => resultingTickers.push({ url, num, content });
+const add = (url, num, content, creatorNames = []) =>
+  resultingTickers.push({ url, num, content, creators: creatorNames });
 
 const timer = setInterval(() => {
   if (urlsToFetch.length > 0) {
@@ -49,11 +53,31 @@ const timer = setInterval(() => {
     fetchAsString(
       nextPageURL,
       (pageString) => {
-        regex(pageString, reg_newsticker, (newsTicker) =>
-          add(nextPageURL, num, newsTicker[0])
+        let creatorNames = "";
+
+        regex(pageString, reg_who_is_who, (creators) => {
+          console.error(creators);
+          creatorNames = creators[0];
+        });
+        console.log("CREATOR NAMES", creatorNames);
+
+        creatorNames = creatorNames.split(",").map((e) => e.trim());
+
+        regex(pageString, reg_newsticker, (newsTicker, idx) =>
+          add(
+            nextPageURL,
+            num,
+            newsTicker[0],
+            creatorNames[idx] && creatorNames[idx].split("/")
+          )
         );
-        regex(pageString, reg_newsticker_plain, (newsTicker) =>
-          add(nextPageURL, num, newsTicker[0])
+        regex(pageString, reg_newsticker_plain, (newsTicker, idx) =>
+          add(
+            nextPageURL,
+            num,
+            newsTicker[0],
+            creatorNames[idx] && creatorNames[idx].split("/")
+          )
         );
       },
       console.error

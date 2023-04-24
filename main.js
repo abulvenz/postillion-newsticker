@@ -4,12 +4,12 @@ import tagl from "tagl-mithril";
 import { tickers } from "./tickers";
 import Fuse from "fuse.js";
 
-const { h1, h2, div, a, input, small, footer, p } = tagl(m);
+const { h1, h2, div, a, input, small, footer, p, span } = tagl(m);
 const use = (v, f) => f(v);
 let useContains = true;
 let range = 0;
 let search = "";
-let MAX = 1000;
+let MAX = 10;
 
 const createFuse = () => {
   if (range > 0) {
@@ -39,6 +39,8 @@ let fuse = createFuse();
 
 let selection = tickers.slice(0, MAX);
 selection = fuse.search(search).slice(0, MAX);
+const taggs = /<[^>]*>/gim;
+const sanitize = (e = "") => console.log(e) || e.replaceAll(taggs, "");
 
 m.mount(document.body, {
   view: (vnode) => [
@@ -67,7 +69,15 @@ m.mount(document.body, {
             })
           ),
           div["col-md-6 col-sm-12"](
-            p("Diffusität der Suche"),
+            p(
+              span.tooltip.bottom(
+                {
+                  "aria-label":
+                    "Ganz links wird die komplette Eingabe gesucht. Danach immer fuzzier.",
+                },
+                "Diffusität der Suche"
+              )
+            ),
             input({
               type: "range",
               min: 0,
@@ -89,6 +99,7 @@ m.mount(document.body, {
             "+++ ",
             ticker.content,
             " +++ ",
+            sanitize(ticker.creators.join("/")) + " ",
             a({ href: ticker.url }, ticker.num)
           )
         )

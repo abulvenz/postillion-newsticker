@@ -1,6 +1,6 @@
 export default function (str, regex, cb) {
   let m;
-
+  let count = 0;
   console.error("In regex");
   while ((m = regex.exec(str)) !== null) {
     console.error("In while");
@@ -21,6 +21,6 @@ export default function (str, regex, cb) {
 
     console.error("FOUND: ", results);
 
-    cb(results);
+    cb(results, count++);
   }
 }
