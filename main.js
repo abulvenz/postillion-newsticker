@@ -100,7 +100,7 @@ m.mount(document.body, {
         .map((ticker) =>
           div.ticker(
             "+++ ",
-            ticker.content,
+            m.trust(ticker.content),
             " +++ ",
             (ticker.creators !== ""
               ? sanitize(ticker.creators.join("/"))

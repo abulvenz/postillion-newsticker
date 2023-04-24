@@ -20,7 +20,7 @@ const reg_who_is_who =
   /<span style="font-size: x-small;"[\n]*>(.*)<[\n]*\/span[\n]*>/gm;
 
 const reg_sub_url =
-  /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/(news|musk)ticker-[0-9]+[\-a-z0-9A-Z]*.html)/gm;
+  /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/(news|musk)ticker-[0-9]+[\-a-z0-9A-Z_]*.html)/gm;
 
 //const reg_sub_url =
 //  /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-[0-9]+\.html)/gm;
@@ -42,6 +42,12 @@ const resultingTickers = [];
 const add = (url, num, content, creatorNames = []) =>
   resultingTickers.push({ url, num, content, creators: creatorNames });
 
+const taggs = /<[^>]*>/gim;
+const sanitize = (e = "") => e.replaceAll(taggs, "");
+
+const countNeedles = (haystack = "", needle) =>
+  haystack.split("").filter((e) => e === needle).length;
+
 const timer = setInterval(() => {
   if (urlsToFetch.length > 0) {
     const nextPageURL = urlsToFetch.shift();
@@ -57,10 +63,11 @@ const timer = setInterval(() => {
 
         regex(pageString, reg_who_is_who, (creators) => {
           console.error(creators);
-          creatorNames = creators[0];
+          if (countNeedles(creators[0], ",") >= 3) creatorNames = creators[0];
         });
         console.log("CREATOR NAMES", creatorNames);
 
+        creatorNames = sanitize(creatorNames);
         creatorNames = creatorNames.split(",").map((e) => e.trim());
 
         regex(pageString, reg_newsticker, (newsTicker, idx) =>
@@ -112,7 +119,7 @@ const getThis = (
       console.error("Found so far", urlsToFetch.length, " URLS");
       console.error("FETCHING", newUrl);
       if (newUrl.length > 0 && count++ < 20000) {
-        setTimeout(() => getThis(newUrl), 100);
+        setTimeout(() => getThis(newUrl), 200);
       } else {
         done = true;
       }
