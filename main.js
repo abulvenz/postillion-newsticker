@@ -134,6 +134,7 @@ m.mount(document.body, {
                 MAX = 10;
                 fuse = createFuse();
                 selection = fuse.search(search);
+                updateAuthors();
               },
             })
           )
