@@ -96,6 +96,7 @@ m.mount(document.body, {
                 search = e.target.value;
                 MAX = 10;
                 selection = fuse.search(search);
+                updateAuthors();
               },
             })
           ),
