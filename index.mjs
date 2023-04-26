@@ -1,8 +1,19 @@
 import http from "https";
 import regex from "./regex.mjs";
-import fs from "fs";
+import fs, { readFileSync } from "fs";
+
+const mainPageURL = `https://www.der-postillon.com/search/label/Newsticker`;
+
+const alreadyFetched = JSON.parse(readFileSync("./alreadyFetched.json"));
 
 const fetchAsString = (url, cb, errCallback) => {
+  if (url !== mainPageURL) {
+    if (alreadyFetched.indexOf(url) >= 0) {
+      console.log("Page already fetched", url);
+      return;
+    }
+  }
+
   http.get(url, (res) => {
     let rawData = "";
 
@@ -10,7 +21,10 @@ const fetchAsString = (url, cb, errCallback) => {
       rawData += chunk;
     });
 
-    res.on("end", () => cb(rawData));
+    res.on("end", () => {
+      alreadyFetched.push(url);
+      cb(rawData);
+    });
 
     res.on("error", errCallback);
   });
@@ -96,14 +110,15 @@ const timer = setInterval(() => {
         "tickers.js",
         "export const tickers =" + JSON.stringify(resultingTickers)
       );
+      fs.writeFileSync("alreadyFetched.json", JSON.stringify(alreadyFetched));
     }
   }
-  console.error("Pages to retrieve", urlsToFetch.length);
+  console.error("Pages to retrieve", urlsToFetch.length, done);
 }, 500);
 
 let count = 0;
 
-const getThis = (
+const getMainPage = (
   url = `https://www.der-postillon.com/search/label/Newsticker`
 ) =>
   fetchAsString(
@@ -118,8 +133,12 @@ const getThis = (
       // console.log(res);
       console.error("Found so far", urlsToFetch.length, " URLS");
       console.error("FETCHING", newUrl);
-      if (newUrl.length > 0 && count++ < 20000) {
-        setTimeout(() => getThis(newUrl), 200);
+      if (
+        newUrl.length > 0 &&
+        count++ < 1 &&
+        alreadyFetched.indexOf(newUrl) < 0
+      ) {
+        setTimeout(() => getMainPage(newUrl), 200);
       } else {
         done = true;
       }
@@ -130,4 +149,4 @@ const getThis = (
     }
   );
 
-getThis();
+getMainPage();
