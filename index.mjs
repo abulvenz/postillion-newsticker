@@ -55,8 +55,10 @@ const resultingTickers = JSON.parse(
   (fs.readFileSync("./tickers.js") + "").replace("export const tickers =", "")
 );
 
-const add = (url, num, content, creatorNames = []) =>
-  resultingTickers.push({ url, num, content, creators: creatorNames });
+const add = (url, num, content, creatorNames = []) => {
+  if (resultingTickers.filter((e) => e.content === content).length === 0)
+    resultingTickers.push({ url, num, content, creators: creatorNames });
+};
 
 const taggs = /<[^>]*>/gim;
 const sanitize = (e = "") => console.log(e) || e.replaceAll(taggs, "");
