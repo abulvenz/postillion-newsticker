@@ -35,10 +35,10 @@ jobs:
       with:
       # The directory to publish.
         directory: docs/
-    - name: Simple commit
+#    - name: Simple commit
       # You may pin to the exact commit or the version.
       # uses: zwaldowski/git-commit-action@66730766679672410dc04830ae6389f4376c8c94
-      uses: zwaldowski/git-commit-action@v1
+ #     uses: zwaldowski/git-commit-action@v1
       # with:
         # Directory to create commit in
         # working_directory: # optional, default is .
