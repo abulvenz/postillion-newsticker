@@ -4,7 +4,7 @@ import fs, { readFileSync } from "fs";
 
 const mainPageURL = `https://www.der-postillon.com/search/label/Newsticker`;
 
-const alreadyFetched = JSON.parse(readFileSync("./alreadyFetched.json"));
+const alreadyFetched = JSON.parse(readFileSync("./docs/alreadyFetched.json"));
 
 const fetchAsString = (url, cb, errCallback) => {
   if (url !== mainPageURL) {
@@ -112,7 +112,10 @@ const timer = setInterval(() => {
         "tickers.js",
         "export const tickers =" + JSON.stringify(resultingTickers)
       );
-      fs.writeFileSync("alreadyFetched.json", JSON.stringify(alreadyFetched));
+      fs.writeFileSync(
+        "docs/alreadyFetched.json",
+        JSON.stringify(alreadyFetched)
+      );
     }
   }
   console.error("Pages to retrieve", urlsToFetch.length, done);
