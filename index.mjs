@@ -43,7 +43,7 @@ const add = (url, num, content, creatorNames = []) =>
   resultingTickers.push({ url, num, content, creators: creatorNames });
 
 const taggs = /<[^>]*>/gim;
-const sanitize = (e = "") => e.replaceAll(taggs, "");
+const sanitize = (e = "") => console.log(e) || e.replaceAll(taggs, "");
 
 const countNeedles = (haystack = "", needle) =>
   haystack.split("").filter((e) => e === needle).length;
