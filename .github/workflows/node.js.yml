@@ -39,10 +39,10 @@ jobs:
     - name: Github commit and push
       # You may pin to the exact commit or the version.
       # uses: Smart-Transportation/push@c77535fe7a94645f7ceca83e48e6cc977620710e
-      uses: Smart-Transportation/push@v1.3
-      with:
+ #     uses: Smart-Transportation/push@v1.3
+#      with:
         # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+ #       github_token: ${{ secrets.GITHUB_TOKEN }}
         # Email used to configure user.email in `git config`.
         #author_email: # optional, default is github-actions[bot]@users.noreply.github.com
         # Name used to configure user.name in `git config`.
