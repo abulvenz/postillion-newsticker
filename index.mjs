@@ -51,7 +51,9 @@ const urlsToFetch = [];
 
 let done = false;
 
-const resultingTickers = [];
+const resultingTickers = JSON.parse(
+  (fs.readFileSync("./tickers.js") + "").replace("export const tickers =", "")
+);
 
 const add = (url, num, content, creatorNames = []) =>
   resultingTickers.push({ url, num, content, creators: creatorNames });
@@ -135,7 +137,7 @@ const getMainPage = (
       console.error("FETCHING", newUrl);
       if (
         newUrl.length > 0 &&
-        count++ < 1 &&
+        count++ < 20000 &&
         alreadyFetched.indexOf(newUrl) < 0
       ) {
         setTimeout(() => getMainPage(newUrl), 200);
