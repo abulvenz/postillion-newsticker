@@ -36,7 +36,7 @@ jobs:
         GITHUB_PAGES_BRANCH: gh-pages # default value:  gh-pages
         GITHUB_PAGES_REPLACE: false   # default value:  false
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - name: Github commit and push
+ #   - name: Github commit and push
       # You may pin to the exact commit or the version.
       # uses: Smart-Transportation/push@c77535fe7a94645f7ceca83e48e6cc977620710e
  #     uses: Smart-Transportation/push@v1.3
