@@ -118,7 +118,10 @@ const timer = setInterval(() => {
         "tickers.js",
         "export const tickers = \n" + JSON.stringify(resultingTickers, null, 1)
       );
-      fs.writeFileSync("alreadyFetched.json", JSON.stringify(alreadyFetched));
+      fs.writeFileSync(
+        "alreadyFetched.json",
+        JSON.stringify(alreadyFetched, null, 1)
+      );
     }
   }
   console.error("Pages to retrieve", urlsToFetch.length, done);
