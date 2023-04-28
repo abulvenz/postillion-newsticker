@@ -34,7 +34,7 @@ const reg_who_is_who =
   /<span style="font-size: x-small;"[\n]*>(.*)<[\n]*\/span[\n]*>/gm;
 
 const reg_sub_url =
-  /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/(news|musk)ticker-[0-9]+[\-a-z0-9A-Z_]*.html)/gm;
+  /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/(news|musk|weihnachts-news)ticker-[0-9]+[\-a-z0-9A-Z_]*.html)/gm;
 
 //const reg_sub_url =
 //  /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-[0-9]+\.html)/gm;
@@ -47,7 +47,23 @@ const reg_next_overview_link = /data-load=\'([^\'].*)/gm;
 const reg_newsticker = /<p>\+\+\+ (.*) \+\+\+<\/p>/gm;
 const reg_newsticker_plain = /\+\+\+ (.*) \+\+\+<br \/>/gm;
 
-const urlsToFetch = [];
+const urlsToFetch = [
+  "https://www.der-postillon.com/2020/09/newsticker-1544.html",
+  "https://www.der-postillon.com/2020/03/newsticker-1470.html",
+  "https://www.der-postillon.com/2018/04/newsticker-1187.html",
+  "https://www.der-postillon.com/2017/09/newsitcker-1104.html",
+  "https://www.der-postillon.com/2017/09/newsticker-1096.html",
+  "https://www.der-postillon.com/2012/07/newsticker-341.html",
+  "https://www.der-postillon.com/2012/07/newsticker-337.html",
+  "https://www.der-postillon.com/2012/06/newsticker-323.html",
+  "https://www.der-postillon.com/2012/05/newsticker-313.html",
+  "https://www.der-postillon.com/2011/11/newticker-242.html",
+  "https://www.der-postillon.com/2010/09/newsticker-100-das-jubilaum.html",
+  "https://www.der-postillon.com/2010/01/berufsrisiko-newsticker-45.html",
+  "https://www.der-postillon.com/2009/12/weihnachts-newsticker-39.html",
+  "https://www.der-postillon.com/2009/02/newstickernewstickernewsti.html",
+  "",
+];
 
 let done = false;
 

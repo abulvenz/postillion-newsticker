@@ -6,7 +6,10 @@ import Fuse from "fuse.js";
 const { min } = Math;
 const { h1, h2, div, a, input, small, footer, p, span, hr } = tagl(m);
 const use = (v, f) => f(v);
-let useContains = true;
+
+tickers.sort((a, b) => -+a.num + +b.num);
+
+/** Page state */
 let range = 0;
 let search = "";
 let MAX = 10;
@@ -15,7 +18,6 @@ let byAuthor = [];
 console.log(
   Object.keys(
     tickers
-      //    .filter((t, i) => i < 10)
       .flatMap((ticker) => ticker.creators)
       .map((name) => name.replaceAll("&nbsp;", "").trim())
       .reduce((acc, v) => {
@@ -68,8 +70,6 @@ let fuse = createFuse();
 
 let selection = tickers;
 selection = fuse.search(search);
-const taggs = /<[^>]*>/gim;
-const sanitize = (e = "") => console.log(e) || e.replaceAll(taggs, "");
 
 m.mount(document.body, {
   view: (vnode) => [
