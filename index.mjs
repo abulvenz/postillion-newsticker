@@ -40,7 +40,7 @@ const reg_sub_url =
 //  /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-[0-9]+\.html)/gm;
 
 const reg_sub_url_number =
-  /https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-([0-9]+)[\-a-z0-9]*.html/gm;
+  /https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/(news|musk)ticker-([0-9]+)[_\-a-z0-9]*.html/gm;
 
 const reg_next_overview_link = /data-load=\'([^\'].*)/gm;
 
@@ -72,7 +72,11 @@ const timer = setInterval(() => {
 
     console.error("FETCHING ", nextPageURL);
     let num = 0;
-    regex(nextPageURL, reg_sub_url_number, (m) => (num = m[0]));
+    regex(
+      nextPageURL,
+      reg_sub_url_number,
+      (m) => (num = m[0] === "musk" ? "musk" + m[1] : m[1])
+    );
 
     fetchAsString(
       nextPageURL,
@@ -112,7 +116,7 @@ const timer = setInterval(() => {
       clearInterval(timer);
       fs.writeFileSync(
         "tickers.js",
-        "export const tickers =" + JSON.stringify(resultingTickers)
+        "export const tickers = \n" + JSON.stringify(resultingTickers, null, 1)
       );
       fs.writeFileSync("alreadyFetched.json", JSON.stringify(alreadyFetched));
     }
