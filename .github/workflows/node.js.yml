@@ -16,7 +16,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [15.x]
+        node-version: [18.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
@@ -26,42 +26,35 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
+
+    - run: git config --global user.email "actions@github.com"
+    - run: git config --global user.name "Build bot"
     - run: npm ci
     - run: npm run build --if-present
-    - name: Deploy to GitHub Pages
-      if: github.ref == 'refs/heads/main'
-      uses: qoomon/deploy-to-github-pages-action@v1
+    - run: ls docs/
+    
+    - uses: actions/upload-artifact@v3
       with:
-        GITHUB_PAGES_SOURCE_DIR: docs # default value:  dist
-        GITHUB_PAGES_BRANCH: gh-pages # default value:  gh-pages
-        GITHUB_PAGES_REPLACE: false   # default value:  false
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
- #   - name: Github commit and push
-      # You may pin to the exact commit or the version.
-      # uses: Smart-Transportation/push@c77535fe7a94645f7ceca83e48e6cc977620710e
- #     uses: Smart-Transportation/push@v1.3
-#      with:
-        # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
- #       github_token: ${{ secrets.GITHUB_TOKEN }}
-        # Email used to configure user.email in `git config`.
-        #author_email: # optional, default is github-actions[bot]@users.noreply.github.com
-        # Name used to configure user.name in `git config`.
-        #author_name: # optional, default is github-actions[bot]
-        # Email used to make a co-authored commit.
-        #coauthor_email: # optional
-        # Name used to make a co-authored commit.
-        #coauthor_name: # optional
-        # Commit message.
-        #message: # optional
-        # Repository name to push. Default or empty value represents current github repository (${GITHUB_REPOSITORY})
-        #repository: # optional, default is 
-        # Destination branch to push changes
-        #branch: # optional, default is master
-        # Allow empty commit
-        #empty: # optional
-        # Determines if force push is used
-        #force: # optional
-        # Determines if --tags is used
-        #tags: # optional
-        # Directory to change to before pushing.
-        #directory: # optional, default is .
+        name: gh-page
+        path: docs/
+        
+        
+
+    - uses: actions/download-artifact@v3
+      id: download
+      with:
+        name: gh-page
+        path: ./docs/
+
+    - name: 'Echo download path'
+      run: echo ${{steps.download.outputs.download-path}}
+
+    - name: Commit report
+      run: |     
+        git config --global user.name 'Gitbot'
+        git config --global user.email 'abulvenz@users.noreply.github.com'
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+        git checkout "${GITHUB_REF:11}"
+        git add -A
+        git commit -am "Automated report"
+        git push
