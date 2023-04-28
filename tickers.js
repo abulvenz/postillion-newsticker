@@ -1,1 +1,1 @@
-export const tickers = [];
+export const tickers = []
