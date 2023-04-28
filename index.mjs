@@ -142,7 +142,7 @@ const getMainPage = (
       console.error("FETCHING", newUrl);
       if (
         newUrl.length > 0 &&
-        count++ < 2 &&
+        count++ < 20000 &&
         alreadyFetched.indexOf(newUrl) < 0
       ) {
         setTimeout(() => getMainPage(newUrl), 200);
