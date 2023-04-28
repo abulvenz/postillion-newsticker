@@ -34,11 +34,19 @@ jobs:
     - run: npm run build --if-present
     - run: ls docs/
     
+    - name: Deploy to GitHub Pages
+      if: success()
+      uses: crazy-max/ghaction-github-pages@v3
+      with:
+        target_branch: gh-pages
+        build_dir: docs
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}      
+    
     - uses: actions/upload-artifact@v3
       with:
         name: gh-page
         path: |
-          docs/
           alreadyFetched.json
           tickers.js           
 
@@ -47,7 +55,6 @@ jobs:
       with:
         name: gh-page
         path: |
-          ./docs/
           alreadyFetched.json
           tickers.js        
 
