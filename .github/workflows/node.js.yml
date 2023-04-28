@@ -37,15 +37,19 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: gh-page
-        path: docs/
-        
-        
+        path: |
+          docs/
+          alreadyFetched.json
+          tickers.js           
 
     - uses: actions/download-artifact@v3
       id: download
       with:
         name: gh-page
-        path: ./docs/
+        path: |
+          ./docs/
+          alreadyFetched.json
+          tickers.js        
 
     - name: 'Echo download path'
       run: echo ${{steps.download.outputs.download-path}}
