@@ -51,8 +51,8 @@ jobs:
           alreadyFetched.json
           tickers.js        
 
-    - name: 'Echo download path'
-      run: echo ${{steps.download.outputs.download-path}}
+    #- name: 'Echo download path'
+    #  run: echo ${{steps.download.outputs.download-path}}
 
     - name: Commit report
       run: |     
