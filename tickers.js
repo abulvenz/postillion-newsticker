@@ -99667,5 +99667,200 @@ export const tickers =
   "creators": [
    "ssi"
   ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2017/09/newsitcker-1104.html",
+  "num": 0,
+  "content": "Angelabert: Ernies Freund rückt dicht an Bundeskanzlerin heran",
+  "creators": [
+   "tom"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2017/09/newsitcker-1104.html",
+  "num": 0,
+  "content": "Nebenhöhle entzündet: Kranker Steinzeitmensch wärmt sich an Feuer",
+  "creators": [
+   "tsc",
+   "lou"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2017/09/newsitcker-1104.html",
+  "num": 0,
+  "content": "T-Shirt auf und ab: Ungeduldiger Sachse wartet vor Waschmaschine",
+  "creators": [
+   "arm",
+   "pra"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2017/09/newsitcker-1104.html",
+  "num": 0,
+  "content": "Lässt es richtig krachen: Bahnmitarbeiter stellt Weichen für Trauerfeier",
+  "creators": [
+   "kol"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2017/09/newsitcker-1104.html",
+  "num": 0,
+  "content": "Durchlauchterhitzer: Kannibale wärmt Adligen in Boiler auf",
+  "creators": [
+   "kly"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2017/09/newsitcker-1104.html",
+  "num": 0,
+  "content": "Rächt Schreibfehler: Deutschlehrer sieht roht",
+  "creators": [
+   "oga",
+   "frcx"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2017/09/newsitcker-1104.html",
+  "num": 0,
+  "content": "Gingen in Flammen auf: Defekte Reißverschlüsse an Schutzanzügen wurden Feuerwehrleuten zum Verhängnis",
+  "creators": [
+   "lou"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2011/11/newticker-242.html",
+  "num": 0,
+  "content": "Tor nicht zugelassen: Fans stehlen schusseligem Schiedsrichter Auto aus der Garage",
+  "creators": [
+   "pi"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2011/11/newticker-242.html",
+  "num": 0,
+  "content": "Dementer Rentner bleibt mit PKW stehen: Nachfolgende Fahrer rufen Pharmalobby",
+  "creators": [
+   "jff"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2011/11/newticker-242.html",
+  "num": 0,
+  "content": "An den Haaren herbeigezogen: Friseur bestreitet gewaltsame Kundenbeschaffung",
+  "creators": [
+   "mli"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2011/11/newticker-242.html",
+  "num": 0,
+  "content": "Für alle Felle: Kürschner schließt Diebstahlsversicherung ab",
+  "creators": [
+   "?"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2010/01/berufsrisiko-newsticker-45.html",
+  "num": 0,
+  "content": "Tragischer Arbeitsunfall I: Priester segnet versehentlich das Zeitliche",
+  "creators": [
+   "ssi"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2010/01/berufsrisiko-newsticker-45.html",
+  "num": 0,
+  "content": "Tragischer Arbeitsunfall II: Veitstanzlehrer stirbt an Erschöpfung",
+  "creators": [
+   "ssi"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2010/01/berufsrisiko-newsticker-45.html",
+  "num": 0,
+  "content": "Berufskrankheit I: Feuerschlucker leidet an Burn-Out-Syndrom",
+  "creators": [
+   "ssi"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2010/01/berufsrisiko-newsticker-45.html",
+  "num": 0,
+  "content": "Berufskrankheit II: Bombenentschärfer braucht 7 Stunden, um Geburtstagsgeschenk auszupacken",
+  "creators": [
+   "ssi"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2009/12/weihnachts-newsticker-39.html",
+  "num": 0,
+  "content": "Ausgerechnet an Weihnachten Geburtstag: Jesus bekommt nur einmal im Jahr Geschenke",
+  "creators": [
+   "ssi"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2009/12/weihnachts-newsticker-39.html",
+  "num": 0,
+  "content": "Enthüllung am Nordpol: Weihnachtsmann will endlich auspacken",
+  "creators": [
+   "ano"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2009/12/weihnachts-newsticker-39.html",
+  "num": 0,
+  "content": "Rennt nicht mehr: Rentier geht in Rente",
+  "creators": [
+   "ssi"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2009/12/weihnachts-newsticker-39.html",
+  "num": 0,
+  "content": "Sensation: Hubble-Teleskop entdeckt Zimtstern",
+  "creators": [
+   "ssi"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2009/12/weihnachts-newsticker-39.html",
+  "num": 0,
+  "content": "Baumschmuck mit Problemen: Rauschgoldengel hängt an der Nadel",
+  "creators": [
+   "ssi"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2009/02/newstickernewstickernewsti.html",
+  "num": 0,
+  "content": "Faules Pack: Fast 300.000 Deutsche in Kurzarbeit",
+  "creators": [
+   "ssi"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2009/02/newstickernewstickernewsti.html",
+  "num": 0,
+  "content": "Özdemir fordert Kopftuchverbot für attraktive Türkinnen",
+  "creators": [
+   "ssi"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2009/02/newstickernewstickernewsti.html",
+  "num": 0,
+  "content": "Papst erwartet Entschuldigung von Merkel und Zentralrat der Juden",
+  "creators": [
+   "ssi"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2009/02/newstickernewstickernewsti.html",
+  "num": 0,
+  "content": "Höhere Gewinne: <i>Der Postillon</i> dünnt Redaktionen aus",
+  "creators": [
+   "ssi"
+  ]
  }
 ]
