@@ -62,7 +62,6 @@ const urlsToFetch = [
   "https://www.der-postillon.com/2010/01/berufsrisiko-newsticker-45.html",
   "https://www.der-postillon.com/2009/12/weihnachts-newsticker-39.html",
   "https://www.der-postillon.com/2009/02/newstickernewstickernewsti.html",
-  "",
 ];
 
 let done = false;
