@@ -1,9 +1,9 @@
 export default function (str, regex, cb) {
   let m;
   let count = 0;
-  console.error("In regex");
+  // console.error("In regex");
   while ((m = regex.exec(str)) !== null) {
-    console.error("In while");
+    // console.error("In while");
     // This is necessary to avoid infinite loops with zero-width matches
     if (m.index === regex.lastIndex) {
       regex.lastIndex++;
@@ -19,7 +19,7 @@ export default function (str, regex, cb) {
 
     results.shift();
 
-    console.error("FOUND: ", results);
+    // console.error("FOUND: ", results);
 
     cb(results, count++);
   }
