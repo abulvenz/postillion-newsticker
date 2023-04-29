@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 9 * * *' # change last star to 1,3,5
 jobs:
   build:
 
