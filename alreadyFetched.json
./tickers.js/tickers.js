@@ -99862,5 +99862,61 @@ export const tickers =
   "creators": [
    "ssi"
   ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1943.html",
+  "num": "1943",
+  "content": "Ist etwas Großem auf der Spur: Verschwörungstheoretiker begibt sich in Abwasserkanal",
+  "creators": [
+   "rav"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1943.html",
+  "num": "1943",
+  "content": "Albaner-Haufen: Reisegruppe aus dem Kosovo zu Späßen aufgelegt",
+  "creators": [
+   "mvt"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1943.html",
+  "num": "1943",
+  "content": "Kriegt nichts mehr runter: Umzugshelfer nach üppigem Mittagessen außer Gefecht",
+  "creators": [
+   "sum"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1943.html",
+  "num": "1943",
+  "content": "Krawallerie: Betrunkene Reiter randalieren in Kasernenhof",
+  "creators": [
+   "frcx"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1943.html",
+  "num": "1943",
+  "content": "\"Oh, Aase\": Hungriger Wüstengeier halluziniert",
+  "creators": [
+   "cbe"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1943.html",
+  "num": "1943",
+  "content": "Fast nicht zu stemmen: Kosten für einbruchssichere Fenster sehr hoch",
+  "creators": [
+   "marc"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1943.html",
+  "num": "1943",
+  "content": "Da kann man nur mit dem Kopf schütteln: Geschwindigkeit von Robotertennis für Zuschauer viel zu hoch",
+  "creators": [
+   "sch"
+  ]
  }
 ]
