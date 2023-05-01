@@ -3,8 +3,10 @@ import tagl from "tagl-mithril";
 
 import { tickers } from "./tickers";
 import Fuse from "fuse.js";
+import posthorn from "./posthorn";
 const { min } = Math;
-const { h1, h2, div, a, input, small, footer, p, span, hr } = tagl(m);
+const { header, h1, h2, div, a, input, small, footer, p, span, hr, br } =
+  tagl(m);
 const use = (v, f) => f(v);
 
 tickers.sort((a, b) => -+a.num + +b.num);
@@ -74,8 +76,8 @@ selection = fuse.search(search);
 m.mount(document.body, {
   view: (vnode) => [
     div.outerContainer(
-      h1("Geheimarchive des Postillon"),
-      h2("Newsticker Recherche"),
+      a.logo(m(posthorn, { width: "70px", height: "35px" })),
+      span.logo("Geheimarchive des Postillon"),
       div.ml8(
         small(
           tickers.length + " Tickermeldungen wurden bisher gepostet. ",
@@ -179,7 +181,19 @@ m.mount(document.body, {
               : "[Fehler bei Autorenbestimmung] ",
             a({ href: ticker.url }, ticker.num)
           )
-        )
+        ),
+      hr(),
+      "Das waren " +
+        min(MAX, selection.length) +
+        " von " +
+        selection.length +
+        ". ",
+      MAX < selection.length
+        ? a(
+            { onclick: () => (MAX = MAX * 10) },
+            "Zeige " + min(selection.length, MAX * 10) + "!"
+          )
+        : null
     ),
     footer(
       p(
