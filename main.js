@@ -75,125 +75,131 @@ selection = fuse.search(search);
 
 m.mount(document.body, {
   view: (vnode) => [
+    header(
+      a.logo(
+        m(posthorn, { width: "70px", height: "35px" }),
+        span.logo("Geheimarchive des Postillon")
+      )
+    ),
+    div.ml8(
+      small(
+        tickers.length + " Tickermeldungen wurden bisher gepostet. ",
+        a(
+          { href: "https://www.der-postillon.com/search/label/Newsticker" },
+          "Hier"
+        ),
+        " geht's zum Original auf der Postillon Seite"
+      )
+    ),
     div.outerContainer(
-      a.logo(m(posthorn, { width: "70px", height: "35px" })),
-      span.logo("Geheimarchive des Postillon"),
-      div.ml8(
-        small(
-          tickers.length + " Tickermeldungen wurden bisher gepostet. ",
-          a(
-            { href: "https://www.der-postillon.com/search/label/Newsticker" },
-            "Hier"
-          ),
-          " geht's zum Original auf der Postillon Seite"
-        )
-      ),
-      div.container(
-        div.row(
-          div["col-md-6 col-sm-12"](
-            input({
-              width: "100%",
-              placeHolder: "Suchbegriff eingeben",
-              oninput: (e) => {
-                search = e.target.value;
-                MAX = 10;
-                selection = fuse.search(search);
-                updateAuthors();
-              },
-            })
-          ),
-          div["col-md-2 col-sm-12"](
-            byAuthor.map((author, idx) => [
-              a(
-                {
-                  onclick: () => {
-                    byAuthor.splice(byAuthor.indexOf(author), 1);
-                    updateAuthors();
-                  },
+      div.ml1vw(
+        div.container(
+          div.row(
+            div["col-md-6 col-sm-12"](
+              input({
+                width: "100%",
+                placeHolder: "Suchbegriff eingeben",
+                oninput: (e) => {
+                  search = e.target.value;
+                  MAX = 10;
+                  selection = fuse.search(search);
+                  updateAuthors();
                 },
-                author
-              ),
-              idx < byAuthor.length - 1 ? "/" : "",
-            ])
-          ),
-          div["col-md-4 col-sm-12"](
-            p(
-              span.tooltip.bottom(
-                {
-                  "aria-label":
-                    "Ganz links wird die komplette Eingabe gesucht. Danach immer fuzzier.",
-                },
-                "Diffusität der Suche"
-              )
+              })
             ),
-            input({
-              type: "range",
-              min: 0,
-              max: 100,
-              value: range,
-              oninput: (e) => {
-                range = +e.target.value;
-                MAX = 10;
-                fuse = createFuse();
-                selection = fuse.search(search);
-                updateAuthors();
-              },
-            })
-          )
-        )
-      ),
-      "Hier sind " +
-        min(MAX, selection.length) +
-        " von " +
-        selection.length +
-        ". ",
-      MAX < selection.length
-        ? a(
-            { onclick: () => (MAX = MAX * 10) },
-            "Zeige " + min(selection.length, MAX * 10) + "!"
-          )
-        : null,
-      hr(),
-      selection
-        .slice(0, MAX)
-        .map((e) => e.item)
-        .map((ticker) =>
-          div.ticker(
-            "+++ ",
-            m.trust(ticker.content),
-            " +++ ",
-            ticker.creators !== ""
-              ? ticker.creators.map((creator, index) =>
-                  span([
-                    a(
-                      {
-                        onclick: () => {
-                          if (byAuthor.indexOf(creator) < 0)
-                            byAuthor.push(creator);
-                          updateAuthors();
-                        },
-                      },
-                      "" + creator
-                    ),
-                    index < ticker.creators.length - 1 ? "/" : " ",
-                  ])
+            div["col-md-2 col-sm-12"](
+              byAuthor.map((author, idx) => [
+                a(
+                  {
+                    onclick: () => {
+                      byAuthor.splice(byAuthor.indexOf(author), 1);
+                      updateAuthors();
+                    },
+                  },
+                  author
+                ),
+                idx < byAuthor.length - 1 ? "/" : "",
+              ])
+            ),
+            div["col-md-4 col-sm-12"](
+              p(
+                span.tooltip.bottom(
+                  {
+                    "aria-label":
+                      "Ganz links wird die komplette Eingabe gesucht. Danach immer fuzzier.",
+                  },
+                  "Diffusität der Suche"
                 )
-              : "[Fehler bei Autorenbestimmung] ",
-            a({ href: ticker.url }, ticker.num)
+              ),
+              input({
+                type: "range",
+                min: 0,
+                max: 100,
+                value: range,
+                oninput: (e) => {
+                  range = +e.target.value;
+                  MAX = 10;
+                  fuse = createFuse();
+                  selection = fuse.search(search);
+                  updateAuthors();
+                },
+              })
+            )
           )
         ),
-      hr(),
-      "Das waren " +
-        min(MAX, selection.length) +
-        " von " +
-        selection.length +
-        ". ",
-      MAX < selection.length
-        ? a(
-            { onclick: () => (MAX = MAX * 10) },
-            "Zeige " + min(selection.length, MAX * 10) + "!"
-          )
-        : null
+        "Hier sind " +
+          min(MAX, selection.length) +
+          " von " +
+          selection.length +
+          ". ",
+        MAX < selection.length
+          ? a(
+              { onclick: () => (MAX = MAX * 10) },
+              "Zeige " + min(selection.length, MAX * 10) + "!"
+            )
+          : null,
+        hr(),
+        selection
+          .slice(0, MAX)
+          .map((e) => e.item)
+          .map((ticker) =>
+            div.ticker(
+              "+++ ",
+              m.trust(ticker.content),
+              " +++ ",
+              ticker.creators !== ""
+                ? ticker.creators.map((creator, index) =>
+                    span([
+                      a(
+                        {
+                          onclick: () => {
+                            if (byAuthor.indexOf(creator) < 0)
+                              byAuthor.push(creator);
+                            updateAuthors();
+                          },
+                        },
+                        "" + creator
+                      ),
+                      index < ticker.creators.length - 1 ? "/" : " ",
+                    ])
+                  )
+                : "[Fehler bei Autorenbestimmung] ",
+              a({ href: ticker.url }, ticker.num)
+            )
+          ),
+        hr(),
+        "Das waren " +
+          min(MAX, selection.length) +
+          " von " +
+          selection.length +
+          ". ",
+        MAX < selection.length
+          ? a(
+              { onclick: () => (MAX = MAX * 10) },
+              "Zeige " + min(selection.length, MAX * 10) + "!"
+            )
+          : null
+      )
     ),
     footer(
       p(
