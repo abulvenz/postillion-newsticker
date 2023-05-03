@@ -99918,5 +99918,63 @@ export const tickers =
   "creators": [
    "sch"
   ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1944.html",
+  "num": "1944",
+  "content": "Rohlinge: Aggressive M��nner werfen mit CDs um sich",
+  "creators": [
+   "mta"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1944.html",
+  "num": "1944",
+  "content": "Säen Dung mit der Maus: Armin und Co. präsentieren computergesteuerten Miststreuer",
+  "creators": [
+   "stp",
+   "bdb"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1944.html",
+  "num": "1944",
+  "content": "Kommt unter den Hammer: Amboss wird versteigert",
+  "creators": [
+   "fer"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1944.html",
+  "num": "1944",
+  "content": "Heizt Ecke: Wärme spendendes Utensil in Messie-Wohnung verschollen",
+  "creators": [
+   "bfr"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1944.html",
+  "num": "1944",
+  "content": "Mit einem Bein im Knast: Pirat verhaftet",
+  "creators": [
+   "kol"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1944.html",
+  "num": "1944",
+  "content": "Maiästhet: König Charles verfasst Frühlingsgedichte",
+  "creators": [
+   "tky"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1944.html",
+  "num": "1944",
+  "content": "Schwebendes Verfahren: Hovercraftfahrer wegen falscher Einbahnstraßendurchquerung vor Wuppertaler Amtsgericht",
+  "creators": [
+   "jan",
+   "tom"
+  ]
  }
 ]
