@@ -2807,7 +2807,7 @@ export const tickers =
  {
   "url": "https://www.der-postillon.com/2022/12/newsticker-1889.html",
   "num": "1889",
-  "content": "Die Quall', der Wal: Meeresbiologin f��llt Entscheidung für Doktorarbeitsthema nicht leicht",
+  "content": "Die Quall', der Wal: Meeresbiologin fällt Entscheidung für Doktorarbeitsthema nicht leicht",
   "creators": [
    "wrb",
    "ttl"
@@ -10247,7 +10247,7 @@ export const tickers =
  {
   "url": "https://www.der-postillon.com/2022/01/newsticker-1753.html",
   "num": "1753",
-  "content": "Disput: Kinder streiten, ob überfahrene Kr��te noch zu retten sei",
+  "content": "Disput: Kinder streiten, ob überfahrene Kröte noch zu retten sei",
   "creators": [
    "ttl"
   ]
@@ -44938,7 +44938,7 @@ export const tickers =
  {
   "url": "https://www.der-postillon.com/2017/11/newsticker-1129.html",
   "num": "1129",
-  "content": "Krimanalkommissarin: Russische Ermittlerin für ungewöhnliche Verhörmethoden ber��chtigt",
+  "content": "Krimanalkommissarin: Russische Ermittlerin für ungewöhnliche Verhörmethoden berüchtigt",
   "creators": [
    "mik"
   ]
@@ -71776,7 +71776,7 @@ export const tickers =
  {
   "url": "https://www.der-postillon.com/2014/08/newsticker-645.html",
   "num": "645",
-  "content": "Hat nicht Alter gesagt: 14-J��hriger aus Gang ausgeschlossen",
+  "content": "Hat nicht Alter gesagt: 14-Jähriger aus Gang ausgeschlossen",
   "creators": [
    "rag"
   ]
@@ -82680,7 +82680,7 @@ export const tickers =
  {
   "url": "https://www.der-postillon.com/2013/04/newsticker-449.html",
   "num": "449",
-  "content": "Beschützerinstinkt: Leibw��chterin wehrt Buttersäureangriff ab",
+  "content": "Beschützerinstinkt: Leibwächterin wehrt Buttersäureangriff ab",
   "creators": [
    "hel"
   ]
@@ -83778,7 +83778,7 @@ export const tickers =
  {
   "url": "https://www.der-postillon.com/2013/03/newsticker-429.html",
   "num": "429",
-  "content": "Grottenkick: Fußballspiel in Tropfsteinh��hle endet 0:0",
+  "content": "Grottenkick: Fußballspiel in Tropfsteinhöhle endet 0:0",
   "creators": [
    "marc"
   ]
@@ -99922,7 +99922,7 @@ export const tickers =
  {
   "url": "https://www.der-postillon.com/2023/05/newsticker-1944.html",
   "num": "1944",
-  "content": "Rohlinge: Aggressive M��nner werfen mit CDs um sich",
+  "content": "Rohlinge: Aggressive Männer werfen mit CDs um sich",
   "creators": [
    "mta"
   ]
