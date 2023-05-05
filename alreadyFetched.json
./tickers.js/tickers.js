@@ -99976,5 +99976,62 @@ export const tickers =
    "jan",
    "tom"
   ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1945.html",
+  "num": "1945",
+  "content": "Hat vergessen, sein Bett zu machen: Möbelbauer muss auf Boden schlafen",
+  "creators": [
+   "sge"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1945.html",
+  "num": "1945",
+  "content": "Vietnam: Berliner filmt Kind beim Klauen",
+  "creators": [
+   "sch"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1945.html",
+  "num": "1945",
+  "content": "Will etwas auf die Seite legen: Mann spart für neues Lesezeichen",
+  "creators": [
+   "viv"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1945.html",
+  "num": "1945",
+  "content": "Mundwasa: Chuck Norris gurgelt mit Knäckebrot",
+  "creators": [
+   "adm"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1945.html",
+  "num": "1945",
+  "content": "Blickt nach vorn: Erfolgloser Ruderer wechselt zum Kanusport",
+  "creators": [
+   "tky"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1945.html",
+  "num": "1945",
+  "content": "Führt Asbeste in Mann: Stiftung Warentest unzufrieden mit neuem Gilette-Rasierer",
+  "creators": [
+   "bfr"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1945.html",
+  "num": "1945",
+  "content": "Ganz aufgelöst: Verlassene Ehefrau berichtet weinend von leergeräumtem Sparbuch",
+  "creators": [
+   "stp",
+   "tom"
+  ]
  }
 ]
