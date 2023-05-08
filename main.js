@@ -209,7 +209,7 @@ m.mount(document.body, {
         )
       ),
       p(
-        "Der Inhalt wurde von der oben verlinkten Postillon-Seite gecached und von der fleißigen Ticker-Gemeinschaft produziert. "
+        "Der Inhalt wird von der oben verlinkten Postillon-Seite montags, mittwochs und freitags gecached und wird von der fleißigen Ticker-Gemeinschaft produziert. "
       ),
       p("Ohne Gewähr auf Sittenwidrigkeit, Fehlerfreiheit und Vollständigkeit.")
     ),
