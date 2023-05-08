@@ -188,7 +188,12 @@ m.mount(document.body, {
           ". ",
         MAX < selection.length
           ? a(
-              { onclick: () => (MAX = MAX * 10) },
+              {
+                onclick: () => {
+                  MAX = MAX * 10;
+                  buildQueryString();
+                },
+              },
               "Zeige " + min(selection.length, MAX * 10) + "!"
             )
           : null,
@@ -229,7 +234,12 @@ m.mount(document.body, {
           ". ",
         MAX < selection.length
           ? a(
-              { onclick: () => (MAX = MAX * 10) },
+              {
+                onclick: () => {
+                  MAX = MAX * 10;
+                  buildQueryString();
+                },
+              },
               "Zeige " + min(selection.length, MAX * 10) + "!"
             )
           : null
