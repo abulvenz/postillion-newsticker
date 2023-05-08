@@ -17,6 +17,35 @@ let search = "";
 let MAX = 10;
 let byAuthor = [];
 
+const parseQueryString = () => {
+  const data = m.parseQueryString(window.location.search);
+  range = +data.range || 0;
+  search = data.search || "";
+  MAX = data.max || MAX;
+  byAuthor = data.byAuthor || [];
+  console.log(data);
+};
+
+parseQueryString();
+
+const buildQueryString = () => {
+  const query = m.buildQueryString({
+    range,
+    search,
+    max: MAX,
+    byAuthor,
+  });
+
+  const newurl =
+    window.location.protocol +
+    "//" +
+    window.location.host +
+    window.location.pathname +
+    "?" +
+    query;
+  window.history.pushState({ path: newurl }, "", newurl);
+};
+
 console.log(
   Object.keys(
     tickers
@@ -37,11 +66,15 @@ const createFuse = () => {
       shouldSort: true,
       keys: ["content"],
     };
-    return new Fuse(tickers, options);
+    const ff = new Fuse(tickers, options);
+    return {
+      search: (str) => buildQueryString() || ff.search(str),
+    };
   } else {
     const haystack = tickers.map((t) => t.content).map((t) => t.toLowerCase());
     return {
       search: (needle) =>
+        buildQueryString() ||
         use(needle.toLowerCase(), (n) =>
           haystack
             .map((c, i) =>
@@ -97,6 +130,7 @@ m.mount(document.body, {
           div.row(
             div["col-md-6 col-sm-12"](
               input({
+                value: search,
                 width: "100%",
                 placeHolder: "Suchbegriff eingeben",
                 oninput: (e) => {
