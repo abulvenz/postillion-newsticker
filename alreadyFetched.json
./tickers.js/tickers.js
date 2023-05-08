@@ -100033,5 +100033,61 @@ export const tickers =
    "stp",
    "tom"
   ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1946.html",
+  "num": "1946",
+  "content": "War noch grün hinter den Ohren: Hulk-Darsteller unzufrieden mit junger Abschminkerin",
+  "creators": [
+   "sch"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1946.html",
+  "num": "1946",
+  "content": "Hod koa Tür: Bayerischer Modedesigner entwirft merkwürdiges Haus",
+  "creators": [
+   "lmw"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1946.html",
+  "num": "1946",
+  "content": "Rotschwänzchen: Vogel pickt Mann in die Genitalien",
+  "creators": [
+   "hso"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1946.html",
+  "num": "1946",
+  "content": "Auswärtiger Samt: Baerbock trägt Abendkleid aus China",
+  "creators": [
+   "wye"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1946.html",
+  "num": "1946",
+  "content": "Mac laut: Highlander reklamiert lärmenden Apple-Computer",
+  "creators": [
+   "tky"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1946.html",
+  "num": "1946",
+  "content": "Bademeister in Spree: Junger Berliner hat die praktische Prüfung so gut wie bestanden",
+  "creators": [
+   "evw"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1946.html",
+  "num": "1946",
+  "content": "Muss zeigen, aus welchem Holz er geschnitzt ist: Marterpfahl-Verkäufer hat erstes Kundengespräch",
+  "creators": [
+   "marc"
+  ]
  }
 ]
