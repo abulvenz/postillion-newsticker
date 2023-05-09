@@ -44,8 +44,8 @@ const reg_sub_url_number =
 
 const reg_next_overview_link = /data-load=\'([^\'].*)/gm;
 
-const reg_newsticker = /<p>\+\+\+ (.*) \+\+\+<\/p>/gm;
-const reg_newsticker_plain = /\+\+\+ (.*) \+\+\+<br \/>/gm;
+const reg_newsticker = /<p>\+\+\+ ?(.*) ?\+\+\+[^<]?<\/p>/gm;
+const reg_newsticker_plain = /[\+]+\+\+ (.*) \+\+[\+]+[^<]?<br \/>/gm;
 
 const urlsToFetch = [
   "https://www.der-postillon.com/2020/09/newsticker-1544.html",
