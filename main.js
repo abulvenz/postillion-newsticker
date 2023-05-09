@@ -5,9 +5,25 @@ import { tickers } from "./tickers";
 import Fuse from "fuse.js";
 import posthorn from "./posthorn";
 const { min } = Math;
+const { keys } = Object;
 const { header, h1, h2, div, a, input, small, footer, p, span, hr, br } =
   tagl(m);
 const use = (v, f) => f(v);
+
+console.log(tickers.length);
+
+const intermediate = tickers.reduce((acc, v) => {
+  acc[v.content.trim()] = v;
+  return acc;
+}, {});
+
+tickers.splice(0, tickers.length);
+
+keys(intermediate)
+  .map((e) => intermediate[e])
+  .forEach((p) => tickers.push(p));
+
+console.log(tickers.length);
 
 tickers.sort((a, b) => -+a.num + +b.num);
 
