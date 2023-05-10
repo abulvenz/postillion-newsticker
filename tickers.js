@@ -132300,5 +132300,62 @@ export const tickers =
   "creators": [
    "ssi"
   ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1947.html",
+  "num": "1947",
+  "content": "Haltbare Vollmilch: Tetra Pak bekommt Henkel ",
+  "creators": [
+   "hso"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1947.html",
+  "num": "1947",
+  "content": "Steht am Varta-Pfahl: Duracell-Hase von Konkurrenz gekidnappt ",
+  "creators": [
+   "cbe"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1947.html",
+  "num": "1947",
+  "content": "Ich gehstehe: Mann gibt zu, gleichzeitig gehen und stehen zu können ",
+  "creators": [
+   "oga"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1947.html",
+  "num": "1947",
+  "content": "Hält er's kälter?: Paul McCartney besingt neuen Thermosbecher ",
+  "creators": [
+   "wye",
+   "p2k"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1947.html",
+  "num": "1947",
+  "content": "Muss erst eichecken: Mann in Hotellobby greift sich prüfend in Schritt ",
+  "creators": [
+   "adm"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1947.html",
+  "num": "1947",
+  "content": "H-Spalterei: Genau genommen lassen sich bei Wasserstoff nur Isotope teilen ",
+  "creators": [
+   "tky"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1947.html",
+  "num": "1947",
+  "content": "Bekommt den Mund nicht mehr zu: Mann staunt, dass Kieferorthopäde trotz Behandlungsfehlern weiter praktizieren darf ",
+  "creators": [
+   "sch"
+  ]
  }
 ]
