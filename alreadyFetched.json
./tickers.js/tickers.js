@@ -123549,14 +123549,6 @@ export const tickers =
   ]
  },
  {
-  "url": "https://www.der-postillon.com/2019/07/newsticker-1366.html",
-  "num": "1366",
-  "content": "Malb��ro angezündet: Terrorist raucht nach Anschlag auf Comicverlag erstmal eine Zigarette",
-  "creators": [
-   "loc"
-  ]
- },
- {
   "url": "https://www.der-postillon.com/2019/06/newsticker-1359.html",
   "num": "1359",
   "content": "Creme frech: Sauerrahmprodukt ärgert Koch",
@@ -123602,14 +123594,6 @@ export const tickers =
   "content": "Arbeitet an seinem Sikhspeck: Inder will Frauen mit Bierbauch beeindrucken",
   "creators": [
    "tei"
-  ]
- },
- {
-  "url": "https://www.der-postillon.com/2019/03/newsticker-1325.html",
-  "num": "1325",
-  "content": "Da hat er sich aber geschnitten: LKW-Fahrer dachte, sein eigener Anh��nger könnte ihn in Kurve nicht überholen",
-  "creators": [
-   "frcx"
   ]
  },
  {
@@ -123886,14 +123870,6 @@ export const tickers =
   "content": "Hodenlose Frechheit: Eunuch steht auf Frauenparkplatz",
   "creators": [
    "ca8"
-  ]
- },
- {
-  "url": "https://www.der-postillon.com/2017/05/newsticker-1046.html",
-  "num": "1046",
-  "content": "Zu Tode ber��bt: Depressiver Mann von Lkw-Ladung Rote Bete erschlagen",
-  "creators": [
-   "sul"
   ]
  },
  {
@@ -125171,14 +125147,6 @@ export const tickers =
   ]
  },
  {
-  "url": "https://www.der-postillon.com/2015/05/newsticker-751.html",
-  "num": "751",
-  "content": "Geld als Motiv: Grafiker f��lscht Banknoten",
-  "creators": [
-   "omm"
-  ]
- },
- {
   "url": "https://www.der-postillon.com/2015/04/newsticker-743.html",
   "num": "743",
   "content": "War einer der Iren: Rothaariger bleibt am Dubliner Zoll unkontrolliert",
@@ -125221,14 +125189,6 @@ export const tickers =
   ]
  },
  {
-  "url": "https://www.der-postillon.com/2015/01/newsticker-701.html",
-  "num": "701",
-  "content": "Unter Kiefer gebrochen: Betrunkener von Förster verpr��gelt",
-  "creators": [
-   "ave"
-  ]
- },
- {
   "url": "https://www.der-postillon.com/2014/12/newsticker-696-christmas-edition.html",
   "num": "696",
   "content": "Hohlkörper: Hund apportiert Schokoladenweihnachtsmann",
@@ -125237,27 +125197,11 @@ export const tickers =
   ]
  },
  {
-  "url": "https://www.der-postillon.com/2014/12/newsticker-694.html",
-  "num": "694",
-  "content": "Nicht sauber ��ber die Bühne gegangen: Ungepflegter Schauspieler ruiniert Premiere",
-  "creators": [
-   "rag"
-  ]
- },
- {
   "url": "https://www.der-postillon.com/2014/12/newsticker-691.html",
   "num": "691",
   "content": "Die tickt wohl nicht richtig: Frau schraubt einfach an scharfer Zeitbombe rum",
   "creators": [
    "evw"
-  ]
- },
- {
-  "url": "https://www.der-postillon.com/2014/12/newsticker-691.html",
-  "num": "691",
-  "content": "Soll mehr hinten rumspielen: Fu��ballprofi beherzigt Tipp von Ehefrau",
-  "creators": [
-   "rag"
   ]
  },
  {
@@ -125525,14 +125469,6 @@ export const tickers =
  {
   "url": "https://www.der-postillon.com/2013/04/newsticker-449.html",
   "num": "449",
-  "content": "Beschützerinstinkt: Leibw��chterin wehrt Buttersäureangriff ab",
-  "creators": [
-   "hel"
-  ]
- },
- {
-  "url": "https://www.der-postillon.com/2013/04/newsticker-449.html",
-  "num": "449",
   "content": "Da bleibt kein Auge trocken: Taucher finden Grund zum Lachen",
   "creators": [
    "rk"
@@ -125558,14 +125494,6 @@ export const tickers =
   "url": "https://www.der-postillon.com/2013/03/newsticker-438.html",
   "num": "438",
   "content": "Wal war gefälscht: Betrugsvorwürfe gegen neuen Greenpeace-Vorsitzenden",
-  "creators": [
-   "marc"
-  ]
- },
- {
-  "url": "https://www.der-postillon.com/2013/03/newsticker-429.html",
-  "num": "429",
-  "content": "Grottenkick: Fußballspiel in Tropfsteinh��hle endet 0:0",
   "creators": [
    "marc"
   ]
@@ -128413,14 +128341,6 @@ export const tickers =
   "url": "https://www.der-postillon.com/2010/12/newsticker-129.html",
   "num": "129",
   "content": "Taubenschlag: Züchter tot ",
-  "creators": [
-   "ssi"
-  ]
- },
- {
-  "url": "https://www.der-postillon.com/2010/12/newsticker-129.html",
-  "num": "129",
-  "content": "Bereit für Abschlussprüfung: Diamantenh��ndlerazubi kann Karate ",
   "creators": [
    "ssi"
   ]
