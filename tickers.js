@@ -132357,5 +132357,61 @@ export const tickers =
   "creators": [
    "sch"
   ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1948.html",
+  "num": "1948",
+  "content": "Haben sich auseinandergeklebt: Tapezierer trennt sich von Klimaaktivistin ",
+  "creators": [
+   "kgk"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1948.html",
+  "num": "1948",
+  "content": "Wundert Hasser: Viele mögen Hundertwasser ",
+  "creators": [
+   "jam"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1948.html",
+  "num": "1948",
+  "content": "Rüsselsheim: Hessischer Zoo baut neues Elefantenhaus ",
+  "creators": [
+   "sum"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1948.html",
+  "num": "1948",
+  "content": "\"Jag' Ute!\": Beckenbauer fordert zu Verfolgung von Lemper auf ",
+  "creators": [
+   "s0l"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1948.html",
+  "num": "1948",
+  "content": "Hat sich verdrückt: Biden nach Verwendung von rotem Knopf verschwunden ",
+  "creators": [
+   "mta"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1948.html",
+  "num": "1948",
+  "content": "Pfarrerflucht: Schimpfender Geistlicher entfernt sich unerlaubt vom Unfallort ",
+  "creators": [
+   "evw"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1948.html",
+  "num": "1948",
+  "content": "Soll den Tattergang beschreiben: Zeuge nach Fortbewegungsart von räuberischem Rentner gefragt ",
+  "creators": [
+   "wye"
+  ]
  }
 ]
