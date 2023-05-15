@@ -132413,5 +132413,61 @@ export const tickers =
   "creators": [
    "wye"
   ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1949.html",
+  "num": "1949",
+  "content": "Verlegen: Schüchterner Handwerker weiß nicht, was er mit den Fliesen machen soll ",
+  "creators": [
+   "mun"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1949.html",
+  "num": "1949",
+  "content": "Zaum-Reit-Kontinuum: Physiker bleibt durchgängig auf Pferd sitzen ",
+  "creators": [
+   "wye"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1949.html",
+  "num": "1949",
+  "content": "Waldarm: Mangels Vegetation verwerten Grönländer alle Beluga-Innereien ",
+  "creators": [
+   "tky"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1949.html",
+  "num": "1949",
+  "content": "Kann ihm gestohlen bleiben: Mann will gekidnappte Gattin nicht zurück ",
+  "creators": [
+   "sum"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1949.html",
+  "num": "1949",
+  "content": "Gurt ungünstig: Edeka verkauft Klettersteigset für 899 Euro ",
+  "creators": [
+   "tei"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1949.html",
+  "num": "1949",
+  "content": "Mit Bommes: Tietjen lädt Kollegen zur Currywurst ein ",
+  "creators": [
+   "cbe"
+  ]
+ },
+ {
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1949.html",
+  "num": "1949",
+  "content": "Wer austeilt, muss auch einstecken können: Blackjackdealer entgegnet Jetondiebstahlvorwürfen ",
+  "creators": [
+   "wrb"
+  ]
  }
 ]
