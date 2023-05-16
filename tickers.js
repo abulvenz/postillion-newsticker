@@ -1,35 +1,59 @@
 export const tickers = 
 [
  {
-  "content": "Erstaunlich: Jodler sind besser als ihr Ruf",
-  "url": "https://www.der-postillon.com/2009/03/newsticker-5.html",
+  "content": "Plant einen Brückentag: Obdachloser verreist nicht übers verlängerte Wochenende",
+  "url": "https://www.der-postillon.com/2017/10/newsticker-1105.html",
   "creators": [
-   "ssi"
+   "rav"
   ],
-  "num": "5"
+  "num": "1105"
  },
  {
-  "content": "Leichtgläubig: Naive Menschen sind schwindelerregend",
-  "url": "https://www.der-postillon.com/2009/03/newsticker-5.html",
+  "content": "Schon wieder zu: Alkoholiker öffnet seinen Laden nicht",
+  "url": "https://www.der-postillon.com/2017/10/newsticker-1105.html",
   "creators": [
-   "ssi"
+   "rag"
   ],
-  "num": "5"
+  "num": "1105"
  },
  {
-  "content": "Vorsichtig: Besorgte Eltern lassen Arsen aus dem Periodensystem entfernen",
-  "url": "https://www.der-postillon.com/2009/03/newsticker-5.html",
+  "content": "Mit Filter: Ohne viel Teer",
+  "url": "https://www.der-postillon.com/2017/10/newsticker-1105.html",
   "creators": [
-   "ssi"
+   "hpa"
   ],
-  "num": "5"
+  "num": "1105"
  },
  {
-  "content": "Clever: Papst rehabilitiert Benedikt XVI.",
-  "url": "https://www.der-postillon.com/2009/03/newsticker-5.html",
+  "content": "Auf ein Tätärätät: Verliebte Blasmusiker verabreden sich",
+  "url": "https://www.der-postillon.com/2017/10/newsticker-1105.html",
   "creators": [
-   "ssi"
+   "sod"
   ],
-  "num": "5"
+  "num": "1105"
+ },
+ {
+  "content": "Film gedreht: Publikum steht Kopf",
+  "url": "https://www.der-postillon.com/2017/10/newsticker-1105.html",
+  "creators": [
+   "huh"
+  ],
+  "num": "1105"
+ },
+ {
+  "content": "Schleck am Eulchen: Sodomist auf Uhus spezialisiert",
+  "url": "https://www.der-postillon.com/2017/10/newsticker-1105.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "1105"
+ },
+ {
+  "content": "Hat keinen blassen Schwimmer: Bademeister weiß nicht, warum alle Hallenbad-Besucher so gut gebräunt sind",
+  "url": "https://www.der-postillon.com/2017/10/newsticker-1105.html",
+  "creators": [
+   "fun"
+  ],
+  "num": "1105"
  }
 ]
