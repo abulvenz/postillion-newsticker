@@ -118,9 +118,9 @@ const updateAuthors = () => {
 };
 
 let fuse = createFuse();
-
 let selection = tickers;
 selection = fuse.search(search);
+updateAuthors();
 
 m.mount(document.body, {
   view: (vnode) => [
