@@ -159,7 +159,7 @@ m.mount(document.body, {
             ),
             div["col-md-2 col-sm-12"](
               byAuthor.map((author, idx) => [
-                a(
+                a.tag(
                   {
                     onclick: () => {
                       byAuthor.splice(byAuthor.indexOf(author), 1);
