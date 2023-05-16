@@ -16,6 +16,8 @@ const scheduledURLs = [
   // "https://www.der-postillon.com/2010/02/vancouver-2010-der-olympia-newsticker.html",
 ];
 
+const startURL = "https://www.der-postillon.com/search/label/Newsticker";
+
 const browser = await puppeteer.launch({
   headless: displayBrowser ? false : "new",
 });
@@ -44,11 +46,11 @@ if (clearEverything) {
 const currentContents = tickers.map((t) => t.content);
 
 const findOlderPageLink = async () =>
-  await page.evaluate(() => {
-    const a = document.querySelector("a.blog-pager-older-link");
-    if (a !== null) return a.attributes["data-load"].nodeValue;
-    return undefined;
-  });
+  await page.evaluate(
+    () =>
+      document.querySelector("a.blog-pager-older-link")?.attributes["data-load"]
+        .nodeValue
+  );
 
 const fetchTickerArticleLinks = async () =>
   await page.evaluate(() => {
@@ -86,7 +88,7 @@ const mainLoop = async () => {
   // 5. if not present start loading and processing scheduled pages
   let count = 0;
 
-  let url = "https://www.der-postillon.com/search/label/Newsticker";
+  let url = startURL;
 
   const noTest = scheduledURLs.length === 0;
 
@@ -95,6 +97,7 @@ const mainLoop = async () => {
       if (alreadyFetched.indexOf(url) < 0) {
         console.log("Visiting ", url);
         await page.goto(url);
+        if (url !== startURL) alreadyFetched.push(url);
 
         (await fetchTickerArticleLinks()).forEach((url) =>
           scheduledURLs.push(url)
@@ -121,7 +124,10 @@ const mainLoop = async () => {
       const spans = document.querySelectorAll("#post-body span");
       let str = "";
       spans.forEach((span) =>
-        span.innerText.indexOf(",") >= 0 ? (str = span.innerText) : null
+        span.innerText.indexOf(",") >= 0 &&
+        span.innerText.split(",").length === currentTickers.length
+          ? (str = span.innerText)
+          : null
       );
       return str; //:nth-child(10)
     });
