@@ -1,178 +1,156 @@
-import http from "https";
+import puppeteer from "puppeteer";
 import regex from "./regex.mjs";
 import fs, { readFileSync } from "fs";
 
-const mainPageURL = `https://www.der-postillon.com/search/label/Newsticker`;
-
-const alreadyFetched = JSON.parse(readFileSync("./alreadyFetched.json"));
-
-const fetchAsString = (url, cb, errCallback) => {
-  if (url !== mainPageURL) {
-    if (alreadyFetched.indexOf(url) >= 0) {
-      console.log("Page already fetched", url);
-      return;
-    }
-  }
-
-  http.get(url, (res) => {
-    let rawData = "";
-
-    res.on("data", (chunk) => {
-      rawData += chunk;
-    });
-
-    res.on("end", () => {
-      alreadyFetched.push(url);
-      cb(rawData);
-    });
-
-    res.on("error", errCallback);
-  });
-};
-
-const reg_who_is_who =
-  /<span style="font-size: x-small;"[\n]*>(.*)<[\n]*\/span[\n]*>/gm;
-
-const reg_sub_url =
-  /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/(news|musk|weihnachts-news)ticker-[0-9]+[\-a-z0-9A-Z_]*.html)/gm;
-
-//const reg_sub_url =
-//  /(https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/newsticker-[0-9]+\.html)/gm;
-
-const reg_sub_url_number =
-  /https:\/\/www.der-postillon.com\/[0-9]+\/[0-9]+\/(news|musk)ticker-([0-9]+)[_\-a-z0-9]*.html/gm;
-
-const reg_next_overview_link = /data-load=\'([^\'].*)/gm;
-
-const reg_newsticker = /<p>\+\+\+ ?(.*) ?\+\+\+[^<]?<\/p>/gm;
-const reg_newsticker_plain = /[\+]+\+\+ (.*) \+\+[\+]+[^<]?<br \/>/gm;
-
-const urlsToFetch = [
-  "https://www.der-postillon.com/2020/09/newsticker-1544.html",
-  "https://www.der-postillon.com/2020/03/newsticker-1470.html",
-  "https://www.der-postillon.com/2018/04/newsticker-1187.html",
-  "https://www.der-postillon.com/2017/09/newsitcker-1104.html",
-  "https://www.der-postillon.com/2017/09/newsticker-1096.html",
-  "https://www.der-postillon.com/2012/07/newsticker-341.html",
-  "https://www.der-postillon.com/2012/07/newsticker-337.html",
-  "https://www.der-postillon.com/2012/06/newsticker-323.html",
-  "https://www.der-postillon.com/2012/05/newsticker-313.html",
-  "https://www.der-postillon.com/2011/11/newticker-242.html",
-  "https://www.der-postillon.com/2010/09/newsticker-100-das-jubilaum.html",
-  "https://www.der-postillon.com/2010/01/berufsrisiko-newsticker-45.html",
-  "https://www.der-postillon.com/2009/12/weihnachts-newsticker-39.html",
-  "https://www.der-postillon.com/2009/02/newstickernewstickernewsti.html",
+const clearEverything = true;
+const displayBrowser = false;
+const scheduledURLs = [
+  // Uncomment one or more to test
+  // "https://www.der-postillon.com/2012/03/newsticker-286.html",
+  // "https://www.der-postillon.com/2009/03/newsticker-5.html",
+  // "https://www.der-postillon.com/2010/05/newsticker-71_27.html",
+  // "https://www.der-postillon.com/2022/04/muskticker-1.html",
+  // "https://www.der-postillon.com/2023/05/newsticker-1947.html",
+  // "https://www.der-postillon.com/2010/09/newsticker-100-das-jubilaum.html",
+  // "https://www.der-postillon.com/2021/07/newsticker-1677.html",
 ];
 
-let done = false;
+const browser = await puppeteer.launch({
+  headless: displayBrowser ? false : "new",
+});
+const page = await browser.newPage();
 
-const resultingTickers = JSON.parse(
+/**
+ * Load existing tickers and already fetched URLs
+ */
+const alreadyFetched = JSON.parse(readFileSync("./alreadyFetched.json"));
+
+const tickers = JSON.parse(
   (fs.readFileSync("./tickers.js") + "").replace("export const tickers =", "")
 );
 
-const add = (url, num, content, creatorNames = []) => {
-  if (resultingTickers.filter((e) => e.content === content).length === 0)
-    resultingTickers.push({ url, num, content, creators: creatorNames });
+if (clearEverything) {
+  tickers.splice(0, tickers.length);
+  alreadyFetched.splice(0, alreadyFetched.length);
+}
+
+const currentContents = tickers.map((t) => t.content);
+
+const findOlderPageLink = async () =>
+  await page.evaluate(() => {
+    const a = document.querySelector("a.blog-pager-older-link");
+    if (a !== null) return a.attributes["data-load"].nodeValue;
+    return undefined;
+  });
+
+const fetchTickerArticleLinks = async () =>
+  await page.evaluate(() => {
+    const titles = document.querySelectorAll("h2.entry-title > a");
+    const result = [];
+    titles.forEach((title) => result.push(title.href));
+    return result;
+  });
+
+const fetchTickers = async () => {
+  return await page.evaluate(() => {
+    const innerTickers = [];
+    document.querySelectorAll("div.post-body > p").forEach((p) => {
+      innerTickers.push("TICKER 1: " + p.innerText);
+    });
+    if (innerTickers.length === 0) {
+      const text = document.querySelector("div.post-body").innerText;
+      text
+        .split("\n")
+        .forEach((ticker) => innerTickers.push("TICKER 2: " + ticker));
+    }
+    return innerTickers;
+  });
 };
 
-const taggs = /<[^>]*>/gim;
-const sanitize = (e = "") => console.log(e) || e.replaceAll(taggs, "");
+const reg_newsticker_plain = /[\+]+\+\+(.*)\+\+[\+]+/gm;
+const reg_number_from_url =
+  /https:\/\/www\.der-postillon\.com\/[0-9]{4}\/[0-9]{2}\/[^0-9]*([0-9]*)[_0-9a-z-]*\.html/gm;
 
-const countNeedles = (haystack = "", needle) =>
-  haystack.split("").filter((e) => e === needle).length;
+const mainLoop = async () => {
+  // 1. url = startURL
+  // 2. goto url;
+  // 3. fetch URLs and add them to scheduled
+  // 4. if present load next page i.e. goto 2
+  // 5. if not present start loading and processing scheduled pages
+  let count = 0;
 
-const timer = setInterval(() => {
-  if (urlsToFetch.length > 0) {
-    const nextPageURL = urlsToFetch.shift();
+  let url = "https://www.der-postillon.com/search/label/Newsticker";
 
-    console.error("FETCHING ", nextPageURL);
-    let num = 0;
-    regex(
-      nextPageURL,
-      reg_sub_url_number,
-      (m) => (num = m[0] === "musk" ? "musk" + m[1] : m[1])
-    );
+  const noTest = scheduledURLs.length === 0;
 
-    fetchAsString(
-      nextPageURL,
-      (pageString) => {
-        let creatorNames = "";
+  if (noTest)
+    while (url !== undefined) {
+      if (alreadyFetched.indexOf(url) < 0) {
+        console.log("Visiting ", url);
+        await page.goto(url);
 
-        regex(pageString, reg_who_is_who, (creators) => {
-          console.error(creators);
-          if (countNeedles(creators[0], ",") >= 3) creatorNames = creators[0];
-        });
-        console.log("CREATOR NAMES", creatorNames);
-
-        creatorNames = sanitize(creatorNames);
-        creatorNames = creatorNames.split(",").map((e) => e.trim());
-
-        regex(pageString, reg_newsticker, (newsTicker, idx) =>
-          add(
-            nextPageURL,
-            num,
-            newsTicker[0],
-            creatorNames[idx] && creatorNames[idx].split("/")
-          )
+        (await fetchTickerArticleLinks()).forEach((url) =>
+          scheduledURLs.push(url)
         );
-        regex(pageString, reg_newsticker_plain, (newsTicker, idx) =>
-          add(
-            nextPageURL,
-            num,
-            newsTicker[0],
-            creatorNames[idx] && creatorNames[idx].split("/")
-          )
-        );
-      },
-      console.error
-    );
-  } else {
-    if (done) {
-      clearInterval(timer);
-      fs.writeFileSync(
-        "tickers.js",
-        "export const tickers = \n" + JSON.stringify(resultingTickers, null, 1)
-      );
-      fs.writeFileSync(
-        "alreadyFetched.json",
-        JSON.stringify(alreadyFetched, null, 1)
-      );
-    }
-  }
-  console.error("Pages to retrieve", urlsToFetch.length, done);
-}, 500);
-
-let count = 0;
-
-const getMainPage = (
-  url = `https://www.der-postillon.com/search/label/Newsticker`
-) =>
-  fetchAsString(
-    url,
-    (res) => {
-      let newUrl = "";
-      console.error("Running regex");
-      regex(res, reg_sub_url, (m) => {
-        if (urlsToFetch.indexOf(m[0]) < 0) urlsToFetch.push(m[0]);
-      });
-      regex(res, reg_next_overview_link, (m) => (newUrl = m[0]));
-      // console.log(res);
-      console.error("Found so far", urlsToFetch.length, " URLS");
-      console.error("FETCHING", newUrl);
-      if (
-        newUrl.length > 0 &&
-        count++ < 20000 &&
-        alreadyFetched.indexOf(newUrl) < 0
-      ) {
-        setTimeout(() => getMainPage(newUrl), 200);
+        url = await findOlderPageLink(count++);
       } else {
-        done = true;
+        url = undefined;
       }
-    },
-    (err) => {
-      console.error(err);
-      console.log("It seems there are no more overview pages to fetch.");
     }
-  );
 
-getMainPage();
+  for (url of scheduledURLs) {
+    if (alreadyFetched.indexOf(url) >= 0) continue;
+    alreadyFetched.push(url);
+    console.log("Calling ", url);
+    const currentTickers = [];
+    await page.goto(url);
+    (await fetchTickers()).forEach((ticker) => {
+      regex(ticker.trim(), reg_newsticker_plain, (text) => {
+        currentTickers.push({ content: text[0].trim(), url });
+      });
+    });
+    const authors = await page.evaluate(() => {
+      return document.querySelector("#post-body > span").innerText; //:nth-child(10)
+    });
+    authors
+      .split(",")
+      .map((e) => e.trim())
+      .forEach((author, idx) =>
+        currentTickers[idx]
+          ? (currentTickers[idx].creators = author.split("/"))
+          : console.log(currentTickers.length, authors.split(",").length)
+      );
+
+    regex(url, reg_number_from_url, (num) =>
+      currentTickers.forEach((t) => (t.num = num[0]))
+    );
+
+    if (authors.split(",").length !== currentTickers.length) {
+      console.log("Error extracting authors " + url);
+    }
+
+    /**
+     * For the tickers that have been
+     * extracted check if they already exist, otherwise add them to the results.
+     */
+    currentTickers
+      .filter((e) => currentContents.indexOf(e.content) < 0)
+      .forEach((ct) => tickers.push(ct));
+  }
+
+  console.log("Result", tickers);
+};
+
+await mainLoop();
+
+fs.writeFileSync(
+  "tickers.js",
+  "export const tickers = \n" + JSON.stringify(tickers, null, 1)
+);
+
+fs.writeFileSync(
+  "alreadyFetched.json",
+  JSON.stringify(alreadyFetched, null, 1)
+);
+
+browser.close();

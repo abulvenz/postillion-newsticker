@@ -2,8 +2,8 @@
   "name": "postillion-newsticker",
   "version": "1.0.0",
   "description": "Extraction of very important lines of poetry.",
-    "scripts": {
-	"start":"parcel index.html",
+  "scripts": {
+    "start": "parcel index.html",
     "build": "node index.mjs && rm -rf ./docs/ && parcel build --dist-dir=docs --public-url=https://abulvenz.github.io/postillion-newsticker/ index.html ",
     "dev": "nodemon index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,6 +27,7 @@
     "fuse.js": "^6.6.2",
     "mini.css": "^3.0.1",
     "mithril": "^2.2.2",
+    "puppeteer": "^20.2.1",
     "request": "^2.88.2",
     "tagl-mithril": "^1.2.2"
   }
