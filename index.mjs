@@ -2,7 +2,7 @@ import puppeteer from "puppeteer";
 import regex from "./regex.mjs";
 import fs, { readFileSync } from "fs";
 
-const clearEverything = true;
+const clearEverything = false;
 const displayBrowser = false;
 const scheduledURLs = [
   // Uncomment one or more to test
