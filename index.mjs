@@ -21,6 +21,12 @@ const browser = await puppeteer.launch({
 });
 const page = await browser.newPage();
 
+await page.setRequestInterception(true);
+page.on("request", (request) => {
+  if (request.resourceType() === "image") request.abort();
+  else request.continue();
+});
+
 /**
  * Load existing tickers and already fetched URLs
  */
