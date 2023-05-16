@@ -13,8 +13,7 @@ const scheduledURLs = [
   // "https://www.der-postillon.com/2023/05/newsticker-1947.html",
   // "https://www.der-postillon.com/2010/09/newsticker-100-das-jubilaum.html",
   // "https://www.der-postillon.com/2021/07/newsticker-1677.html",
-  // "https://www.der-postillon.com/2017/10/newsticker-1105.html",
-  // "https://www.der-postillon.com/2017/01/newsticker-998.html",
+  // "https://www.der-postillon.com/2010/02/vancouver-2010-der-olympia-newsticker.html",
 ];
 
 const browser = await puppeteer.launch({
@@ -113,7 +112,12 @@ const mainLoop = async () => {
       });
     });
     const authors = await page.evaluate(() => {
-      return document.querySelector("#post-body > span").innerText; //:nth-child(10)
+      const spans = document.querySelectorAll("#post-body span");
+      let str = "";
+      spans.forEach((span) =>
+        span.innerText.indexOf(",") >= 0 ? (str = span.innerText) : null
+      );
+      return str; //:nth-child(10)
     });
     authors
       .split(",")
