@@ -62,17 +62,17 @@ const buildQueryString = () => {
   window.history.pushState({ path: newurl }, "", newurl);
 };
 
-console.log(
-  Object.keys(
-    tickers
-      .flatMap((ticker) => ticker.creators)
-      .map((name) => name.replaceAll("&nbsp;", "").trim())
-      .reduce((acc, v) => {
-        acc[v] = 1;
-        return acc;
-      }, {})
-  )
-);
+// console.log(
+//   Object.keys(
+//     tickers
+//       .flatMap((ticker) => ticker.creators)
+//       .map((name) => name.replaceAll("&nbsp;", "").trim())
+//       .reduce((acc, v) => {
+//         acc[v] = 1;
+//         return acc;
+//       }, {})
+//   )
+// );
 
 const createFuse = () => {
   if (range > 0) {
@@ -111,7 +111,7 @@ const updateAuthors = () => {
     console.log(selection);
     selection = selection.filter(
       (ticker) =>
-        ticker.item.creators !== "" &&
+        ticker.item.creators &&
         ticker.item.creators.some((creator) => byAuthor.indexOf(creator) >= 0)
     );
   }
@@ -222,7 +222,7 @@ m.mount(document.body, {
               "+++ ",
               m.trust(ticker.content),
               " +++ ",
-              ticker.creators !== ""
+              ticker.creators
                 ? ticker.creators.map((creator, index) =>
                     span([
                       a(
@@ -239,7 +239,7 @@ m.mount(document.body, {
                     ])
                   )
                 : "[Fehler bei Autorenbestimmung] ",
-              a({ href: ticker.url }, ticker.num)
+              a({ href: ticker.url }, ticker.num || "Keine Nummer")
             )
           ),
         hr(),
