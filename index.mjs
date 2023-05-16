@@ -7,7 +7,7 @@ const displayBrowser = false;
 const scheduledURLs = [
   // Uncomment one or more to test
   // "https://www.der-postillon.com/2012/03/newsticker-286.html",
-  // "https://www.der-postillon.com/2009/03/newsticker-5.html",
+  "https://www.der-postillon.com/2009/03/newsticker-5.html",
   // "https://www.der-postillon.com/2010/05/newsticker-71_27.html",
   // "https://www.der-postillon.com/2022/04/muskticker-1.html",
   // "https://www.der-postillon.com/2023/05/newsticker-1947.html",
