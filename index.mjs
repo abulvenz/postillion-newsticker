@@ -4,8 +4,10 @@ import fs, { readFileSync } from "fs";
 
 const clearEverything = false;
 const displayBrowser = false;
+
 const scheduledURLs = [
   // Uncomment one or more to test
+  // "https://www.der-postillon.com/2023/05/newsticker-1949.html",
   // "https://www.der-postillon.com/2012/03/newsticker-286.html",
   // "https://www.der-postillon.com/2009/03/newsticker-5.html",
   // "https://www.der-postillon.com/2010/05/newsticker-71_27.html",
@@ -61,7 +63,7 @@ const fetchTickerArticleLinks = async () =>
   });
 
 const fetchTickers = async () => {
-  return await page.evaluate(() => {
+  return page.evaluate(() => {
     const innerTickers = [];
     document.querySelectorAll("div.post-body > p").forEach((p) => {
       innerTickers.push("TICKER 1: " + p.innerText);
@@ -124,10 +126,7 @@ const mainLoop = async () => {
       const spans = document.querySelectorAll("#post-body span");
       let str = "";
       spans.forEach((span) =>
-        span.innerText.indexOf(",") >= 0 &&
-        span.innerText.split(",").length === currentTickers.length
-          ? (str = span.innerText)
-          : null
+        span.style["font-size"] === "x-small" ? (str = span.innerText) : null
       );
       return str; //:nth-child(10)
     });
