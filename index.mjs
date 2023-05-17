@@ -84,6 +84,8 @@ const fetchTickers = async () => {
   });
 };
 
+const problematicTickers = [];
+
 const reg_newsticker_plain = /[\+]+\+\+(.*)[\+]+\+\+/gm;
 const reg_number_from_url =
   /https:\/\/www\.der-postillon\.com\/[0-9]{4}\/[0-9]{2}\/[^0-9]*([0-9]*)[_0-9a-z-]*\.html/gm;
@@ -149,8 +151,9 @@ const mainLoop = async () => {
       currentTickers.forEach((t) => (t.num = num[0]))
     );
 
-    if (authors.split(",").length !== currentTickers.length) {
+    if (authors.split(",").length !== currentTickers.length || 1) {
       console.log("Error extracting authors " + url);
+      problematicTickers.push("Error extracting authors " + url);
     }
 
     if (currentTickers[0]) {
@@ -179,6 +182,11 @@ fs.writeFileSync(
 fs.writeFileSync(
   "alreadyFetched.json",
   JSON.stringify(alreadyFetched, null, 1)
+);
+
+fs.writeFileSync(
+  "problematicTickers.json",
+  JSON.stringify(problematicTickers, null, 2)
 );
 
 browser.close();
