@@ -2,7 +2,7 @@ import puppeteer from "puppeteer";
 import regex from "./regex.mjs";
 import fs, { readFileSync } from "fs";
 
-const clearEverything = false;
+const clearEverything = true;
 const displayBrowser = false;
 
 const scheduledURLs = [
@@ -71,15 +71,9 @@ const fetchTickerArticleLinks = async () =>
 const fetchTickers = async () => {
   return page.evaluate(() => {
     const innerTickers = [];
-    // document.querySelectorAll("div.post-body > p").forEach((p) => {
-    //   innerTickers.push("TICKER 1: " + p.innerText);
-    // });
-    if (innerTickers.length === 0) {
-      const text = document.querySelector("div.post-body").innerText;
-      text
-        .split("\n")
-        .forEach((ticker) => innerTickers.push("TICKER 2: " + ticker));
-    }
+
+    const text = document.querySelector("div.post-body").innerText;
+    text.split("\n").forEach((ticker) => innerTickers.push(String(ticker)));
     return innerTickers;
   });
 };
