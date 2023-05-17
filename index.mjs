@@ -2,7 +2,7 @@ import puppeteer from "puppeteer";
 import regex from "./regex.mjs";
 import fs, { readFileSync } from "fs";
 
-const clearEverything = false;
+const clearEverything = true;
 const displayBrowser = false;
 
 const scheduledURLs = [
@@ -48,14 +48,20 @@ if (clearEverything) {
 const currentContents = tickers.map((t) => t.content);
 
 const findOlderPageLink = async () =>
-  await page.evaluate(
+  page.evaluate(
     () =>
       document.querySelector("a.blog-pager-older-link")?.attributes["data-load"]
         .nodeValue
   );
 
+const extractImage = async () =>
+  page.evaluate(
+    () =>
+      document.querySelectorAll("head > meta[property='og:image']")[0]?.content
+  );
+
 const fetchTickerArticleLinks = async () =>
-  await page.evaluate(() => {
+  page.evaluate(() => {
     const titles = document.querySelectorAll("h2.entry-title > a");
     const result = [];
     titles.forEach((title) => result.push(title.href));
@@ -65,9 +71,9 @@ const fetchTickerArticleLinks = async () =>
 const fetchTickers = async () => {
   return page.evaluate(() => {
     const innerTickers = [];
-    document.querySelectorAll("div.post-body > p").forEach((p) => {
-      innerTickers.push("TICKER 1: " + p.innerText);
-    });
+    // document.querySelectorAll("div.post-body > p").forEach((p) => {
+    //   innerTickers.push("TICKER 1: " + p.innerText);
+    // });
     if (innerTickers.length === 0) {
       const text = document.querySelector("div.post-body").innerText;
       text
@@ -78,7 +84,7 @@ const fetchTickers = async () => {
   });
 };
 
-const reg_newsticker_plain = /[\+]+\+\+(.*)\+\+[\+]+/gm;
+const reg_newsticker_plain = /[\+]+\+\+(.*)[\+]+\+\+/gm;
 const reg_number_from_url =
   /https:\/\/www\.der-postillon\.com\/[0-9]{4}\/[0-9]{2}\/[^0-9]*([0-9]*)[_0-9a-z-]*\.html/gm;
 
@@ -145,6 +151,10 @@ const mainLoop = async () => {
 
     if (authors.split(",").length !== currentTickers.length) {
       console.log("Error extracting authors " + url);
+    }
+
+    if (currentTickers[0]) {
+      currentTickers[0].image = await extractImage();
     }
 
     /**
