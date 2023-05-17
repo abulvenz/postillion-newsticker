@@ -107701,5 +107701,62 @@ export const tickers =
    "ssi"
   ],
   "num": ""
+ },
+ {
+  "content": "Was für ein Sägen: Gattin von Schnarcher endlich taub",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1950.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1950",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK8GJGDvCGsmrnPIP40SkjA6Q_d5H3c89UWKJZIprZJcpb-4mDxUei9a-3u2Yw5umG4FQA4ZL7Dz-tXYZcARoXz6Br6iBB2xnJoMCW_S3j3EgcAcda-xYsnTenCIKLT-E7u78Am8YbQgalwu6aojDIQ0X1A37oHnLy4fI0AGAWjxJq2I5b5AjYraJQYg/w1600/tickersaegen.jpg"
+ },
+ {
+  "content": "Jamal: Arabische Mutter einverstanden mit künstlerischer Betätigung ihres Sohnes",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1950.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "1950"
+ },
+ {
+  "content": "Pflugunfähig: Pinguine als landwirtschaftliche Zugtiere ungeeignet",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1950.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "1950"
+ },
+ {
+  "content": "An Ohr Hack: Jacke schützte Metzger nicht vollständig vor Fleischwolfexplosion",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1950.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "1950"
+ },
+ {
+  "content": "Heute \"Hü!\", morgen hot: Reiterin verschiebt erneut Schönheits-OP",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1950.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "1950"
+ },
+ {
+  "content": "Bau fällig: Vermieter von Bruchbude bekommt zwei Jahre Haft",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1950.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1950"
+ },
+ {
+  "content": "Taschen sind leer: Teigwarenhersteller kann nur mit drastischen Sparmaßnahmen die Dumplingpreise der Konkurrenz unterbieten",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1950.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1950"
  }
 ]
