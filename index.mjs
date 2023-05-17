@@ -5,6 +5,8 @@ import fs, { readFileSync } from "fs";
 const clearEverything = true;
 const displayBrowser = false;
 
+const maximumNumberOfPages = 1e100;
+
 const scheduledURLs = [
   // Uncomment one or more to test
   // "https://www.der-postillon.com/2023/05/newsticker-1949.html",
@@ -98,7 +100,10 @@ const mainLoop = async () => {
 
   if (noTest)
     while (url !== undefined) {
-      if (alreadyFetched.indexOf(url) < 0) {
+      if (
+        alreadyFetched.indexOf(url) < 0 &&
+        scheduledURLs.length < maximumNumberOfPages
+      ) {
         console.log("Visiting ", url);
         await page.goto(url);
         if (url !== startURL) alreadyFetched.push(url);
@@ -145,7 +150,7 @@ const mainLoop = async () => {
       currentTickers.forEach((t) => (t.num = num[0]))
     );
 
-    if (authors.split(",").length !== currentTickers.length || 1) {
+    if (authors.split(",").length !== currentTickers.length) {
       console.log("Error extracting authors " + url);
       problematicTickers.push("Error extracting authors " + url);
     }
