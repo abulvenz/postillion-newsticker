@@ -109625,5 +109625,63 @@ export const tickers =
    "ssi"
   ],
   "num": ""
+ },
+ {
+  "content": "Verarsce: Handtasche an falschem Labelnamen als Fake erkennbar",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1952.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "1952",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_ixW7qIUu66XgmlwnNpO60ECPSUuoY6cb6gdjbfpx7MeX7Megddjt7ASSE0kR2KdMdLwJho7extmRa4gjqeSeD1XZwuXPzOYZdEVarhvpnpT_GuIUAeIP93GU8hDXgemVANe4e7ElmD6s-hWdnQXXi1MF9hWYh9uwjd4pmeyLv2fhHrqfpl_mwMs0EA/w1600/ticker_Handtasche.jpg"
+ },
+ {
+  "content": "Stock besoffen: Erste Etage in Studentenwohnheim feiert ausgelassen",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1952.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "1952"
+ },
+ {
+  "content": "Kornflakes: Trinker findet clevere Lösung, morgendlichen Alkoholkonsum zu verbergen",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1952.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "1952"
+ },
+ {
+  "content": "Krakkauer: Johannes Paul II. bestellt Oktopus statt Wurst",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1952.html",
+  "creators": [
+   "wso",
+   "mik"
+  ],
+  "num": "1952"
+ },
+ {
+  "content": "Wieder oben auf: Gehirnchirurg genesen",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1952.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "1952"
+ },
+ {
+  "content": "Zusammen geprahlt: Kollision bei Sportwagentreffen",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1952.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1952"
+ },
+ {
+  "content": "Müssen jetzt Fächer zusammenlegen: Lehrermangel zwingt Schulleitungen zur Absetzung von AG \"Japanischer Ausdruckstanz\"",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1952.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1952"
  }
 ]
