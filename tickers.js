@@ -55523,137 +55523,218 @@ export const tickers =
  {
   "content": "Mit Fuchsschwanz abgesägt: Manta-Antenne gestohlen",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "oga"
+  ],
   "num": "1000",
   "image": "https://1.bp.blogspot.com/-3rIoETVLSpY/WHYbzLdB2yI/AAAAAAAAm70/B1ZSZS9qqWIrOg5hlVpCWu33FfD7ZEbngCLcB/w1600/ticker1000.jpg"
  },
  {
   "content": "Dorffelltester: Stammesfürst darf Tierhäute als Erster anprobieren",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "tsc"
+  ],
   "num": "1000"
  },
  {
   "content": "Eingemischt: Polier bei Streitschlichtung in Betonmaschine gestürzt",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "kop"
+  ],
   "num": "1000"
  },
  {
   "content": "Hinterlässt verbrannte Erde: Unfähiger Elektriker flüchtet ins Weltall",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "wwe"
+  ],
   "num": "1000"
  },
  {
   "content": "Geht abends gern zur Au-Pair: Ehemann täuscht Kulturinteresse vor",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "tom"
+  ],
   "num": "1000"
  },
  {
   "content": "Kriegt kein Auge zu: Leichenpräparator muss die Nacht durcharbeiten",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "kol"
+  ],
   "num": "1000"
  },
  {
   "content": "Lässt ihn einfach stehen: Frau möchte mit Mann nicht mehr über ihren Bart reden",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "be+"
+  ],
   "num": "1000"
  },
  {
   "content": "Hat alles probiert: Junkie kommt von keiner einzigen Droge los",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "rag"
+  ],
   "num": "1000"
  },
  {
   "content": "Schuhregal: Schäfer schreinert lieber",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "adl"
+  ],
   "num": "1000"
  },
  {
   "content": "Massiert dort seine Truppen: Feldherr schickt Physiotherapeuten an die Front",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "marc"
+  ],
   "num": "1000"
  },
  {
   "content": "Barbie-Kuh: Ken beschimpft beste Freundin während Grillfest",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "rav"
+  ],
   "num": "1000"
  },
  {
   "content": "Jetzt ist er dran: Mann muss erklären, warum er Anruf zuerst wegdrückte",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "frcx"
+  ],
   "num": "1000"
  },
  {
   "content": "Folge packt: Neue Serien-Episode mit Action gefüllt",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "wye"
+  ],
   "num": "1000"
  },
  {
   "content": "Zecken-Hemd-Shop: Gebrauchtwarenladen bietet Oberbekleidung für Spinnentiere an",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "ber"
+  ],
   "num": "1000"
  },
  {
   "content": "Frei erfunden: Urlaub gibt es gar nicht",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "sta"
+  ],
   "num": "1000"
  },
  {
   "content": "Darmwinde: Verschluckter Flaschenzug verursacht Blähungen",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "ban"
+  ],
   "num": "1000"
  },
  {
   "content": "Brünett: Kannibalenkoch wünscht braunhaarigem Opfer viel Spaß",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "len"
+  ],
   "num": "1000"
  },
  {
   "content": "Geht immer gleich vor: Konzertbesucher drängelt sich wiederholt in erste Reihe",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "tei"
+  ],
   "num": "1000"
  },
  {
   "content": "Beutelkunst: Känguruh hält Gemälde versteckt",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "p2k"
+  ],
   "num": "1000"
  },
  {
   "content": "\"Stehenbleiben, Sie sind umzüngelt!\": Schlangenbeschwörer stellt Dieb",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "lou"
+  ],
   "num": "1000"
  },
  {
   "content": "Salbei: Arzt behandelt Hodenverletzung mit Kräuterbalsam",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "rot"
+  ],
   "num": "1000"
  },
  {
   "content": "Hat alle berührt: Bewegende Geschichte eines Triebtäters",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "adg"
+  ],
   "num": "1000"
  },
  {
   "content": "Kein schönes Bild: Porträtierter vermöbelt Maler",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "sod"
+  ],
   "num": "1000"
  },
  {
   "content": "Hat ihm das Haus zugedacht: Telepath überträgt Sohn sein Erbe",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "hpa"
+  ],
   "num": "1000"
  },
  {
   "content": "Falschparka: Politesse verteilt Knöllchen an Modesünder",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "evw"
+  ],
   "num": "1000"
  },
  {
   "content": "Pulli-Zerr-Preis gewonnen: Fotograf erfolgreich am Wühltisch",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "rbo"
+  ],
   "num": "1000"
  },
  {
   "content": "Hangar: Pilot grillt Vogel in Flugzeughalle",
   "url": "https://www.der-postillon.com/2017/01/newsticker-1000.html",
+  "creators": [
+   "kly"
+  ],
   "num": "1000"
  },
  {
