@@ -9137,7 +9137,7 @@ export const tickers =
   "creators": [
    "kop"
   ],
-  "num": 1975,
+  "num": 1795,
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho8sYfi60AuW7YiU-RWRUiJtX1mwV7NMzalT2Sp8F8eb81WeBeQON3za_KXiuODT0AVpn9fzgJSR67slQQW1Nd4ixq3RMhF29s0LW7BbpHyeYJOaVioT4huadXUie0suR9sXjWk4O7MwlTljj0ifcd7_hupuDAuiOC1nHU6nes7M5X7V3xp-T-oynh0g/w1600/tickerelonmusk.png"
  },
  {
@@ -9146,7 +9146,7 @@ export const tickers =
   "creators": [
    "frcx"
   ],
-  "num": 1975
+  "num": 1795
  },
  {
   "content": "Tässla: Franke lässt sich Espressohalterung in sein E-Auto einbauen",
@@ -9155,7 +9155,7 @@ export const tickers =
    "sum",
    "wso"
   ],
-  "num": 1975
+  "num": 1795
  },
  {
   "content": "Muskau: Milliardär kauft russische Hauptstadt",
@@ -9163,7 +9163,7 @@ export const tickers =
   "creators": [
    "frcx"
   ],
-  "num": 1975
+  "num": 1795
  },
  {
   "content": "Kicker-Factory: Elon Musk lässt in neuem Tesla-Werk Fußballmagazin drucken",
@@ -9171,7 +9171,7 @@ export const tickers =
   "creators": [
    "sum"
   ],
-  "num": 1975
+  "num": 1795
  },
  {
   "content": "X Æ A-XII: Elon Musk erlitt bei Benennung seines Sohnes Schlaganfall",
@@ -9179,7 +9179,7 @@ export const tickers =
   "creators": [
    "sum"
   ],
-  "num": 1975
+  "num": 1795
  },
  {
   "content": "Musk gerade: \"Ich habe die Rechte am Rosenmontagszug 2023 erworben.\"",
@@ -9187,7 +9187,7 @@ export const tickers =
   "creators": [
    "tky"
   ],
-  "num": 1975
+  "num": 1795
  },
  {
   "content": "Vers-Torben: Songwriter tot",
@@ -84312,7 +84312,7 @@ export const tickers =
    "sjs"
   ],
   "num": "500",
-  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDQBX78hOjkZDKM_nKdqwhgSX2pOaSQPA2i1NDnGPuqh6RL2b8C3Z2fWQ4l1KaABYEHyyPS8Hh_31BuPj1aRL8tK0g911v4C14ESEE-P8gh9vvbhFY63MVWwdOLISfcMdsAXJ8-_CQ=w1600"
+  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDSg036_aa6NX9I7lOFjFc4-Alef7oe2xsiQe1Jbn3rlPmVyuJrFsKOlXbYuLYMixqF49dPVHvwMpLWmYrNvoFgLBJOdhedmwHr0iDgASkxVe6fmoSyaiRFC4RZ3SFouMVcbrbjKGg=w1600"
  },
  {
   "content": "Komplizierter Bruch: Ärzte kommen bei Visite auf keinen gemeinsamen Nenner",
@@ -106326,7 +106326,7 @@ export const tickers =
   "creators": [
    "ssi"
   ],
-  "num": "59b",
+  "num": 59.5,
   "image": "https://2.bp.blogspot.com/-0mdp0nZiwMI/UYwYvexmW2I/AAAAAAAAVQM/7C_X5WRE_mQ/w1600/Edison-Stock-Ticker.jpg"
  },
  {
@@ -106335,7 +106335,7 @@ export const tickers =
   "creators": [
    "ssi"
   ],
-  "num": "59b"
+  "num": 59.5
  },
  {
   "content": "Absehbar: China gewinnt Gold im Reiskunstlauf",
@@ -106343,7 +106343,7 @@ export const tickers =
   "creators": [
    "ssi"
   ],
-  "num": "59b"
+  "num": 59.5
  },
  {
   "content": "Skandinavischer Mannschaftstresor geplündert: Einbrecher knackten Nordische Kombination",
@@ -106351,7 +106351,7 @@ export const tickers =
   "creators": [
    "ssi"
   ],
-  "num": "59b"
+  "num": 59.5
  },
  {
   "content": "Medaillenspiegel: dloG, rebliS, eznorB",
@@ -106359,7 +106359,7 @@ export const tickers =
   "creators": [
    "ssi"
   ],
-  "num": "59b"
+  "num": 59.5
  },
  {
   "content": "Abgemacht: Blutbank und Samenbank vereinbaren Austausch von Körperflüssigkeiten",
