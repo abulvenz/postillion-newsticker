@@ -247,7 +247,8 @@ const mainLoop = async (startURL) => {
   console.log("Result", tickers);
 };
 
-await Promise.all(mainLoop(startURL), mainLoop(startURLBE));
+await mainLoop(startURL);
+await mainLoop(startURLBE);
 
 fs.writeFileSync(
   "tickers.js",
