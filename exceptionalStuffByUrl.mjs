@@ -44,7 +44,7 @@ export const exceptionalStuffByUrl = {
       "Hangar: Pilot grillt Vogel in Flugzeughalle",
     ],
     authors:
-      "oga, tsc, kop, wwe, tom, kol, be+, rag, adl, marc, rav, frcx, wye, ber, sta, ban, len, tei, p2k, lou, rot, adg, sod, hpa, evw, rbo, kly,bor/fla/marc,b&b",
+      "oga, tsc, kop, wwe, tom, kol, be+, rag, adl, marc, rav, frcx, wye, ber, sta, ban, len, tei, p2k, lou, rot, adg, sod, hpa, evw, rbo, kly",
   },
   "https://www.der-postillon.com/2016/12/newsticker-993.html": {
     authors: "mpr, mvp, die/adl, hwi, tsc, wwe, oga",
