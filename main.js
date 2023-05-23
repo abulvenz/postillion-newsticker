@@ -219,9 +219,11 @@ m.mount(document.body, {
           .map((e) => e.item)
           .map((ticker) =>
             div.ticker(
-              "+++ ",
-              m.trust(ticker.content),
-              " +++ ",
+              use(ticker?.content?.indexOf("++") >= 0, (systemSprenger) => [
+                systemSprenger ? "" : "+++ ",
+                m.trust(ticker.content),
+                systemSprenger ? " " : " +++ ",
+              ]),
               ticker.creators
                 ? ticker.creators.map((creator, index) =>
                     span([
