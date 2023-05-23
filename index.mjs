@@ -3,7 +3,7 @@ import regex from "./regex.mjs";
 import fs, { readFileSync } from "fs";
 import { exceptionalStuffByUrl } from "./exceptionalStuffByUrl.mjs";
 
-const clearEverything = true;
+const clearEverything = false;
 const displayBrowser = false;
 
 const maximumNumberOfPages = 1e100;
@@ -247,8 +247,8 @@ const mainLoop = async (cStartURL) => {
   console.log("Result", tickers);
 };
 
-// await mainLoop(startURLBE);
 await mainLoop(startURL);
+await mainLoop(startURLBE);
 
 fs.writeFileSync(
   "tickers.js",
