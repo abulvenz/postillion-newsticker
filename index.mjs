@@ -62,6 +62,7 @@ const scheduledURLs = [
 ];
 
 const startURL = "https://www.der-postillon.com/search/label/Newsticker";
+const startURLBE = "https://www.the-postillon.com/search/label/Newsticker";
 
 const browser = await puppeteer.launch({
   headless: displayBrowser ? false : "new",
@@ -137,7 +138,7 @@ const reg_newsticker_plain = /[\+]+\+\+(.*)[\+]+\+\+/gm;
 const reg_number_from_url =
   /https:\/\/www\.der-postillon\.com\/[0-9]{4}\/[0-9]{2}\/[^0-9]*([0-9]*)[_0-9a-z-]*\.html/gm;
 
-const mainLoop = async () => {
+const mainLoop = async (startURL) => {
   // 1. url = startURL
   // 2. goto url;
   // 3. fetch URLs and add them to scheduled
@@ -246,7 +247,7 @@ const mainLoop = async () => {
   console.log("Result", tickers);
 };
 
-await mainLoop();
+await Promise.all(mainLoop(startURL), mainLoop(startURLBE));
 
 fs.writeFileSync(
   "tickers.js",

@@ -241,7 +241,13 @@ m.mount(document.body, {
                     ])
                   )
                 : "[Fehler bei Autorenbestimmung] ",
-              a({ href: ticker.url }, ticker.num || "Keine Nummer")
+              a(
+                { href: ticker.url },
+                ticker?.url?.indexOf("the-postillon.com") < 0
+                  ? /*"🇩🇪"*/ ""
+                  : "🇬🇧 ",
+                ticker.num || "Keine Nummer"
+              )
             )
           ),
         hr(),
