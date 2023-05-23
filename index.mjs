@@ -366,10 +366,13 @@ const mainLoop = async () => {
           : console.log(currentTickers.length, authors.split(",").length)
       );
 
-    regex(url, reg_number_from_url, (num) =>
-      currentTickers.forEach((t) => (t.num = num[0]))
-    );
-
+    if (exceptionalStuffByUrl[url]?.num) {
+      currentTickers.forEach((t) => (t.num = exceptionalStuffByUrl[url].num));
+    } else {
+      regex(url, reg_number_from_url, (num) =>
+        currentTickers.forEach((t) => (t.num = num[0]))
+      );
+    }
     if (
       authors
         .find((str) => countStr(str, ",") === currentTickers.length - 1)
