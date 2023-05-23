@@ -11,6 +11,9 @@ const countStr = (haystack, needle) =>
   haystack.split("").filter((e) => e === needle).length;
 
 const exceptionalStuffByUrl = {
+  "https://www.der-postillon.com/2022/05/newsticker-1795.html": {
+    num: 1796,
+  },
   "https://www.der-postillon.com/2017/05/newsticker-1053.html": {
     authors: "marc, evw, rav, tsc, hpa, tom, tei",
   },
@@ -97,6 +100,10 @@ const exceptionalStuffByUrl = {
   "https://www.der-postillon.com/2014/01/newsticker-558.html": {
     authors: "nib, ?, bpy, spu, nan, xyu, cha",
   },
+  // "https://www.der-postillon.com/2013/09/newsticker-500-xxl-edition-106.html":{
+  //   authors:"sjs,ess,fla,tod,ax,marc,mig,rk,pta,pet,kmü,tim,tim,dne,tim/ste,par",
+  // },
+
   "https://www.der-postillon.com/2013/09/newsticker-500-xxl-edition-106.html": {
     authors:
       "sjs, ess, fla, tod, ax, marc, mig, rk, pta, pet,kmü, tim, tim, dne, tim/ste, par",
@@ -147,6 +154,11 @@ const exceptionalStuffByUrl = {
   },
   "https://www.der-postillon.com/2011/02/newsticker-143.html": {
     authors: "ano, lot, svl, tbe, tbe, ucn",
+  },
+  "https://www.der-postillon.com/2010/09/newsticker-100-das-jubilaum.html": {
+    tickers: [],
+    authors: "",
+    num: -1,
   },
   "https://www.der-postillon.com/2010/02/vancouver-2010-der-olympia-newsticker.html":
     {
