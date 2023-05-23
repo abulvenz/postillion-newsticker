@@ -263,4 +263,4 @@ fs.writeFileSync(
   JSON.stringify(problematicTickers, null, 2)
 );
 
-//browser.close();
+browser.close();
