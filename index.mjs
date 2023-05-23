@@ -3,10 +3,13 @@ import regex from "./regex.mjs";
 import fs, { readFileSync } from "fs";
 import { exceptionalStuffByUrl } from "./exceptionalStuffByUrl.mjs";
 
-const clearEverything = true;
+const clearEverything = false;
 const displayBrowser = false;
 
 const maximumNumberOfPages = 1e100;
+
+const startURL = "https://www.der-postillon.com/search/label/Newsticker";
+const startURLBE = "https://www.the-postillon.com/search/label/Newsticker";
 
 const countStr = (haystack, needle) =>
   haystack.split("").filter((e) => e === needle).length;
@@ -61,9 +64,6 @@ const scheduledURLs = [
   // "https://www.der-postillon.com/2010/02/vancouver-2010-der-olympia-newsticker.html",
 ];
 
-const startURL = "https://www.der-postillon.com/search/label/Newsticker";
-const startURLBE = "https://www.the-postillon.com/search/label/Newsticker";
-
 const browser = await puppeteer.launch({
   headless: displayBrowser ? false : "new",
 });
@@ -107,7 +107,7 @@ const findOlderPageLink = async () =>
   page.evaluate(
     () =>
       document.querySelector("a.blog-pager-older-link")?.attributes["data-load"]
-        .nodeValue
+        ?.nodeValue
   );
 
 const extractImage = async () =>
@@ -118,7 +118,7 @@ const extractImage = async () =>
 
 const fetchTickerArticleLinks = async () =>
   page.evaluate(() => {
-    const titles = document.querySelectorAll("h2.entry-title > a");
+    const titles = document.querySelectorAll(".entry-title > a");
     const result = [];
     titles.forEach((title) => result.push(title.href));
     return result;
@@ -136,9 +136,9 @@ const fetchTickers = async () => {
 
 const reg_newsticker_plain = /[\+]+\+\+(.*)[\+]+\+\+/gm;
 const reg_number_from_url =
-  /https:\/\/www\.der-postillon\.com\/[0-9]{4}\/[0-9]{2}\/[^0-9]*([0-9]*)[_0-9a-z-]*\.html/gm;
+  /https:\/\/www\....-postillon\.com\/[0-9]{4}\/[0-9]{2}\/[^0-9]*([0-9]*)[_0-9a-z-]*\.html/gm;
 
-const mainLoop = async (startURL) => {
+const mainLoop = async (cStartURL) => {
   // 1. url = startURL
   // 2. goto url;
   // 3. fetch URLs and add them to scheduled
@@ -146,7 +146,7 @@ const mainLoop = async (startURL) => {
   // 5. if not present start loading and processing scheduled pages
   let count = 0;
 
-  let url = startURL;
+  let url = cStartURL;
 
   const noTest = scheduledURLs.length === 0;
 
@@ -158,7 +158,7 @@ const mainLoop = async (startURL) => {
       ) {
         console.log("Visiting ", url);
         await page.goto(url);
-        if (url !== startURL) alreadyFetched.push(url);
+        if (url !== startURL && url !== startURLBE) alreadyFetched.push(url);
 
         (await fetchTickerArticleLinks()).forEach((url) =>
           scheduledURLs.push(url)
@@ -247,8 +247,8 @@ const mainLoop = async (startURL) => {
   console.log("Result", tickers);
 };
 
+// await mainLoop(startURLBE);
 await mainLoop(startURL);
-await mainLoop(startURLBE);
 
 fs.writeFileSync(
   "tickers.js",
