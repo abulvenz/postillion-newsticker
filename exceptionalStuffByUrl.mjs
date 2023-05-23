@@ -150,14 +150,14 @@ export const exceptionalStuffByUrl = {
   },
   "https://www.der-postillon.com/2010/02/vancouver-2010-der-olympia-newsticker.html":
     {
-      num: "59b",
+      num: 59.5,
     },
   "https://www.der-postillon.com/2009/03/zeitumstellungsticker.html": {
     authors: "ssi,ssi,ssi,ssi",
     num: 9,
   },
   "https://www.der-postillon.com/2022/04/muskticker-1.html": {
-    num: 1975,
+    num: 1795,
   },
   "https://www.der-postillon.com/2009/04/newsticker-10.html": {
     tickers: [
