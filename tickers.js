@@ -108205,5 +108205,62 @@ export const tickers =
    "ssi"
   ],
   "num": 1
+ },
+ {
+  "content": "Bewegte Bilder: Überwachungsvideo überführt Kunstdieb",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1953.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "1953",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc8mZE7fu8eRSR60I2BcFfh90QjKNug1rmmTiwGEYPP9OooxP82e4XmNY6KM4wTsedEX7ZIf0UGp2pc_YXl_SQ_2zk0_IjDCtngj0nVmKYYHBQvYgjZpAEOGgM1I6iHDdSfTuczJO5tFytUtgF6-VOlXL6sa9Q9awf2wlLi5ngzioiXQf41A_xjYzONQ/w1600/tickerkunstdieb.jpg"
+ },
+ {
+  "content": "Schienquetschento: Italiener überfährt Erpel auf Bahnübergang",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1953.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1953"
+ },
+ {
+  "content": "Kämmste, kämmste, kämmste: Witze von Komiker haben einen langen Barth",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1953.html",
+  "creators": [
+   "arc"
+  ],
+  "num": "1953"
+ },
+ {
+  "content": "Stößt sich nicht daran: Lover findet Intimpiercing nicht schlimm",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1953.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1953"
+ },
+ {
+  "content": "Von der Groeben: Fernsehmoderatorin kauft bei sächsischem Fleischer ein",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1953.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "1953"
+ },
+ {
+  "content": "Allgemeinheit: Meteoriteneinschläge belasten die Gesellschaft",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1953.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1953"
+ },
+ {
+  "content": "Sollte ihm mal ordentlich die Ohren langziehen: Leonard Nimoy mit Maskenbildner unzufrieden",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1953.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1953"
  }
 ]
