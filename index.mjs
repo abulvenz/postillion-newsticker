@@ -192,7 +192,7 @@ const mainLoop = async (cStartURL) => {
       authors = [exceptionalStuffByUrl[url].authors];
     } else {
       authors = await page.evaluate(() => {
-        const spans = document.querySelectorAll("#post-body span");
+        const spans = document.querySelectorAll(".post-body span");
         let potentials = [];
         spans.forEach((span) =>
           span.style["font-size"] === "x-small"
