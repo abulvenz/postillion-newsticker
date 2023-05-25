@@ -245,10 +245,15 @@ const mainLoop = async (cStartURL) => {
   }
 
   console.log("Result", tickers);
+  scheduledURLs.splice(0, scheduledURLs.length);
 };
 
-await mainLoop(startURL);
-await mainLoop(startURLBE);
+if (scheduledURLs.length === 0) {
+  await mainLoop(startURL);
+  await mainLoop(startURLBE);
+} else {
+  await mainLoop(startURL);
+}
 
 fs.writeFileSync(
   "tickers.js",
