@@ -1,6 +1,63 @@
 export const tickers = 
 [
  {
+  "content": "Leg dich nicht mit Zoohahn an: Adam Sandler nimmt vor Pfau Reißaus",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1954.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1954",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigDjyNZKd4PnoNG20WCHqq4xLed10me2ZTDUd0ny-nrVuvCbmHCr3b7DSIBcPAQlnO-Pf18exaZ1hCdKg03ClXodT6JaUa-62XvFCtSPi_UzACLJ017k5-sSMYXRg8Puzyc66K8gYudqT9NdjPpIymoRxamSugHbKDfuKICNjTcGLWlR7ylwwuWhm1oA/w1600/tickerzoohahn.jpg"
+ },
+ {
+  "content": "Kunden über den Tisch gezogen: Domina verlangt für fünf Minuten Streckbank 300 EUR",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1954.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1954"
+ },
+ {
+  "content": "Witts Los: Katharina gewinnt Schlittschuhkurs für Anfänger",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1954.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "1954"
+ },
+ {
+  "content": "Ill: Kranke Engländer nur noch Striche in der Landschaft",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1954.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1954"
+ },
+ {
+  "content": "Ist in Gebärlaune: Frau schenkt ihrem Mann ein Baby",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1954.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1954"
+ },
+ {
+  "content": "Albrecht Dürer: Rembrandt gewinnt 2. Preis bei Schlankheitswettbewerb",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1954.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1954"
+ },
+ {
+  "content": "Das mach ich doch glatt: Tischler lässt sich auf Hobelauftrag ein",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1954.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "1954"
+ },
+ {
   "content": "Bewegte Bilder: Überwachungsvideo überführt Kunstdieb",
   "url": "https://www.der-postillon.com/2023/05/newsticker-1953.html",
   "creators": [
@@ -84450,7 +84507,7 @@ export const tickers =
    "sjs"
   ],
   "num": "500",
-  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDQzx_Q8VBiLWmk_BtXafurbDejjzty46sVGjb9Qj9u03LMX5lqefjiZUJzz_a2YWDET5NczslhfKD4-iKwaenv1J2n2WKfJ_TYJwpdzwti9DZ0UayKvzQMSN-TQZY9_iRNbfA-NVQ=w1600"
+  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDQPKSUbCa39Z2HJ2V2BhxdlbQ48NQ1_qaxX8mX10BeRR9s1XviqIPlM1fPOaByJuTE9MhOEW7z0dxCU3FLdl1LKRhMTvJ4ZjlndbmWlOuLhFiaT8-JZycEXFRqzZIWer0yhri7uLA=w1600"
  },
  {
   "content": "Komplizierter Bruch: Ärzte kommen bei Visite auf keinen gemeinsamen Nenner",
