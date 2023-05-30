@@ -6,7 +6,7 @@ import Fuse from "fuse.js";
 import posthorn from "./posthorn";
 const { min } = Math;
 const { keys } = Object;
-const { header, h1, h2, div, a, input, small, footer, p, span, hr, br } =
+const { header, h1, h2, div, a, input, small, footer, p, span, hr, br, img } =
   tagl(m);
 const use = (v, f) => f(v);
 
@@ -121,6 +121,20 @@ let fuse = createFuse();
 let selection = tickers;
 selection = fuse.search(search);
 updateAuthors();
+
+const imageC = (vnode) => ({
+  view: ({ attrs: { ticker } }) => {
+    console.log(ticker);
+    return ticker.image
+      ? ticker.display
+        ? img.thumbnail({
+            onclick: () => (ticker.display = undefined),
+            src: ticker.image.replace("w1600", "w800"),
+          })
+        : a({ onclick: () => (ticker.display = true) }, " 🖼️")
+      : null;
+  },
+});
 
 m.mount(document.body, {
   view: (vnode) => [
@@ -247,7 +261,8 @@ m.mount(document.body, {
                   ? /*"🇩🇪"*/ ""
                   : "🇬🇧 ",
                 ticker.num || "Keine Nummer"
-              )
+              ),
+              m(imageC, { ticker })
             )
           ),
         hr(),
