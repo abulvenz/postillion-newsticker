@@ -62,17 +62,24 @@ const buildQueryString = () => {
   window.history.pushState({ path: newurl }, "", newurl);
 };
 
-// console.log(
-//   Object.keys(
-//     tickers
-//       .flatMap((ticker) => ticker.creators)
-//       .map((name) => name.replaceAll("&nbsp;", "").trim())
-//       .reduce((acc, v) => {
-//         acc[v] = 1;
-//         return acc;
-//       }, {})
-//   )
-// );
+use(
+  tickers
+    .flatMap((ticker) => ticker.creators)
+    .map((name) => name.replaceAll("&nbsp;", "").trim())
+    .reduce((acc, v) => {
+      acc[v] = (acc[v] || 0) + 1;
+      return acc;
+    }, {}),
+  (tickerCountByAuthor) => {
+    Object.keys(tickerCountByAuthor)
+      .filter((author) => tickerCountByAuthor[author] < 40)
+      .forEach((author) => delete tickerCountByAuthor[author]);
+
+    Object.keys(tickerCountByAuthor)
+      .sort((a, b) => -tickerCountByAuthor[a] + tickerCountByAuthor[b])
+      .forEach((author) => console.log(author, tickerCountByAuthor[author]));
+  }
+);
 
 const createFuse = () => {
   if (range > 0) {
@@ -107,8 +114,8 @@ const updateAuthors = () => {
   MAX = 10;
   selection = fuse.search(search);
   if (byAuthor.length > 0) {
-    console.log(byAuthor);
-    console.log(selection);
+    //console.log(byAuthor);
+    //console.log(selection);
     selection = selection.filter(
       (ticker) =>
         ticker.item.creators &&
@@ -124,7 +131,7 @@ updateAuthors();
 
 const imageC = (vnode) => ({
   view: ({ attrs: { ticker } }) => {
-    console.log(ticker);
+    //   console.log(ticker);
     return ticker.image
       ? ticker.display
         ? img.thumbnail({
@@ -289,6 +296,38 @@ m.mount(document.body, {
         a(
           { href: "https://github.com/abulvenz/postillion-newsticker" },
           "Quelltext gibt's hier."
+        )
+      ),
+      p(
+        a(
+          {
+            onclick: () => {
+              const csv = tickers
+                .map(
+                  (ticker) =>
+                    '"' +
+                    ticker.content.replaceAll('"', '""') +
+                    '","' +
+                    ticker.url +
+                    '","' +
+                    ticker.num +
+                    '","' +
+                    (ticker.image || "") +
+                    '","' +
+                    ticker.creators.join("/") +
+                    '"'
+                )
+                .join("\n");
+              const blob = new Blob([csv], { type: "text/csv" });
+              const url = window.URL.createObjectURL(blob);
+
+              const a = document.createElement("a");
+              a.setAttribute("href", url);
+              a.setAttribute("download", "tickers.csv");
+              a.click();
+            },
+          },
+          "Download aller Ticker als 🗜️ CSV"
         )
       ),
       p(
