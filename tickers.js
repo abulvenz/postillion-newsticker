@@ -109306,5 +109306,62 @@ export const tickers =
    "par"
   ],
   "num": "1"
+ },
+ {
+  "content": "Neuer Reckort: So oft hat ein Turngerät noch nie den Platz gewechselt",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1956.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1956",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw_glg_H7WDd9VnnCw-713YYzcbF8f1MnmciaD0O7NUSY5hi-aDYuFnCEaN2GF_Ejv7dAeCYHWycM2WtNBYD_z5ENLLnjsP9P66-OFjL3pQmQPP_erq1us2adxvnnHPYV6RVljhdoD3qHQDyG99DIgq07l9FO-jFJKWmyD6s43wqAZZhQjBbGshB8PJw/w1600/tickerreckort.png"
+ },
+ {
+  "content": "So kann man nicht mit ihm umspringen: Kängurukind steigt aus",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1956.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1956"
+ },
+ {
+  "content": "Rat der TUI: Probieren Sie vegane Bordverpflegung!",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1956.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1956"
+ },
+ {
+  "content": "Aus dem Stegreif: Männer beantworten spontan Umfrage zu Pinkelgewohnheiten",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1956.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "1956"
+ },
+ {
+  "content": "Dürfte nicht mehr viel passieren: Fernreisender erreicht in Kürze Zielbahnhof",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1956.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1956"
+ },
+ {
+  "content": "Hat was für sich: Mann beschenkt sich selbst",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1956.html",
+  "creators": [
+   "dud"
+  ],
+  "num": "1956"
+ },
+ {
+  "content": "Sauvage: Dior macht nur sehr unpräzise Angaben zu seinem erfolgreichsten Herrenduft",
+  "url": "https://www.der-postillon.com/2023/05/newsticker-1956.html",
+  "creators": [
+   "dan"
+  ],
+  "num": "1956"
  }
 ]
