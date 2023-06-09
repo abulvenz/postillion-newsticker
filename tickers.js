@@ -109363,5 +109363,62 @@ export const tickers =
    "dan"
   ],
   "num": "1956"
+ },
+ {
+  "content": "Liegt Jana: Frau mag offensichtliche Wortspiele mit ihrem Namen",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1957.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "1957",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_wpb_sUqMIjs0wxDvIhYrQhBsfST6b_h1ihVr7yTOyHFJBtK8l7TqQJa858EdLbpaP7Z5FMClPtxPgYY1xKVvaqocvtzQBiWd9wcuO5PCUyElQEuxMpHOgeyrocL_3nQ4SkAGHjUOqgvU8hPMch5pPgdo02UGvtYxeyDsBb6jTI18MZF6YZqbLRXyA/w1600/tickerliegtjana_kor.png"
+ },
+ {
+  "content": "Senfte: König bekleckert Sitzpolster beim Bratwurstessen",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1957.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1957"
+ },
+ {
+  "content": "Hält ihn bei der Stange: Ehefrau gibt Kettenraucher genau 200 Zigaretten pro Tag",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1957.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1957"
+ },
+ {
+  "content": "Filesharer Lahm: Philipp war gar nicht bei Napster",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1957.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "1957"
+ },
+ {
+  "content": "\"Worum dreht es sich?\": Schulpsychologe begrüßt Helikopterelternpaar",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1957.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1957"
+ },
+ {
+  "content": "Firma schon pleite: Erfolgloser Unternehmer wagt einen fünften Versuch",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1957.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1957"
+ },
+ {
+  "content": "Kann nicht mehr in den Spiegel schauen: Chefredakteur von Nachrichtenmagazin kündigt wegen gesunkenen Niveaus",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1957.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "1957"
  }
 ]
