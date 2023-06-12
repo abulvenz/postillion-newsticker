@@ -109420,5 +109420,65 @@ export const tickers =
    "mth"
   ],
   "num": "1957"
+ },
+ {
+  "content": "Gaza-Blazer: Angestellter bei Stadtwerken schenkt seiner Frau Jacke aus Nahost",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1958.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1958",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEissGqnWwW8Ma6gEUFezY5bf-eDWQQAaFlmSVamggG7xWo72mWAV2iCMWlREpxxSpfJXPminN1C-0Dzw78ailmtAYYboq17AYCQkyMseJP3Cfhbc0w6ijDyWuHpLb_vCFNFxUbg5eM7druEtZqwAjys7hS6X6JNM7l7Zht4ZWU2xiIacL7al0jR_JhxVg/w1600/tickergazablazer.png"
+ },
+ {
+  "content": "Für bessere Würg-Life-Balance: Python-Gewerkschaft fordert Viertagewoche",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1958.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "1958"
+ },
+ {
+  "content": "Tyrann, oh Sau-Russ: Dinosaurier beleidigt Putin",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1958.html",
+  "creators": [
+   "jan",
+   "adm"
+  ],
+  "num": "1958"
+ },
+ {
+  "content": "Wirkt aufgesetzt: Affektierter Barista preist stinknormalen Filterkaffee an",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1958.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1958"
+ },
+ {
+  "content": "Mit Blei vollgepumpt: Metallschmuggel in Autoreifen stößt bei Mafiaboss auf Ablehnung",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1958.html",
+  "creators": [
+   "sum",
+   "arc"
+  ],
+  "num": "1958"
+ },
+ {
+  "content": "Schaut vaduzt: Liechtensteiner verirrt sich in Hauptstadt",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1958.html",
+  "creators": [
+   "an1",
+   "tom"
+  ],
+  "num": "1958"
+ },
+ {
+  "content": "Huhn dörrt protzend Ställe: Vollzeitkraft unterstützt angeberische Glucke bei Trocknungskonservierung ihrer Behausung",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1958.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "1958"
  }
 ]
