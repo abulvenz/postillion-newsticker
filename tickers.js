@@ -109480,5 +109480,65 @@ export const tickers =
    "p2k"
   ],
   "num": "1958"
+ },
+ {
+  "content": "Huhnwetterwarnung: Französische Meteorologen prognostizieren starke Sturmböen mit tief fliegenden Hennen",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1959.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1959",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiur2fthgz85J1Rs2P5_mVywIKiW0w7IbWWCPs1yUKJqcAe4JkabhqjU-fB-w1A3JEXq-b2tlOKflnwFZNCPfLeYz3hlRvijlSrVG_6aXQIWeS_t0OUFP52azXtr9uH4ormUZm-q7CA-gJOYv3AC0zNCZSSRuXCGjbY3J89SXXXHAq3SR9plLLLoUy7OA/w1600/faktihuhnwarnung.png"
+ },
+ {
+  "content": "Schwarzwälder Kirschtote: Jeden Sonntag sterben 750 Menschen an Überkuchung",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1959.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1959"
+ },
+ {
+  "content": "Da ist was dran: Männer sehen im Intimbereich anders aus als Frauen",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1959.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "1959"
+ },
+ {
+  "content": "Nach Truhe: Schreiner macht spät Feierabend",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1959.html",
+  "creators": [
+   "sum",
+   "tom",
+   "kol",
+   "oga"
+  ],
+  "num": "1959"
+ },
+ {
+  "content": "Fußnote: Dieses Parfum kann Inhaltsstoffe von Tennissocken enthalten",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1959.html",
+  "creators": [
+   "sxx"
+  ],
+  "num": "1959"
+ },
+ {
+  "content": "Mit Fünfziger: Reifer Freier versucht sein Glück auf Straßenstrich",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1959.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "1959"
+ },
+ {
+  "content": "Ein bisschen von der Rolle: Schauspielerin kann nur 10% ihres Textes",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1959.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1959"
  }
 ]
