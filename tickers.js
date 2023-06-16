@@ -109540,5 +109540,63 @@ export const tickers =
    "wso"
   ],
   "num": "1959"
+ },
+ {
+  "content": "Ist am Gendern: Sächsischer Kanute ruft wegen Leck Rettungsschwimmer*innen",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1960.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "1960",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRFLEXAmIXCplaa5a4Yx9OYYZDXhu9MCQBA_yccdG_PXUSy360KhgDljS53__Xj4nRZMBf9y8CCaJ--lrqnKFL4T2mQNNJsk8AhIUa1DY-LvrKL_LsAxxegP6SafTvm3hq1zobr64uiMg_vCZIKhLLI6tBrqvFyNRnAq5QCpTSOzoX0gdGdETK_bu7Ag/w1600/tickergendern_kor2.png"
+ },
+ {
+  "content": "Die dunkle Seite der macht: Yoda druckt ohne Zeilenabstand",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1960.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1960"
+ },
+ {
+  "content": "Unerlaubter Affenbesitz: Tierpfleger konfisziert Kokosnuss",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1960.html",
+  "creators": [
+   "ghe",
+   "amü"
+  ],
+  "num": "1960"
+ },
+ {
+  "content": "Schwan zwerggleich: Wichtel erleichtert, dass Wasservogel keinen größeren hat",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1960.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1960"
+ },
+ {
+  "content": "Ist Porto nicht wert: Reisender verschickt keine Grußkarte aus Hafenstadt",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1960.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "1960"
+ },
+ {
+  "content": "Pfiff Erling zurück: Schiedsrichter lässt Haaland nicht mit Pilzdiebstahl davonkommen",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1960.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1960"
+ },
+ {
+  "content": "Unzureichender Haftgrund: Maler muss wegen schlecht klebender Tapete nicht ins Gefängnis",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1960.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1960"
  }
 ]
