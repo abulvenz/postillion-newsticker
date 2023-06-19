@@ -109598,5 +109598,63 @@ export const tickers =
    "oga"
   ],
   "num": "1960"
+ },
+ {
+  "content": "Schlechtes Kotzzeitgedächtnis: Betrunkener weiß nicht mehr, wann er sich übergeben hat",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1961.html",
+  "creators": [
+   "rav"
+  ],
+  "num": "1961",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivBY8kLtiqMp8a0ADeQFsdP9AnCjA78uUTuuBqYjSp3T05ZzgNuxBAHoNs_XccD0k_HdY44LVnOOVrLXELelBG5PlN0UTf7pBfk1KpqT4yC_ZOyJPP3bKVGGZRBkRNJaDon93LusoOAak5xtzWJPxH_R1opO4J18foNe64S5iFrxZSWcLDuzBR1fiWvdmt/w1600/tickerkotzzeit.png"
+ },
+ {
+  "content": "Falsche Schlange: Festbesucherin klärt Mann nicht auf, dass er an Frauentoilette ansteht",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1961.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "1961"
+ },
+ {
+  "content": "Favela: Brasilianer fällt durch Führerscheinprüfung",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1961.html",
+  "creators": [
+   "sch",
+   "cbe"
+  ],
+  "num": "1961"
+ },
+ {
+  "content": "Immer noch 100 Kunden in der Leitung: Stadtentwässerung kämpft mit Unwetterfolgen",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1961.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1961"
+ },
+ {
+  "content": "Stubenhöcker: Kamel hat Sonnenallergie",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1961.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1961"
+ },
+ {
+  "content": "Oh... Bär, Wisent, Aal!: Sachse von Erzgebirgs-Fauna begeistert",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1961.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "1961"
+ },
+ {
+  "content": "Verlangte einen Blowjob: Englischer Trompeter bekommt Hausverbot beim Arbeitsamt",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1961.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1961"
  }
 ]
