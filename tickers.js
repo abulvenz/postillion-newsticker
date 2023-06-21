@@ -109656,5 +109656,62 @@ export const tickers =
    "sum"
   ],
   "num": "1961"
+ },
+ {
+  "content": "Kam bei einem Gespräch heraus: Oma unzufrieden mit  Gebisshaftcreme",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1962.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "1962",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHSpu6RAvV3ocVruT6woW3PHZplBzpGygEYf6YG0UrpW9XKm_PSQK5sG5nFwDhLvKTHMqdi74lSZt3ej-2pRuCWE4SButpEev-niOFTdX-s4Tpc0CmP9t1eSPOhs21qGJKmR5PkANHGr8dk76HMTQAYq20bsLqzTMdD4JSmCdlc_-etLO7c3Nzzoi7Q7it/w1600/tickergebiss_kor.png"
+ },
+ {
+  "content": "Tal enttiert: Zielsichererer Jungjäger macht Alpengegend komplett wildfrei",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1962.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1962"
+ },
+ {
+  "content": "Hat er sich andrehen lassen: Masochist erwirbt Daumenschrauben",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1962.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1962"
+ },
+ {
+  "content": "Walhalla: IKEA nimmt Großraumaquarien ins Programm",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1962.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1962"
+ },
+ {
+  "content": "Raubt ihr Fütterung: Löwenpflegerin luchst altgedienter Kollegin publikumswirksamen Job ab",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1962.html",
+  "creators": [
+   "mik"
+  ],
+  "num": "1962"
+ },
+ {
+  "content": "Akzeptiert alle Cookies: Krümelmonster sucht im Internet nach Backrezepten",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1962.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1962"
+ },
+ {
+  "content": "In Arsch Daunen versetzt: Chirurg verblüfft Fachwelt mit Transplantation von Gänsefedern auf menschliches Hinterteil",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1962.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "1962"
  }
 ]
