@@ -109713,5 +109713,63 @@ export const tickers =
    "p2k"
   ],
   "num": "1962"
+ },
+ {
+  "content": "Extrem misten: Reichsbürger zu harter Stallarbeit verurteilt",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1963.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "1963",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsyi8jqR6c-92wj3qDE21s6ltsJbSujgfiRTkD_pFXm-2-kvmdC54R6C-azQ9c7MGr5moiiQJmbUzWqUQhnMVmyqMA8i0wJ8PAv8UX-vl9hc3Z6eFgG0dcnbt9AxYPvV5xcVCksHft_athNpfBwAfbx-nqkNPEdsaGaORXB54Mw2Mg1dvFzBRjFTpQD6ce/w1600/tickermisten.png"
+ },
+ {
+  "content": "Beschäftigt ihn: Angestellter hegt romantische Gefühle für seine Chefin",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1963.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1963"
+ },
+ {
+  "content": "Polente: Beamte verhaften flüchtiges Federvieh in der Arktis",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1963.html",
+  "creators": [
+   "oga",
+   "mik"
+  ],
+  "num": "1963"
+ },
+ {
+  "content": "Da sieht er sich nicht: Eitler Spiegelkabinett-Betreiber lehnt Umschulung ab",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1963.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "1963"
+ },
+ {
+  "content": "Buh! Lauge!: Schiffspassagier öffnet versehentlich Waschmaschine statt Fenster",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1963.html",
+  "creators": [
+   "s0l"
+  ],
+  "num": "1963"
+ },
+ {
+  "content": "Gut entwickelt: Fotografie-Azubi macht Fortschritte",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1963.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "1963"
+ },
+ {
+  "content": "Wendylator: Mädchen lässt sich Frischluftzufuhr durch wedelnden Pferdeschwanz patentieren",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1963.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "1963"
  }
 ]
