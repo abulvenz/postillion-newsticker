@@ -109771,5 +109771,64 @@ export const tickers =
    "p2k"
   ],
   "num": "1963"
+ },
+ {
+  "content": "Zopfleger: Tierparkangestellter macht nebenberuflich Flechtfrisuren",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1964.html",
+  "creators": [
+   "jeo",
+   "wrb"
+  ],
+  "num": "1964",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH1BFVDYkxVROu37Emg5MjBcn8PZvfzqC-_QBPKJLQBVG6A_8sd3T9rvjxOYhZdoLExvaFkJE-MLZMC_LQANq294n9-XWB3z8rBnokx7lB7OpbaDpAMVj7j1x_UM-zz1-JQjQi40PDIXFF_Saw8BNsPCH7hVSJCJoh8gF8vGeDSRpSRgD2ZQCy3mbcnt1H/w1600/tickerzopfleger.png"
+ },
+ {
+  "content": "Da steht er drauf: Fetischist liebt Füße",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1964.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1964"
+ },
+ {
+  "content": "Außer ihr Tisch: Alien missfällt fast komplette Inneneinrichtung von Frau",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1964.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "1964"
+ },
+ {
+  "content": "\"Auszieh'n! Auszieh'n!\": Vermieter meldet im Striplokal Eigenbedarf an",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1964.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "1964"
+ },
+ {
+  "content": "Sani fair: Rettungsdienstmitarbeiter teilt WC-Coupons gerecht mit Kollegen",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1964.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "1964"
+ },
+ {
+  "content": "Lieh bloß: Bräutigam kaufte keine eigenen Eheringe",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1964.html",
+  "creators": [
+   "wye",
+   "tky"
+  ],
+  "num": "1964"
+ },
+ {
+  "content": "Hauptgefahr geht von Links aus: AfD begrüßt Verfassungsschutzbericht zu Phishing-mails",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1964.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1964"
  }
 ]
