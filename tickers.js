@@ -109830,5 +109830,62 @@ export const tickers =
    "ttl"
   ],
   "num": "1964"
+ },
+ {
+  "content": "Den muss er erstmal reinmachen: Elfmeterschütze bekommt völlig verdreckten Ball",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1965.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "1965",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Eqhcr4xvMi9_7SSBkYZ3GHL2sYrmQG2QoLkRDqIcmG0MgU7GfoTOpQJgB-mp1mcVBQYpvgizULNBe4Lr_hYk4E3SPaGJK4Km0IEG59VRl9Cn6tEGfg4yhIFUdlZFHULF5bP-RPCDCUfbngyd1RGOsefkCZhKYMkMsJjqyQXcm6f-zz-_IEF4kIR9gCnR/w1600/tickerverdreckterball_kor.png"
+ },
+ {
+  "content": "Klangkriminalität: Verbrecherbande foltert Opfer mit Helene-Fischer-Musik",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1965.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "1965"
+ },
+ {
+  "content": "Sprechen fliesend polnisch: Schwarzarbeiter verlegen Bodenbelag",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1965.html",
+  "creators": [
+   "adl"
+  ],
+  "num": "1965"
+ },
+ {
+  "content": "Estnisch: Balten vereinbaren Hungerstreik",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1965.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1965"
+ },
+ {
+  "content": "Gerissener Schlauch: Rezzo kann Fahrradwerkstatt bei Reparaturkosten runterhandeln",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1965.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1965"
+ },
+ {
+  "content": "Am Eise: Insekt schleckt",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1965.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1965"
+ },
+ {
+  "content": "Hammer, Mörser, Schwerter: Welle der Gewalt in NRW",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1965.html",
+  "creators": [
+   "ömm"
+  ],
+  "num": "1965"
  }
 ]
