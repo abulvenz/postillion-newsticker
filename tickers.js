@@ -109887,5 +109887,62 @@ export const tickers =
    "ömm"
   ],
   "num": "1965"
+ },
+ {
+  "content": "Mett, soforte: Andrea Bocelli ereilt in mittellauter Gesangspassage Heißhungerattacke",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1966.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1966",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUGnyN4ecqdEoxvNW9nZWCzDcq8FeTDvwS_-GBC3KkoSFEfP2F-WbbrTysLUs79-QymWBvTwYz_QnVbafN7KpmgUMOXlAXmQIWSTMkFusCtr5W8bYJ56lakwq-wLrsg1MefkpV8_aPe7GCBwEIyKIqZlmDeRiZGZ6pDGvVMDLKCp1yGm1Tzg7l5K2pd9kI/w1600/tickerbocelli.png"
+ },
+ {
+  "content": "Unerwartete Wendung bei Apnoe-WM: Zuschauer halten den Atem an",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1966.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1966"
+ },
+ {
+  "content": "Konstant c: Frau reist ausschließlich mit Lichtgeschwindigkeit",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1966.html",
+  "creators": [
+   "adl"
+  ],
+  "num": "1966"
+ },
+ {
+  "content": "Haben viereckige Augen: Kinder schauten mehrstündige Alien-Doku",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1966.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "1966"
+ },
+ {
+  "content": "Farn's hin!: Wolle Petry trauert singend um eingegangene Zimmerpflanze",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1966.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1966"
+ },
+ {
+  "content": "Frisch'n Schlips: Brite versaut sich Krawatte beim Lunch",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1966.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "1966"
+ },
+ {
+  "content": "Hat immer das Nachsehen: Zwangsgestörter nach 50 Herdkontrollen wieder vor geschlossenem Supermarkt",
+  "url": "https://www.der-postillon.com/2023/06/newsticker-1966.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1966"
  }
 ]
