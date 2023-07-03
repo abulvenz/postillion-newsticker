@@ -109944,5 +109944,64 @@ export const tickers =
    "wso"
   ],
   "num": "1966"
+ },
+ {
+  "content": "Aufpreis: Barkeeper öffnet Bierflaschen nur gegen Bezahlung",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1967.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1967",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig5idSSKgCvU_lFl318COg1iNXRkCQJY_o7YwbsfY_058Ik5YXC19daqKm50IpBDdDv5NFeaPXroczlTah9K-fjjeDknvg1f9KtYNKRJ-feknTfP6Kwvui2vzsUnJ2paW6aGXYsm7SzcvFoSOBVn074QlxUo2J3in4UQmjWttM3Blf2AdwoQtFck8_fXWx/w1600/tickeraufpreis.png"
+ },
+ {
+  "content": "Soll ihm was ausrichten: Antennentechniker bestellt Kunden schönen Gruß",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1967.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "1967"
+ },
+ {
+  "content": "Wollte Mord: Amtsgericht Hogwarts weist Dunklem Lord Tötungsabsicht nach",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1967.html",
+  "creators": [
+   "hem",
+   "jeo",
+   "cbe"
+  ],
+  "num": "1967"
+ },
+ {
+  "content": "Möchten Sie einen flotten Dryer?: Missverstandener Wäschetrockner-Vertreter abgewiesen",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1967.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1967"
+ },
+ {
+  "content": "Mit Axe: Kollege macht sich in der Pause frisch",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1967.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "1967"
+ },
+ {
+  "content": "Herausragend: Unterhose mit Eingriff bei Stiftung Warentest durchgefallen",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1967.html",
+  "creators": [
+   "rav"
+  ],
+  "num": "1967"
+ },
+ {
+  "content": "Wenn bei Sonne der rote Capri im Meer versinkt: Rudi Schuricke sieht alten Ford über Klippe stürzen",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1967.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1967"
  }
 ]
