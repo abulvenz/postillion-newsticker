@@ -110003,5 +110003,63 @@ export const tickers =
    "wso"
   ],
   "num": "1967"
+ },
+ {
+  "content": "All inklusive: Pauschalurlaub beinhaltet sogar Weltraumflug",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1968.html",
+  "creators": [
+   "sge"
+  ],
+  "num": "1968",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWCwokPgY9IFsxRotdouVrFSH5npms8uijtEFDAYjE2ODDSIpJXLtOteYuUVcNDtFpb_SoXf5pDCNzaSl1I34vj7req90SAx5iC6Pg7SWwm0ZpecJUonNjG0OCt8jevdVEb2zZBP-TumMqIoKzB6_-66M0AOS1fOSo22wysOe6sOMa0ktKLW4N7RE4bNN/w1600/tickerallinc_ger.png"
+ },
+ {
+  "content": "Blau der Tasche: Quasselstrippe redet ununterbrochen über Farbe ihres Gepäckstücks",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1968.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "1968"
+ },
+ {
+  "content": "Passiert den Besten: Kannibalenkochschüler vermust versehentlich Klassenstreber",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1968.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "1968"
+ },
+ {
+  "content": "\"Gutt Ural\": Russe lobt Heimat",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1968.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1968"
+ },
+ {
+  "content": "Origasmi: Japanerin faltet Papierdildos",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1968.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1968"
+ },
+ {
+  "content": "Reiterfolg: Mongolen gewinnen olympischen Teamwettbewerb",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1968.html",
+  "creators": [
+   "viv",
+   "mta"
+  ],
+  "num": "1968"
+ },
+ {
+  "content": "Richten sich nach der Sonne: Massenselbstmord findet erst in der Nacht statt",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1968.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "1968"
  }
 ]
