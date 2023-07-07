@@ -110061,5 +110061,62 @@ export const tickers =
    "evw"
   ],
   "num": "1968"
+ },
+ {
+  "content": "Unbedacht: Mann fährt mit Cabrio in Waschanlage",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1969.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1969",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiiZWd6vZv8_HeuSMDDZDvIyUaOHciyR90mtmF4IHxRc3Ph29tfy7Vi2z8xdLUY9gyfPXlt1x2MWKusoRgWP4kcD49H092fMR0Jvt642XiFd6zy7P9vKYtiY0XsnP014NqD6DplkwXr8N1Ka-J44OOhSI3ha32fOPgxIwSfgB4DqRYTPfz83FzHDVocsg1/w1600/tickerunbedacht_kor2.png"
+ },
+ {
+  "content": "Austerart geschlagen: Sohn von Tierschützern misshandelt Muscheln",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1969.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1969"
+ },
+ {
+  "content": "Hätte in seinen Augen nicht sein müssen: Mann bereut Kontaktlinsenkauf",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1969.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "1969"
+ },
+ {
+  "content": "Alte Weggehfährten: Soldaten finden Deserteure durch Fußspuren",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1969.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1969"
+ },
+ {
+  "content": "Brachte es zu Papier: Baum schrieb Buch über sein Leben",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1969.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "1969"
+ },
+ {
+  "content": "Die Fuß: Für Ausländer ist deutsche Grammatik nicht immer eindeutig",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1969.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1969"
+ },
+ {
+  "content": "Schlucht-Schlacht schlicht schlecht: Historiker bescheinigt Griechen militärisches Versagen bei den Thermopylen",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1969.html",
+  "creators": [
+   "hem"
+  ],
+  "num": "1969"
  }
 ]
