@@ -110118,5 +110118,62 @@ export const tickers =
    "hem"
   ],
   "num": "1969"
+ },
+ {
+  "content": "Haart wer?: Mann findet Locken in Computer",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1970.html",
+  "creators": [
+   "s0l"
+  ],
+  "num": "1970",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3ihzKPa9GCB9YlHSSqpfCvJ_XcnHMKjVxMykdKZUDRIMo4bcsSzNzlTvNGIlCzn0dSm6W3_JOnAkWeVs-XplRkI-zQmJzsAYTBfr3FE0pPzAvRhu_D-UgLe0VQ2FxIvHUZ_7C6KskGf-E-aJ6OY7oxghHNxEmOweNNEthnjSGZzk6MgotUJOucD0mJdsF/w1600/tickerhaartwer_kor.png"
+ },
+ {
+  "content": "Kann gerade nicht: Beschwerden bei Turmarchitekt aus Pisa bleiben unbeantwortet",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1970.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1970"
+ },
+ {
+  "content": "Mosche: Hesse begrüßt Muslime in Gebetshaus",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1970.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "1970"
+ },
+ {
+  "content": "Ist auf dem Stand eines 8-Jährigen: Geisteskranker verwüstet Kinderflohmarkt",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1970.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "1970"
+ },
+ {
+  "content": "Gefällt ihnen über Haupt nicht: Guillotine bei Sträflingen unbeliebt",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1970.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1970"
+ },
+ {
+  "content": "Maut: Katze klagt gegen Wegzoll",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1970.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "1970"
+ },
+ {
+  "content": "Die Mainunken gehen auseinander: Frankfurter Kirche diskutiert über Scheidungsverbot für Kröten",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1970.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "1970"
  }
 ]
