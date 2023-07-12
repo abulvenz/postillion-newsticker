@@ -110175,5 +110175,62 @@ export const tickers =
    "wye"
   ],
   "num": "1970"
+ },
+ {
+  "content": "Buskamperfekt: Der ÖPNV war gestern pünktlich gewesen",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1971.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "1971",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpp8XkQciEZwwCRmuzj7WZH_40ehOqkv9USFngvZ01D5iid-Yu0lbVdA3UuQ1M87AYw9fMCZyJ_G48d44g0Ysga_aP433jyg91BCkfVO81xlIK9DpLQBvouQVi3HXwS5gU7KXgQBDeavDLZznlruVn1wfOZmYo5P5-xx0XCfrex3eXBVJGYRswLeo5VcTu/w1600/tickerbuskamperfekt.png"
+ },
+ {
+  "content": "Direkt zugeschlagen: Frankfurter Ultra erhält Angebot für Bayern-Fahne",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1971.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1971"
+ },
+ {
+  "content": "Fass-Ziehen-Therapie: Brauereiarbeiter nach langer Schicht endlich verspannungsfrei",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1971.html",
+  "creators": [
+   "hem"
+  ],
+  "num": "1971"
+ },
+ {
+  "content": "Zu hoher BH-Wert: Sächsischer Bademeister verordnet FKK-Zwang",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1971.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "1971"
+ },
+ {
+  "content": "Alle Nase lang: Pinocchio besucht häufig Verwandtschaft",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1971.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1971"
+ },
+ {
+  "content": "Sah Belt: Norddeutscher labert ununterbrochen über Reise zu Meerenge in Dänemark",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1971.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "1971"
+ },
+ {
+  "content": "Könnte hinkommen: Hausbauer schätzt 300 Meter Entfernung zu Schwiegermutter als zu gering ein",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1971.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "1971"
  }
 ]
