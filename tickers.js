@@ -110232,5 +110232,63 @@ export const tickers =
    "sta"
   ],
   "num": "1971"
+ },
+ {
+  "content": "Über Bucht: Flugzeugcrew wirft Passagiere ab",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1972.html",
+  "creators": [
+   "marc",
+   "viv"
+  ],
+  "num": "1972",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG1vz88TMne2JaQ2rrJ_emHeqKNB2hryuVGesvnmTU1yNiErmHgV1ssNoGoD3jcLs0e3R94fdwYvA5wl1IVapzz_FCq4sK7cmQWRrTOb6Z6-4YaZOIaL1Qadtqizv9Hn-QTVh7s5dXdm6bOiS-bpI0CZTZrOsUlxCHJqRQOue3M6eezT9WD-VRausckpXc/w1600/ticker_Flugzeug.jpg"
+ },
+ {
+  "content": "Vertreibt Fliegen: Herren-Accessoire-Verkäufer hat Duftlampe im Büro",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1972.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "1972"
+ },
+ {
+  "content": "Grieß lieber: Raubtier mag keinen Hafer",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1972.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "1972"
+ },
+ {
+  "content": "Hält das für überzogen: Zimmermädchen spart sich zweites Laken bei Doppelbett",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1972.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1972"
+ },
+ {
+  "content": "Zum Opfer gefallen: Serienmörder schubste Friedhofsgärtner ins Grab",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1972.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1972"
+ },
+ {
+  "content": "Sind taktisch: Anmerkungen zum Satzbau dienen meist nur zur Ablenkung",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1972.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1972"
+ },
+ {
+  "content": "Ehegattensplitting zulässig: BVerfG spricht Axtmörderin frei",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1972.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "1972"
  }
 ]
