@@ -30,7 +30,7 @@ tickers.sort((a, b) => -+a.num + +b.num);
 /** Page state */
 let range = 0;
 let search = "";
-let MAX = 10;
+let MAX = 100;
 let byAuthor = [];
 
 const parseQueryString = () => {
@@ -111,7 +111,7 @@ const createFuse = () => {
 
 const updateAuthors = () => {
   fuse = createFuse();
-  MAX = 10;
+  MAX = 1000;
   selection = fuse.search(search);
   if (byAuthor.length > 0) {
     //console.log(byAuthor);
@@ -172,7 +172,7 @@ m.mount(document.body, {
                 placeHolder: "Suchbegriff eingeben",
                 oninput: (e) => {
                   search = e.target.value;
-                  MAX = 10;
+                  MAX = 1000;
                   selection = fuse.search(search);
                   updateAuthors();
                 },
@@ -209,7 +209,7 @@ m.mount(document.body, {
                 value: range,
                 oninput: (e) => {
                   range = +e.target.value;
-                  MAX = 10;
+                  MAX = 1000;
                   fuse = createFuse();
                   selection = fuse.search(search);
                   updateAuthors();
