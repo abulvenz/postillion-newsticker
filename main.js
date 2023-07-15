@@ -6,11 +6,28 @@ import Fuse from "fuse.js";
 import posthorn from "./posthorn";
 const { min } = Math;
 const { keys } = Object;
-const { header, h1, h2, div, a, input, small, footer, p, span, hr, br, img } =
-  tagl(m);
+const {
+  header,
+  h1,
+  h2,
+  div,
+  a,
+  input,
+  small,
+  footer,
+  p,
+  span,
+  hr,
+  br,
+  img,
+  button,
+} = tagl(m);
 const use = (v, f) => f(v);
 
 console.log(tickers.length);
+
+const themes = ["default", "dark"];
+let brightness = localStorage.getItem("brightness") || 0;
 
 const intermediate = tickers.reduce((acc, v) => {
   acc[v.content.trim()] = v;
@@ -26,6 +43,21 @@ keys(intermediate)
 console.log(tickers.length);
 
 tickers.sort((a, b) => -+a.num + +b.num);
+
+const goDark = (p) => {
+  brightness = p % themes.length;
+  const param = themes[brightness];
+  localStorage.setItem("brightness", brightness);
+  var head = document.getElementsByTagName("head")[0];
+  var link = document.createElement("link");
+  link.rel = "stylesheet";
+  link.type = "text/css";
+  link.href = `https://cdn.rawgit.com/Chalarangelo/mini.css/v3.0.1/dist/mini-${param}.min.css`;
+  link.media = "all";
+  head.appendChild(link);
+};
+
+goDark(brightness);
 
 /** Page state */
 let range = 0;
@@ -140,7 +172,7 @@ const createFuse = () => {
 
 const updateAuthors = () => {
   fuse = createFuse();
-  MAX = 1000;
+  MAX = 100;
   selection = fuse.search(search);
   if (byAuthor.length > 0) {
     //console.log(byAuthor);
@@ -362,7 +394,15 @@ m.mount(document.body, {
       p(
         "Der Inhalt wird von der oben verlinkten Postillon-Seite montags, mittwochs und freitags gecached und wird von der fleißigen Ticker-Gemeinschaft produziert. "
       ),
-      p("Ohne Gewähr auf Sittenwidrigkeit, Fehlerfreiheit und Vollständigkeit.")
+      p(
+        "Ohne Gewähr auf Sittenwidrigkeit, Fehlerfreiheit und Vollständigkeit."
+      ),
+      button.small(
+        { onclick: (e) => goDark(brightness + 1) },
+        brightness === 0
+          ? "Nur die Dunkelheit ist echt, "
+          : "aber das Licht scheint so."
+      )
     ),
   ],
 });
