@@ -117,7 +117,7 @@ const createFuse = () => {
     return {
       search: (needle) => {
         buildQueryString();
-        if (!needle) return;
+        if (!needle) return tickers.map((t) => ({ item: t }));
         let finder = (c) => c.indexOf(needle.toLowerCase()) >= 0;
         if (needle.indexOf("&") >= 0) {
           finder = (c) =>
