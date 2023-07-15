@@ -91,20 +91,49 @@ const createFuse = () => {
     };
     const ff = new Fuse(tickers, options);
     return {
-      search: (str) => buildQueryString() || ff.search(str),
+      search: (str) => {
+        buildQueryString();
+        if (str.indexOf("|") >= 0) {
+          return ff.search({
+            $or: [
+              ...str.split("|").map((p) => ({
+                content: p.trim().toLowerCase(),
+              })),
+            ],
+          });
+        } else if (str.indexOf("&") >= 0) {
+          return ff.search({
+            $and: [
+              ...str.split("&").map((p) => ({
+                content: p.trim().toLowerCase(),
+              })),
+            ],
+          });
+        } else return ff.search(str.toLowerCase());
+      },
     };
   } else {
     const haystack = tickers.map((t) => t.content).map((t) => t.toLowerCase());
     return {
-      search: (needle) =>
-        buildQueryString() ||
-        use(needle.toLowerCase(), (n) =>
-          haystack
-            .map((c, i) =>
-              c.indexOf(n) >= 0 ? { item: tickers[i] } : undefined
-            )
-            .filter((e) => !!e)
-        ),
+      search: (needle) => {
+        buildQueryString();
+        if (!needle) return;
+        let finder = (c) => c.indexOf(needle.toLowerCase()) >= 0;
+        if (needle.indexOf("&") >= 0) {
+          finder = (c) =>
+            needle
+              .split("&")
+              .every((n) => c.indexOf(n.trim().toLowerCase()) >= 0);
+        } else if (needle.indexOf("|") >= 0) {
+          finder = (c) =>
+            needle
+              .split("|")
+              .some((n) => c.indexOf(n.trim().toLowerCase()) >= 0);
+        }
+        return haystack
+          .map((c, i) => (finder(c) ? { item: tickers[i] } : undefined))
+          .filter((e) => !!e);
+      },
     };
   }
 };
