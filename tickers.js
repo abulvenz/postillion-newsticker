@@ -110290,5 +110290,65 @@ export const tickers =
    "par"
   ],
   "num": "1"
+ },
+ {
+  "content": "Auberge 'Tarzanwald': Hochrangiger Jurist eröffnet Dschungel-Lodge im Kongo",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1973.html",
+  "creators": [
+   "ttl",
+   "tky"
+  ],
+  "num": "1973",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbFsz9KlJTzWIheg4cLPJEcnV64x4pucwWHlp83YOSODAJJsqr8wpLgXpnIyJ5Xx2M-bRAIUlEtbdXwoV_j57ap0lApAdyxHOyit1Hmw9MgUAQoLKFO2iOCq3YeuQPaY-ji0BfvOtkwzIYEl2fVfHtG4UPtxnF9qiQbYMtefXgFOhRqQ0b2ZHkmze9rX6h/w1600/ticker_Kongo.jpg"
+ },
+ {
+  "content": "Ehe geschlossen: Paar schaffte es noch rechtzeitig ins Standesamt",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1973.html",
+  "creators": [
+   "tky",
+   "oga"
+  ],
+  "num": "1973"
+ },
+ {
+  "content": "Da kommt der Kranich hin: Bauvorhaben im Naturschutzgebiet abgelehnt",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1973.html",
+  "creators": [
+   "cbe",
+   "oga"
+  ],
+  "num": "1973"
+ },
+ {
+  "content": "Klärasyl: Teenager flüchtet sich in Abwasseraufbereitungsanlage",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1973.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1973"
+ },
+ {
+  "content": "Banausfall: Kulturbarbar auf ICE-Trasse gestürzt",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1973.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "1973"
+ },
+ {
+  "content": "Arsche auf mein Haupt: Italiener beichtet außereheliches Facesitting",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1973.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1973"
+ },
+ {
+  "content": "Braucht ein zweites Stuntbein: Darsteller will trotz schwerer Verletzung seinen Nebenjob nicht aufgeben",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1973.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1973"
  }
 ]
