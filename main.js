@@ -62,14 +62,12 @@ goDark(brightness);
 /** Page state */
 let range = 0;
 let search = "";
-let MAX = 100;
 let byAuthor = [];
 
 const parseQueryString = () => {
   const data = m.parseQueryString(window.location.search);
   range = +data.range || 0;
   search = data.search || "";
-  MAX = data.max || MAX;
   byAuthor = data.byAuthor || [];
   console.log(data);
 };
@@ -80,7 +78,6 @@ const buildQueryString = () => {
   const query = m.buildQueryString({
     range,
     search,
-    max: MAX,
     byAuthor,
   });
 
@@ -172,7 +169,6 @@ const createFuse = () => {
 
 const updateAuthors = () => {
   fuse = createFuse();
-  MAX = 100;
   selection = fuse.search(search);
   if (byAuthor.length > 0) {
     //console.log(byAuthor);
@@ -233,7 +229,6 @@ m.mount(document.body, {
                 placeHolder: "Suchbegriff eingeben",
                 oninput: (e) => {
                   search = e.target.value;
-                  MAX = 1000;
                   selection = fuse.search(search);
                   updateAuthors();
                 },
@@ -270,7 +265,6 @@ m.mount(document.body, {
                 value: range,
                 oninput: (e) => {
                   range = +e.target.value;
-                  MAX = 1000;
                   fuse = createFuse();
                   selection = fuse.search(search);
                   updateAuthors();
@@ -279,25 +273,9 @@ m.mount(document.body, {
             )
           )
         ),
-        "Hier sind " +
-          min(MAX, selection.length) +
-          " von " +
-          selection.length +
-          ". ",
-        MAX < selection.length
-          ? a(
-              {
-                onclick: () => {
-                  MAX = MAX * 10;
-                  buildQueryString();
-                },
-              },
-              "Zeige " + min(selection.length, MAX * 10) + "!"
-            )
-          : null,
+        "Hier sind " + selection.length + " von " + selection.length + ". ",
         hr(),
         selection
-          .slice(0, MAX)
           .map((e) => e.item)
           .map((ticker) =>
             div.ticker(
@@ -334,22 +312,7 @@ m.mount(document.body, {
             )
           ),
         hr(),
-        "Das waren " +
-          min(MAX, selection.length) +
-          " von " +
-          selection.length +
-          ". ",
-        MAX < selection.length
-          ? a(
-              {
-                onclick: () => {
-                  MAX = MAX * 10;
-                  buildQueryString();
-                },
-              },
-              "Zeige " + min(selection.length, MAX * 10) + "!"
-            )
-          : null
+        "Das waren " + selection.length + " von " + selection.length + ". "
       )
     ),
     footer(
