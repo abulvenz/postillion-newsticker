@@ -110350,5 +110350,120 @@ export const tickers =
    "viv"
   ],
   "num": "1973"
+ },
+ {
+  "content": "Liegt an der Spitze: Führender der Tour de France dank Reizunterwäsche erfolgreich",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1975.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1975",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRK7G798_CpuOuCEHsQIo3_5X-KZz0MFtwDLM95ZOsg6ax4jl9c_MqV8lIkmy2XwvP8wTukCdHWQLjtAQjm1h2xbWcQM4esLi1HSJVwQl79gNKUOX0mNVJB9ABk8aqNOfsHdekwQaDJwjRUv9alCvMSxyYfGjwVTehQuV97JaB4RXf7hoDQpeIhydYGT92/w1600/ticker_Tour.jpg"
+ },
+ {
+  "content": "Altbaucharme: Sozialamt soll Düsseldorfer Bierplauzen Gründerzeitwohnung zahlen",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1975.html",
+  "creators": [
+   "cbe",
+   "wso"
+  ],
+  "num": "1975"
+ },
+ {
+  "content": "Schichtende: Tiefkühllasagneproduktionshelfer freuen sich auf Feierabend",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1975.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "1975"
+ },
+ {
+  "content": "Christo verlieh: Dracula-Darsteller borgte sich Umhang von Verhüllungskünster",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1975.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "1975"
+ },
+ {
+  "content": "Hat keinen Bock: Kutscher sagt Ausflug ab",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1975.html",
+  "creators": [
+   "ömm"
+  ],
+  "num": "1975"
+ },
+ {
+  "content": "Borg, Borg, Borg: Schwedischer Tennisstar betreibt mit zwei Brüdern Hühnerfarm",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1975.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1975"
+ },
+ {
+  "content": "Super-Rezeptohren: Apothekerin kann Medikamentenbestellung aus über 100 Metern Entfernung hören",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1975.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1975"
+ },
+ {
+  "content": "Sofortiges Hanteln erforderlich: Bodybuilder bemerkt Muskelschwund",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1974.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1974",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2vVI2dIaWxtBci90mXiQ-7Y8n_X79qSAykXG8uVtAJ71dSkBrKxNWijOa1RCvc8VFfD3I1707ZvmNtsx9yhtDkba1mXbAs64mZCLREt8oE83cR1F0Q-2fmHB-PYHYX56bbH1ud0eXYFOK6stSdCzXRp2Uy6jUHTE9igymrQwMrz71rBDdmXB46rD1C20b/w1600/ticker_Hanteln.jpg"
+ },
+ {
+  "content": "Po stumm: Verstorbener Erfinder von Flatulenzheilmittel gewürdigt",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1974.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1974"
+ },
+ {
+  "content": "Hat die Realschule abgebrochen: Fußballtalent wechselt zum FC Barcelona",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1974.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "1974"
+ },
+ {
+  "content": "Bläht: Sachse bekommt bei Snipes-Film leider Flatulenzen",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1974.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1974"
+ },
+ {
+  "content": "Geht zur Not: Politiker arrangiert sich mit Urlaub im Ahrtal",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1974.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "1974"
+ },
+ {
+  "content": "Alle mal Hair hören: Musical nun auch als Audiofile erhältlich",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1974.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "1974"
+ },
+ {
+  "content": "Hat schon einige Hippotheken aufgenommen: Fotograf kann sich allein mit Nilpferdkneipenbildern kaum über Wasser halten",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1974.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "1974"
  }
 ]
