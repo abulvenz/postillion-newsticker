@@ -1,6 +1,64 @@
 export const tickers = 
 [
  {
+  "content": "Täglich wechselnder Mittagstisch: Restaurantbesitzer tauscht regelmäßig Mobiliar aus",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1976.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1976",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCFnpPf8NuqNeJbMk2ssocLvGde0RgAQDTMu1Ad2-EyLB5eA2h_l46XJkXnX3rO5EN9gU5Ia-kfDWkas1J0nFsh5Uh-DmGCSGaWwC3HVehXkyNROqQN2H6Tn6wvVIAvDwfJ3UAfPWCyy958Btg78u5FLitNXIFrbJbRnVCe7HOvb7FhSzDbWk96CcX6gsN/w1600/ticker_Mittagstisch.jpg"
+ },
+ {
+  "content": "Pita-Parka: Spiderman trägt Mantel aus Teigfladen",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1976.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "1976"
+ },
+ {
+  "content": "Neue Öffnungszeiten: Pathologie ändert Dienstplan",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1976.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "1976"
+ },
+ {
+  "content": "Club der Toten dichter: Zombie-Clique kifft beim Filmabend",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1976.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1976"
+ },
+ {
+  "content": "Grünes Licht: Erstes Drittel von neuer Ampel genehmigt",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1976.html",
+  "creators": [
+   "mth",
+   "elw"
+  ],
+  "num": "1976"
+ },
+ {
+  "content": "Trakttor kaputt: Bauer krachte gegen Gefängnistür",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1976.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1976"
+ },
+ {
+  "content": "Trank viel leiser: Genervte Frau mixt alkoholbedingt aufbrausendem Ehemann Beruhigungsmittel ins Bier",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1976.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "1976"
+ },
+ {
   "content": "Liegt an der Spitze: Führender der Tour de France dank Reizunterwäsche erfolgreich",
   "url": "https://www.der-postillon.com/2023/07/newsticker-1975.html",
   "creators": [
@@ -85724,7 +85782,7 @@ export const tickers =
    "sjs"
   ],
   "num": "500",
-  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MwFsl1pUVVI-yGzCO9FEQJieP_RCK-21CPNIfc7d2d4mYq3ALDhvn4qXQXSkjCwelaawofHi9lGyT8dcnCDq8VmWEdqJjvISKwFLYBayfK1_a1JyjmUi1oPtKkvgPxYrc1vKTjzZw=w1600"
+  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MzloBH-ZXiTUk_rpSttEqSoUVFc-pjmNdXR6gK6asnCkVsoIryJq72YdWdB3InWFKKz3MpIxET1dYQ9mW6qNCLBVIVJuNNAbr0jMlyUQGqI8xQD4py8PDIYWpM8edKEsws-f72Z_g=w1600"
  },
  {
   "content": "Komplizierter Bruch: Ärzte kommen bei Visite auf keinen gemeinsamen Nenner",
