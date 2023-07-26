@@ -1,6 +1,64 @@
 export const tickers = 
 [
  {
+  "content": "Εsсοrt-Service: Ford-Fahrer erklärt Ehefrau Kontoauszug mit Inspektion",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1977.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "1977",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtEa_KdkOyUtWnbA37o1_YAXIK6xFRqRsIXGiC_QQmJSnS8j9_b6hOKC9o6bt3H3NVW6OUyoBsc8srdM0Z0bxn2TeW7-0zIeBpw4BgvA57Gxh1Wz7uReQPc6oNBboKxUqwNrMf8sLvTAfOIt2INedbFQ-EhhJJ8zBsDJVgBq2GMAbLCeax-gVQeiwQ2DnH/w1600/ticker_Escort.jpg"
+ },
+ {
+  "content": "Ab vom Schuss: Jäger sucht in entlegenem Waldstück nach seiner Hand",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1977.html",
+  "creators": [
+   "sum",
+   "stv"
+  ],
+  "num": "1977"
+ },
+ {
+  "content": "Draußen nur Kenchen: Folgsame Männer warten in Café auf Ende von Barbie-Film",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1977.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1977"
+ },
+ {
+  "content": "Bonner sehr rar: Kölner Pizzeriachef begrüßt abends nur selten Gäste aus der Bundesstadt",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1977.html",
+  "creators": [
+   "arc"
+  ],
+  "num": "1977"
+ },
+ {
+  "content": "Facettenreich: Doku über Insektenaugen",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1977.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "1977"
+ },
+ {
+  "content": "Nur eine Aufnahme: Zahnloser fotografiert sonst nie",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1977.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "1977"
+ },
+ {
+  "content": "Die Stimmung kippt: Hochzeitspaar stellt Alleinunterhalter wegen leerer Schnapsflaschen zur Rede",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1977.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1977"
+ },
+ {
   "content": "Täglich wechselnder Mittagstisch: Restaurantbesitzer tauscht regelmäßig Mobiliar aus",
   "url": "https://www.der-postillon.com/2023/07/newsticker-1976.html",
   "creators": [
@@ -85782,7 +85840,7 @@ export const tickers =
    "sjs"
   ],
   "num": "500",
-  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MzloBH-ZXiTUk_rpSttEqSoUVFc-pjmNdXR6gK6asnCkVsoIryJq72YdWdB3InWFKKz3MpIxET1dYQ9mW6qNCLBVIVJuNNAbr0jMlyUQGqI8xQD4py8PDIYWpM8edKEsws-f72Z_g=w1600"
+  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MzbNRrG3Z99r8J0XgLLzAGosv-y8wg3QM09XWXRgGRfKS0Kdo7t3N0xmcnyYvGl7tdTyFEeqNkFVMHQVciN1mZTa6V2cc3rfD5QI4WKma-tng3liJRNiF97nHPh07Y7somrvd2QUw=w1600"
  },
  {
   "content": "Komplizierter Bruch: Ärzte kommen bei Visite auf keinen gemeinsamen Nenner",
