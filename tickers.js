@@ -1,6 +1,66 @@
 export const tickers = 
 [
  {
+  "content": "Hat Mangelerscheinungen: Fastende Büglerin sieht Geister am Arbeitsplatz",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1978.html",
+  "creators": [
+   "sge"
+  ],
+  "num": "1978",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC6Gu8vtmnuop1LKwyEBsx3yKWBoR-nIYJY8LB7kQw93NFo0WsMx1ebQ4kuXC7VOMbpH8uIL87Mtm2IJ3TWEMCrF5A13dPcWNGB_aifUsVKvFpekcFQCKduVvwlmpe0pGpTY0EMJhQ4BqMJ7phMUc80jqgaeBD5tiQt_RJJrp27LW_tdc5Y5aCUOeeyayJ/w1600/tickermangelerscheinungen.png"
+ },
+ {
+  "content": "Krack...Aua!: Mann bricht Zahn an Wurstknorpel ab",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1978.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1978"
+ },
+ {
+  "content": "Kostet Kraft: Ketchuptester nach 12-Stunden-Tag fertig mit den Nerven",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1978.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1978"
+ },
+ {
+  "content": "Sag \"Gesicht\": Deutschlehrer beleidigt Schüler, der lieber das Wort Antlitz verwendet",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1978.html",
+  "creators": [
+   "edu"
+  ],
+  "num": "1978"
+ },
+ {
+  "content": "Will vor Gericht ziehen: Restaurantgast klagt gegen Rauchverbot",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1978.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "1978"
+ },
+ {
+  "content": "Die Agonie: Sächsischer Hilfsdienst kommt reichlich spät",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1978.html",
+  "creators": [
+   "tky",
+   "tei",
+   "stp"
+  ],
+  "num": "1978"
+ },
+ {
+  "content": "Das nimmt sich nicht viel: Magersüchtiges Kind für Buffetberechnung unerheblich",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1978.html",
+  "creators": [
+   "wso",
+   "mik"
+  ],
+  "num": "1978"
+ },
+ {
   "content": "Εsсοrt-Service: Ford-Fahrer erklärt Ehefrau Kontoauszug mit Inspektion",
   "url": "https://www.der-postillon.com/2023/07/newsticker-1977.html",
   "creators": [
@@ -22,7 +82,8 @@ export const tickers =
   "content": "Draußen nur Kenchen: Folgsame Männer warten in Café auf Ende von Barbie-Film",
   "url": "https://www.der-postillon.com/2023/07/newsticker-1977.html",
   "creators": [
-   "wso"
+   "wso",
+   "cbe"
   ],
   "num": "1977"
  },
@@ -14047,7 +14108,7 @@ export const tickers =
   "url": "https://www.der-postillon.com/2021/12/newsticker-1736.html",
   "creators": [
    "adm",
-   "geh",
+   "ghe",
    "evw",
    "frcx"
   ],
@@ -85840,7 +85901,7 @@ export const tickers =
    "sjs"
   ],
   "num": "500",
-  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MzbNRrG3Z99r8J0XgLLzAGosv-y8wg3QM09XWXRgGRfKS0Kdo7t3N0xmcnyYvGl7tdTyFEeqNkFVMHQVciN1mZTa6V2cc3rfD5QI4WKma-tng3liJRNiF97nHPh07Y7somrvd2QUw=w1600"
+  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8Mw6Ixt1-K5-KdaxmihvLHiU4oZuPx--XRiejpRcwq6MT0FBeo0xNIdzEEo79Zlemo5NRLWKH4q-9_XhjwQdMe6oVN8YX1yHJkm2gmnZxSeWfFXTrhW5oYEDg6gkEi1xJLSHL8SVkw=w1600"
  },
  {
   "content": "Komplizierter Bruch: Ärzte kommen bei Visite auf keinen gemeinsamen Nenner",
