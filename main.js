@@ -23,9 +23,28 @@ const {
   button,
 } = tagl(m);
 const use = (v, f) => f(v);
-
+const INCREMENT = 1000;
 console.log(tickers.length);
 
+window.onload = () => {
+  const tester = document.getElementById("footer");
+  window.onresize = window.onscroll = function () {
+    if (checkVisible(tester)) {
+      MAX += INCREMENT;
+      MAX = min(selection.length, MAX);
+      m.redraw();
+    }
+  };
+};
+
+function checkVisible(elm) {
+  var rect = elm.getBoundingClientRect();
+  var viewHeight = Math.max(
+    document.documentElement.clientHeight,
+    window.innerHeight
+  );
+  return !(rect.bottom < 0 || rect.top - viewHeight >= 0);
+}
 const themes = ["default", "dark"];
 let brightness = localStorage.getItem("brightness") || 0;
 
@@ -62,12 +81,14 @@ goDark(brightness);
 /** Page state */
 let range = 0;
 let search = "";
+let MAX = INCREMENT;
 let byAuthor = [];
 
 const parseQueryString = () => {
   const data = m.parseQueryString(window.location.search);
   range = +data.range || 0;
   search = data.search || "";
+  MAX = data.max || MAX;
   byAuthor = data.byAuthor || [];
   console.log(data);
 };
@@ -78,6 +99,7 @@ const buildQueryString = () => {
   const query = m.buildQueryString({
     range,
     search,
+    max: MAX,
     byAuthor,
   });
 
@@ -169,6 +191,7 @@ const createFuse = () => {
 
 const updateAuthors = () => {
   fuse = createFuse();
+  MAX = INCREMENT;
   selection = fuse.search(search);
   if (byAuthor.length > 0) {
     //console.log(byAuthor);
@@ -218,7 +241,7 @@ m.mount(document.body, {
         " geht's zum Original auf der Postillon Seite"
       )
     ),
-    div.outerContainer(
+    div.outerContainer.$wrapper(
       div.ml1vw(
         div.container(
           div.row(
@@ -229,6 +252,7 @@ m.mount(document.body, {
                 placeHolder: "Suchbegriff eingeben",
                 oninput: (e) => {
                   search = e.target.value;
+                  MAX = INCREMENT;
                   selection = fuse.search(search);
                   updateAuthors();
                 },
@@ -265,6 +289,7 @@ m.mount(document.body, {
                 value: range,
                 oninput: (e) => {
                   range = +e.target.value;
+                  MAX = INCREMENT;
                   fuse = createFuse();
                   selection = fuse.search(search);
                   updateAuthors();
@@ -273,9 +298,25 @@ m.mount(document.body, {
             )
           )
         ),
-        "Hier sind " + selection.length + " von " + selection.length + ". ",
+        "Hier sind " +
+          min(MAX, selection.length) +
+          " von " +
+          selection.length +
+          ". ",
+        MAX < selection.length
+          ? a(
+              {
+                onclick: () => {
+                  MAX = selection.length;
+                  buildQueryString();
+                },
+              },
+              "Zeige alle!"
+            )
+          : null,
         hr(),
         selection
+          .slice(0, MAX)
           .map((e) => e.item)
           .map((ticker) =>
             div.ticker(
@@ -312,10 +353,25 @@ m.mount(document.body, {
             )
           ),
         hr(),
-        "Das waren " + selection.length + " von " + selection.length + ". "
+        "Das waren " +
+          min(MAX, selection.length) +
+          " von " +
+          selection.length +
+          ". ",
+        MAX < selection.length
+          ? a(
+              {
+                onclick: () => {
+                  MAX = selection.length;
+                  buildQueryString();
+                },
+              },
+              "Zeige alle!"
+            )
+          : null
       )
     ),
-    footer(
+    footer.$footer(
       p(
         a(
           { href: "https://github.com/abulvenz/postillion-newsticker" },
