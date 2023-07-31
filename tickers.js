@@ -110643,5 +110643,65 @@ export const tickers =
    "par"
   ],
   "num": "1"
+ },
+ {
+  "content": "Bekommt noch eine zweite Chance: Wegen Mordversuchs Angeklagter freigesprochen",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1979.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1979",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilQDWXBdnAfHyJ38XOKh5TR8g5FpgrkIbZ35K2YzWGpmnSbqcmNcmCu4tMeAeA6bYUS2Qp_SPTBnByk07GuW_CGtr7zt0SjoRsQhFffjkn8Bm8M5YFIlGjnx2IzF-XBMDpMf5RpoyOeULPMffrmb8GCQAHedQU7g8M8ZigTjZ1HgkQtnMPcTCkx6amkuj2/w1600/tickerzweitechance1.png"
+ },
+ {
+  "content": "Borte in der Nase: Näherin langweilte sich",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1979.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "1979"
+ },
+ {
+  "content": "Hat ihm den Vogel gezeigt: Musk entlässt X-Mitarbeiterin",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1979.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "1979"
+ },
+ {
+  "content": "Sterbliche über Äste: Leichenteile an Baum aufgehängt",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1979.html",
+  "creators": [
+   "ols"
+  ],
+  "num": "1979"
+ },
+ {
+  "content": "Imker kehrt im Imkerkerkererker: Bienenzüchter säubert Kelleranbau",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1979.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1979"
+ },
+ {
+  "content": "Die Reuls: NRW-Innenminister eng verwandt mit Britischem Königshaus",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1979.html",
+  "creators": [
+   "oga",
+   "sum"
+  ],
+  "num": "1979"
+ },
+ {
+  "content": "An die Wand geworfen: Lehrerin zerstört Dia-Projektor trotz korrekter Darstellung von Bildern",
+  "url": "https://www.der-postillon.com/2023/07/newsticker-1979.html",
+  "creators": [
+   "p2k",
+   "oga",
+   "rbo"
+  ],
+  "num": "1979"
  }
 ]
