@@ -110703,5 +110703,65 @@ export const tickers =
    "rbo"
   ],
   "num": "1979"
+ },
+ {
+  "content": "Grüner wird's nicht: Hupe reißt Habeck aus Träumen von Kanzlerschaft",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1980.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "1980",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim27ku8IolhzN6bcE4N6dLsBblwrmx3g9O1_IY1JsF6Zwrb05GBoitwa8_OExL-NU4M13KfToDNy6xLMh95792CFE4SxRjVIVIjk3nVyArgEnWGl2PaISw1pE2S8H1GzdHSQOmMPzhRpdNiHnhJy2ZyN-JguvCE5ZqH1vYiR4aaPCig-fY_I3PIYC5psKw/w1600/tickergru%CC%88nehupe.png"
+ },
+ {
+  "content": "Sah Turnringe: Schusseliger Astronom richtete Teleskop auf Sporthallenfenster",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1980.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1980"
+ },
+ {
+  "content": "So oder ähnlich ist es vorgefallen: Mutter versucht Schürfwunde des Kindes zu erklären",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1980.html",
+  "creators": [
+   "mct"
+  ],
+  "num": "1980"
+ },
+ {
+  "content": "Erhält den Nobellpreis: Züchter von stummer Hunderasse prämiert",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1980.html",
+  "creators": [
+   "zac",
+   "tea"
+  ],
+  "num": "1980"
+ },
+ {
+  "content": "Spielende: WM-Kommentator gendert bis zum Abpfiff",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1980.html",
+  "creators": [
+   "mvt"
+  ],
+  "num": "1980"
+ },
+ {
+  "content": "\"Wie schön, dass wir Beiß-Ammen sind\": Zombie-Kinderfrauen feiern Geburtstag",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1980.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "1980"
+ },
+ {
+  "content": "Mit Einlage verschwunden: Inkontinenter Gemüsesuppenkoch hinkt jonglierend samt Firmenkapital davon",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1980.html",
+  "creators": [
+   "stp",
+   "cbe",
+   "wso"
+  ],
+  "num": "1980"
  }
 ]
