@@ -110763,5 +110763,64 @@ export const tickers =
    "wso"
   ],
   "num": "1980"
+ },
+ {
+  "content": "Pferdheiler Karsten: Tierarzt behebt Stromausfall",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1981.html",
+  "creators": [
+   "mta",
+   "wrb"
+  ],
+  "num": "1981",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-rR_MIbnoAgbI10hv3I22V9ufR91AHHSu6r0419-hnt6qE_1uwVLZoJqv7ow33zzagjAI9JHYuAd6ZV1NxFU8LH7ptOR9H1fORW1B2paCqoJWMK33Y0KvKPo7pHxysUI1xcXi3zX58fRc-OI_pWXibgZ041bXnJjGku2CEHn9D9nZWzMeYYDdSEyTrrU/w1600/tickerkarsten.png"
+ },
+ {
+  "content": "Dann halt nicht: Fahrlehrer gibt es auf, renitentem Schüler das Bremsen beizubringen",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1981.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1981"
+ },
+ {
+  "content": "Irre Parabel: Rekordwurf endet für Kugelstoßer mit unheilbarer Schulterverletzung",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1981.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "1981"
+ },
+ {
+  "content": "Liegen auf einer Linie: Schiri und Assistent einigen sich auf Siesta",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1981.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "1981"
+ },
+ {
+  "content": "Weiße Nixe: Italiener verweigert Zeugenaussage zu Meerjungfrausichtung",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1981.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "1981"
+ },
+ {
+  "content": "Pisst Oreos: Verteidigungsminister vollbringt Wunder bei Soldatenverpflegung",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1981.html",
+  "creators": [
+   "tky",
+   "sch"
+  ],
+  "num": "1981"
+ },
+ {
+  "content": "Läuft jetzt in anderen Bahnen: ICE-Schaffner krempelt Leben nach Burnout um",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1981.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "1981"
  }
 ]
