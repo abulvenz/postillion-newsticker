@@ -110822,5 +110822,62 @@ export const tickers =
    "stv"
   ],
   "num": "1981"
+ },
+ {
+  "content": "So kommen wir ins Geschäft: Einbrecher akzeptiert Angebot für Brecheisen",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1982.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "1982",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyNOZQIziC2p_9vfwNt3EiaoEK_cXckXjTt2gQZAtqiSiffIw_x2eNLEupozdLPT2l2OtWFQJiqVziWvj6jqYSnqy6O4M8esvZFW2Vh7rydzSSl_e_4nb3F7IaiQkYuS1MYveFPYBYXCd2pCfJDu8p-1PYXT_3hSVJfj8-hAYYUXfpilVCo_pCd3HhSISS/w1600/tickerbrecheisen1.png"
+ },
+ {
+  "content": "Die küsste Spahn, Jens: TUI-Mitarbeiterin dankt Politiker für Rundreisebuchung",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1982.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1982"
+ },
+ {
+  "content": "Raubein: Pinocchio teils ungehobelt",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1982.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1982"
+ },
+ {
+  "content": "DIN-O-Saurier: Normungsinstitut kreiert neue Größenordnungen für Riesenechsen",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1982.html",
+  "creators": [
+   "exc"
+  ],
+  "num": "1982"
+ },
+ {
+  "content": "Das muss man ihm nicht zweimal sagen: Senior empfiehlt neues Hörgerät gerne weiter",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1982.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1982"
+ },
+ {
+  "content": "Khan-Abbiss: Archäologen entdecken Zahnspuren auf mongolischem Joint",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1982.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "1982"
+ },
+ {
+  "content": "Wird wieder auf die Beine kommen: Erkrankter Nylon-Fetischist auf dem Weg der Besserung",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1982.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1982"
  }
 ]
