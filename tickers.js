@@ -110879,5 +110879,63 @@ export const tickers =
    "oga"
   ],
   "num": "1982"
+ },
+ {
+  "content": "Legen Wert auf ein geflecktes Äußeres: Tüpfelhyänen bei Paarung wählerisch",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1983.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1983",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSTcMzQnUUxhev_Vp-D6uQ3LsCwLptKlAwm-XXJPAhQgaktfGNya5N2r-jqa1ZxvutI3cZuYHVlPZGoBmODYuXI-neXrAD0uiQ3PYt4Ap0X3B1eos1At755ASNFb4GrsQS6Bxh_eGcYQ1fafrC1BmdVFBAiLzXxkUeoBEY_EXuT1nlqIMzJWBM1kab4u1d/w1600/tickerhya%CC%88neplural.png"
+ },
+ {
+  "content": "Klar, Motten: Ursache für ruinierte Garderobe unverkennbar",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1983.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "1983"
+ },
+ {
+  "content": "Ist an etwas Großem dran: Impfgegner entdeckt Mikrochip in fremdem Stuhlgang",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1983.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "1983"
+ },
+ {
+  "content": "Fords Eichen stehen schlecht: Harrison wird sein Waldstück wohl abholzen müssen",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1983.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1983"
+ },
+ {
+  "content": "Turmspringer: Olympiateilnehmer erfindet neue Schachfigur",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1983.html",
+  "creators": [
+   "cne"
+  ],
+  "num": "1983"
+ },
+ {
+  "content": "Wann ist Einmannheim an?: Grönemeyer verlangt Strom für Tiny House",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1983.html",
+  "creators": [
+   "wso",
+   "tom"
+  ],
+  "num": "1983"
+ },
+ {
+  "content": "Augen zu und durch: Küchenchef mit Narkolepsiediagnose möchte Job in Steakhaus nicht aufgeben",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1983.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1983"
  }
 ]
