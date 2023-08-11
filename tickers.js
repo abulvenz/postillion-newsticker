@@ -110937,5 +110937,64 @@ export const tickers =
    "stp"
   ],
   "num": "1983"
+ },
+ {
+  "content": "Elf mäht da: Fabelwesen stutzt Rasen noch mal schnell vor Strafstoß",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1984.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "1984",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirUDqZAByn_niiNmMIWX8JIg7B9MA0sFsic3d8hGPUKsE99D--jLUboUS2Kdwb2bXudXaaFO7g2UxMPJo1cDURcwsKOAcLd8EPy4E7rspQ291U02NXg2JRBqmuhcUKFWfWaASJda32S-NNELG1VsT6yoQ2r-y0fpx8uO16enRnEEP_7lVpk6PWmxpBsttT/w1600/tickerelfma%CC%88htda2.png"
+ },
+ {
+  "content": "Saupreiß: Brandenburger gewinnt Bayerischen Wettbewerb der Schweinedressur",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1984.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "1984"
+ },
+ {
+  "content": "Mag Edding: Werbefachmann vertreibt Filzstifte",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1984.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "1984"
+ },
+ {
+  "content": "Ivan: Russe baut GPS-Gerät verkehrt herum ein",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1984.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1984"
+ },
+ {
+  "content": "Litt Fasseule? Tierschützer plakatieren gegen Vogelhaltung in Bierbehälter",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1984.html",
+  "creators": [
+   "s0l",
+   "tky"
+  ],
+  "num": "1984"
+ },
+ {
+  "content": "Drei-Tage-Bart: Neugeborener Sohn hält Homer Simpson vom Rasieren ab",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1984.html",
+  "creators": [
+   "lia"
+  ],
+  "num": "1984"
+ },
+ {
+  "content": "Tür-Quiche für Hanf-Fänger: Elyas M'Barek bekommt nach zugeworfenem Joint Rahmkuchen am Ausgang gereicht",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1984.html",
+  "creators": [
+   "tei",
+   "kly"
+  ],
+  "num": "1984"
  }
 ]
