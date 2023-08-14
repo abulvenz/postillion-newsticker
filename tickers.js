@@ -110996,5 +110996,63 @@ export const tickers =
    "kly"
   ],
   "num": "1984"
+ },
+ {
+  "content": "Tiefgreifendes Erlebnis: Taschendieb-Azubi feiert ersten Erfolg",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1985.html",
+  "creators": [
+   "cbe",
+   "frcx"
+  ],
+  "num": "1985",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVFf-FxjRpGN6VDMB9PDaH_9cceUNHIXmWUGkdUQxQfFAgZPFDx1EHhCL8R4ksEXA87-8esSieVM_gUzMFuW3CMPh24ELA_u71RQOahf4zV3I2TXXSaHpI8sf7XN2pmzOA03_G3W0FxsXBtgcDQo1SurKiDX4wSm_fa0THaUmEQGP7i-75kqNshZXkLdXE/w1600/tickertaschendieb2.png"
+ },
+ {
+  "content": "Ich, Echse, stiere: Leguan erkennt sich selbst im Spiegel",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1985.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "1985"
+ },
+ {
+  "content": "Überschaubarer Tätergreis: Kleinwüchsiger Rentner einziger Verdächtiger in Mordfall",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1985.html",
+  "creators": [
+   "hem"
+  ],
+  "num": "1985"
+ },
+ {
+  "content": "Finn Hansen: Däne ist begeisterter Buchhalter",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1985.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "1985"
+ },
+ {
+  "content": "Comic-Strip: Sich entblößende Minnie Maus frei ab 18",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1985.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "1985"
+ },
+ {
+  "content": "Mit einem roten Lammburkini: Muslimin in Winterbademode geblitzt",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1985.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1985"
+ },
+ {
+  "content": "\"Schön, dass ich Elfen konnte\": Französischer Schauspieler springt kurzfristig als Fabelwesendarsteller ein",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1985.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1985"
  }
 ]
