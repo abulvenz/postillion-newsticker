@@ -111054,5 +111054,63 @@ export const tickers =
    "sum"
   ],
   "num": "1985"
+ },
+ {
+  "content": "Paterporn: Sexvideo bringt westfälischen Pfarrer in Erklärungsnot",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1986.html",
+  "creators": [
+   "viv",
+   "evw"
+  ],
+  "num": "1986",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHh3FBvLhrl1-xM3rSawnXOPJJblmvZlFCdFFGPthUTEkeBDM1mmxU4Q16zX8hOv4pLpuz2zAcfIMJeakedBsDV5Xms013xT9YRAEAhyyOG0lEgn_quWj1B6VEyuELCCEaFi-w_lcfTa5ac3q9xcV9BsC3EzUq5tvfHoZAc2iHEkhvJR-Ym7Te9TBpOceZ/w1600/tickerpaterporn%202.png"
+ },
+ {
+  "content": "Skifahrturm: Italiener nutzt Sehenswürdigkeit für Wintersport",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1986.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "1986"
+ },
+ {
+  "content": "Nur vorgeschoben: Klippensturz von Rollstuhlfahrer war kein Selbstmord",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1986.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "1986"
+ },
+ {
+  "content": "Ale: Sämtliche Legastheniker mögen englisches Bier",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1986.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1986"
+ },
+ {
+  "content": "Raus mit der Sprache: AfD fordert Erklärung, wieso Arabisch noch nicht verboten wurde",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1986.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "1986"
+ },
+ {
+  "content": "Hunde-Libellen beißen nicht: Kuriose Tierkreuzung harmloser als gedacht",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1986.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "1986"
+ },
+ {
+  "content": "Der Drops ist abgefahren, der Zug ist gelutscht: Kandidat kann Redewendungsquiz nicht mehr gewinnen",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1986.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1986"
  }
 ]
