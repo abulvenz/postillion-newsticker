@@ -111112,5 +111112,62 @@ export const tickers =
    "oga"
   ],
   "num": "1986"
+ },
+ {
+  "content": "Nur ein Kotzurlaub: Freunde fliegen übers Wochenende zum Ballermann",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1987.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "1987",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdrb0TZjGBUyne6OA3MbqnNAUbypdRF0oEMRhjuCkC14xRr4LQJidlcKbUOPbsnkrIjWCuoO6c26_lSDQH0LTQEI1Oc4EjAeCOI2C-bra-p5cLqvdBON2yo3oRTtmRj1-_frAfrw-CCFcnke1OAIy_cOLNUYsWLZ0c0G21el0Q4uE5WuLHDYzEpAprSa82/w1600/tickerkotzurlaub.png"
+ },
+ {
+  "content": "Noch ist nicht alles verloren: Fundbüroangestellte wehren sich gegen Schließung",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1987.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1987"
+ },
+ {
+  "content": "Anja: Technikerin bestätigt Inbetriebnahme von Maschine",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1987.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1987"
+ },
+ {
+  "content": "Da ist sie eiskalt: Frau steckt Gatte ohne Vorwarnung ihre Füße unter die Decke",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1987.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "1987"
+ },
+ {
+  "content": "MAOAM werfen: Historisches Foto zeigt Diktator auf Karnevalswagen",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1987.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "1987"
+ },
+ {
+  "content": "Trogschluss: Schwein dachte, es gäbe noch Futter",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1987.html",
+  "creators": [
+   "aya"
+  ],
+  "num": "1987"
+ },
+ {
+  "content": "\"Sie sind der Mainunk, das war Speedsee!\": Hans Rosenthal feiert Flusskröte für Erkennung von Amphetaminpfütze",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1987.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1987"
  }
 ]
