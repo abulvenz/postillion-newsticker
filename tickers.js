@@ -111169,5 +111169,63 @@ export const tickers =
    "wso"
   ],
   "num": "1987"
+ },
+ {
+  "content": "Wissen nicht, wie es dazugekommen ist: Familie kehrt mit zusätzlichem Kind aus Urlaub zurück",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1988.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1988",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy-5KIG93BhCHD04Xvum9vJQhHkQBgIesvrpnYSBxrV9ARM8rYtlOOWswh71DL8vXldaGzqWMMUSiSbKgEF6GCv0uqqSl-EI5o4-hyvHIMoy_wvQ5DiDN8xaOeD8ovUj0XG0OWioeqqIdo-_fCB_UnB_A_4Q0PWliBPHUzYY91y5qEVHasTaJzj2UNlvnm/w1600/tickerdazugekommen%202.png"
+ },
+ {
+  "content": "Lieber Aale: Lindner hat Hummer auf Parteitagen satt",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1988.html",
+  "creators": [
+   "edu",
+   "psi"
+  ],
+  "num": "1988"
+ },
+ {
+  "content": "\"Nnnnnnnännnännnännänänän...\": Mutmaßlicher Motorsägenkiller streitet vor Gericht alles ab",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1988.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1988"
+ },
+ {
+  "content": "Genforscher: Biologen eilen ins Labor",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1988.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "1988"
+ },
+ {
+  "content": "Winzohr: König Charles III. fühlt sich durch Namen des Hauses nicht repräsentiert",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1988.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "1988"
+ },
+ {
+  "content": "Nie trog Glitzer ihn: Bombenbauer versteckt Zutat in kitschiger Christbaumkugel",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1988.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1988"
+ },
+ {
+  "content": "\"Machen wir uns nichts vor!\": Vorsitzender des Zentralrats der Pantomimespieler hält gegenseitige Darbietungen für Zeitverschwendung",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1988.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "1988"
  }
 ]
