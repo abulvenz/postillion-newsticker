@@ -111227,5 +111227,62 @@ export const tickers =
    "p2k"
   ],
   "num": "1988"
+ },
+ {
+  "content": "Blumig im Abgang: Verstorbener Weinkenner mit vielen Kränzen bedacht",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1989.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1989",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIQKuLzB7PxqvFzNNQC6l3ryX5RmIrrH-kvqwtSTnZg9ZkEg_34y9tY2nkWg16pUTQv6Te6Tcfvy8NGK10lc5LqCGXHLMu68qiyZ2zqb65m3BnyxIw1qyEoW3JYkGdyCOYky7uU7_E1aMoIkJm0Gp-IDkKfpJJn9mz4rRgQbM7eOJPGhpLg4ZXdyh-OGPm/w1600/tickerblumigerabgang.png"
+ },
+ {
+  "content": "\"Kam 'n Bär!\": Jäger erzählt Käse",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1989.html",
+  "creators": [
+   "lia"
+  ],
+  "num": "1989"
+ },
+ {
+  "content": "Von der Lippe: Comedian entfernt NRW-Flusswasser aus Gesicht",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1989.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "1989"
+ },
+ {
+  "content": "Drüber hinweggesetzt: Geburtstagskind begeht Regelverstoß bei Reise nach Jerusalem",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1989.html",
+  "creators": [
+   "psi"
+  ],
+  "num": "1989"
+ },
+ {
+  "content": "Ein Mann wie Einbaum: Kanu Reeves",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1989.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1989"
+ },
+ {
+  "content": "Steht ihm mit Ratatat zur Seite: Gangster froh über Leibwächter mit Maschinenpistole",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1989.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "1989"
+ },
+ {
+  "content": "Hatte ein gutes Herz: Ehemann verkaufte Pumpe von treusorgender Ehefrau an meistbietenden Organhändler",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1989.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1989"
  }
 ]
