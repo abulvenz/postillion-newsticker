@@ -111284,5 +111284,62 @@ export const tickers =
    "stp"
   ],
   "num": "1989"
+ },
+ {
+  "content": "Vorhof flimmert: Herzkranker muss trotz Hitze Einfahrt fegen",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1990.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1990",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBDmqrRCv8Pw95gZFPHuIIQeQJNhr9Q4U6-jvlmi07zU4M7qHc90bFAlLP9oItHiecJc2rA72vp6CnO5CP5U08Stye4_VJhnF88rPeT8BR726DP2Bi-IY6_b2Wr2eZoKuHFmPuYaX_WSHWkjkmTTc6uyttQMZtwHHGPOc-gO_QrfrbTmSsa9HR-FyhhZ4_/w1600/tickervorhof3.png"
+ },
+ {
+  "content": "Schicken Nuggets: Faule Goldgräber bestellen bei Fastfood-Lieferdienst",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1990.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "1990"
+ },
+ {
+  "content": "Mach' ich glatt: Mann erfüllt Freundin gerne Bitte um Intimrasur",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1990.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "1990"
+ },
+ {
+  "content": "Schloss Türnich: Rheinischer Adliger bekommt nach Einbruch kein Geld von Versicherung",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1990.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1990"
+ },
+ {
+  "content": "Gibt keine Fehler zu: Nikolaus schiebt alles anderen in die Schuhe",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1990.html",
+  "creators": [
+   "lia"
+  ],
+  "num": "1990"
+ },
+ {
+  "content": "Hoch zu Ross: Mann reitet in Antonys Etagenwohnung ein",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1990.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "1990"
+ },
+ {
+  "content": "\"Wie, der Spruch ist zwecklos?\": Junghexe will Versagen in praktischer Prüfung nicht wahrhaben",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1990.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "1990"
  }
 ]
