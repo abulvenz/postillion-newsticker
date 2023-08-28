@@ -4,7 +4,7 @@
   "description": "Extraction of very important lines of poetry.",
   "scripts": {
     "start": "parcel index.html",
-    "build": "node index.mjs && rm -rf ./docs/ && parcel build --dist-dir=docs --public-url=https://abulvenz.github.io/postillion-newsticker/ index.html ",
+    "build": "node index.mjs && rm -rf ./docs/ && parcel build --dist-dir=docs --public-url=https://abulvenz.github.io/postillion-newsticker/ index.html && cp tickers.json docs/",
     "dev": "nodemon index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

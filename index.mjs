@@ -256,6 +256,11 @@ if (scheduledURLs.length === 0) {
 }
 
 fs.writeFileSync(
+  "tickers.json",
+  JSON.stringify(tickers, null, 1)
+);
+
+fs.writeFileSync(
   "tickers.js",
   "export const tickers = \n" + JSON.stringify(tickers, null, 1)
 );
