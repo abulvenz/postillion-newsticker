@@ -1,6 +1,65 @@
 export const tickers = 
 [
  {
+  "content": "Mord vor Supermarktregal: Die Ermittlungen sind im Gange",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1991.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "1991",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-kM_0rXxJYjpCueRuCCTDELYm16olKSUgyekRO_JzP3T-V92Q9Ov0o-IhK5R75VxEEESNxxXD3eN0k_RAWPEQ9GWr9B1UDN1skacap6efV4jT5_qyrEpRQBp1d2865J_SdmWGD3cQ68a1KwWRsF9Lrnmc4EzSerLGqu8SFbC-ga1emJhX18uxpJ_jcyvn/w1600/tickermordimgange.png"
+ },
+ {
+  "content": "Martin, nick': Ehefrau bittet um Zustimmung zu Karibikurlaub",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1991.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "1991"
+ },
+ {
+  "content": "Macht die Rouladen runter: Mann beleidigt Essen lieber im Dunkeln",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1991.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1991"
+ },
+ {
+  "content": "Klarer Gaywitz: Bauministerin nach Schwulenscherz im Shitstorm",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1991.html",
+  "creators": [
+   "wrb",
+   "arc"
+  ],
+  "num": "1991"
+ },
+ {
+  "content": "Das heißt noch nichts: Kleinkind ohne Namen kann trotzdem schönes Leben haben",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1991.html",
+  "creators": [
+   "tom",
+   "p2k"
+  ],
+  "num": "1991"
+ },
+ {
+  "content": "Toy \"Felskreis\": Engländer kann nicht aufhören, Stonehenge aus Klötzchen nachzubauen",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1991.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "1991"
+ },
+ {
+  "content": "Geht auf seinen Wunsch ein: Florist verkauft Kunden welkende Blume",
+  "url": "https://www.der-postillon.com/2023/08/newsticker-1991.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "1991"
+ },
+ {
   "content": "Vorhof flimmert: Herzkranker muss trotz Hitze Einfahrt fegen",
   "url": "https://www.der-postillon.com/2023/08/newsticker-1990.html",
   "creators": [
@@ -86600,7 +86659,7 @@ export const tickers =
    "sjs"
   ],
   "num": "500",
-  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8My9dwsMI-V3TXUBQ-1EEedljEkRbQoH3igkGRIX5Mz0Zhh88AryTNqf6u49v_18T3wffoDI6qSMpDxKdivK2YALiLxjHL5bKaSwUaf_zjBXykkuFpWuexjA2pBjVX8W0YNhVvS00Q=w1600"
+  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MzsnOoRb5Tn0tMICLvY6sGOsKiGIyawkDJ-kU-u7fw8ve-35B-AKHlUPY9i8il3uh_fA9RAeYCL4rAAdBY6gukDySRb3vBO9P_aavrRF1QShuL4PfRf1vEUoJgUB4h8NWf79nvi0Q=w1600"
  },
  {
   "content": "Komplizierter Bruch: Ärzte kommen bei Visite auf keinen gemeinsamen Nenner",
