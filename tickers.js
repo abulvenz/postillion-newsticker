@@ -111459,5 +111459,64 @@ export const tickers =
    "tky"
   ],
   "num": "1992"
+ },
+ {
+  "content": "Dann Wollmama: Tierarzt beginnt Entbindungshilfe bei Schaf",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1993.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "1993",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUtar4-Yp26uS1Qgn2-_lDtvKu6PYlLMqI87lGl8vg9TK3VAXBQkwkri1AMLZnCtzPShyXNDEIo9sdm9G37-4XK7UjwUww6KgpkXKawUQ9-gQMcfODSi2LYqnBLFqoXBvrSF01q_8n7pH6adGQyUGICr3EODgrERj99NIh_N_c-ZKwdFs4vtuBlP-aO396/w1600/tickerwollmama.png"
+ },
+ {
+  "content": "Ist im Eimer: Imbissbetreiberin stellte Mayonnaise neben die Heizung",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1993.html",
+  "creators": [
+   "mth",
+   "hpk"
+  ],
+  "num": "1993"
+ },
+ {
+  "content": "Eberhart: Revierförster findet steifgefrorenen Keiler",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1993.html",
+  "creators": [
+   "hso"
+  ],
+  "num": "1993"
+ },
+ {
+  "content": "Musgetier: D'Artagnan findet Maden im Kompott",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1993.html",
+  "creators": [
+   "tky",
+   "jeo"
+  ],
+  "num": "1993"
+ },
+ {
+  "content": "Das warme Wasser des Nils: Flußabwärts badender Ägypter verdächtigt Holgersson",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1993.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1993"
+ },
+ {
+  "content": "Bekam viel an den Kopf geworfen: Athletiktrainer beleidigt unfähige Kugelstoßerin",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1993.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1993"
+ },
+ {
+  "content": "Besitzt noch einen Skat-Anschluss: Alter Röhrenfernseher bestens für Übertragung von Kartenspiel geeignet",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1993.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "1993"
  }
 ]
