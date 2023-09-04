@@ -111518,5 +111518,63 @@ export const tickers =
    "kol"
   ],
   "num": "1993"
+ },
+ {
+  "content": "Vorbeugeuntersuchung: Proktologe tastet stehenden Patienten ab",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1994.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "1994",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyMEfWwSA1KwnLkep4VkVtoZPbVk7CeUqPavwA-dE15O2qSzTuJAkp_LKAtllr6gWT6XGDbxicQ9y42WLWyPgBCcJ-veR74YEFuFTCQPOFP2rpNrBTmtHZ82cBYBrKqWN7t8BX_QykRnMZCtmw16NM4gKsqX8jIEgqSV6zEn5Q-Gg7OtMignHmfO315WZR/w1600/tickervorbeuge.png"
+ },
+ {
+  "content": "Schluckauf!: Tod von Fallschirmspringer geklärt",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1994.html",
+  "creators": [
+   "adl"
+  ],
+  "num": "1994"
+ },
+ {
+  "content": "Wie du mir, Seuchtier: Pestkranker beißt Ratte",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1994.html",
+  "creators": [
+   "dep"
+  ],
+  "num": "1994"
+ },
+ {
+  "content": "La Café: Schnösel moniert Grammatik von Gastronomiewerbetafel",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1994.html",
+  "creators": [
+   "marc",
+   "sch"
+  ],
+  "num": "1994"
+ },
+ {
+  "content": "Spannungsabfall: Langweiliger Krimi über ermordeten Elektriker ist echt für die Tonne",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1994.html",
+  "creators": [
+   "lia"
+  ],
+  "num": "1994"
+ },
+ {
+  "content": "Raab aber: Niemand außer Stefan mag Knöterichgewächs",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1994.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "1994"
+ },
+ {
+  "content": "Wollte ruhen, musste gehen: Teig sauer",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1994.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1994"
  }
 ]
