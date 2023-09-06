@@ -111576,5 +111576,62 @@ export const tickers =
    "oga"
   ],
   "num": "1994"
+ },
+ {
+  "content": "\"Du speist mit uns!\": Bulimikerpaar setzt auf strenge Erziehungsmethoden",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1995.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1995",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiYu84Wultv3dHabeEfxBcj7RGKXO3BYBvsB3Sg98wzeFvVSZkG1dUbJHuWyj0pxO7CFaC_qLFBz6UVZdbLhfrA4B1LIeekF00Uu_vzuhw9dTTuyrtFBbU38QYOSxtrq2HIlnF10U1eikyDhaEc5Qexta9gpJKwpnCy6GzeOCydfyCuihtmRUaXUZJrwJI/w1600/tickerduspeist.png"
+ },
+ {
+  "content": "Leicht zu durchschauen: Geist beim Lügen erwischt",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1995.html",
+  "creators": [
+   "dep"
+  ],
+  "num": "1995"
+ },
+ {
+  "content": "Zu Rick gezogen: Bully Herbig genießt Ruhestand in Kavanians Haus",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1995.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "1995"
+ },
+ {
+  "content": "Mit eigenem Beutel: Umweltbewusstes Känguru geht einkaufen",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1995.html",
+  "creators": [
+   "elw"
+  ],
+  "num": "1995"
+ },
+ {
+  "content": "Extra poliert: Mathematiker rechnet mit hohem Verkaufspreis für gepflegtes Fahrzeug",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1995.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1995"
+ },
+ {
+  "content": "Coward: Ängstlicher Engländer verkriecht sich unterm Tisch",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1995.html",
+  "creators": [
+   "lia"
+  ],
+  "num": "1995"
+ },
+ {
+  "content": "\"Ach Deern\": Matrose verwundert, dass Prostituierte plattdeutsches Wort für \"hinten\" nicht versteht",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1995.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "1995"
  }
 ]
