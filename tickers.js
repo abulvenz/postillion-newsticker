@@ -111633,5 +111633,62 @@ export const tickers =
    "tky"
   ],
   "num": "1995"
+ },
+ {
+  "content": "\"Bronze, Silber und Gold hab ich nie gewollt\": Wolfgang Petry beendet Schwimmkarriere nach Seepferdchen",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1996.html",
+  "creators": [
+   "sge"
+  ],
+  "num": "1996",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmy19ClGvUYfbDMUL8p_qpkyeHg2qUVFkwKyGuyXXEUA2gCp9L7dHwu1KLgfDT7Pr_DTDUoBitY4NBBLo742kfSZg4_E7hfknGARo0U44nEDBM8MrnDi5eVF4apDopciU7Li0p7jy2BQdfI3RbhWuzbmOIMwkBtGduvbWR_JgQge0xOaS7pKXaEGgbNV8m/w1600/tickerwolfgangpetry3.png"
+ },
+ {
+  "content": "Laib, wech da!: Personenschützer fordert Brot auf, zurückzutreten",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1996.html",
+  "creators": [
+   "s0l"
+  ],
+  "num": "1996"
+ },
+ {
+  "content": "Ausgelassener Speck: Bacon hüpft in Pfanne herum",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1996.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "1996"
+ },
+ {
+  "content": "Wie dumm einst: Frau bereut im Nachhinein Reaktion auf Heiratsantrag ihres Gatten",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1996.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1996"
+ },
+ {
+  "content": "Serienmarder: Wiesel setzt sämtliche Fahrzeuge eines Straßenzuges außer Betrieb",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1996.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1996"
+ },
+ {
+  "content": "Trotzki: Kommunist kommt die Piste nicht runter",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1996.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "1996"
+ },
+ {
+  "content": "Holt noch mal alles aus sich raus: Porno-Darsteller macht am letzten Arbeitstag nur Cumshots",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1996.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "1996"
  }
 ]
