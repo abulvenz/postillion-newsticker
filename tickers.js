@@ -111690,5 +111690,62 @@ export const tickers =
    "frcx"
   ],
   "num": "1996"
+ },
+ {
+  "content": "Da fehlen ihr die Worte: Frau bekommt vom Gatten Bilderbuch geschenkt",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1997.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "1997",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOSujDskDiRJjhfu9bnvifA3VIWwNMtt0oz7ncX8Rw7FWaxUtpWlAmo2iuJW_yaB1LacHNLO5iJaStoBcVU1bNWlN5f2fLrNmp68WC4L9VzVW2hfCY4qHRL0hhX5gyUCzSsOn-5uiT5Gs0i5GjLCbK0PdRNj5JCrcGFPMyIJCDx9kIF-pEDrUA9hbkGh0L/w1600/tickerbilderbuch.png"
+ },
+ {
+  "content": "Geh-Orgien: Nacktwanderungen in Kaukasusrepublik enden in sexuellen Ausschweifungen",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1997.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "1997"
+ },
+ {
+  "content": "Hat eine große Klappe: Scholz gibt Sportunfall als Kriegsverletzung aus",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1997.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "1997"
+ },
+ {
+  "content": "Muhn: Kühe verkünden englisches Wort für Mond",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1997.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "1997"
+ },
+ {
+  "content": "Räumte ordentlich ab: \"Kellner des Jahres\" mit Luxusurlaub belohnt",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1997.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1997"
+ },
+ {
+  "content": "Viel-los-Sophie und Liter-Arthur: Studentenpaar nur selten im Hörsaal",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1997.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "1997"
+ },
+ {
+  "content": "Muss das nachher wieder rausholen: SUV-Fahrer ärgert sich über Verspätung durch im Radkasten verkeiltes Kind",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1997.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1997"
  }
 ]
