@@ -111747,5 +111747,64 @@ export const tickers =
    "sum"
   ],
   "num": "1997"
+ },
+ {
+  "content": "Da kommt die Ablösung: Klimakleber freut sich auf Schichtwechsel",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1998.html",
+  "creators": [
+   "tky",
+   "mth",
+   "ttl"
+  ],
+  "num": "1998",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz3MlNwXu0KsaYbvX31eHaBcVAqn56Krec8Tg5cVsX_G-R1sPiwYsMvSuqaui55WXzw_1M7y33Cqq3BP4fPX9-phiYWSa4Ns3v3JHBO3JqCyJD9T3Tiec8Mq-BNLrvTkOX6Xe5eum0Pp7qSkfP4t_NT97klfmNN_aMGlWEEJno27HAPV0u-3iXv7Ssi626/w1600/ticker_Kleber.jpg"
+ },
+ {
+  "content": "Wählt Mais da: Dennis Schröder bestellt Lieblingsbelag in Pizzeria",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1998.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "1998"
+ },
+ {
+  "content": "Sandalfoto: Muslima zeigt zuviel Fuß",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1998.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "1998"
+ },
+ {
+  "content": "Wollluminös: Dickes Schaf leuchtet",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1998.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "1998"
+ },
+ {
+  "content": "Obst beim Dreier: Basketballstar auch beim Sex gesundheitsbewußt",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1998.html",
+  "creators": [
+   "ca8"
+  ],
+  "num": "1998"
+ },
+ {
+  "content": "Griff \"fis\": Melanie spielte Gitarre",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1998.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "1998"
+ },
+ {
+  "content": "Sagt ihm überhaupt nichts: Schauspieler hat noch nie etwas von wortkargster Souffleuse der Welt gehört",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1998.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "1998"
  }
 ]
