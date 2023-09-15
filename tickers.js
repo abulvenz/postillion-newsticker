@@ -111806,5 +111806,62 @@ export const tickers =
    "tei"
   ],
   "num": "1998"
+ },
+ {
+  "content": "Glied kaputt: Mann verfängt sich in Fahrradkette",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1999.html",
+  "creators": [
+   "a07"
+  ],
+  "num": "1999",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiemGsBAvbhSHy0I1Svkb-olCR9pGvbqRspeBKLWP90cyrG17m635UXiADNgfBTvQMyVPm5kuxdbXlziAwHQBmdIbw8eXfc8-izeeFSzKTCiaTziRgqbpPRiZKz_fmGgQ01u-34MjL4UMeFymfwHkg0z2UoiKB57Etd0CopzYd34Ps4l3-XM4Ef1fkE5V8a/w1600/tickergliedkaputt%202.png"
+ },
+ {
+  "content": "Darß, Ålesund, noch viel Meer: Rio Reiser plant Kreuzfahrt von Ostsee nach Norwegen",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1999.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "1999"
+ },
+ {
+  "content": "Support: Sächsischer IT-Mitarbeiter leidet unter vermehrtem Speichelfluss",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1999.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "1999"
+ },
+ {
+  "content": "\"Ja, bist du der Bert?!\": Sesamstraßen-Star reist ohne Security nach Bayern",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1999.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "1999"
+ },
+ {
+  "content": "London: Pilot verrät, was er in Heathrow vorhat",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1999.html",
+  "creators": [
+   "lia"
+  ],
+  "num": "1999"
+ },
+ {
+  "content": "Krk-Douglas: Schauspieler besucht kroatische Insel-Parfümerie",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1999.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "1999"
+ },
+ {
+  "content": "Bleibt auf dem Teppich: Flohmarktverkäuferin erwartet für Läufer mit Blutfleck keinen Erlös",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-1999.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "1999"
  }
 ]
