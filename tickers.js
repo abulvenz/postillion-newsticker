@@ -111920,5 +111920,62 @@ export const tickers =
    "evw (nicht zufällig die Top 7)"
   ],
   "num": "2000"
+ },
+ {
+  "content": "Ist ihm zu weit: Faulpelz gibt XXXL-Shirt nicht im Laden zurück",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2001.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2001",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuIRVMwY-TFsRzynzh7mFgfiMVtbBiplUgsgHX6J5bq4EfbS_F1IiI43ggki7NFKTyiIMWOLc3ZGzsxsJwTVhG0UKgnWPsH23PSMUPD59djOwGxvKfYNp4ShDuRZ1aLPAt1rTEuSIclRUiBO08yK880SvEpMnJq21E-h1jifXm2Kd4YnArCAQVFnU2oOnI/w1600/tickerfaulpelz.png"
+ },
+ {
+  "content": "Fährbootspartei: Grüne wollen Brücken sperren",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2001.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "2001"
+ },
+ {
+  "content": "Zum Schutze Minderhäriger: Gesetz verbietet Glatzkopfwitze nach 22 Uhr",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2001.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2001"
+ },
+ {
+  "content": "Wollte ihn geschüttelt haben: James Bond braucht im Altenheim Hilfe am Urinal",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2001.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2001"
+ },
+ {
+  "content": "Mieder: Mann machte zeitlebens einen Bogen um Damenunterwäsche",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2001.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2001"
+ },
+ {
+  "content": "Ungeklärt: Umweltbeamter kommt Gewässerverschmutzung nicht auf die Spur",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2001.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2001"
+ },
+ {
+  "content": "\"Fahr Mats heut hin!\": Apothekerin erklärt sich bereit, Hummels zu Spiel zu bringen",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2001.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2001"
  }
 ]
