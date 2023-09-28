@@ -129,7 +129,11 @@ const fetchTickers = async () => {
     const innerTickers = [];
 
     const text = document.querySelector("div.post-body").innerText;
-    text.split("\n").forEach((ticker) => innerTickers.push(String(ticker)));
+    if (text) {
+      text.split("\n").forEach((ticker) => innerTickers.push(String(ticker)));
+    } else {
+      console.log("STRANGE EMPTY BODY", document.querySelector("div.post-body"))
+    }
     return innerTickers;
   });
 };
