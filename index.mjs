@@ -127,12 +127,22 @@ const fetchTickerArticleLinks = async () =>
 const fetchTickers = async () => {
   return page.evaluate(() => {
     const innerTickers = [];
-
-    const text = document.querySelector("div.post-body").innerText;
-    if (text) {
-      text.split("\n").forEach((ticker) => innerTickers.push(String(ticker)));
-    } else {
-      console.log("STRANGE EMPTY BODY", document.querySelector("div.post-body"))
+    try {
+      const text = document.querySelector("div.post-body").innerText;
+      if (text) {
+        text.split("\n").forEach((ticker) => innerTickers.push(String(ticker)));
+      } else {
+        console.log(
+          "STRANGE EMPTY BODY",
+          document.querySelector("div.post-body")
+        );
+      }
+    } catch (error) {
+      console.log(
+        "STRANGE EMPTY BODY",
+        document.querySelector("div.post-body")
+      );
+      problematicTickers.push("STRANGE EMPTY BODY " + url);
     }
     return innerTickers;
   });
@@ -259,10 +269,7 @@ if (scheduledURLs.length === 0) {
   await mainLoop(startURL);
 }
 
-fs.writeFileSync(
-  "tickers.json",
-  JSON.stringify(tickers, null, 1)
-);
+fs.writeFileSync("tickers.json", JSON.stringify(tickers, null, 1));
 
 fs.writeFileSync(
   "tickers.js",
