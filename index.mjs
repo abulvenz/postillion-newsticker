@@ -142,7 +142,7 @@ const fetchTickers = async () => {
         "STRANGE EMPTY BODY",
         document.querySelector("div.post-body")
       );
-      problematicTickers.push("STRANGE EMPTY BODY " + url);
+     // problematicTickers.push("STRANGE EMPTY BODY " + url);
     }
     return innerTickers;
   });
