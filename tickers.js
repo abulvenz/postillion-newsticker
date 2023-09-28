@@ -111977,5 +111977,176 @@ export const tickers =
    "p2k"
   ],
   "num": "2001"
+ },
+ {
+  "content": "Beschlagrahmt: Polizei stellt Sahnetorte sicher",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2004.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2004",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiOgwGRHI5ybzfyV67sslsInGwuGXrdwDkIu8xemc5CJsSDoFolXbOKmy7qHjNbBKOo2KHmf0x4XCIYezi5IPE0kqvsZDWGQqIIiuEvDUpZMLruJp4pppwLFuIvh1hpaMeUPmnOzIafpWD1m17wY9lP6eRj8B1_v365AHgwI_svlG7-KK8fCymDvBnC0oU/w1600/tickerbeschlagrahmt.png"
+ },
+ {
+  "content": "Erschreckend schlecht: Mitarbeiter übersteht Probezeit in Geisterbahn nicht",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2004.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2004"
+ },
+ {
+  "content": "Sorgt für Unmute: Chef bei Videocall leider doch zu hören",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2004.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2004"
+ },
+ {
+  "content": "Hoch angesehen: Renommierte Trapezartisten",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2004.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2004"
+ },
+ {
+  "content": "\"Ja und...äh..:\": Teilnehmer an Geographiequiz errät Kameruns Hauptstadt durch Zufall",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2004.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2004"
+ },
+ {
+  "content": "Affin: Gorilla zeigt Faible für Gendersprache",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2004.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2004"
+ },
+ {
+  "content": "Vanish jetzt, Wahn dann: Höhner-Sänger verspricht sich Rausch nach Einnahme von Putzmittel",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2004.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2004"
+ },
+ {
+  "content": "Plagt ihn: Mann kommt nicht auf englischen Begriff für \"angeschlossen\"",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2003.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2003",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0pohroLiHCtstzRjdOXZTvZhXQC3Q1LrRP51Kf3L8UhBE5QlJemMmbTv9cQIXljDQDVNvvon2hXQtkiF2qWriBO4g0ltdqYtIRMmcNsut8WI6WN4qQUi61ErZAPMVs2qzlC8xJ6Zt4diVO6h5WII9wv2HAH9z1vvAQmIS4f73J2XJVSMiu5UJOIKsagrf/w1600/tickerplagtihn.png"
+ },
+ {
+  "content": "Als Kind in Saubertrank gefallen: Meister Proper verrät Geheimnis seiner Reinigungskraft",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2003.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2003"
+ },
+ {
+  "content": "Die Wiesn: Oktoberfest-Wirte akzeptieren ausländische Währungen",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2003.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2003"
+ },
+ {
+  "content": "Phalanxamt: Behörde für Schlachtformationen arbeitet nicht schnell genug",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2003.html",
+  "creators": [
+   "una"
+  ],
+  "num": "2003"
+ },
+ {
+  "content": "Fand A4: Smudo kommt trotz Zugausfall mit Audi zu Konzert in Aachen",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2003.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2003"
+ },
+ {
+  "content": "Lässt sich ausziehen: Willige Frau auf Schlafsofa verführt",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2003.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2003"
+ },
+ {
+  "content": "Ossi aus Bonn: Black Sabbath Sänger weiß nicht genau, ob er in West- oder Ostdeutschland lebt",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2003.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "2003"
+ },
+ {
+  "content": "\"Warte, haste Duden da?\": Stefan Raab unsicher beim Songtexten",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2002.html",
+  "creators": [
+   "jeo"
+  ],
+  "num": "2002",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZIM4oKoTr9fN5ViJxBq4zcsOHvANM-qKpA9n_NEdfLKwky1tOn-Wjd3OLJIxuRX2_ZvTXLD6J_H6YYnvUvvr9I2-hbhrYUkYqLtMpWtQf6-9tV12mD5I6VCRPWR_UIgh0Lm1Ah9ANK_nRDBiHAA6fU4ODaosa6fWI-vNZEc54Bfqnqlp5fRKxgW8l7IZX/w1600/tickerraab.png"
+ },
+ {
+  "content": "Krähen: Hähne sind eigentlich Raben",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2002.html",
+  "creators": [
+   "ömm"
+  ],
+  "num": "2002"
+ },
+ {
+  "content": "Carb-Fan: Fisch mag Kohlenhydrate",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2002.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2002"
+ },
+ {
+  "content": "Gerammelt voll: Pornokino gut besucht",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2002.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2002"
+ },
+ {
+  "content": "Geiß der Stunde: Gefeiertes Zicklein kommt um Mitternacht endlich aus seinem Versteck",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2002.html",
+  "creators": [
+   "lou"
+  ],
+  "num": "2002"
+ },
+ {
+  "content": "Bekam Gewissenspisse: Kind machte sich nach Diebstahl vor Scham in die Hose",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2002.html",
+  "creators": [
+   "loc"
+  ],
+  "num": "2002"
+ },
+ {
+  "content": "Monopolistenskandal: Krankenkassen sammeln Daten aller Versicherten mit nur einer Arschbacke",
+  "url": "https://www.der-postillon.com/2023/09/newsticker-2002.html",
+  "creators": [
+   "chö"
+  ],
+  "num": "2002"
  }
 ]
