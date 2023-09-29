@@ -88839,8 +88839,7 @@ export const tickers =
   "content": "Die ganze Zeit nur UNO gespielt: Vertreter der Vereinten Nationen machten ihren Job nicht",
   "url": "https://www.der-postillon.com/2013/07/newsticker-478.html",
   "creators": [
-   "n",
-   "u"
+   "n\\u"
   ],
   "num": "478"
  },
