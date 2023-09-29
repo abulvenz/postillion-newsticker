@@ -1,4 +1,19 @@
 export const exceptionalStuffByUrl = {
+  "https://www.der-postillon.com/2012/11/newsticker-387.html": {
+    authors: "mko, n\\u, jd, ?, elb/marc, kuli, grn"
+  },
+  "https://www.der-postillon.com/2013/07/newsticker-478.html": {
+    authors: "marc, jus, rk, rag, tra, chj, n/u"
+  },
+  "https://www.der-postillon.com/2014/03/newsticker-585.html":{
+    authors: "n\\u, marc, rk, mca, sch, sir, fme"
+  },
+  "https://www.der-postillon.com/2013/06/newsticker-474.html": {
+    authors: "jic, mac, ?, chr, \\, chj, marc"
+  },
+  "https://www.der-postillon.com/2023/09/newsticker-2000.html": {
+    authors: "marc, p2k, oga, sum, tom, rag, evw"
+  },
   "https://www.der-postillon.com/2022/05/newsticker-1795.html": {
     num: 1796,
   },
@@ -88,10 +103,6 @@ export const exceptionalStuffByUrl = {
   "https://www.der-postillon.com/2014/01/newsticker-558.html": {
     authors: "nib, ?, bpy, spu, nan, xyu, cha",
   },
-  // "https://www.der-postillon.com/2013/09/newsticker-500-xxl-edition-106.html":{
-  //   authors:"sjs,ess,fla,tod,ax,marc,mig,rk,pta,pet,kmü,tim,tim,dne,tim/ste,par",
-  // },
-
   "https://www.der-postillon.com/2013/09/newsticker-500-xxl-edition-106.html": {
     authors:
       "sjs, ess, fla, tod, ax, marc, mig, rk, pta, pet,kmü, tim, tim, dne, tim/ste, par",
@@ -108,7 +119,6 @@ export const exceptionalStuffByUrl = {
       "Wenig Arbeit wegen geringer Qualifikation: Folterknecht kann nur Däumchendrehen",
     ],
   },
-
   "https://www.der-postillon.com/2012/12/newsticker-392.html": {
     authors: "dlo, frcx, tim, marc, hct, ?, jsm",
     tickers: [
@@ -167,7 +177,6 @@ export const exceptionalStuffByUrl = {
       "--- Wegen Newsticker: sämtliche Pluszeichen aufgebraucht ---",
     ],
   },
-
   "https://www.der-postillon.com/2009/02/newstickernewstickernewsti.html": {
     num: 1,
   },
