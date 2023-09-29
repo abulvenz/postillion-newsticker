@@ -3,7 +3,7 @@ export const exceptionalStuffByUrl = {
     authors: "mko, n\\u, jd, ?, elb/marc, kuli, grn"
   },
   "https://www.der-postillon.com/2013/07/newsticker-478.html": {
-    authors: "marc, jus, rk, rag, tra, chj, n/u"
+    authors: "marc, jus, rk, rag, tra, chj, n\\u"
   },
   "https://www.der-postillon.com/2014/03/newsticker-585.html":{
     authors: "n\\u, marc, rk, mca, sch, sir, fme"
