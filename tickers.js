@@ -112202,5 +112202,62 @@ export const tickers =
    "par"
   ],
   "num": "1"
+ },
+ {
+  "content": "Sieht sich die Radieschen von unten an: Lebensmittelkontrolleur gestorben",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2006.html",
+  "creators": [
+   "fer"
+  ],
+  "num": "2006",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5J_FVbBPvdcA3m7IPzDWJf3ZnGPW5M3EupleFcuufzANQsrFXb35a4nMsBSVlKrvnVF_Wl5vL2SHMMeAucZWe27RXrFSgYzBzX2jgEDTcNlX3grJBEuAdrXFBVwH5s6Lfg2mx8LVx0137uVI30R0K1bxp1P5JJYuT1xvEu9hsO3S9bkmIQO06WTC3s7XE/w1600/tickerradieschen.png"
+ },
+ {
+  "content": "\"Erkan, misch mal!\": Türkischer Croupier beschwert sich über unhöflichen Gast",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2006.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2006"
+ },
+ {
+  "content": "Fliegende Untertassen: Kaffeeklatsch über Ufos eskaliert",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2006.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2006"
+ },
+ {
+  "content": "Estnisch: Balte ruft Landesgenossen zum Fasten auf",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2006.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2006"
+ },
+ {
+  "content": "Macht den ersten Schritt: Frau beginnt Ausbildung zur Intimfriseurin",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2006.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2006"
+ },
+ {
+  "content": "Pissoir tödlich: Mann erliegt auf Toilette mordlustiger Brillenschlange",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2006.html",
+  "creators": [
+   "kgk"
+  ],
+  "num": "2006"
+ },
+ {
+  "content": "Knapp am alten Rekord vorbeigeschrammt: Betrunkener verfehlt eigene Bestmarke im Autozerkratzen",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2006.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2006"
  }
 ]
