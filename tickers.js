@@ -112317,5 +112317,62 @@ export const tickers =
    "wso"
   ],
   "num": "2007"
+ },
+ {
+  "content": "Fährboot gekippt: Schiffe versenken ist wieder legal",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2008.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2008",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQxlEESmn5GB5CSzOYFAFfDOKvJJCNGWJVDywNbPN1tPpMRsEe6DArtgCflXGnHnqcb8rgLPwkc2s4l5RY-yPnlw_AdIkV6jhzIW_URfNld4_TfQwsHYTRxNk27xPPXdW8_yfdlx7p0YlMyjiS3nNsYA7S3v1Tpt_J-ys5ZjV8fR5FQnI-jYj4RSPfNmd3/w1600/ticker_F%C3%A4hre.jpg"
+ },
+ {
+  "content": "Maas ist voll: Betrunkener SPD-Politiker aus Bierzelt geworfen",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2008.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "2008"
+ },
+ {
+  "content": "Kehr, Kehr: Auf Vernachlässigen des Putzdienstes in Schwaben steht Haft im Verlies",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2008.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "2008"
+ },
+ {
+  "content": "Schädlingsplage auf dem Oktoberfest: Käferzelt evakuiert",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2008.html",
+  "creators": [
+   "cob"
+  ],
+  "num": "2008"
+ },
+ {
+  "content": "Summ mag Umlaute: Biene studiert in Zürich, München und Köln",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2008.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2008"
+ },
+ {
+  "content": "Rücksichtslos: Randalierer zerschlägt dutzende Außenspiegel",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2008.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2008"
+ },
+ {
+  "content": "Viel Liegengebliebenes zu erledigen: Bestattungsunternehmer kommt nach Grippewelle in Altenheim nicht hinterher",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2008.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2008"
  }
 ]
