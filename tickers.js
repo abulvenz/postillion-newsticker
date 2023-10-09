@@ -112374,5 +112374,63 @@ export const tickers =
    "stp"
   ],
   "num": "2008"
+ },
+ {
+  "content": "\"Können sie mich verbinden?\": Stark Blutender ruft Auskunft an",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2009.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2009",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgFVgx0C-P7lhCwOeCGubkOmhI8qDdW1m0GP10EiintjoqOYo2VFdWpTaCRZ2buvtmBHzRF0jOUgd2SurCw17obqnIxw5mk2YFNT3m3EYj2LyaahwXp7od4RAOJmB5ebhRz0MxXaA4IL4DOkN008e_6A0IFuFNPGKh6Un0KFajlfg_Wqvq4NXDknyjS1hA/w1600/tickerverbinden.png"
+ },
+ {
+  "content": "Felipe, der's exte: Spanischer König für seine Trinkfestigkeit bekannt",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2009.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2009"
+ },
+ {
+  "content": "Eiliger Stuhl: Französischer Vatikan-Tourist sucht dringend Toilette",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2009.html",
+  "creators": [
+   "frcx",
+   "ϕ"
+  ],
+  "num": "2009"
+ },
+ {
+  "content": "\"Heilbar, heilbar!\": Arzt stellt Scooter-Sänger gute Genesung in Aussicht",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2009.html",
+  "creators": [
+   "eju"
+  ],
+  "num": "2009"
+ },
+ {
+  "content": "Aufreibende Arbeit: Möbelpacker quält sich durch Rauputztreppenhaus",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2009.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2009"
+ },
+ {
+  "content": "Heiß' Pete: Mann stellt sich schnell vor",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2009.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2009"
+ },
+ {
+  "content": "Braucht immer einige Umdrehungen: Hammerwerfer erzielt tolle Weiten nach ein paar Kurzen",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2009.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2009"
  }
 ]
