@@ -112432,5 +112432,62 @@ export const tickers =
    "stp"
   ],
   "num": "2009"
+ },
+ {
+  "content": "Über ihre Köpfe hinweg: Regierung beschließt neue Einflugschneise ohne Anwohnerbefragung",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2010.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2010",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigcpf_oYFhpRcLzDu_5OcFZwwrVk8Sx-dFM6E8z2SlGZ9xIpqgVK7ZxRhTIAmNDAjXMogqoC3SHGVKmyx7ixurkmaROKBB_cI7SFltpcmnj16t7k6mA7cE5gA8LgQOQ8WMWzV-SBbuWiPQUMW3VEBuBzhgjL_lxAd0o24C9r5YtZt7SKQJWGBmtRlzHjnY/w1600/tickereinflugschneise.png"
+ },
+ {
+  "content": "Kuh schlich: Rind kroch heimlich zum Bauern ins Bett",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2010.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2010"
+ },
+ {
+  "content": "Langatmig: Biografie von Apnoetaucher geht zu sehr in die Tiefe",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2010.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2010"
+ },
+ {
+  "content": "Schmeißt eine Runde nach der anderen: Sumoringerin feiert Olympiasieg",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2010.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2010"
+ },
+ {
+  "content": "Schon Lehnen: Beatle verriet, was ihm an Stühlen am besten gefällt",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2010.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2010"
+ },
+ {
+  "content": "Zukunftsmusik: Neues Tonstudio noch in Planung",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2010.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2010"
+ },
+ {
+  "content": "Brezel-Dance-Fall: Richter trifft Musterentscheidung für Club-Veranstaltungen in Bäckereien",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2010.html",
+  "creators": [
+   "rbo"
+  ],
+  "num": "2010"
  }
 ]
