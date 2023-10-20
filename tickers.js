@@ -112665,5 +112665,62 @@ export const tickers =
    "viv"
   ],
   "num": "2013"
+ },
+ {
+  "content": "Zu viele Donauwellen: Wiener Tortenfrachter gekentert",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2014.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2014",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0fZO7uMZ1NUS-YbmL50G6tRAKiO7G3GPb9U1qCqe-rD4mkv_UaSu0H0iHT6bVNSiv5605jI7PPsCPIKMKFch5i1dUUJcqG7T8yzRVcXeJKtX5wztyJFmx09c-X-NwCwWqtnAtW5Gt2kYkH58Bd0kPJ2E_tgyL-4OF5hC0TY_kwx6hI9TrOMhsFU8E35DH/w1600/tickerdonauwelle.png"
+ },
+ {
+  "content": "Merci, dass Esstisch kippt: Ebenenhasser schenkt Beinabsäger Schokolade",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2014.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2014"
+ },
+ {
+  "content": "Völlig losgelöst von der Erde: Peter Schilling reklamiert schlechten Fliesenkleber",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2014.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2014"
+ },
+ {
+  "content": "Die Öle der Löwen: Französin preist Investoren Hautpflege aus Raubtierfett an",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2014.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2014"
+ },
+ {
+  "content": "Ein Wann, ein Mord: Zuverlässiger Auftragskiller liefert fristgerecht",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2014.html",
+  "creators": [
+   "kro"
+  ],
+  "num": "2014"
+ },
+ {
+  "content": "Mattel-Ehrer: Pädagoge sammelt passioniert Masters-Figuren",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2014.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2014"
+ },
+ {
+  "content": "Die unhandliche Geschichte: Buch von Michael Ende jetzt auch im Format DIN A0 erhältlich",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2014.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2014"
  }
 ]
