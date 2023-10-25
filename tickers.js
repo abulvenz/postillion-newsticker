@@ -112781,5 +112781,62 @@ export const tickers =
    "sta"
   ],
   "num": "2015"
+ },
+ {
+  "content": "Steckt noch in den Kinderschuhen: Kampfhund verliert Gebissprothesen-Prototyp",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2016.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2016",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguPUtKZgawNW6aBwCwQOfSRiAcg1fUYRII6jk2VHQYj7XErhYbM0NXQorqAhr5p2RzuotVI5OnMTO_wTX0BeqR4MGB19USirj3y64T_ymvqBswaKNvFffsXXQWeBA2ndu55Pv8WQDU_F2sVhzpcB76QXpS2sECJgJvTI5mF2It-bCs755GpXf5HwXcAGES/w1600/tickerkampfhund1.png"
+ },
+ {
+  "content": "Bar, Bra, Strand: Schauspielerin fehlt nur noch Eis",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2016.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2016"
+ },
+ {
+  "content": "15 Jahre abgesessen: Ex-Häftling entsorgt Polsterstuhl",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2016.html",
+  "creators": [
+   "hem"
+  ],
+  "num": "2016"
+ },
+ {
+  "content": "Will so 'nen Schein: Tourist beantragt Visum für Florida",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2016.html",
+  "creators": [
+   "ömm"
+  ],
+  "num": "2016"
+ },
+ {
+  "content": "Traf sich gut: Selbstmörder war Scharfschütze",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2016.html",
+  "creators": [
+   "lgr"
+  ],
+  "num": "2016"
+ },
+ {
+  "content": "Ah, RAL: Mann erkennt Norm-Farbe an Tankstellenschild",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2016.html",
+  "creators": [
+   "s0l"
+  ],
+  "num": "2016"
+ },
+ {
+  "content": "Hat es in der Hand: Alkoholiker könnte jetzt mit dem Biertrinken aufhören",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2016.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2016"
  }
 ]
