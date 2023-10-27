@@ -112838,5 +112838,64 @@ export const tickers =
    "rag"
   ],
   "num": "2016"
+ },
+ {
+  "content": "Der hat doch den Arsch offen: Proktologe lässt Patient im Behandlungszimmer allein",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2017.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2017",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf4qA8TDj1-a9OYEkgEYkqxaXUMjvBD8lH_IERuDY964JDSOxk_vqNKU_OqEy5ATd8eY64K2jBmH8tYAXgMAVH0FsKGRocIx4w6OPcRhuaVpXXcr4jgOG1iiuS5lcodUmgsLptTfwUg6OXS1d6TDVRd5n4_4_Af-xzbieOb2whntwJYaIlHyX6SwnGrE0P/w1600/tickerproktologe.png"
+ },
+ {
+  "content": "Mi–So: Japanisches Restaurant bietet Montags und Dienstags keine Suppe an",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2017.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "2017"
+ },
+ {
+  "content": "Kunden verkrault: Masseurin muss an ihrer Technik arbeiten",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2017.html",
+  "creators": [
+   "viv",
+   "adm",
+   "cbe"
+  ],
+  "num": "2017"
+ },
+ {
+  "content": "Reh kapituliert: Jägergeschichte lässt sich in zwei Worten zusammenfassen",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2017.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2017"
+ },
+ {
+  "content": "Lehnt häusliche Gewalt ab: Ehemann schlägt seine Frau im Garten",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2017.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2017"
+ },
+ {
+  "content": "Gelbfieper: Tropeninstitut warnt vor Kanarienvögeln",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2017.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2017"
+ },
+ {
+  "content": "Es wird mit Hochdruck daran gearbeitet: IT-Abteilung bekämpft Server-Probleme mit dem Kärcher",
+  "url": "https://www.der-postillon.com/2023/10/newsticker-2017.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2017"
  }
 ]
