@@ -112897,5 +112897,62 @@ export const tickers =
    "sta"
   ],
   "num": "2017"
+ },
+ {
+  "content": "Hat das Zeug dazu: Nachwuchs-Dealer steht vor großer Karriere",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2018.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2018",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh-8d0AjCy91itnXtqPQvLGc4YXQirCnjX7BE73YPkOGbiPoiQriH8YWmp3unAT3vACmCA-LclXJwgBNAMJLY2PA-Bs8CkSR_DhbOBiZLp6DAeSE0r2qSLTLjNMuJHFfOb9vpPSOxOwLIy_K7CbOEXasrDrCNgQ1kgGEDljJbxYYO7ahzQy21sk0TADww2/w1600/tickerzeugdazu.png"
+ },
+ {
+  "content": "Forschtanzchef: Flamencoclub wählt neuen Vorsitzenden",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2018.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2018"
+ },
+ {
+  "content": "Leidet an Hetzschwäche: Bildredakteur legt Schreibpause ein",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2018.html",
+  "creators": [
+   "elw"
+  ],
+  "num": "2018"
+ },
+ {
+  "content": "Erzziehungsberechtigt: Bergwerk darf Kinderarbeit betreiben",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2018.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2018"
+ },
+ {
+  "content": "Viel in den Nachwuchs gesteckt: Messdienerausbildung sehr teuer",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2018.html",
+  "creators": [
+   "dtb"
+  ],
+  "num": "2018"
+ },
+ {
+  "content": "Visa wie? Infos im Reisebüro gegenüber",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2018.html",
+  "creators": [
+   "awa"
+  ],
+  "num": "2018"
+ },
+ {
+  "content": "Steht nicht im Mastricht-Vertrag: EU verweigert Fördergelder für Reparatur von Gorch Fock",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2018.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2018"
  }
 ]
