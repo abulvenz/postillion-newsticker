@@ -113069,5 +113069,62 @@ export const tickers =
    "sum"
   ],
   "num": "2020"
+ },
+ {
+  "content": "Hat mit vielen verschiedenen Menschen zu tun: Totengräber liebt seinen Job",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2021.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2021",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMyAAwAH3gTkbx6gOACc_FK_1-bdxKd_VYeXeLjFdz9DkRtPvYcUpIrvHiYOq04lOdwySFa2fH8_VdrTpZRHmZWDMMO2wlSUXxl9imW0tsUmvmFQn2DgsY4kka9LUbkuDCwGmGQ-bYYOMeBPXgjd7SzzaUgYOr81wUX40bDExQHludjbttwO87V9GvNMS9/w1600/tickertotengra%CC%88ber.png"
+ },
+ {
+  "content": "Die Anke Hörigen: Mann verliert komplette Familie an Engelke-Kult",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2021.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2021"
+ },
+ {
+  "content": "Affe: Zahnloser Primat hat Spielkarten im Ärmel",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2021.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2021"
+ },
+ {
+  "content": "Einar geht noch: Bjørndalens überlegen sich weiteren Vornamen für ihr Kind",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2021.html",
+  "creators": [
+   "arc"
+  ],
+  "num": "2021"
+ },
+ {
+  "content": "Kann von Glück reden: Lottogewinner erwischt gerade noch Zug zu Talkshow",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2021.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2021"
+ },
+ {
+  "content": "FKKG: Junge Detektive ermitteln splitterfasernackt",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2021.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2021"
+ },
+ {
+  "content": "Will die Woken kletten: Deeskalierer empfiehlt Letzter Generation Velcro statt Sekundenkleber",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2021.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2021"
  }
 ]
