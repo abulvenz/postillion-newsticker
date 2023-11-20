@@ -113243,5 +113243,62 @@ export const tickers =
    "p2k"
   ],
   "num": "2023"
+ },
+ {
+  "content": "Hat sie rund gemacht: Bäcker staucht Auszubildende wegen missratener Zimtsterne zusammen",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2024.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2024",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuTxA2tgfGIjc1k6xI4d9TbXafWfgQk7RAs-4s5Y3URu8kBxDxOWTJdkmg_qjjFJ4T-dinDSh88EbtrFNfMY3FuIX5bVluMbq0EtdzxNH1YwSP4yJWMKCdhUjNQyr2g3KbhiVBoDk4yLxsmHJ3tm_dNep6VRxrLXF-slvjDmD7M53h_GoPE3HECtRgr9O7/w1600/tickerzimtsterne.png"
+ },
+ {
+  "content": "Inder naht: Hindu soll fränkisches Schülerheim übernehmen",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2024.html",
+  "creators": [
+   "ca8"
+  ],
+  "num": "2024"
+ },
+ {
+  "content": "Geht gleich los: Spielleiter legt Russisch-Roulette-Pistole auf den Tisch",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2024.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2024"
+ },
+ {
+  "content": "Entlarvt: Gemüsebauer wegen Raupmord festgenommen",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2024.html",
+  "creators": [
+   "adl"
+  ],
+  "num": "2024"
+ },
+ {
+  "content": "Flugseuche im Bauch: Herbert Grönemeyer übergibt sich nach Landung",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2024.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2024"
+ },
+ {
+  "content": "Adebar: Amokstorch attackiert Autoreifen",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2024.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2024"
+ },
+ {
+  "content": "Nach dreimaliger Aufforderung stehenzubleiben: Älterer Polizist erschießt seinen Penis",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2024.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2024"
  }
 ]
