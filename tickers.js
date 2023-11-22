@@ -113300,5 +113300,62 @@ export const tickers =
    "sch"
   ],
   "num": "2024"
+ },
+ {
+  "content": "In der Totesszelle: US-Mörder bekommt 8.000 Kalorien pro Tag",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2025.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2025",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjGoMqaeSBXqzQaNDIaNcBXOR-eoTVHxauOBi5CrqVZC0OSpCNC71YeBFxt1L8gAZ9pPXT4PY56AoOSwLkzJxB-OvtUuTb53DaAouF5YvvtoN1gOzo3WF6XscQ9Vtd9xOM91d1tWVjOVLMn066_DT7N6oPxHTol65vJG5hZZIj3nrf2GPeg948HqZQ8JWD/w1600/tickertoteszelle2.png"
+ },
+ {
+  "content": "Lernte ganz Frechen kennen: Besucherin von vorlautem rheinischen Stadtführer angetan",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2025.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2025"
+ },
+ {
+  "content": "Fallapfel mit Humus: Amsel geht arabisch essen",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2025.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2025"
+ },
+ {
+  "content": "Haas nicht mehr dabei: F1-Team felt ab näcster Saison",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2025.html",
+  "creators": [
+   "loc"
+  ],
+  "num": "2025"
+ },
+ {
+  "content": "\"Hä? Wie?\": Schüler kann sich englische Übersetzung für \"schwer\" nicht merken",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2025.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2025"
+ },
+ {
+  "content": "Putterbrot: Golfer stärkt sich",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2025.html",
+  "creators": [
+   "hso"
+  ],
+  "num": "2025"
+ },
+ {
+  "content": "In Massen: Schweizer Gelehrte streiten über Unbedenklichkeit von Alkoholkonsum",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2025.html",
+  "creators": [
+   "dap"
+  ],
+  "num": "2025"
  }
 ]
