@@ -113357,5 +113357,63 @@ export const tickers =
    "dap"
   ],
   "num": "2025"
+ },
+ {
+  "content": "Muss in den Sauronabfall beißen: Ork sucht auf Müllkippe von Mordor nach Essbarem",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2026.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2026",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2OtP1ZHsfEhEWwab2N6UzLcwCNS25bCCSxzFgrckBaz2Yet2g-MoRetsVw970rIHoZIsmwBeGmt1H2c8gxHDH11klhgSy5Xt986keVGLMtRHqhoRCzYx5UfiNYb3lBEpGEQbiDYd5xBVw2r8Vr7dyQIRzCImlViixk1nhiFDjkAbRWDYgLSEXNi4DAteA/w1600/tickersauronabfall5.png"
+ },
+ {
+  "content": "Hören und Sehen vergangen: TV-Gerätereparatur soll 1.000 Euro kosten",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2026.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2026"
+ },
+ {
+  "content": "\"Spinn' naht!\": Popeye rettet Olivia vor Tarantel",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2026.html",
+  "creators": [
+   "frcx",
+   "ttl"
+  ],
+  "num": "2026"
+ },
+ {
+  "content": "Liebt Rechnungswesen: Buchhalter heiratet Mathelehrerin",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2026.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2026"
+ },
+ {
+  "content": "Wär weiß: Unklar, welche Farbe gelbe Gardine bei Nichtraucher gehabt hätte",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2026.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2026"
+ },
+ {
+  "content": "Cosma: Kleinkind reicht Shiva Hagen Löffel mit Babybrei",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2026.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "2026"
+ },
+ {
+  "content": "Deutschland verpasst Anschluss: Nur kurzfristige Annexion hätte Niederlage gegen Österreich noch verhindert",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2026.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2026"
  }
 ]
