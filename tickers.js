@@ -113415,5 +113415,62 @@ export const tickers =
    "wso"
   ],
   "num": "2026"
+ },
+ {
+  "content": "Brät 'n Wutz: Gastgeber von Währungskonferenz serviert Spanferkel",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2027.html",
+  "creators": [
+   "hem"
+  ],
+  "num": "2027",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbrxnvTxrnyAb4-FtVfkUFBdXU9biot1ezewl7j1HRJ5oQD3JoxyMFM1KloVOvz6deVux0HwFDl_iC2WhqqzOjqgnwl28CMeNZFkw5RrewJTwNezOI_ZeqnefOkReniYjd0iZcyNetrJuzrDpwhE8lUdZaNM-mwnhUNkmsACdzzG26Lzv1CSb2quob6RIU/w1600/tickerwutz.png"
+ },
+ {
+  "content": "Auf Knopfdruck: Lukas startet Lokomotive",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2027.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2027"
+ },
+ {
+  "content": "\"Sie Kloß!\": Sportler beschimpft Schiedsrichter nach mehreren Niederlagen als Knödel",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2027.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2027"
+ },
+ {
+  "content": "Syphilisarbeit: Hautarzt behandelt Geschlechtskrankheiten ohne Ende",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2027.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2027"
+ },
+ {
+  "content": "Tanksgiving: Ende November neue Panzer für die Ukraine",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2027.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2027"
+ },
+ {
+  "content": "Vom Haushalt überfordert: Alleinziehende Schneckenmutter bricht zusammen",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2027.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2027"
+ },
+ {
+  "content": "Muss pylont werden: Bauunternehmer verspricht Arbeitern Bonuszahlung für Absperrung von Straßenbaustelle",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2027.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2027"
  }
 ]
