@@ -113472,5 +113472,64 @@ export const tickers =
    "sum"
   ],
   "num": "2027"
+ },
+ {
+  "content": "Landet in Remagen: Pilot liefert Wildtierfutter nach Rheinland-Pfalz",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2028.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2028",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiibvrNwIDjeuzNh2bJo-RQ1DJtsS7wZcqjxoph4JXdO_sTuZoewqcI-r7ZpZcR5yndcEZiVNPsK4SyAKr6fcEJKh4uA_eaymKsYZQi4bGq3BamhyphenhyphenQN2j96f4v5jllIv2ZjZ3LONCq3xF4QHZALk5PBNcoLDJTMPzGNN7fT5AOWEUdNZn-DrVwprj3GbvM5/w1600/tickerremagen.jpg"
+ },
+ {
+  "content": "Kloeppel in ihrer Gewalt: RTL fordert freies Geläut für Kirchturmbesetzer",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2028.html",
+  "creators": [
+   "wso",
+   "oga"
+  ],
+  "num": "2028"
+ },
+ {
+  "content": "Indianapolis: US-Amerikaner schließt Versicherung gegen Sioux-Überfall ab",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2028.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2028"
+ },
+ {
+  "content": "Orkansturm: Mordors Truppen greifen bei Windstärke 12 an",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2028.html",
+  "creators": [
+   "lia"
+  ],
+  "num": "2028"
+ },
+ {
+  "content": "Wet-Hair-Vorhersage: Es wird regnen",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2028.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2028"
+ },
+ {
+  "content": "Unpässlich: Ersteller von Reisedokumenten krank",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2028.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2028"
+ },
+ {
+  "content": "Islamabad: Kamele vertreiben Gäste aus Schwimmhalle",
+  "url": "https://www.der-postillon.com/2023/11/newsticker-2028.html",
+  "creators": [
+   "marc",
+   "cbe"
+  ],
+  "num": "2028"
  }
 ]
