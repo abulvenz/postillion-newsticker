@@ -113589,5 +113589,63 @@ export const tickers =
    "viv"
   ],
   "num": "2029"
+ },
+ {
+  "content": "100 Meter Läufer: Usain Bolt kauft sich langen Teppich",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2030.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2030",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-_hMY2dgaE0ELPVSzyGhfYAMbboOFCEQ4BJkxTcabK3FT_H39c1x9fiTA5dLirXTzcnuH-9rYfpjlmIKKqGL47fy1tMkny9DPVll0knZfH5p6yB5bz_9Nbxm13RVX_BoN1XWpJl2aXtX01O-WfCKolJUuF1X3SACvnOBG9N8IurTlhczTrwCZdfinqmS-/w1600/tickerla%CC%88ufer.png"
+ },
+ {
+  "content": "Haarwart: Eliteuni sucht Frisurprüfer",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2030.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2030"
+ },
+ {
+  "content": "Eheschließung: Braut kauft um 19:55 Uhr bei Aldi noch Hochzeitstorte",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2030.html",
+  "creators": [
+   "tom",
+   "oga"
+  ],
+  "num": "2030"
+ },
+ {
+  "content": "Helllehnefischer: Fans verstört über neues Album \"Angler auf weißem Campingstuhl\"",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2030.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2030"
+ },
+ {
+  "content": "Das wird ihm allmählich zu bunt: Chamäleon holt Jungtier aus Bällebad",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2030.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2030"
+ },
+ {
+  "content": "Boot funktioniert nicht: Kapitän schreibt Bugreport",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2030.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2030"
+ },
+ {
+  "content": "Im stillen Kemal Lion: Schüchterner Türke hat heimlich Schokoriegel verzehrt",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2030.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2030"
  }
 ]
