@@ -113705,5 +113705,62 @@ export const tickers =
    "s0l"
   ],
   "num": "2031"
+ },
+ {
+  "content": "Koch verreist: Reis verkocht",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2032.html",
+  "creators": [
+   "lia"
+  ],
+  "num": "2032",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTbsqT0vPlWwpY3puRVcArFSXBpc0_JQDkvhjRwBSqBL1ZtIjBnMwZCUeowGd8YN8w1UVFr8bRTWf8XT1upTmohIh1W8AzS725s0sFOuljDmK6dHlmLXppRrW3YtF88f63otBIlVDU9MuBhNmP9JYzv4yhmQjUWolDdCkmXunAevZox1rpkxbajaLrc_A3/w1600/tickerreisverkocht.jpg"
+ },
+ {
+  "content": "Griff indoor: Harry Potter sperrt sich aus",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2032.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2032"
+ },
+ {
+  "content": "Steht nicht So drauf: Arzt hält nichts von Wochenend-Sprechzeiten",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2032.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2032"
+ },
+ {
+  "content": "Nickel aus: Erzmine macht am 6.12. dicht",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2032.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2032"
+ },
+ {
+  "content": "Hausgeburt des Bösen: Satanistin bringt Kind zur Welt",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2032.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2032"
+ },
+ {
+  "content": "Tritt gegen Trambahn: Joe Biden flucht über ÖPNV",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2032.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2032"
+ },
+ {
+  "content": "Ganz eigener Menschenschlag: Verschrobener Taubenzüchter bezieht Drahtkäfig neben seinen Tieren",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2032.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2032"
  }
 ]
