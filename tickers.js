@@ -113762,5 +113762,62 @@ export const tickers =
    "stp"
   ],
   "num": "2032"
+ },
+ {
+  "content": "Hat wohl einen Sprung in der Schüssel: Skiflieger geht in voller Montur aufs Klo",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2033.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2033",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQTapkzIqTqgHs0FjCVsg3ycCVVF8lkP1BraG0-BELtfIDLt0bdfD9ujwNJoiWA0tK6_SOoGi13xdhhl96Kv5mdbyYBphc1d82jcwZ-d5ZbsiPjt3Wb_uOKgc-t7nAsNTRCkCqldc_JC80k8ekjD8-V7cLrUGYoPZHHTWYMnbeW0naKd4sT3QKmPQnlXVS/w1600/tickerskiflieger2.jpg"
+ },
+ {
+  "content": "Kommt Särge legen: Dringend gesuchter Totengräber bewirbt sich bei Friedhofsverwaltung",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2033.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2033"
+ },
+ {
+  "content": "Mal nachgebohrt: Gibt es Pfusch bei Zahnärzten?",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2033.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2033"
+ },
+ {
+  "content": "Badtürkeim: Pfälzerin auf Weinfest-WC mit Norovirus infiziert",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2033.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2033"
+ },
+ {
+  "content": "Ah, Kuh leer!?: Batteriebetriebene Melkmaschine muss doch nicht aufgeladen werden",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2033.html",
+  "creators": [
+   "s0l"
+  ],
+  "num": "2033"
+ },
+ {
+  "content": "Gerücheküche brodelt: Angeblich Feuer in Stinkbombenfabrik",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2033.html",
+  "creators": [
+   "aaa"
+  ],
+  "num": "2033"
+ },
+ {
+  "content": "Wollte ihn unbedingt selber schlagen: Frau hält Kinder zurück, als Gatte mit krüppeligem Weihnachtsbaum ankommt",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2033.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2033"
  }
 ]
