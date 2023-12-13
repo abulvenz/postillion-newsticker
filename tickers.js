@@ -113819,5 +113819,66 @@ export const tickers =
    "sch"
   ],
   "num": "2033"
+ },
+ {
+  "content": "Hat Herzrasen: Verliebter präsentiert Angebeteter formschön geschnittenen Garten",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2034.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2034",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhfKnbaYBxbCF35VSslcvCnOdf_YdQzOuh3KucuvZxFvNAsG1BwE1Hfyj2rYNxQ3-JTyPM2EDDe1Gg0svc9cNe49BZT0WWYoyYAHPQGvyFhSa546MOuZ0GEVU8JRArp2YwOzYa2hKqoDWLk-ctOytdrajOmhdeJurVFfAyfJ5cJbPu6fsMdAlFJ5UKBcP2/w1600/tickerherzrasen.jpg"
+ },
+ {
+  "content": "Ohne Anka B. von Gründen: Adlige bleibt Gala fern",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2034.html",
+  "creators": [
+   "wye",
+   "wso",
+   "arc"
+  ],
+  "num": "2034"
+ },
+ {
+  "content": "Hat ein Loch im Bauch: Mann verschlingt gierig Donut",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2034.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2034"
+ },
+ {
+  "content": "In die Leitzplanke gekracht: Beamter verunglückt bei Bürostuhlrennen",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2034.html",
+  "creators": [
+   "s0l",
+   "sch"
+  ],
+  "num": "2034"
+ },
+ {
+  "content": "Vonn vegan: Skistar bestreitet Steakverzehr",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2034.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2034"
+ },
+ {
+  "content": "Schert zart Igel: Gerät zur sanften Entwollung von Stacheltieren entpuppt sich als Gag",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2034.html",
+  "creators": [
+   "tei",
+   "tom"
+  ],
+  "num": "2034"
+ },
+ {
+  "content": "Bekam eins übergezogen: Nudist nach Auseinandersetzung mit Hemdenverkäufer sichtlich bedient",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2034.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2034"
  }
 ]
