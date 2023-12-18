@@ -113938,5 +113938,64 @@ export const tickers =
    "sum"
   ],
   "num": "2035"
+ },
+ {
+  "content": "Ist erst im Frühjahr wieder flüssig: Schneemann vertröstet Gläubiger",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2036.html",
+  "creators": [
+   "lmw",
+   "kop"
+  ],
+  "num": "2036",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO_PNxz7GhdMpiXDoNsBk63JgIxNjJoEe8QyMgfA1KsYCzvPjE1EEXWZI46ffW6a_u1g8Ap_FvvN7wM2vbnjvCDj28ORjlKnvoWv-kc3uMcYrBjDXCtaIuSGCa3dY83nFklGP56tdXuRBSBldYgAp_PS_EUbOFHmrAwVe-zfgudKr_7Kl7WibJIv-E8okw/w1600/tickerschneemann.jpg"
+ },
+ {
+  "content": "Fellig, Los gelöst: Unrasierter Major Tom spielt Lotto",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2036.html",
+  "creators": [
+   "hso"
+  ],
+  "num": "2036"
+ },
+ {
+  "content": "Gleich klatscht es: Bungeespringer außer sich vor Wut über zu langes Seil",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2036.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2036"
+ },
+ {
+  "content": "Stier hob Ohr: Torero ersetzte Rotes-Tuch-Wedeln durch Schaumstoffquietschen",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2036.html",
+  "creators": [
+   "tei",
+   "wrb"
+  ],
+  "num": "2036"
+ },
+ {
+  "content": "Vereinigte starrten: Trump taucht in US-Swingerclub auf",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2036.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2036"
+ },
+ {
+  "content": "Das zweite Gesicht: Hellseherin sagt Lifting voraus",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2036.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2036"
+ },
+ {
+  "content": "Soll Kürzer treten: Hooligan besucht Frau zuliebe statt Fußballstadion kleine Änderungsschneiderei",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2036.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2036"
  }
 ]
