@@ -113997,5 +113997,62 @@ export const tickers =
    "ttl"
   ],
   "num": "2036"
+ },
+ {
+  "content": "Die Welt ist nicht genug: James Bond kauft Zeitungskiosk leer",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2037.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2037",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjovuhmVmMhpVAXCEIoF6ecov-P3Ikn3rw8bAjYkVyRu332rW_zw2eN0jT_VeEsqe0-plRWBs8KERi46ZPWloTZcCPIcu7lxK2KBdH4XUzyvpK_Qkpbqamiid1oTKs_iku1wmXqHg05cANFWEFSkr9_1eZlsHNv4gZ2Sj4HKU4kIc5YNNOZ5mJnEEsZfco/w1600/ticker_bond.jpg"
+ },
+ {
+  "content": "Bald die Faust: Germanist erzürnt über Ankündigung von gegenderter Goethe-Ausgabe",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2037.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2037"
+ },
+ {
+  "content": "Heuer: Wiener Matrose erhält in diesem Jahr Gehalt",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2037.html",
+  "creators": [
+   "zot"
+  ],
+  "num": "2037"
+ },
+ {
+  "content": "Intimangel genommen: CIA-Verhörspezialisten machen sich Genitalpiercings zunutze",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2037.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2037"
+ },
+ {
+  "content": "Mit Anleger angelegt: Unternehmer flieht vor Investor in Westtor",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2037.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2037"
+ },
+ {
+  "content": "Sie verbindet einiges: Waghalsiger Stuntman verliebt sich in Ersthelferin",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2037.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "2037"
+ },
+ {
+  "content": "Habemus Papparm: Konklave macht Fortschritte bei lebensgroßem Papst-Werbeaufsteller",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2037.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2037"
  }
 ]
