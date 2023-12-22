@@ -114054,5 +114054,62 @@ export const tickers =
    "tei"
   ],
   "num": "2037"
+ },
+ {
+  "content": "Überall liegt Strohrum: Maria und Josef finden Schnapsversteck in Krippe",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2038.html",
+  "creators": [
+   "adl"
+  ],
+  "num": "2038",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgau0XtzRyXWnL_ansUWDpKWbnWwg4XpieHuzwEU_CjxaVY2jt5_cjh-qcLorwyV6pdhmQ2lQR3BRD4i0vXYBnsvRHY_4gGIaqB4V3jNOh9_HKcHdAiEzILhMRWYTlfUBL4LaITSIjwWtGTEqyO8xy6Qp6ilb2U6F9ludK4NAhdJTa9Iek0UTxqOudtc_N_/w1600/tickerstrohrum.jpg"
+ },
+ {
+  "content": "Der Weihnachtsmann kommt: Alles ist weiß",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2038.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2038"
+ },
+ {
+  "content": "Samos: Grieche von angeblichem Golfrasen enttäuscht",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2038.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2038"
+ },
+ {
+  "content": "\"Macht hoch die Tür!\": Nowitzki im Weihnachtsmannkostüm haut sich den Kopf an",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2038.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2038"
+ },
+ {
+  "content": "Steuerrelevant: Finanzamt akzeptiert Unterhaltskosten für 6-Tonnen-Chauffeur mit Rüssel",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2038.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2038"
+ },
+ {
+  "content": "In einem Dessousladen-Zustand: Boutique hat nach Einbruch nur noch Unterwäsche",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2038.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2038"
+ },
+ {
+  "content": "Da hat jemand richtig was springen lassen: Kind bekommt zu Weihnachten ausgeleiertes Gebraucht-Trampolin",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2038.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2038"
  }
 ]
