@@ -114111,5 +114111,64 @@ export const tickers =
    "wso"
   ],
   "num": "2038"
+ },
+ {
+  "content": "Gans aus dem Häuschen: Familie sucht fieberhaft nach ausgebüchstem Weihnachtsessen",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2039-weihnachtsausgabe.html",
+  "creators": [
+   "vla"
+  ],
+  "num": "2039",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG219I5FP3k01YpM-LoEOkOOfsQpx_KKvxxj3w-qSmLjvYtNjTJiUQqrfnMFrSjitY2a4EV0EX5jNuVK-fh6jMqbo0MDzAXgzZ97HxrKYLgly7hpD-UIDt2fyY26I1SDE-Sa43mP_V3iztnsqOAbN56tIAm18Cd1quaFJ42eRZEZalLWHNQWs8qvfCK6SH/w1600/tickergans.jpg"
+ },
+ {
+  "content": "Mary, kriegst Meth: Junkie verrät Weihnachtsüberraschung vorzeitig",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2039-weihnachtsausgabe.html",
+  "creators": [
+   "hem"
+  ],
+  "num": "2039"
+ },
+ {
+  "content": "Ungeheuer schwer: Frau hilft Schwiegermutter zum Gansessen aus dem Sessel",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2039-weihnachtsausgabe.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2039"
+ },
+ {
+  "content": "Od' an 'nen Baum: Weihnachtslied ist selbsterklärend",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2039-weihnachtsausgabe.html",
+  "creators": [
+   "wye",
+   "sum",
+   "adl"
+  ],
+  "num": "2039"
+ },
+ {
+  "content": "Rute 66: Weihnachtsmann hat in Amerika großen Verschleiß",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2039-weihnachtsausgabe.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2039"
+ },
+ {
+  "content": "H2O, H2O, H2O: Weihnachtsmann lacht Freudentränen",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2039-weihnachtsausgabe.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2039"
+ },
+ {
+  "content": "Paar -> ad hoc Sohn: Maria und Josef freuen sich über Schwangerschaft trotz Enthaltsamkeit",
+  "url": "https://www.der-postillon.com/2023/12/newsticker-2039-weihnachtsausgabe.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2039"
  }
 ]
