@@ -114345,5 +114345,64 @@ export const tickers =
    "tei"
   ],
   "num": "2042"
+ },
+ {
+  "content": "Bankhocker: Thailänder kommt in Bundesliga über Reservistenrolle nicht hinaus",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2043.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2043",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ52KgVE9bGx_xK6ipQWKJ0DjZi2DhNr4ON3MOqYv3syR9U_4VDS6QU61kJKMN_S44hr7BTynRPCENZgat3SP9Eo10T-xpHmEY0SLhaluqc9EK_InyXK-BuPHwXBiOhiM-90UA4a0FH9GS1Unt0b8uskJpONSFFALJngF7HwzM0aS6ZdsBKRwxVUtySIQD/w1600/tickerbankhocker.jpg"
+ },
+ {
+  "content": "Von Vorwahlen ausgeschlossen: Trump darf nur noch Ortsgespräche führen",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2043.html",
+  "creators": [
+   "stp",
+   "tky"
+  ],
+  "num": "2043"
+ },
+ {
+  "content": "Randharnplan: Lucky Lukes Hund möchte nicht mehr mitten auf die Straße pinkeln",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2043.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2043"
+ },
+ {
+  "content": "Mit Lutz und doppeltem Axel: Eiskunstläuferin feiert Orgie",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2043.html",
+  "creators": [
+   "cob"
+  ],
+  "num": "2043"
+ },
+ {
+  "content": "Nebenhöllenentzündung: Satan kränkelt bei Einweihungsfeier",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2043.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2043"
+ },
+ {
+  "content": "Die Quiche-Hefte gehen gut: Gemüsekuchenillustrierte komplett ausverkauft",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2043.html",
+  "creators": [
+   "s0l",
+   "sch"
+  ],
+  "num": "2043"
+ },
+ {
+  "content": "Blutrache: Mafioso erschlägt Mücke",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2043.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2043"
  }
 ]
