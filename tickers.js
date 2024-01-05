@@ -114404,5 +114404,64 @@ export const tickers =
    "oga"
   ],
   "num": "2043"
+ },
+ {
+  "content": "\"Hi Littler\": Björn Höcke grüßt englischen Darts-Star",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2044.html",
+  "creators": [
+   "mvt",
+   "stp"
+  ],
+  "num": "2044",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioJ6gGALxH20vXEXPl2ROrU6fQJZpoZUf4LRE9WbaXwJtJaXni7mUEozlPP0m2jnMDF22ytG8RCyjK8Oi_GwMEgehiT82BRrDUWEWOWIo4H7PIUb3u_Wo-_YRONSsyYe0ySuQMnt8fRKKm3n2-osZ7a2Ik-hLaZJy8UnZBxwnrm2rxDgcNbMqO0dvXUxU9/w1600/tickerlittler3.jpg"
+ },
+ {
+  "content": "Verliert den Kopf: Delinquent reagiert aggressiv auf Todesurteil",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2044.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "2044"
+ },
+ {
+  "content": "*Diener vorwarn*: Miss Sophie weist James auf Tigerkopf hin",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2044.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2044"
+ },
+ {
+  "content": "Bibelforscher bestätigen: Noah war der Archetyp unter den Schiffsbauern",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2044.html",
+  "creators": [
+   "marc",
+   "wso"
+  ],
+  "num": "2044"
+ },
+ {
+  "content": "Freut sich über Hirn-Lose: Zombie räumt bei Idioten-Tombola ab",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2044.html",
+  "creators": [
+   "dtb"
+  ],
+  "num": "2044"
+ },
+ {
+  "content": "Dreistichkite: Windsurfer empört über schlampig vernähte Ausrüstung",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2044.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2044"
+ },
+ {
+  "content": "Greecebrei: Athener püriert Gyrosteller für sein Neugeborenes",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2044.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2044"
  }
 ]
