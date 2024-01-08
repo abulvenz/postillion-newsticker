@@ -114463,5 +114463,62 @@ export const tickers =
    "sch"
   ],
   "num": "2044"
+ },
+ {
+  "content": "Schmeckte etwas ranzig: Kannibale lässt Schulkindgulasch zurückgehen",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2045.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "2045",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAkcJj8cevfMameQUzB5CCT7b4mcCjoeeBXmlKDdsiyZKRiI-NCInFXgZK1YnTJKOw70CX0kgQxEzIc-gGJonaH5tDawPzu5zKXeqRsTg0dghW4ElALW3lrInRD1lKeZ1tdRSGga-NYCDhoR9mPnxY4XY0oLjXLXgHP9SCkNYNuWiOc8Y7VyypRGEQ44-C/w1600/tickerranzigesgulasch.jpg"
+ },
+ {
+  "content": "Bauernbroteste: Baltischer Trucker nutzt Blockade für Stullenpause",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2045.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2045"
+ },
+ {
+  "content": "Drei Streifen: Adidas macht jetzt auch in Unterhosen",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2045.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2045"
+ },
+ {
+  "content": "Bowlt der Geist? Nachbarn wundern sich über Geräusche in stillgelegter Kegelbahn",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2045.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2045"
+ },
+ {
+  "content": "Knatterton: Privatdetektiv entweicht Furz beim Geschlechtsverkehr",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2045.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2045"
+ },
+ {
+  "content": "Leiht er: Maler möchte sich keine Steigvorrichtung kaufen",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2045.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "2045"
+ },
+ {
+  "content": "Wer wird denn gleich in die Luft gehen? Choleriker stolpert im Freibad vom 10-Meter-Turm",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2045.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2045"
  }
 ]
