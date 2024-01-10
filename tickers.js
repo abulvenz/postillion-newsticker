@@ -114520,5 +114520,62 @@ export const tickers =
    "bfr"
   ],
   "num": "2045"
+ },
+ {
+  "content": "Wegen Verdunkelungsgefahr: Polizei sperrt Dieb von Haarfärbemittel ein",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2046.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2046",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLsJK3Rjs7-P8lbXAf88ElbIg5DP3uANl_X3Q6slIUWEJNKmJNZ1rNOA32N_QC-Xczg_K9IPnerJY7JgGF6vVYPo_BGuHXZyDSOAlOPTLE3Us4ZpLzhqiUFB-9SAx91FBHp4-DDGhhqnXTs8rK-_QAmZ72ACohxAVDlPNWX1PI2AqE2CZ5Rm3_PymTfJvs/w1600/tickerverdunkelungsgefahr.jpg"
+ },
+ {
+  "content": "Villariba?: DDR-Grenzer wundert sich über Verdächtigen mit Fairy-Ultra-Flasche",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2046.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2046"
+ },
+ {
+  "content": "Gefäßverengung: Sanduhr muss zum Arzt",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2046.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2046"
+ },
+ {
+  "content": "Ab jetzt vorsichtiger: Tierpfleger will Raubkatzen künftig nicht mehr den Rücken zuwenden",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2046.html",
+  "creators": [
+   "küh"
+  ],
+  "num": "2046"
+ },
+ {
+  "content": "Kölsch ging an ihm vorüber: Mann darf richtiges Bier trinken",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2046.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2046"
+ },
+ {
+  "content": "Lach- und Sachbearbeitergeschichten: \"Sendung mit der PC-Maus\" neu im TV",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2046.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2046"
+ },
+ {
+  "content": "Cannabis-Set: Holländische Grundschülerin bekommt Belohnung für Alphabet-Beherrschung",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2046.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2046"
  }
 ]
