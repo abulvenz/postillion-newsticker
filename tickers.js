@@ -114577,5 +114577,63 @@ export const tickers =
    "tom"
   ],
   "num": "2046"
+ },
+ {
+  "content": "Verflixt, Hund zugenäht: Tierarzt vergisst teures Instrument in Dackel",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2047.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2047",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj7l2q69pbyOHNu4vjxcRrUbI-Ff0fcWK8TexGG3pYSR6kUUMyc7GDjxYBeu927J0_BMTfafC2J238BS3jvKQc7jBUH5Q2Ouy-mG-cAyXsqonmK4gfJLMEQ5LrK3RHrdXS9uC2fLnEvvfrW0rlPbkW6ltUAlzVDMVFEr4d_FH7wwuzIyR5dCRamH6zQ06f/w1600/tickerverflixt2.jpg"
+ },
+ {
+  "content": "Yo!-Yo!-Effekt: Rapper nimmt nach Diät wieder zu",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2047.html",
+  "creators": [
+   "s0l"
+  ],
+  "num": "2047"
+ },
+ {
+  "content": "Gringo: US-Amerikaner erklärt Mexikaner Fußgängerampel",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2047.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2047"
+ },
+ {
+  "content": "Wiederverwundbar: Putin recycelt Soldaten",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2047.html",
+  "creators": [
+   "tei",
+   "adm"
+  ],
+  "num": "2047"
+ },
+ {
+  "content": "Wirkt bedrückt: Kaninchen unglücklich über Python als Spielgefährten",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2047.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2047"
+ },
+ {
+  "content": "Jörg von Tor A: Sportmoderator begann beim NDR als Pförtner",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2047.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2047"
+ },
+ {
+  "content": "Könnte sich noch hinziehen: Betrunkener überlegt liegend, wie er zurück an die Theke kommt",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2047.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2047"
  }
 ]
