@@ -114635,5 +114635,62 @@ export const tickers =
    "sch"
   ],
   "num": "2047"
+ },
+ {
+  "content": "Zur Schnecke gemacht: Gescholtener Bäckerlehrling hätte Brezeln formen sollen",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2048.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2048",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLh064_V2CchUjvyWd1wPgDPkYwP8zYWG_dQcDdQ2yxujJkjSG70Cs302ZFntgxDa-8xrWUjA6_TqeveTkboeaCNA-1aTlpg6El5Abd6mzNcQ5YepTqR_K2QO9Nnt2jfS_XrRoTREL9zI8iHnSnpYuspruUFc9Vg7Myn3YkXrDfBN-XQrLVscnBK_fj0DH/w1600/tickerzurschnecke2.jpg"
+ },
+ {
+  "content": "Die blaue Piste herunter: Skifahrer fliehen vor betrunkener Sesselliftpinklerin",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2048.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2048"
+ },
+ {
+  "content": "Topfen auf dem heißen Stein: Restaurantgast von gegrilltem Quark nicht satt geworden",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2048.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2048"
+ },
+ {
+  "content": "Führt Dill vor: Kräuterbauer zeigt um 11:45 neueste Kreation",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2048.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2048"
+ },
+ {
+  "content": "Hat sich erledrigt: Krokodilfrau findet vermissten Gatten im Handtaschengeschäft",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2048.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "2048"
+ },
+ {
+  "content": "\"Hetz fast vergessen\": Bild-Journalist schreibt noch schnell einen Artikel",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2048.html",
+  "creators": [
+   "eld"
+  ],
+  "num": "2048"
+ },
+ {
+  "content": "So jung kommen wir nicht mehr zusammen: Swinger-Club-Besucher werden beim Abschied melancholisch",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2048.html",
+  "creators": [
+   "mvt"
+  ],
+  "num": "2048"
  }
 ]
