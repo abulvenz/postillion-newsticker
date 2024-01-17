@@ -114692,5 +114692,62 @@ export const tickers =
    "mvt"
   ],
   "num": "2048"
+ },
+ {
+  "content": "Steht auf dem Schlauch: Domina weiß nicht, weshalb ihr Sklave so schreit",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2049.html",
+  "creators": [
+   "jan"
+  ],
+  "num": "2049",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNtbw3mYzpycwruu7EIUgds8PPgkFxzcw6m1c9gAaLBV96X3z1CZI_rrM7VpO5u5-gvD-JtpzJ1CaQENpwMiIJ6MJqLlAQZK-cFnqauhhZdIfLcimZmKTg_R6MP9GHv4zrpruLYP5ILGevMqhLaKhOMbNBVOmrWJm6Rigt88yM9WMuVZwco2kG2cmOP57_/w1600/tickeraufdemschlauch.jpg"
+ },
+ {
+  "content": "Aal-Liebhaber: Figur aus 1001 Nacht mochte gern bestimmten Fisch",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2049.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2049"
+ },
+ {
+  "content": "Schließen sich miteinander kurz: Roboter planen gemeinsamen Selbstmord",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2049.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2049"
+ },
+ {
+  "content": "Steh auf Männchen: Kinderspielzeug outet sich",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2049.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2049"
+ },
+ {
+  "content": "In einem Satz: Die Katze springt auf das Dach.",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2049.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2049"
+ },
+ {
+  "content": "E-Fendt-Duell: Möglicherweise veranstalten Bauern mit Elektro-Traktoren Straßenrennen",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2049.html",
+  "creators": [
+   "s0l"
+  ],
+  "num": "2049"
+ },
+ {
+  "content": "Halb so wild: Koch vermischt Hirschgulasch mit Rindfleisch",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2049.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2049"
  }
 ]
