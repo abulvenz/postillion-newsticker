@@ -3,7 +3,7 @@ import regex from "./regex.mjs";
 import fs, { readFileSync } from "fs";
 import { exceptionalStuffByUrl } from "./exceptionalStuffByUrl.mjs";
 
-const clearEverything = false;
+const clearEverything = true;
 const displayBrowser = false;
 
 const maximumNumberOfPages = 1e100;
