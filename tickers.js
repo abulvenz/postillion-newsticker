@@ -1,6 +1,63 @@
 export const tickers = 
 [
  {
+  "content": "Wegen Bildung einer kriminellen Vereinigung: Privatlehrer des Remmo-Clans festgenommen",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2050.html",
+  "creators": [
+   "adl"
+  ],
+  "num": "2050",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8z38WzNK-tXPcPm8925tRAkpr3W_uOGm4L3lxJlpFkuMBCPdHCcRmEsgFuB79pu4r-cHL4QQjQSTTWlvyPtoZBfSOOQzW8x58bJIsLWdHPThhJEYpsPnYOnmQRuGnKUXoHSfo8SvZ-Uxy08xn-mIHmcKNS7KxEyzaJaieh-PtLyJGJHcT_YhyHAFqtfng/w1600/tickerremmo.jpg"
+ },
+ {
+  "content": "Nickherrchen: Hund von Metal-Fan döst",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2050.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2050"
+ },
+ {
+  "content": "Schwatz vor Rauken: Gemüsebauer wird bei Gespräch in Rucolabeet ohnmächtig",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2050.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2050"
+ },
+ {
+  "content": "Verstümmler: Wenn dem Delphin 'ne Flosse fehlt, hat so ein Arsch das Tier gequält",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2050.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2050"
+ },
+ {
+  "content": "Dank Bier-Mähdrescher-Daten: Bauer hat Bild von Gerste-Erntemaschine im Ausweis",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2050.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2050"
+ },
+ {
+  "content": "Nichtsesshaft: Obdachloser verweigert Gefängniskost",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2050.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2050"
+ },
+ {
+  "content": "Vorm Finishen mehr Busen: Weltumseglerin posiert bei Zieleinfahrt in Helsinki für Männermagazin",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2050.html",
+  "creators": [
+   "hem"
+  ],
+  "num": "2050"
+ },
+ {
   "content": "Steht auf dem Schlauch: Domina weiß nicht, weshalb ihr Sklave so schreit",
   "url": "https://www.der-postillon.com/2024/01/newsticker-2049.html",
   "creators": [
@@ -90009,7 +90066,7 @@ export const tickers =
    "sjs"
   ],
   "num": "500",
-  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdVWEPeV4rfPVCzdA0CRe2LNy1J8P4_sWxLQFNJL1pvFXCz3Okbf5kxScHssNjnIG0nxLyXnyJ1FoulNwh4sSSegYwHkEzL7U85Pb7EXW_XfYPNxeEbwEiTp29Hw_LY08y9OBifeAA=w1600"
+  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdX8yPmIBsHWa5PUN56WnVyve2aUi5FnJg1K_YAiM6o-suKfEEVruAPr4mox__E2XMyhnxK_obOYMAfk222gkijIcilDvPkuXTptETPuqtJrSAIspvnuAkBsc9MaRr3s0iRXWx2Ysw=w1600"
  },
  {
   "content": "Komplizierter Bruch: Ärzte kommen bei Visite auf keinen gemeinsamen Nenner",
