@@ -1,6 +1,63 @@
 export const tickers = 
 [
  {
+  "content": "Braucht was zum Runterkommen: Dachdecker beruhigt sich nach Leiterdiebstahl mit Flachmann",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2052.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2052",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7YqAVHFF3dFcOFqshly2Imam6mf4JL13GJGN2-RUhFtlrEDMP8vPHdkAbK5QCqFPQjBXYJG-miCwQs3Fk6pdMaGlXl_rPOkvUo22YpyYajajGi7WYkN0Ty5Iir84wqnGnNkiwtfrMzIzc_C-SIQbec5UNHvLSOCWjzELMmh_TP1pwZZWSBBv9ZitHAscj/w1600/tickerrunterkommen2.jpg"
+ },
+ {
+  "content": "Zoom-Kotzen: Bulimiker-Online-Treffen schon wieder abgesagt",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2052.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2052"
+ },
+ {
+  "content": "Entfernte Verwandte: Kim Jong-Un ließ erneut zwei Großonkel hinrichten",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2052.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2052"
+ },
+ {
+  "content": "*An Euter fass* \"Huch!\": Bauer erschrickt wiederholt beim Melken",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2052.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2052"
+ },
+ {
+  "content": "Zu zugig: Obdachloser verlässt Platz unter Eisenbahnbrücke",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2052.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2052"
+ },
+ {
+  "content": "Alleingang: Multiple Persönlichkeit betreibt organisierte Kriminalität",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2052.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2052"
+ },
+ {
+  "content": "Ist wohl auf: Genesener Wirt hat Kneipe anscheinend wieder geöffnet",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2052.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2052"
+ },
+ {
   "content": "Ihm raucht die Birne: Kochazubi überlegt, wie er zu stark flambiertes Obst noch retten kann",
   "url": "https://www.der-postillon.com/2024/01/newsticker-2051.html",
   "creators": [
@@ -90123,7 +90180,7 @@ export const tickers =
    "sjs"
   ],
   "num": "500",
-  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUqaH35ZbiwhbxfNqm7A5-0jxEB94H3zHSHRzkzJbOBt1-xSm3LxfPEU5TI2HBdmE_pc6pdoVzw-lfqPu5EM4jKJs2d2VIn92KW8FMXFeWjSjDBAb0oxCVvtN2adLWPML9pJ7hj8Q=w1600"
+  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUbt0OByGrMju6E2_tSp_TT9_5ITgOti7ZbwbtGYvAJjn7EOO5si-6HqaZ0TKUl4Hr3lWAlTf-m2-HnYYMrtXlLZoOYL1tWbBRuOfH9GQ0anUT43eh0qzFo68k5WGTa83Wf7TTeLA=w1600"
  },
  {
   "content": "Komplizierter Bruch: Ärzte kommen bei Visite auf keinen gemeinsamen Nenner",
