@@ -114919,5 +114919,63 @@ export const tickers =
    "par"
   ],
   "num": "1"
+ },
+ {
+  "content": "Froschstutzmittel: Glykol kann zum Rasieren von Amphibien verwendet werden",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2053.html",
+  "creators": [
+   "s0l",
+   "kly"
+  ],
+  "num": "2053",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrp5GGAk5nDkC6X2T31YcwzMKYQGScRSV1pqMNFZJGMb5l22LPGgXcXUGO_w0Js2KCZzZCUT5XEp_HpkolNEx1MLwEoWY9u_NEEygP9XqhmVbZ3yZ86D1ALtxwE_NRrMqqhPsSVwoks4MKj68j3mtKXdEkJMTlnNFjOmTyMJRJgzUKcKWL0xoE5DlzxCWC/w1600/tickerfroschrasur.jpg"
+ },
+ {
+  "content": "Haftende: Klimaaktivistin freigelassen",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2053.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2053"
+ },
+ {
+  "content": "Geh' näher, Biss, Au: Westafrikaner erklärt Folge zu geringen Raubtierabstands",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2053.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "2053"
+ },
+ {
+  "content": "Schläft heute länger: Folteropfer erholt sich von Streckbankstrapazen",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2053.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2053"
+ },
+ {
+  "content": "Gulasch kann ohne: Bundeswehr streicht Fleisch aus köstlichem Gericht",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2053.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2053"
+ },
+ {
+  "content": "Muss man ihm nachsehen: Analphabet bittet um Hilfe bei Lexikonbenutzung",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2053.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2053"
+ },
+ {
+  "content": "Vstick hinter den Ohren: Langhaariger schummelt E-Zigarette an Kontrolle vorbei",
+  "url": "https://www.der-postillon.com/2024/01/newsticker-2053.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2053"
  }
 ]
