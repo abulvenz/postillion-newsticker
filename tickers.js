@@ -115091,5 +115091,62 @@ export const tickers =
    "p2k"
   ],
   "num": "2055"
+ },
+ {
+  "content": "Soll Nachricht nach dem Pfeifton hinterlassen: Tinnituspatient hängt seit über einer Stunde in der Leitung",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2056.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2056",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqvfSu7PR8ReyiUfFUlX7PGoCB8aeTVKuhOjD3JKOpF0GvlHsQNcU5U334zft8Yj83kC1QvBAlv0EZ01DOmlQ25TLtB-S3frj6I66Z7ppXAYaK_1DtgXpgJGFBLJZtkIoIDsydnhAZiteOVEY_EGYRnSpGQfqKHV3Zl9ovbTLbXRl35vErVhhsiO2dva3s/w1600/tickerinderleitung.jpg"
+ },
+ {
+  "content": "Sagt regen Bogen vorher: Meteorologe besucht Violinkonzert",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2056.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2056"
+ },
+ {
+  "content": "Dem Vernehmen nach: Verdächtige hat wohl gestanden",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2056.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2056"
+ },
+ {
+  "content": "Eierweh da: Mann versucht Hodenschmerzen mit indischer Heilkunst zu lindern",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2056.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2056"
+ },
+ {
+  "content": "Spieleentwickler: Softwareingenieur packt Weihnachtsgeschenke aus",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2056.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2056"
+ },
+ {
+  "content": "Bedankt sich für den Support: Heilsarmee weiht neue Küche ein",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2056.html",
+  "creators": [
+   "arc"
+  ],
+  "num": "2056"
+ },
+ {
+  "content": "Jetzt heißt es Daumen Drücken: Eltern wollen versehentliche Namensänderung von Kind rückgängig machen",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2056.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2056"
  }
 ]
