@@ -115205,5 +115205,63 @@ export const tickers =
    "sum"
   ],
   "num": "2057"
+ },
+ {
+  "content": "Hauptuntersuchung: TÜV-Werkstatt wegen Läusebefall geschlossen",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2058.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2058",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbTqU3KtNXISi8EjGuW7PTy2AR0LjnE2myrmqhs7ro1zrXalQEsmgovjPwgkD1fkNd60vY0UsG6EqCqgoBOXVEY28MOvLcqXVcrBmP_LcuyWEA9N3vmP0JFkt55cAYdKUzMZJkVCgph8czl9j-RYJMdhoSG9REQrwyT-wwlizkSA2fyaWwnea2NL8q6X8p/w1600/tickerla%CC%88use.jpg"
+ },
+ {
+  "content": "Ah, lieber bar: 40 Räuber nehmen keine Kreditkarten an",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2058.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2058"
+ },
+ {
+  "content": "Regionalligator: Heimisches Krokodil erzielt Treffer in vierthöchster Spielklasse",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2058.html",
+  "creators": [
+   "wrb",
+   "sch"
+  ],
+  "num": "2058"
+ },
+ {
+  "content": "Neu-Gere: Schauspieler gespannt auf Nachwuchs",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2058.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2058"
+ },
+ {
+  "content": "Enten hassen diesen Trick: 10 Dinge, die Sie noch nicht über Familie Duck wussten",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2058.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2058"
+ },
+ {
+  "content": "Wehrmachtsausstellung: Museumsdirektor sucht Freiwillige für schweinisches Kamasutra",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2058.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2058"
+ },
+ {
+  "content": "Unterstützt Hood die Rebellen?: Rächer von Sherwood Forest an Tankerangriff im Roten Meer beteiligt",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2058.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2058"
  }
 ]
