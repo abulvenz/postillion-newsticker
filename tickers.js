@@ -115263,5 +115263,64 @@ export const tickers =
    "marc"
   ],
   "num": "2058"
+ },
+ {
+  "content": "Aldi-Jahre verschwiegen: Lidl-Kassiererin gesteht Ausbildungszeit bei Konkurrenz",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2059.html",
+  "creators": [
+   "stp",
+   "ttl"
+  ],
+  "num": "2059",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRAHwg2MWSk8itzkeND_oMIp8TCWTdsEH1bBgYW2mm3eNibYeDe5WAEKuhGZJfaERFHAdHvpiySTJf8KCdDKvcR_zRpSsnAOfjxHLm3yqfkNkEB5u4FWJd32WOuDx41gx2wLrYBqdyFa7IeGlcS2c86k10XzGjleqWizlr_Vgk_0TihvhxRiYI5FbfK_Yv/w1600/tickeralldijahre.jpg"
+ },
+ {
+  "content": "\"Tut mir leid, wenn ich so reinplatze\": Selbstmordattentäter sehr höflich",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2059.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "2059"
+ },
+ {
+  "content": "Zughalt: Passagier bleibt lieber im warmen Waggon",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2059.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2059"
+ },
+ {
+  "content": "Bœuf: Französisches Rind explodiert",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2059.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2059"
+ },
+ {
+  "content": "Lag auf der Hand: Pubertierender masturbiert schon wieder",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2059.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2059"
+ },
+ {
+  "content": "Indoorgermanen: Volk verließ Behausungen nur im Notfall",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2059.html",
+  "creators": [
+   "ttl",
+   "jeo"
+  ],
+  "num": "2059"
+ },
+ {
+  "content": "Waalkes sang: Otto veröffentlicht Platte mit Klick- und Pfeiflauten",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2059.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "2059"
  }
 ]
