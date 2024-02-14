@@ -115380,5 +115380,63 @@ export const tickers =
    "wrb"
   ],
   "num": "2060"
+ },
+ {
+  "content": "Scherelosigkeit: Astronaut kann Nahrungsbeutel nicht öffnen",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2061.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2061",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf2hR6VAmCLm-4YdLA092GSPfexYfaqUHnbPR3TbcGN88f_GYR9x8uSRWsSHcdHYyR67qUbJLRBiPTj3Y8oKpkMOdvtNGf1Nn9aChnRPC772CjB3KwJ_piKV5O-Nzo25h-cfPe5iz7YvS625WHS9l4neHVJsgfYMxj23sJItaZUM94uQlcNlHa-07QXgKZ/w1600/tickerscherelos.jpg"
+ },
+ {
+  "content": "Naziaufmarsch: Rechter Demonstrant rutscht auf Bananenschale aus",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2061.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2061"
+ },
+ {
+  "content": "Dreht langsam durch: Faultier steckt mit Fahrrad im Schlamm",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2061.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2061"
+ },
+ {
+  "content": "Bananarama: Musikerinnen bringen Fruchtmargarine auf den Markt",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2061.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2061"
+ },
+ {
+  "content": "Ständig Instantseezungen: Störanfällige Fischsuppenmaschine stinkt Servicepersonal",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2061.html",
+  "creators": [
+   "wso",
+   "p2k"
+  ],
+  "num": "2061"
+ },
+ {
+  "content": "Legt noch eine Schippe oben drauf: Baumarktmitarbeiter macht Kunden glücklich",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2061.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "2061"
+ },
+ {
+  "content": "Jetzt ist er geliefert: Ehemann kann Bestellung von Porno-Film nicht mehr rückgängig machen",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2061.html",
+  "creators": [
+   "lou"
+  ],
+  "num": "2061"
  }
 ]
