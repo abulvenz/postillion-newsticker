@@ -115438,5 +115438,63 @@ export const tickers =
    "lou"
   ],
   "num": "2061"
+ },
+ {
+  "content": "Nur zwei Richtige: Zahnarzt versagt bei Ziehung",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2062.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2062",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilaS90VR1MicnQi9RD22Ol8tbsiVJcM6jvapa2AGA0Pp5mIAmjS0su2o8mlICCPEGP3JUgF4pwkffsvBInFLWBROnN5Ki0hqyqJuY_bHidJDtfpXoFI6EMf6zP0psZ79Xm-bhWFHaQg8BhIdM2LpJeXVDtUHRgXtVmcBD5YdBFZRnWQL6bin_3O8p75gey/w1600/tickerzweirichtige.jpg"
+ },
+ {
+  "content": "Fiel in Tank für die Blumen: Udo Jürgens aus Gießwasserdepot von Gärtnerei gerettet",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2062.html",
+  "creators": [
+   "sum",
+   "kol"
+  ],
+  "num": "2062"
+ },
+ {
+  "content": "Quereinsteiger: Einbrecher lernt noch",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2062.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2062"
+ },
+ {
+  "content": "BH glich Kite: Surferin schneidert sich gemütliche Unterwäsche aus Drachenstoff",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2062.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2062"
+ },
+ {
+  "content": "Toastpreis: Verlierer erhält 1,29 Euro",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2062.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2062"
+ },
+ {
+  "content": "Da fehlen ihm Devote: Bordellbetreiber muss Laden mangels Angebotsvielfalt schließen",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2062.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2062"
+ },
+ {
+  "content": "Machte, dass er wegkam: Zauberkünstler nach spurlosem Verschwinden seines Assistenten auf der Flucht",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2062.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2062"
  }
 ]
