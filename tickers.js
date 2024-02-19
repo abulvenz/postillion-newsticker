@@ -115496,5 +115496,63 @@ export const tickers =
    "marc"
   ],
   "num": "2062"
+ },
+ {
+  "content": "Fassziehnation Deutschland: Japaner verzaubert von prächtigen Brauereigespannen",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2063.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2063",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3d-qE2SAvBLfhoBcC1y-B0iS4BeOn0d0p30y1hHXjXt1hyphenhyphenEN_1tq69BIJb5fF0KQ1Ql9JFHqmjWF5LGfyeh3RMRKiyfz9mPoBdBtGxdAs6nFEK56asE4qELeAfpO6bsrISc0WpHa3gg2Epi-jXQbqLkcwze4MpEzsbBQEjTtnL5u0000vc7bwhrhK6Qim/w1600/tickerfassziehnation.jpg"
+ },
+ {
+  "content": "Auffangstation: Verwaiste Tierbabys per Katapult eingeliefert",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2063.html",
+  "creators": [
+   "sum",
+   "stp"
+  ],
+  "num": "2063"
+ },
+ {
+  "content": "Darmhals: Arschgesicht schon vor langer Zeit erkennbar",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2063.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2063"
+ },
+ {
+  "content": "Altistin: Sängerin betreibt florierenden Antiquitätenhandel",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2063.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2063"
+ },
+ {
+  "content": "Amselig: Vogelzüchter hat nur eine Art im Angebot",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2063.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2063"
+ },
+ {
+  "content": "Maske schneidert: Henry näht sich Boxershorts",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2063.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2063"
+ },
+ {
+  "content": "Wiese, Seen: Touristenführer beweist, dass Mecklenburg-Vorpommern nicht viel zu bieten hat",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2063.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2063"
  }
 ]
