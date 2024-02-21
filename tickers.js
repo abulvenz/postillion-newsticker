@@ -115554,5 +115554,64 @@ export const tickers =
    "sch"
   ],
   "num": "2063"
+ },
+ {
+  "content": "Tropf-an-Tropf-Rennen: Ärzte liefern sich Wettlauf zur Notaufnahme",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2064.html",
+  "creators": [
+   "hso"
+  ],
+  "num": "2064",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqlZ0Br-YDj0FZKgGc38b0wqidElUZOkawlAF1tsdTgCIXXQbahkBlF97uhtTQhS-6DCxsJnP-ECCGKnCwXIeYqhbtxItYp-cj1Kyy5NX4bgQE4VDvGKGh6LbymMAkEREc8C6VTcu9vLVSXpzK712G6WyKSzawIMMtbSIneWhakv_vZn7oMIyuzd1MRHnZ/w1600/tickertropfantropf.jpg"
+ },
+ {
+  "content": "Hand verlesen: Wahrsagerin doch nicht zu exklusiver Party eingeladen",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2064.html",
+  "creators": [
+   "frcx",
+   "ttl"
+  ],
+  "num": "2064"
+ },
+ {
+  "content": "Basalt drin: Zweiter Mann auf dem Mond hakt Gesteinsprobencheckliste ab",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2064.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2064"
+ },
+ {
+  "content": "Ist eingerahmt: Mona Lisa von Umweltschützer mit Sprühsahne benetzt",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2064.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2064"
+ },
+ {
+  "content": "Da Mausgang: Proktologe entdeckt Nagetierbehausung in After von Patient",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2064.html",
+  "creators": [
+   "adm",
+   "jeo"
+  ],
+  "num": "2064"
+ },
+ {
+  "content": "Liegt jetzt vor Gericht: Nudistin reicht Klage gegen Strandverweis ein",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2064.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "2064"
+ },
+ {
+  "content": "Umsatzplus: Postillon steigert Gewinne dank Newsticker",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2064.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2064"
  }
 ]
