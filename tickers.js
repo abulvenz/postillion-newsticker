@@ -115613,5 +115613,62 @@ export const tickers =
    "wye"
   ],
   "num": "2064"
+ },
+ {
+  "content": "Up genommen: Mann passt jetzt auch in kleine Mietwagen",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2065.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2065",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiasXwRPJBGqCLwhbxpmZ_l8LCe4NS1feQU4qSheQK18A6aDKayf4rj15Vd-e5Gr6sbCdLogA6fIJJM2PkI3iS0QYqc0M_IJonQStN8KjHg_Q_UHL6vFqEGZhQNB-h6uIrmC4639LhWZ92dRtLGTE8TCxNfGdnP2XRtoOnnne01xptTMCVNBDKwJkFmrzpr/w1600/tickerupgenommen2.jpg"
+ },
+ {
+  "content": "Keine Changs: Rassistische Vermieterin lehnt chinesische Wohnungsbewerber ab",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2065.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "2065"
+ },
+ {
+  "content": "Kipppunkt erreicht: Klimawandel nur durch Saufen zu ertragen",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2065.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2065"
+ },
+ {
+  "content": "Gegen Warzkunst: Aktivist zerstört zeitgenössische Krötenskulptur",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2065.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2065"
+ },
+ {
+  "content": "Hat sie nicht mehr alle: Mann verschenkt wertvollste Stücke seiner Goldmünzensammlung",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2065.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2065"
+ },
+ {
+  "content": "Weg vom Fenster: Kreml-Kritiker nahm Warnungen nicht ernst",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2065.html",
+  "creators": [
+   "dap"
+  ],
+  "num": "2065"
+ },
+ {
+  "content": "Klopo: Jürgen leidet an Sitzbrillenabdruck",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2065.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2065"
  }
 ]
