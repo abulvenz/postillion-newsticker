@@ -3,7 +3,7 @@ import regex from "./regex.mjs";
 import fs, { readFileSync } from "fs";
 import { exceptionalStuffByUrl } from "./exceptionalStuffByUrl.mjs";
 
-const clearEverything = false;
+let clearEverything = false;
 const displayBrowser = false;
 
 const maximumNumberOfPages = 1e100;
@@ -13,6 +13,11 @@ const startURLBE = "https://www.the-postillon.com/search/label/Newsticker";
 
 const countStr = (haystack, needle) =>
   haystack.split("").filter((e) => e === needle).length;
+
+if (clearEverything === false) {
+  const now = new Date();
+  clearEverything = now.getDay() === 1 && now.getDate() <= 7;
+}
 
 const scheduledURLs = [
   // Uncomment one or more to test
@@ -142,7 +147,7 @@ const fetchTickers = async () => {
         "STRANGE EMPTY BODY",
         document.querySelector("div.post-body")
       );
-     // problematicTickers.push("STRANGE EMPTY BODY " + url);
+      // problematicTickers.push("STRANGE EMPTY BODY " + url);
     }
     return innerTickers;
   });
