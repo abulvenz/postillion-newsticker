@@ -115727,5 +115727,62 @@ export const tickers =
    "sta"
   ],
   "num": "2066"
+ },
+ {
+  "content": "Brocken, Harz: Ausflugsziel lockt Engländer mit Liebeskummer",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2067.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2067",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn9jBIRuV59ZXJoNPPXzejskoON-sl-P_yFOs8PdHYN2lba9OzS5JWXhgOzzvoYFTaKR018Vk4C1gGGJeVzGztQpmwpt_XF0kU51EjRLr_DWW-R7MQAMESP0wxayTtg9lbXb2NJpWPWko6Bc3i25yasjXc3mm7MLOI4Vgkk_iMTpx0Yt2fTJ0G9CmH26MR/w1600/tickerbrockenharz.jpg"
+ },
+ {
+  "content": "Strahlt bis über beide Ohren: AKW-Mitarbeiter erhält üppiges Schweigegeld",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2067.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2067"
+ },
+ {
+  "content": "Mönch in Glattbach: Rheinländischer Ordensbruder bricht durch Eisdecke",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2067.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2067"
+ },
+ {
+  "content": "Noch nichts davon gehört: Autofahrer kennt Flüsterasphalt nicht",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2067.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2067"
+ },
+ {
+  "content": "QWERTZUIOPÜ: Computernerd im 90°-Winkel zu Heesters beerdigt",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2067.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2067"
+ },
+ {
+  "content": "Aus der Vögelperspektive: Sachse bewundert Arschgeweih von neuer Freundin",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2067.html",
+  "creators": [
+   "kgk"
+  ],
+  "num": "2067"
+ },
+ {
+  "content": "Skurril: Schüler versucht verzweifelt, das englische Wort für \"Eichhörnchen\" auszusprechen",
+  "url": "https://www.der-postillon.com/2024/02/newsticker-2067.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2067"
  }
 ]
