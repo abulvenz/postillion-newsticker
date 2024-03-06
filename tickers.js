@@ -115900,5 +115900,62 @@ export const tickers =
    "par"
   ],
   "num": "1"
+ },
+ {
+  "content": "Stark eingebunden: Mumie hat kaum Zeit",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2070.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2070",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO8b_95p-uxtiCWidqN4XNEqLCpgQcv09xUY8pfOWNSFczPkAu7kEBQQalWexAay8D3F7qtmYFspCTcV99iqxjpaolOZjxUeNdyGPKw5KA1-wdqR1HfLijkANZFQmucg_fav6IOq7eVXGwlqHD_YbNs3rOKcd_l4Uu_sBL0GXwbAT5YAFBGB2yOkf2Wzxu/w1600/tickereingebunden.jpg"
+ },
+ {
+  "content": "Merci: Franzose möchte nicht von jedem geduzt werden",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2070.html",
+  "creators": [
+   "dtb"
+  ],
+  "num": "2070"
+ },
+ {
+  "content": "Sitzt auf heißen Kohlen: Gast möchte zu enge Sauna direkt wieder verlassen",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2070.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2070"
+ },
+ {
+  "content": "Dartort: Sächsischer Polizist ermittelt nach Mord in Pfeilewerferkneipe",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2070.html",
+  "creators": [
+   "afi"
+  ],
+  "num": "2070"
+ },
+ {
+  "content": "Auf diese Beine können Sie schauen: Schwäbisch Hall erstattet Angestellten Waxingkosten",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2070.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2070"
+ },
+ {
+  "content": "Vin Diesel: Schauspieler imitiert Motorengeräusch",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2070.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "2070"
+ },
+ {
+  "content": "99 Duftflakons: Fan leakt Nenas Parfümsammlung",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2070.html",
+  "creators": [
+   "ung"
+  ],
+  "num": "2070"
  }
 ]
