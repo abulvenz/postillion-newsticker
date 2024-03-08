@@ -115957,5 +115957,62 @@ export const tickers =
    "ung"
   ],
   "num": "2070"
+ },
+ {
+  "content": "Pokal: Pavian gewinnt Schönheitswettbewerb",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2071.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2071",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrTBwczbsmHzdEAlQkYJUlOm_vaHxwVjzmLg7XQ0rihKxPM-smjQ7cete_NWvEw7Ske2ftbL5pF00qBK1U9J8G7ME0AzEiwqjjuw0YAZffZGaEpilsT5ImRoTgaIjhtrA4mzYXkTDRWjmJq_yqO0gkQeDe9KNSgh4OrxrczJ7k8Z-n2HEnJDvUbDHD_hLX/w1600/tickerpokal.jpg"
+ },
+ {
+  "content": "Neuer Bahnrekord: Bowlender Weselsky schafft 12 Streiks in Folge",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2071.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2071"
+ },
+ {
+  "content": "Pflege grad vier: Krankenschwester überarbeitet",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2071.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2071"
+ },
+ {
+  "content": "Schamoffensive: Politiker erhofft sich Sympathiepunkte durch Intimfotos",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2071.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2071"
+ },
+ {
+  "content": "Bettman: Superheld bleibt liegen",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2071.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2071"
+ },
+ {
+  "content": "Hirsch taut sich was auf: Wild sorgt für riesige Warteschlange vor Mikrowelle",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2071.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2071"
+ },
+ {
+  "content": "Fit Zeh, fit Zeh, fat Zeh: Helge Schneider hat geschwollenes mittleres Fußendglied",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2071.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2071"
  }
 ]
