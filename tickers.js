@@ -116073,5 +116073,65 @@ export const tickers =
    "mta"
   ],
   "num": "2072"
+ },
+ {
+  "content": "Anzeige ist raus: Autofahrer meldet Diebstahl von Tachometer",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2073.html",
+  "creators": [
+   "tom",
+   "cbe",
+   "kop"
+  ],
+  "num": "2073",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglyPoczTSBDKqQi4GuVydcYVLER9fKRTlMR5xt5PIF4pC7YC1gx-4A0H0QlfeD0asvZNo31ZCcXzXlAggwjhgZmhwQMVRAa6iqWFherj_auwnk5KsCVDAWJff6HnbSDG6HFmcQUSGPmcXzE63ALFWG8liFUnFiCedZIgXLbGjGfw4tft4PVDs4wbEJzheR/w1600/tickeranzeige1.jpg"
+ },
+ {
+  "content": "Vati Kahn: Erzeuger von Bayern-Torwart in Rom untergetaucht",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2073.html",
+  "creators": [
+   "ghe"
+  ],
+  "num": "2073"
+ },
+ {
+  "content": "Hält sie im Kopf nicht aus: Neue Hörgeräte treiben Akustikerkundin in den Wahnsinn",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2073.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2073"
+ },
+ {
+  "content": "Rosaceae: Barfüßiger Gärtner stößt sich an Apfelbaum",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2073.html",
+  "creators": [
+   "zac"
+  ],
+  "num": "2073"
+ },
+ {
+  "content": "Oliver Pocher: Moderator erklärt Grünspecht zum Vogel des Jahres",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2073.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2073"
+ },
+ {
+  "content": "Bohren tief rein: Clearasil Hauptsponsor von Fracking-Projekt",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2073.html",
+  "creators": [
+   "adm",
+   "tei"
+  ],
+  "num": "2073"
+ },
+ {
+  "content": "Ist noch offen: Wer macht die Tür zu?",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2073.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2073"
  }
 ]
