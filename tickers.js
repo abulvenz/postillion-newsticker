@@ -116248,5 +116248,65 @@ export const tickers =
    "sta"
   ],
   "num": "2075"
+ },
+ {
+  "content": "Gurkentruppe: Kühne entlässt Mitarbeiter",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2076.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "2076",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcUAkE56MzbQoYmo-upO3ggL5GqBZF7Cw5Oa-qgFG5B-lYZjZenbRgLxiYg6RKN9e6rR_L04bG0ZwxO2tv3dvdoJyPkn9MewZkhDWjIikV7MZ21nfGDdPyW29oTjd3eeTzdRx0EnO8A88wrBi9x4xbLGkJ7uBsS8jfC73Hfys2gRbaQnuKu_QngOSLP4Oi/w1600/tickergurkentruppe2.jpg"
+ },
+ {
+  "content": "\"Eurem Ei es steht!\": Butler lobt König für Intimfrisur",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2076.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2076"
+ },
+ {
+  "content": "Außer Haus: Geschäftsführer verspielt auf Dienstreise fast gesamtes Vermögen",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2076.html",
+  "creators": [
+   "rag",
+   "sum"
+  ],
+  "num": "2076"
+ },
+ {
+  "content": "War Kant: Königsberg schreibt Philosophenstelle neu aus",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2076.html",
+  "creators": [
+   "sta",
+   "p2k"
+  ],
+  "num": "2076"
+ },
+ {
+  "content": "1860 Mündchen: Fußballer muss Großfamilie ernähren",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2076.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2076"
+ },
+ {
+  "content": "Basstölpel: Vogel fliegt aus Musikgruppe",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2076.html",
+  "creators": [
+   "lou"
+  ],
+  "num": "2076"
+ },
+ {
+  "content": "Rund ums Ohr Kloß: Versicherung übernimmt auch bei seltenen Krankheiten alle Kosten",
+  "url": "https://www.der-postillon.com/2024/03/newsticker-2076.html",
+  "creators": [
+   "wrb",
+   "sum"
+  ],
+  "num": "2076"
  }
 ]
