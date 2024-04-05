@@ -116599,5 +116599,63 @@ export const tickers =
    "wrb"
   ],
   "num": "2081"
+ },
+ {
+  "content": "Jetzt ist er dran: Frau entdeckt Gatten in Bordellwarteschlange",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2082.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2082",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU3eSeySdS3VA-csbWoThpa4ckDvc5wGIg2tiQrt5bG7fFgoSRhgagNKaxsfV_QlaSHIeRz-cj5owPabtkIU3GXaOP4DbhKDqplA7CQADggcGKpWdhI8Q-CSsId5JuqKxQHsBRTaYMyY7zxSUr-N0GPHRy__Lj9epBujFvJduciyaFZeVXBjIPl3DtrRBW/w1600/tickerjetztdran3.jpg"
+ },
+ {
+  "content": "Machte sich vor Shrek in die Hose: Kind hat Angst vor verkleidetem Söder",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2082.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2082"
+ },
+ {
+  "content": "Muss noch viel lärmen: Angehender Krawallmacher",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2082.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2082"
+ },
+ {
+  "content": "Bohrkummer: Insulaner findet kein Grundwasser",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2082.html",
+  "creators": [
+   "jeo"
+  ],
+  "num": "2082"
+ },
+ {
+  "content": "Kifferboot: Hanfraucher müssen weit rausrudern, um Abstandsregeln einzuhalten",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2082.html",
+  "creators": [
+   "s0l",
+   "wrb"
+  ],
+  "num": "2082"
+ },
+ {
+  "content": "Wieder sehen macht Freude: Mann glücklich über zurückgegebene Brille",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2082.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2082"
+ },
+ {
+  "content": "Pferdmistenanzeige: Stallbursche gesucht",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2082.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2082"
  }
 ]
