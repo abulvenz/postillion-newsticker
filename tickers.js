@@ -116657,5 +116657,63 @@ export const tickers =
    "ttl"
   ],
   "num": "2082"
+ },
+ {
+  "content": "18 Personen verletzt, die meisten davon schwer: Sumoringerbus verunfallt",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2083.html",
+  "creators": [
+   "sxx"
+  ],
+  "num": "2083",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRJzXMQhRFa1AJoQcKNlaPzsPvTB1ynxUwBnvMwBVM5pUtil2jmeHqx0Y4G4jWo81cO8w3lo4E-dL3FaI13yWEMtTAYlbb3Gr4VhQmTrvRgMLtrWHFSbY7L88llhj5zJfyRmlidxhg170I3y4CdJzxRIP9kuvtX-IseGTilvI1vmCFY4MJkXthmTU1rq2H/w1600/tickersumo.jpg"
+ },
+ {
+  "content": "Das Leben ist kein Bonihof: Fränkischer Manager muß auf Zulagen verzichten",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2083.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2083"
+ },
+ {
+  "content": "Noch in der Schwebe: Hodenhochstand-Diagnose bei Astronaut nicht gesichert",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2083.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2083"
+ },
+ {
+  "content": "Farbleib unbekannt: Stark tätowierter John Doe aus Pathologie verschwunden",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2083.html",
+  "creators": [
+   "p2k",
+   "sum"
+  ],
+  "num": "2083"
+ },
+ {
+  "content": "Das älteste Gewebe der Welt: Archäologen feiern Textilfund in Steinzeitbordell",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2083.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "2083"
+ },
+ {
+  "content": "Paarzelle: Eheleute in Kleingarten festgehalten",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2083.html",
+  "creators": [
+   "plm"
+  ],
+  "num": "2083"
+ },
+ {
+  "content": "Huhn Dörte: Legehenne hält Rekord mit dreistelliger Anzahl von Eiern",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2083.html",
+  "creators": [
+   "jan"
+  ],
+  "num": "2083"
  }
 ]
