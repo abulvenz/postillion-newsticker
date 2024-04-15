@@ -116830,5 +116830,64 @@ export const tickers =
    "tom"
   ],
   "num": "2085"
+ },
+ {
+  "content": "Kroos: Toni muss zur Toilette",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2086.html",
+  "creators": [
+   "sta",
+   "evw"
+  ],
+  "num": "2086",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiur1dzhr9CPA7G6u2dq8whoeTfs4Wei4erEGT4cqO7MB6XKPKjjixkTfAXdeNOoHYJ1iXFskjiiYToBzgM-CDcxWwHo93kcdMYH28EiJs60BN_iTVU_H0-sp-8632XfxU6G2BbXCkMZbRkYzGC0uuz-QL_iJyOQNI1QddnXMjGcAy2zWfTgSUWwvlJDmo6/w1600/tickerkroos.jpg"
+ },
+ {
+  "content": "Können das Veteranen?! Ehemalige Soldaten machen Umschulung zum Meteorologen",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2086.html",
+  "creators": [
+   "küh"
+  ],
+  "num": "2086"
+ },
+ {
+  "content": "Karierende: Rechenblockzeichner entlassen",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2086.html",
+  "creators": [
+   "ung"
+  ],
+  "num": "2086"
+ },
+ {
+  "content": "Andakova: Russin in Syndikat eingeschleust",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2086.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2086"
+ },
+ {
+  "content": "Modemessen: Model schwört auf Diät mit Elektronikteilen",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2086.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2086"
+ },
+ {
+  "content": "Macht den Sack zu: Urologe geht nach gelungener Vasektomie in den Feierabend",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2086.html",
+  "creators": [
+   "dtb",
+   "ömm"
+  ],
+  "num": "2086"
+ },
+ {
+  "content": "Kindergrund Sicherung: Lisa Paus betont Zusammenhang zwischen Stromausfällen und Geburtenrate",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2086.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2086"
  }
 ]
