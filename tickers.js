@@ -116889,5 +116889,62 @@ export const tickers =
    "wso"
   ],
   "num": "2086"
+ },
+ {
+  "content": "Gravierender Fehler: Auf der Meisterschale steht \"Bayern Leverkusen\"",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2087.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2087",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRHjGC8tKLWdbFCfQRDG-RrvTUf-zG-s4VtsXQMJnZbWL6E2BctSgfsARPA4MhkEz297cI6gA3TrUN0vxizkdugLv-lSq20jN4BBlZVeB6yq7gRONxHPthOL1WyQZ3W5Fn6fyj9Z5rLD2MCRGt4V5T2HoJCFI6PdpoU0ggGd0Wp0eXVKluf4wc0favmOMa/w1600/tickergravierend1.png"
+ },
+ {
+  "content": "OnlyFendts: Bauer gründet Videoplattform für sexy Traktoren",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2087.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "2087"
+ },
+ {
+  "content": "AAAUUUUUU: Werwolf muss zur Abgasuntersuchung",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2087.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2087"
+ },
+ {
+  "content": "Am Pophimmel: Musiker trotz misslungener Geschlechtsumwandlung erfolgreich",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2087.html",
+  "creators": [
+   "zpe"
+  ],
+  "num": "2087"
+ },
+ {
+  "content": "Überwiegend festkochend: 98% aller Kartoffeln bleiben am Topfboden kleben",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2087.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2087"
+ },
+ {
+  "content": "Tritt in Verhandlung: Chuck Norris löst Nahost-Konflikt",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2087.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2087"
+ },
+ {
+  "content": "An Althassschwäche gestorben: Betagter Kölner konnte nicht mehr ausreichend Ablehnung gegen Düsseldorfer Bier aufbringen",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2087.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2087"
  }
 ]
