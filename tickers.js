@@ -117177,5 +117177,63 @@ export const tickers =
    "tom"
   ],
   "num": "2091"
+ },
+ {
+  "content": "Alles muhte zum Geburtstag: Bauer bekommt Ständchen von seinen Kühen",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2092.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "2092",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz5asKXLxxUJ42XFokdeVa8QtlwSWmvqKLvGQs_HmsvUf0_J1FFpr8gnocxyaS2A-qg9yzTIb3yQtQld5PF2izU2lymVYnc1Ww7WqOTLK0NABUjJ9ZcztgKOuRxSasv-3wE0hEutZK7GsNsQDVMVd32rDwGJ2oJvb9AWYaSxKOgZVBzdYGQINid9hZ-Dky/w1600/tickerallesmuhte1.jpg"
+ },
+ {
+  "content": "Als ob, Digga: Jugendlicher wird niemals Sehhilfen fertigen",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2092.html",
+  "creators": [
+   "sta",
+   "kop"
+  ],
+  "num": "2092"
+ },
+ {
+  "content": "Findet wieder Geschmack an ihm: Frau entdeckt Ketchupfleck auf Hose ihres Mannes",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2092.html",
+  "creators": [
+   "pst"
+  ],
+  "num": "2092"
+ },
+ {
+  "content": "Achim Keller: Durchschnittstyp fällt ein, wo die Kartoffeln lagern",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2092.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2092"
+ },
+ {
+  "content": "Das Ding wurde zu schnell zu groß: Potenzpillen-Startup geht pleite",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2092.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2092"
+ },
+ {
+  "content": "Immer nur Datteln: Arabischer Dauergamer ernährt sich ausschließlich von Palmfrüchten",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2092.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2092"
+ },
+ {
+  "content": "Stecken die Köpfe zusammen: Kommission arbeitet an Identifizierung von Explosionsopfern",
+  "url": "https://www.der-postillon.com/2024/04/newsticker-2092.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2092"
  }
 ]
