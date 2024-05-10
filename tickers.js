@@ -117467,5 +117467,63 @@ export const tickers =
    "mta"
   ],
   "num": "2096"
+ },
+ {
+  "content": "Kein Einzelfall: Pärchen stürzt wiederholt mit Tandem",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2097.html",
+  "creators": [
+   "ber"
+  ],
+  "num": "2097",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggA7nIansEVRuopNlTwwP4mtnX3S30D_LU9w13Mi6ZSdDjWtOkr2iEcLerdMtYrSP3kbVE5ml2FFUGQwGrA0wJGNPxBKYerkh9nvfq91-Q_s5cfzDjy6mPfs2M_25cv6mqOhRQIQjBT8EFK8XTAdb18aO7wk0x7-iOHpcRb1GNTBp-Pc_LY3FWxdOobJOn/w1600/tickertandem.jpg"
+ },
+ {
+  "content": "Hetzblatt: Bild plant Dating-Show-Neuauflage",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2097.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2097"
+ },
+ {
+  "content": "Sternwarte: Kometenbeobachter kommt mit seinem Teleskop nicht hinterher",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2097.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2097"
+ },
+ {
+  "content": "Aufnahmeprüfung bestanden: Mann kann Tontechniker-Schule besuchen",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2097.html",
+  "creators": [
+   "tom",
+   "oga"
+  ],
+  "num": "2097"
+ },
+ {
+  "content": "Trommelfelge platzt: Biker nach Hinterradexplosion ertaubt",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2097.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2097"
+ },
+ {
+  "content": "Volt-Hair: Philosoph fasst in Steckdose",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2097.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2097"
+ },
+ {
+  "content": "So kommen wir nicht weiter: Teilnehmer der Onanie-Weltmeisterschaften lehnen Dopingkontrollen ab",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2097.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2097"
  }
 ]
