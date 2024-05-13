@@ -117525,5 +117525,62 @@ export const tickers =
    "rag"
   ],
   "num": "2097"
+ },
+ {
+  "content": "Vereinzelte Schauer: Stadion wetterbedingt fast leer",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2098.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2098",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijPWp3g3l26paM5znyRQOVCoX6PnAPOq6uKtKj3a0MR_JaphPzOdoDMAagJpNnI8JvoGwE5PaAJ_vNbgBAAqGV2i8_uPuDjHEvqQqG9o7dBO1PaYP3j88-Ve8eAvpgRUOG8mcwUXmqqWP7gZ9TIYpH2j65nXYktAv0NCwyR82Mm0qOSUj3pz2U-O25zLQb/w1600/tickereinzelneschauer.jpg"
+ },
+ {
+  "content": "Beerenhunger: Grizzly stürmt Obstplantage",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2098.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2098"
+ },
+ {
+  "content": "Farb-LAN-Änderung: Bahn ersetzt gelbe Internetkabel durch rote",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2098.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2098"
+ },
+ {
+  "content": "Chantal im Sperrbezirk: Rosi nimmt Enkelin mit zur Arbeit",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2098.html",
+  "creators": [
+   "ca8"
+  ],
+  "num": "2098"
+ },
+ {
+  "content": "Liegt voll im Plan: Vatertagswanderer ruht sich nach zwei Kästen Bier auf Landkarte aus",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2098.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2098"
+ },
+ {
+  "content": "Steffi: Graf kauft sich Dekoflamingo",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2098.html",
+  "creators": [
+   "23"
+  ],
+  "num": "2098"
+ },
+ {
+  "content": "Aus der Pornokasse: Trump konnte Schweigegeld für Stormy Daniels problemlos aufbringen",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2098.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2098"
  }
 ]
