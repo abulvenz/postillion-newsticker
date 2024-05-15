@@ -117582,5 +117582,63 @@ export const tickers =
    "marc"
   ],
   "num": "2098"
+ },
+ {
+  "content": "Bei ihm piept's wohl: Lkw-Fahrer legt Rückwärtsgang auf der Autobahn ein",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2099.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2099",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdlNliCCN83QmPv69ntR4cbzUdWDsdj6z6by9P7IMCxZIrQ2vBeQTdfXBNOMxs5816NF7wvfdkHRXkYpGXUdafO0SBbnu0z4AaqPJ7UcMFj7Hg-strqqz53c5BDhqsEX1x3IwnTFCajtClIkKje2YazYf6Y-Z02sHw0C31BTsFT1e1A_zt-O0jgavhaau3/w1600/tickerrueckwaertsgang.jpg"
+ },
+ {
+  "content": "Vene dick: Gondoliere benutzt Kanüle Grande",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2099.html",
+  "creators": [
+   "ttl",
+   "arc"
+  ],
+  "num": "2099"
+ },
+ {
+  "content": "Bald zweitkassig: Darmstadt-Profi läuft nur noch in Supermarktschlange zu Hochform auf",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2099.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2099"
+ },
+ {
+  "content": "Nachtisch: Holzwürmer verspeisen Stuhl",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2099.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2099"
+ },
+ {
+  "content": "Bonoboniere: Pralinendose mit Affeninnereien gefüllt",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2099.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2099"
+ },
+ {
+  "content": "Wird ganz rot: Engländer bekam Kompliment am Strand",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2099.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2099"
+ },
+ {
+  "content": "Hat die Klagemacht: Anwalt droht Frau mit Prozess bei Abfuhr",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2099.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2099"
  }
 ]
