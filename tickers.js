@@ -117697,5 +117697,62 @@ export const tickers =
    "jad"
   ],
   "num": "2100"
+ },
+ {
+  "content": "Ah, da kam er: Wüstling ejakulierte in chilenischen Sand",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2101.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2101",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGKRW3iKhDyit21LDhgI2khf8s5uw4_XSd_jTtRSWTrRcaz3Kj4OXT41d7tsLGrSWKY2uAK_safgCNYGsYzoveZ6Y23yDdzX29v8MMU9_OnqtmaVDDZXfhSKWPYKae_gg8ThIUqLfZaJ3GcaQcMfp-LKjX4hFwY9_bOZN1EuCZeJsH4S0waCWeTIGGZ_uK/w1600/ticker_wuestling.jpg"
+ },
+ {
+  "content": "Spitzt sich zu: Bleistift jammert über Holzknappheit",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2101.html",
+  "creators": [
+   "elw"
+  ],
+  "num": "2101"
+ },
+ {
+  "content": "Täter redete: Kommissar lässt Fanfaren erklingen",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2101.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2101"
+ },
+ {
+  "content": "Hat damit abgeschlossen: Bestohlene Radfahrerin entsorgt geknacktes Schloss",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2101.html",
+  "creators": [
+   "jad"
+  ],
+  "num": "2101"
+ },
+ {
+  "content": "Abstanzregel: Finger weg von der Stempelmaschine!",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2101.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2101"
+ },
+ {
+  "content": "Belek: Türke erhält Kassenzettel",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2101.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2101"
+ },
+ {
+  "content": "Zieht Laich daraus, als es isst: Kind erntet während des Verzehrs von rohem Stör scheinbar mühelos Kaviar",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2101.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2101"
  }
 ]
