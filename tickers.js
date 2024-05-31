@@ -117754,5 +117754,64 @@ export const tickers =
    "sum"
   ],
   "num": "2101"
+ },
+ {
+  "content": "Könnte sich selbst ohrfeigen: Masochist hat Adresse von Domina-Studio vergessen",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2102.html",
+  "creators": [
+   "lia"
+  ],
+  "num": "2102",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZqTJp19U_Y9BWngPdW0gO8ECCV4Ns42-W5pRjHcaqs21BLd05oZ9t1P2ecS4diQEfqV_im2XWPAvYVH4mCuo8XGUKNkx9QlgnJOuuXFTrR-vJoeeqoU4TnQjFooy6nM8LCuXMqHjwGLXkWLTxAQkLf7XCFbbyGfZGjp2CfRjDvQ_kDtZHeYZXo1btD9zW/w1600/tickerselbstohrfeigen.jpg"
+ },
+ {
+  "content": "Dass die'n Hof mähen: Schauspieler heuert Gartenarbeiter an",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2102.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2102"
+ },
+ {
+  "content": "Fahren in die Filterwochen: Melitta-Mann heiratet Marlboro-Mann",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2102.html",
+  "creators": [
+   "tom",
+   "arc"
+  ],
+  "num": "2102"
+ },
+ {
+  "content": "Laut-Umpf-Frage: Techno-Anhänger stehen auf Bass",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2102.html",
+  "creators": [
+   "elw"
+  ],
+  "num": "2102"
+ },
+ {
+  "content": "Rennt ins Verderben: Marathonläuferin bleibt bei Abkürzung in Komposthaufen stecken",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2102.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "2102"
+ },
+ {
+  "content": "Sue spendiert: Polizistin verschenkt beschlagnahmte Drogen",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2102.html",
+  "creators": [
+   "ttl",
+   "stp"
+  ],
+  "num": "2102"
+ },
+ {
+  "content": "Gehört nicht zum alten Eisen: Betagter Wertstoffhof-Mitarbeiter macht immer noch klare Ansagen",
+  "url": "https://www.der-postillon.com/2024/05/newsticker-2102.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2102"
  }
 ]
