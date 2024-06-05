@@ -117871,5 +117871,62 @@ export const tickers =
    "par"
   ],
   "num": "1"
+ },
+ {
+  "content": "Albert: Physiker streckt die Zunge heraus",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2104.html",
+  "creators": [
+   "lia"
+  ],
+  "num": "2104",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgENlyTn4bIx-tck2lT9MNlvURMivELkAVcAibgHnCB4OOpyBNbPU0kQNIcMgudJgT0z6ic13_ECstchFStRpHiVbZQ3SuOJXJxvt2YAzMqgYLb2xzjrBTRtwzsppdLqTITzcFUW7QGqiiiwwqWxB8SdjP83rzXGGTAaigPr4JvQWwE_nX3PxWRHT8egmZB/w1600/tickeralbert.jpg"
+ },
+ {
+  "content": "Ales für Deutschland: Höcke fordert mehr Bierimporte",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2104.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2104"
+ },
+ {
+  "content": "Jahrelanger Twist beigelegt: Paar einigt sich endlich über Abbruch von Tanzrekordversuch",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2104.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2104"
+ },
+ {
+  "content": "Kühne-Behauptung: Dosentomaten \"sonnengetrocknet\"",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2104.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2104"
+ },
+ {
+  "content": "In einer Nackthundknebelaktion: Tierquäler überrascht schlafenden Viringo",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2104.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2104"
+ },
+ {
+  "content": "Strikt: Oma lehnt Häkeln kategorisch ab",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2104.html",
+  "creators": [
+   "hso"
+  ],
+  "num": "2104"
+ },
+ {
+  "content": "Beene-dick-Tina: Berlinerin lässt Krampfadern in Kloster behandeln",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2104.html",
+  "creators": [
+   "elw"
+  ],
+  "num": "2104"
  }
 ]
