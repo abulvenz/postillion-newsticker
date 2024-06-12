@@ -118047,5 +118047,63 @@ export const tickers =
    "rau"
   ],
   "num": "2106"
+ },
+ {
+  "content": "Lizenz zum Löten: Bond übernimmt Urlaubsvertretung für Q",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2107.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2107",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioomkmlgTDdmmUMa4M0ai_CHVrcFAk7nbEHG1uNw1FT5C1MMYkng08IA5qdpMQn9knUPW7CDy0_vnsFxd3Z18OBuzr2Z37YUtSv3ATWAKf0rQlhDOYvolKx4ZMjBQ2xZ_qPVLgJ50LsPz72w6tCsujwH9MJlnBGAujPaPZlTaMRHng-gJcqDsOM0pm3W7i/w1600/tickerloetlizenz.jpg"
+ },
+ {
+  "content": "Walschlappe: Orca-Hausschuh in SPD-Zentrale aufgetaucht",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2107.html",
+  "creators": [
+   "rau"
+  ],
+  "num": "2107"
+ },
+ {
+  "content": "Pennyweiß: Clown kauft Billigfarbe im Discounter",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2107.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "2107"
+ },
+ {
+  "content": "Handschell-Hottie: Madrids Coach posiert für SM-Kalender",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2107.html",
+  "creators": [
+   "ttl",
+   "tei"
+  ],
+  "num": "2107"
+ },
+ {
+  "content": "Heizdecke: Pensionierter Fakir mit Teppich geblitzt",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2107.html",
+  "creators": [
+   "dtb"
+  ],
+  "num": "2107"
+ },
+ {
+  "content": "Sadida: Kunde entdeckt in Sportgeschäft Schuhe zum Rückwärtslaufen",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2107.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2107"
+ },
+ {
+  "content": "Machen keine halben Sachsen: Bundesland steigert Geburtenrate von 1,5 auf 2,0 Kinder pro Frau",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2107.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2107"
  }
 ]
