@@ -118105,5 +118105,62 @@ export const tickers =
    "sta"
   ],
   "num": "2107"
+ },
+ {
+  "content": "Packend: Mann schaut während Urlaubsvorbereitung einen Thriller",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2108.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "2108",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQLdfi0l8VFe5BF71zeY90jF_AAsVkjjfUC67ctflDH_qn85hvNgWupWwoAXNo882zUAqbq0ByPaNyyjLeSUhCIB-IeDMQe40SNHyfEJxCrwvteOgYxrvAGMQ42BZQ9fCTxipeH3SQMgWLziri2ntmLnBcu9fl-W_qDxImRu4wO-Mma38ob0kFtbomfT22/w1600/tickerpackend.jpg"
+ },
+ {
+  "content": "Äh ähm ...: Boris Becker fällt aktuelles Fußballturnier nicht ein",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2108.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2108"
+ },
+ {
+  "content": "CD: Die 400 größten Hits aus dem Alten Rom",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2108.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2108"
+ },
+ {
+  "content": "Warschau in Polen: Schwaben unterhalten sich über Osteuropareise",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2108.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2108"
+ },
+ {
+  "content": "Dessertation: Fahnenflüchtiger schreibt Doktorarbeit über Nachspeisen",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2108.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2108"
+ },
+ {
+  "content": "Verkrümelt sich: Paniermehlherstellungsauszubildender versemmelt Gesellenprüfung",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2108.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2108"
+ },
+ {
+  "content": "Shefford: Bürgermeister spurlos verschwunden",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2108.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2108"
  }
 ]
