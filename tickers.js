@@ -118162,5 +118162,62 @@ export const tickers =
    "ttl"
   ],
   "num": "2108"
+ },
+ {
+  "content": "Zu Spar geht die: Frau kauft Tomatensoße",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2109.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2109",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju1Ixfk4WEjuHplY0f9k4FtbkpgeXP_2bleJ6DVpV1jF8eFr-XXjhdQFP1ECKyps3E4fX2mcRJ9ldHd5Iy580mOdkQTt8ik6i9YXvaLYaQnzzuSgiEv5YbVimJZ7PqF678brUxFNMJN2675lCeXinK3Ube2hvzhpjTet9hG2OZ9z5u9E-R7MgKdVbrvEgz/w1600/tickerzuspar.jpg"
+ },
+ {
+  "content": "Golfstrom kommt zum Erliegen: Ozeanologe ließ VW-Licht brennen",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2109.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2109"
+ },
+ {
+  "content": "Komm, Indie pushen!: Plattenboss soll endlich mehr Genres bewerben",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2109.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2109"
+ },
+ {
+  "content": "Soll ihm die Eier rausholen: Bauer bittet Freundin, seinen Stall zu öffnen",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2109.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "2109"
+ },
+ {
+  "content": "Cheesebringer: Jens Weißflog gründet Lebensmittellieferdienst",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2109.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2109"
+ },
+ {
+  "content": "Nassau: Touristin von Wasserschwein belästigt",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2109.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2109"
+ },
+ {
+  "content": "Sah net Orte: Schwabe stopft auf Sightseeing-Tour nur Kuchen in sich hinein",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2109.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2109"
  }
 ]
