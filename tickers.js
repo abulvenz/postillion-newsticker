@@ -118219,5 +118219,62 @@ export const tickers =
    "adm"
   ],
   "num": "2109"
+ },
+ {
+  "content": "Zeuge packt vor Gericht aus: Richter ärgert sich über Geschenkpapier im Saal",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2110.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2110",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHrTyCrnmzPgjwUbkpoCxQsVXp_fHmZCxzhAPC2czrE_bMiegJB3Ppq7VXSVtIFS4hjZPtrlalyvVyT2f_SzZF3akzdhZXR4wY156dn7K88kp2jDHKKcn5bhhLB3PB5cnAoD8y8QIFgV1RxiaVMpxrkkHV22ZUin0a8Dv-vIGrjNAvDqKuvfJPiZMv1i05/w1600/tickergeschenkpapier.jpg"
+ },
+ {
+  "content": "All mehlig: Sukzessive immer mehr gemahlenes Getreide im Weltraum",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2110.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2110"
+ },
+ {
+  "content": "Kam nur vorbei, um ihnen die Lichter auszublasen: Killer ruiniert Kindergeburtstag",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2110.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2110"
+ },
+ {
+  "content": "Will er sich Austern-Ehe angucken: Taucher schwimmt an kopulierende Muscheln heran",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2110.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2110"
+ },
+ {
+  "content": "Macht Platz: Gut erzogener Hund legt sich nicht mitten in den Weg",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2110.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2110"
+ },
+ {
+  "content": "Briten: Polizei zu Pferde soll englische Fans im Zaum halten",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2110.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2110"
+ },
+ {
+  "content": "Erklärt den Toten Winkel: Fahrlehrer gibt Mathe-Nachhilfe auf Friedhof",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2110.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2110"
  }
 ]
