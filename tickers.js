@@ -118276,5 +118276,64 @@ export const tickers =
    "tom"
   ],
   "num": "2110"
+ },
+ {
+  "content": "Hat den Faden verloren: Witwe verhaspelt sich bei Trauerrede für ihren langweiligen Mann",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2111.html",
+  "creators": [
+   "mun"
+  ],
+  "num": "2111",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNhm64tA5YgcffvqaOO8lVCYs8wOzSMZD6Tw-ZL0MIYqY0YrKosdkzYmtlL9Alx91vRDnaGidKlQmKXthQvIwWwmbhmvk_wg9OF8Npirwc45K5njMUUVwZUggl-Z7H_Al9Da1VDr4KnDHAktg_4x60OpBz7s1YK_BdS0GnyhRqZM82ixD-WPV99EA-eDMW/w1600/tickerfadenverloren.jpg"
+ },
+ {
+  "content": "Yvette: Bayerin gesteht Spielsucht",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2111.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2111"
+ },
+ {
+  "content": "Dann klebt er ab: Peter Schilling will morgen Küche neu streichen",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2111.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "2111"
+ },
+ {
+  "content": "Starrt auf Stellung: Voyeur in Pole-Position",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2111.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2111"
+ },
+ {
+  "content": "Lieferando: Essenskurier arbeitet an nur einem Wochentag",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2111.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2111"
+ },
+ {
+  "content": "Rettungsgassi: Mann und Hund spazieren durch Stau",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2111.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2111"
+ },
+ {
+  "content": "Weiß wie Southgate: Bleicher Co-Trainer sagt Ergebnis von England-Spiel voraus",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2111.html",
+  "creators": [
+   "tom",
+   "evvw",
+   "marc"
+  ],
+  "num": "2111"
  }
 ]
