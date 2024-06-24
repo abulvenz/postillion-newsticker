@@ -118335,5 +118335,63 @@ export const tickers =
    "marc"
   ],
   "num": "2111"
+ },
+ {
+  "content": "\"Wir legen in fünf Minuten ab!\": FKK-Kreuzfahrt kann beginnen",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2112.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2112",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdVCn85Up9VWIR9hMntWmpDobX8JDdVw7VVHZN970tRIrhOy0g5Zje6lJXejeOS4jgAV4bfyMyEeV8kWCl0C-_Hja9NxWhBWHMWPjbRR58UkLzdkCsV4plSpLYWO4HYSYyB7VHUnbIpprz4JUWVOjEW9rct6mRH_W5GtcLT0mMxRPvA-CEiB3piQuA9vam/w1600/tickerwirlegenab.jpg"
+ },
+ {
+  "content": "Steht im Spachtelfinale: Tapezierchampion für K.O.-Phase qualifiziert",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2112.html",
+  "creators": [
+   "sge"
+  ],
+  "num": "2112"
+ },
+ {
+  "content": "Schaflose Nacht verbracht: Hirte sucht bis zum Morgengrauen nach verlorenem Tier",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2112.html",
+  "creators": [
+   "s0l"
+  ],
+  "num": "2112"
+ },
+ {
+  "content": "Sie gurren nie wieder: Schauspielerin dreht Tauben den Hals um",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2112.html",
+  "creators": [
+   "tky",
+   "cbe"
+  ],
+  "num": "2112"
+ },
+ {
+  "content": "Gegen 12: Sheriff liefert sich mittags Schießerei mit Verbrecherbande",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2112.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2112"
+ },
+ {
+  "content": "Messemänner und Kopftuchmädchen: AfD-Delegation geschockt von Klosterbesuchen",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2112.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2112"
+ },
+ {
+  "content": "Badunmensch-Huldigung: Brüssels OB erhebt 'Manneken Pis' doch nicht zum Schutzpatron der Stehpinkler",
+  "url": "https://www.der-postillon.com/2024/06/newsticker-2112.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2112"
  }
 ]
