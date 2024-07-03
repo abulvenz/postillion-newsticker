@@ -118564,5 +118564,64 @@ export const tickers =
    "par"
   ],
   "num": "1"
+ },
+ {
+  "content": "Superzelle: Gefängnisturm-Insasse hat besten Blick auf Gewitterwolke",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2116.html",
+  "creators": [
+   "adm",
+   "stp"
+  ],
+  "num": "2116",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu9TCPzfY5tX4NtK1uS9UcJW78FK1zuwnn3bZiiupDo5h7BzojN6_np4sg8BByOXsUoj4TwOdNGTZHApsWMmK2bP88KGw42tr4_ehvGUoJRH-qwv_kvJi2M_0mzIl4hs3DVaVCmdUlnrChgyaoUImBgawFGyfempA6oa0wOFTj_-oU-gpaTTXQ3J_Qdgi5/w1600/tickersuperzelle.jpg"
+ },
+ {
+  "content": "Det tailliert: ZDF legt ausführlichen Entwurf für Mainzelweibchen vor",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2116.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2116"
+ },
+ {
+  "content": "Ein Tor würde dem Spiel guttun: Schach-Visionär legt Läufer quer auf zwei Türme",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2116.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2116"
+ },
+ {
+  "content": "Anarchie: Britischer Prinzensohn erhält Drohbriefe",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2116.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "2116"
+ },
+ {
+  "content": "Fairtrader: Biohändler schickt Außendienst",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2116.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2116"
+ },
+ {
+  "content": "Mit einem Bein im Finale: Paralympics-Teilnehmer überzeugt im Vorlauf",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2116.html",
+  "creators": [
+   "tom",
+   "stp"
+  ],
+  "num": "2116"
+ },
+ {
+  "content": "Kann nur Dänisch: Jütländer scheitert bei deutscher Segelprüfung an genau einem Knoten",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2116.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2116"
  }
 ]
