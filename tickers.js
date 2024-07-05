@@ -118623,5 +118623,63 @@ export const tickers =
    "wso"
   ],
   "num": "2116"
+ },
+ {
+  "content": "Merlinsgeburt: Frau bekommt Kinder von Zauberer",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2117.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2117",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOHOWbhUTZQ3jyofjAFxZPLssbiNu65Nf_wqdQBtWPuNt-Lk02zpHTZCT4wEYUKoWUWRsQcK_g_GUymsEpXZWQ5PEl9vtT5o22dkokvZlAnV2HuBsAE4wTKMbY9WRzAVU10AVcrZADKz-ye-ER84m_itcnTLRb_Aqlu7PWNijLa-5vNq8HT8piGK09Q94c/w1600/tickermerlinsgeburt3.jpg"
+ },
+ {
+  "content": "\"Nichts\" unter Nomen: Duden-Verlag ignoriert falsch platziertes unbestimmtes Fürwort",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2117.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "2117"
+ },
+ {
+  "content": "Weiß, wie es in ihm aussieht: Chirurgin tröstet Patienten nach misslungener Herz-OP",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2117.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "2117"
+ },
+ {
+  "content": "Sieht hinreisend aus: Attraktive Frau fährt offenbar in den Urlaub",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2117.html",
+  "creators": [
+   "p2k",
+   "kop"
+  ],
+  "num": "2117"
+ },
+ {
+  "content": "Spaziergang: Hotelchefin dekoriert Wellness-Außenbereich",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2117.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2117"
+ },
+ {
+  "content": "Magenta: Telekom-IT-Mitarbeiter heiratet Eingabetaste",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2117.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2117"
+ },
+ {
+  "content": "Da muss er nicht lange nachdenken: Delegierter stimmt begeistert für AfD-Wahlprogramm",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2117.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2117"
  }
 ]
