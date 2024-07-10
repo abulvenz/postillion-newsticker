@@ -118740,5 +118740,63 @@ export const tickers =
    "sum"
   ],
   "num": "2118"
+ },
+ {
+  "content": "Hatte alles aus sich herausgeholt: Extrem leichtgewichtiger Chirurg gewinnt Marathon",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2119.html",
+  "creators": [
+   "ung"
+  ],
+  "num": "2119",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH1ZXbepRFz-rzTUjUToBObZn9bj5t0AWUjU1wC8aqq8UahrkzSaup85PKDL2_QFMM-uocyY0opFLN_GyzxnN1XWK3avrjyo39NAbn4APjxT755Af04XcObMXbzZW9FC_Ol2tiCZLS5rA22dfBqFWZ7jfJNMZtUBDPNUZmx2xDF-M9C2betjrjvMb0wuTE/w1600/tickerchirurg.jpg"
+ },
+ {
+  "content": "Khan sein: Mongole strebt möglicherweise nach der Herrschaft",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2119.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2119"
+ },
+ {
+  "content": "Da fiel einiges von ihm ab: Leprapatient freut sich über Pflegegrad 1",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2119.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2119"
+ },
+ {
+  "content": "*Padong*: Godzilla entschuldigt sich für Umstossen von Eiffelturm",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2119.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2119"
+ },
+ {
+  "content": "Heißchor geknackt: Gamer verführt komplette Girlgroup",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2119.html",
+  "creators": [
+   "jam",
+   "wrb"
+  ],
+  "num": "2119"
+ },
+ {
+  "content": "Hervorragend: Spanische Presse feiert Cucurellas Hand",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2119.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2119"
+ },
+ {
+  "content": "Popo-Listen: Verfassungsschutz führt Verzeichnisse rechtsideologischer Ärsche",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2119.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2119"
  }
 ]
