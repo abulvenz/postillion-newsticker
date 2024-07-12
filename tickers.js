@@ -118798,5 +118798,64 @@ export const tickers =
    "oga"
   ],
   "num": "2119"
+ },
+ {
+  "content": "Ist am liebsten Tilsitter: Käseliebhaber passt gerne auf Schweiger auf",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2120.html",
+  "creators": [
+   "sxx",
+   "oga"
+  ],
+  "num": "2120",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinXDtAlmoETeAZCYshdXppK29zYBeNzPhuXYrlDWiXjB5eUk_UDD8Wnf8apoA0NchyFZFgnUoTrJkDvUL8Jwnkh3zHYDMLEQstHoD6kFileHEMUksqu46h5aNP-AB0OLeP0hsK_QpQ9kQlt40F0zZjRPXcGaLph514BedkieSCJjMTS7Kyqo13qN3XsNl5/w1600/tickertilsitter.jpg"
+ },
+ {
+  "content": "Yamal: Fußballwunderkind nennt Lieblingsrechenart",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2120.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2120"
+ },
+ {
+  "content": "Sitzt im Wattezimmer: Patient mit Glasknochenkrankheit wird gleich behandelt",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2120.html",
+  "creators": [
+   "rbo",
+   "arc"
+  ],
+  "num": "2120"
+ },
+ {
+  "content": "Leberparty: Britische Metzgerinnung feiert Starmers Wahlsieg",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2120.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2120"
+ },
+ {
+  "content": "Serienkiller: Mörder stellt sich bereits im Pilotfilm der Polizei",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2120.html",
+  "creators": [
+   "ber"
+  ],
+  "num": "2120"
+ },
+ {
+  "content": "Leinöl-Messie: Hunderte Flaschen mit Samenextrakt aus Fußballervilla geborgen",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2120.html",
+  "creators": [
+   "rau"
+  ],
+  "num": "2120"
+ },
+ {
+  "content": "Gehteam-A-Marsch vorbei: Letztplatzierter Wanderverein wartet nach Hauptlauf nicht auf Siegerehrung",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2120.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2120"
  }
 ]
