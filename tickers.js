@@ -118966,5 +118966,63 @@ export const tickers =
    "stv"
   ],
   "num": "2122"
+ },
+ {
+  "content": "Bitte Motor abstellen: Hinweisschild wird zur Sammelstelle für Altmetall",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2123.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2123",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ_pUfdsJ4Ba6STHYHfYvEF9NgDx_eINQvkVzEqK9MThudKQytav028lHaDbXvfq8EKE9uqaW8iKxqVhwe4kFakp383fnH_3KPzIOkqptHnETkvkEOhnbUbrO4i5N0ed0WGQgH1K6MnbQqpK7LiZ9DYGyNaBbIyZmvtu4rK70-1zdruPY3BhZSDEe8zb2X/w1600/tickermotorabstellen_kor.jpg"
+ },
+ {
+  "content": "Und/Oder: Hessischer Zombie zerbricht sich den Kopf in Logikseminar",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2123.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2123"
+ },
+ {
+  "content": "Hat richtig kassiert: Supermarktmitarbeiter zu Unrecht verprügelt",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2123.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2123"
+ },
+ {
+  "content": "Vertrötungslehrer: Ersatzpädagoge nervt mit Vuvuzela",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2123.html",
+  "creators": [
+   "sch",
+   "wso"
+  ],
+  "num": "2123"
+ },
+ {
+  "content": "Selenverwandt: Chemikerpärchen forscht auch an Silicium und Bor",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2123.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "2123"
+ },
+ {
+  "content": "Pressend: Schwangere in Kreißsaal allgegenwärtig",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2123.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2123"
+ },
+ {
+  "content": "War danach nicht mehr der Alte: Absetzung machte Krimi-Schauspieler sehr zu schaffen",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2123.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2123"
  }
 ]
