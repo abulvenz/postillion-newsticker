@@ -119140,5 +119140,41 @@ export const tickers =
    "jam"
   ],
   "num": "2125"
+ },
+ {
+  "content": "Tierrahm, Miss Sue: Kellner erklärt Britin Mascarpone",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2126.html",
+  "num": "2126",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXO7BpQhAEo-XzYXgrbO2VvuRexG8hPyqnFt222oKdqhSiuTKqG8JOkJSjsiqi3Y2LcDRbl2vkl43E9Kqf5GUMSE1P4Ots-8hiKmZhQUpvusJSiusAGvD0eFCNfdlrL8iDJjYF5lsupwKqVWzhK8Qfq2EB3exFujkLhnaasG5eUR8VefCBNkQ9pKNCgDyM/w1600/tickertierrahm.jpg"
+ },
+ {
+  "content": "Xi vorn: Wolfgang Ambros verfolgt Wahl in China",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2126.html",
+  "num": "2126"
+ },
+ {
+  "content": "Kommt vom Band: Durchsage verscheucht auf Supermarktkasse spielende Kinder",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2126.html",
+  "num": "2126"
+ },
+ {
+  "content": "Wonzimmer: Koreaner tapeziert Raum mit Geldscheinen",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2126.html",
+  "num": "2126"
+ },
+ {
+  "content": "Eimer und nie wieder: Mann hat genug vom Ballermann",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2126.html",
+  "num": "2126"
+ },
+ {
+  "content": "Weiht Sprung: Pfarrer freut sich über Weltrekord",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2126.html",
+  "num": "2126"
+ },
+ {
+  "content": "Moderner Sexkampf: Olympia jetzt mit Hodenturnen, Eisprung, Rasurreiten, Synchronschwingen, Brustkraulen und Tischpenis",
+  "url": "https://www.der-postillon.com/2024/07/newsticker-2126.html",
+  "num": "2126"
  }
 ]
