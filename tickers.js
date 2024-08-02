@@ -119233,5 +119233,62 @@ export const tickers =
    "s0l"
   ],
   "num": "2127"
+ },
+ {
+  "content": "Seine war zu schmutzig: Triathlet wechselt Badehose",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2128.html",
+  "creators": [
+   "sge"
+  ],
+  "num": "2128",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhny4sC6xpZtdAXUsTU1GozI7GeVoL2XjjgrJux9mItLInd-sBBq-dYPHdl15_dg78BTCREElXFBZj_dybLdH2ojPyqctBQGeCoVoNYB4RBA7VMRHu04xV15WHttOdcu2xnboJWCpvHL4CRwJgxN3HYAnjZuh1bYEWS_fOzrpb51_ewbgartm00lHdhEnp/w1600/tickerseine5.jpg"
+ },
+ {
+  "content": "Klapsentwitch: Irrenhaus-Streamingdienst verkauft nun auch belegte Brote",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2128.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2128"
+ },
+ {
+  "content": "Feiner Zug von ihm: Mann schenkt Ehefrau Reise im Orient-Express",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2128.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2128"
+ },
+ {
+  "content": "Schlangenbeschwerer: Fakir zähmt Cobra mit Betonplatte",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2128.html",
+  "creators": [
+   "ber"
+  ],
+  "num": "2128"
+ },
+ {
+  "content": "Ist endgültig geklärt: Triathlon in der Seine kann stattfinden",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2128.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2128"
+ },
+ {
+  "content": "Assi stiert: Gehilfe schaut Professorin in Ausschnitt",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2128.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2128"
+ },
+ {
+  "content": "Fadfinder: Mitglieder von Jugendorganisation schwer zu begeistern",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2128.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2128"
  }
 ]
