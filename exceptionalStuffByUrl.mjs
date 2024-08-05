@@ -1,18 +1,18 @@
 export const exceptionalStuffByUrl = {
   "https://www.der-postillon.com/2012/11/newsticker-387.html": {
-    authors: "mko, n\\u, jd, ?, elb/marc, kuli, grn"
+    authors: "mko, n\\u, jd, ?, elb/marc, kuli, grn",
   },
   "https://www.der-postillon.com/2013/07/newsticker-478.html": {
-    authors: "marc, jus, rk, rag, tra, chj, n\\u"
+    authors: "marc, jus, rk, rag, tra, chj, n\\u",
   },
-  "https://www.der-postillon.com/2014/03/newsticker-585.html":{
-    authors: "n\\u, marc, rk, mca, sch, sir, fme"
+  "https://www.der-postillon.com/2014/03/newsticker-585.html": {
+    authors: "n\\u, marc, rk, mca, sch, sir, fme",
   },
   "https://www.der-postillon.com/2013/06/newsticker-474.html": {
-    authors: "jic, mac, ?, chr, \\, chj, marc"
+    authors: "jic, mac, ?, chr, \\, chj, marc",
   },
   "https://www.der-postillon.com/2023/09/newsticker-2000.html": {
-    authors: "marc, p2k, oga, sum, tom, rag, evw"
+    authors: "marc, p2k, oga, sum, tom, rag, evw",
   },
   "https://www.der-postillon.com/2022/05/newsticker-1795.html": {
     num: 1796,
@@ -179,5 +179,8 @@ export const exceptionalStuffByUrl = {
   },
   "https://www.der-postillon.com/2009/02/newstickernewstickernewsti.html": {
     num: 1,
+  },
+  "https://www.der-postillon.com/2024/07/newsticker-2126.html": {
+    authors: "wso, tei/stp, wye, sum, adm, mta, jam/tei",
   },
 };

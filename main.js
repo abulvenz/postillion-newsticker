@@ -113,6 +113,9 @@ const buildQueryString = () => {
   window.history.pushState({ path: newurl }, "", newurl);
 };
 
+
+// console.log(tickers.filter(t=>!t.creators || t.creators.includes(undefined)))
+
 use(
   tickers
     .flatMap((ticker) => ticker.creators)
