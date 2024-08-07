@@ -119378,5 +119378,62 @@ export const tickers =
    "par"
   ],
   "num": "1"
+ },
+ {
+  "content": "Wird lange daran zu knabbern haben: Insolventer Chips-Produzent bleibt auf Ware sitzen",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2130.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2130",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicNPwWdbJ0iR8w6fqeDtGml01buX5krAEiTEleEo9M__88cQ3cBPSe_w_9Z4Vy9WBkQy8U4jsnvBUO3HkfxuLFtMwWtqIT5RtbX1beAsY7YawHBPpIKJi_Oc67_YADTl269v6EEtfKUJCRI9lHADFj8bfXVhzy1M1UMSPuGi5xP3fW-sImw6iL1hIe7hs/w1600/tickergeknabber.jpg"
+ },
+ {
+  "content": "Claude Monet: Kunstdieb entwendet Seerosenbild",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2130.html",
+  "creators": [
+   "ca8"
+  ],
+  "num": "2130"
+ },
+ {
+  "content": "Verklemmte Typen: Technik-Nerds reparieren mechanische Schreibmaschinen",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2130.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2130"
+ },
+ {
+  "content": "Hammer Werferin: Kommentator von hübscher Leichtathletin verzückt",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2130.html",
+  "creators": [
+   "hso"
+  ],
+  "num": "2130"
+ },
+ {
+  "content": "Das Pferd steht, er nicht: Verdutzter Jockey findet sich plötzlich auf dem Boden wieder",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2130.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2130"
+ },
+ {
+  "content": "Chaos beim Rudern: Achter wird Vierter",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2130.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2130"
+ },
+ {
+  "content": "Darthut(s/w): Mann beschreibt Arzt, dass Schmerz von farbloser Kneipensportkopfbedeckung ausgeht",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2130.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2130"
  }
 ]
