@@ -119550,5 +119550,62 @@ export const tickers =
    "frcx"
   ],
   "num": "2131"
+ },
+ {
+  "content": "Hau-Stech-Nick: Gewalttätiger Jugendlicher macht Ausbildung zum Facility-Manager",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2133.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2133",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS-xStvNrCjYeR3fnc0_jwrobUXYfDTgw9wxS_KQPx6bmdKkz0hPBrITpT-40usIhJU6zEhQnsyWdAAQf2U6XLvW0aHcvm5Zlnd0fd7xrHRhIKPwxmLLJGH6-r2O76OkxHYnz4XDtt7scRovURsBSXxsOZ8tw8oTf3b1X754b3mqRbM1CVWnSyHa28eYLH/w1600/tickerhaustechnik.jpg"
+ },
+ {
+  "content": "Stoßgebet half: Ogunleye wuchtet Kugel zu Olympia-Gold",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2133.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2133"
+ },
+ {
+  "content": "Seebastion: Franzose verteidigt Hafenstadt",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2133.html",
+  "creators": [
+   "kro"
+  ],
+  "num": "2133"
+ },
+ {
+  "content": "Saarmensch pennte: Lafontaine in Diskretionskabine aufgeweckt",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2133.html",
+  "creators": [
+   "kgk"
+  ],
+  "num": "2133"
+ },
+ {
+  "content": "Belushi: James hält von der Leyen als Schoßhund",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2133.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2133"
+ },
+ {
+  "content": "Eisenmangel tödlich: Übermüdeter Walzwerkmitarbeiter verunglückt",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2133.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2133"
+ },
+ {
+  "content": "Lupen-Rainer hätt' Trick: Brennglas-Verkäufer könnte Stürmer mittels Blendtechnik zu mehr Erfolg verhelfen",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2133.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2133"
  }
 ]
