@@ -119607,5 +119607,65 @@ export const tickers =
    "tom"
   ],
   "num": "2133"
+ },
+ {
+  "content": "\"Rihanna, verblüh'!\": Croupier belegt Sängerin mit Alterungsfluch",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2134.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2134",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheq1x90KHST8xVREh6LDDMj9KehinLN6GNDK9pBNrYi6D7mAKT7FA-8hVlPfc6g_Jv6y-LKAZ0CCpjN9MEMKWzTPMvOyEmCdVBNcrXv2yVKsJRW5ug1VYBrS2keOG-a9GVNNQN5wDW9Kx9BmcpGUoN42n-VmcTtJupfpVMx3SS_t7h530HiwXXPLcMtyRN/w1600/ticker_Rihanna.jpg"
+ },
+ {
+  "content": "Sendungsverfolgung: Polizei jagt Paketdieb",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2134.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2134"
+ },
+ {
+  "content": "Viel falt: Japanischer Origami-Künstler spricht über seine Arbeit",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2134.html",
+  "creators": [
+   "hso",
+   "oga",
+   "frcx",
+   "kop"
+  ],
+  "num": "2134"
+ },
+ {
+  "content": "Abschlägig beschieden: Saudischer König lehnt Gnadengesuch ab",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2134.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2134"
+ },
+ {
+  "content": "Schnelle Rehaktion: Wild weicht Jäger aus",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2134.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "2134"
+ },
+ {
+  "content": "Siff fehlt ihm: Mann bereut Trennung von Messie-Freundin",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2134.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2134"
+ },
+ {
+  "content": "Abgenommen: Mann muss dank simplem Trick keinen Bierbauch mehr im Spiegel sehen",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2134.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2134"
  }
 ]
