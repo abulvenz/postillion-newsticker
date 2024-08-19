@@ -119667,5 +119667,62 @@ export const tickers =
    "tom"
   ],
   "num": "2134"
+ },
+ {
+  "content": "Deine Maid: AC/DC wollen sich nicht mit Ritter anlegen",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2135.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2135",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuoXhMppTSAGBnLLPppmmkB-oIcHUBknkRoeop3jZ7zyKqAlmgLQ-fTDEa-uIEbjir9ZunmO_bn05VMuS8IonMm15mEOW3ql4x74ws6gg_SdgyuI6SVI-tQNQzulaTY-hJl_-IajEoo1Aznm-vQwXldxUGKAJB-fj_b3qDsPvAkH4zCcOoBbzci3yERU7X/w1600/tickerdeinemaid.jpg"
+ },
+ {
+  "content": "Enorme Spannweite: Albatros stalkt Angebetete aus luftiger Höhe",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2135.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "2135"
+ },
+ {
+  "content": "Analfarb-Eden: Neonazis träumen vom braunen Paradies",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2135.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2135"
+ },
+ {
+  "content": "Als: Dänische Insel größer wie Fehmarn",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2135.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2135"
+ },
+ {
+  "content": "Ganskörpermassage: Physiotherapeut erweitert Leistungsspektrum",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2135.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2135"
+ },
+ {
+  "content": "Hack-Lion erklärt: Hersteller legt detailliert dar, wie Fleisch in Schokoriegel geraten konnte",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2135.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2135"
+ },
+ {
+  "content": "Probleme mit den Bandscheiben: Musikliebhaber kann Schallplattensammlung nicht mehr tragen",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2135.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2135"
  }
 ]
