@@ -119843,5 +119843,63 @@ export const tickers =
    "sum"
   ],
   "num": "2137"
+ },
+ {
+  "content": "Gefällt: Biber erntet viele Likes für Selfie mit Mammutbaum",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2138.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2138",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBEPqpbbUMpHR6cEAl-66mCsNkPtSDucUeKXfAppH97uEPmdwnFVqgMHI181ntZQnhasf8rsFmqSz_MjFghlDxXJM3c5YaLNi-mcr6cF7j4lrWqzVnoWDhhVeJ59jRnban3-71HbZaUMI9OQEohwBmtv1X4Bf0wJa1k-5zyVmxE85pRRgX45yy0MXSZzBo/w1600/tickergefa%CC%88llt_kor2.jpg"
+ },
+ {
+  "content": "\"Nee, roh\": Kaiser bestellt Fleisch für stadtweite Grillparty",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2138.html",
+  "creators": [
+   "frcx",
+   "evw"
+  ],
+  "num": "2138"
+ },
+ {
+  "content": "Im zweiten Gang: SUV-Mutter bringt Kind zum Klassenraum",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2138.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2138"
+ },
+ {
+  "content": "Einflussreich: Ägypten",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2138.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2138"
+ },
+ {
+  "content": "Obst serviert: Privatdetektiv beobachtet illegalem Kellnernebenjob nachgehenden Arbeitnehmer",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2138.html",
+  "creators": [
+   "s0l"
+  ],
+  "num": "2138"
+ },
+ {
+  "content": "Faule Bande: Angestellte von vergammeltem Billardcafé schieben ruhige Kugel",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2138.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2138"
+ },
+ {
+  "content": "\"Lamm frisst Tiger\"-Plan: Forscher wollen innerhalb der nächsten 50 Jahre Nahrungskette umkehren",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2138.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2138"
  }
 ]
