@@ -119901,5 +119901,63 @@ export const tickers =
    "sum"
   ],
   "num": "2138"
+ },
+ {
+  "content": "Neuer Torwart: DFB-Pressemitteilung sorgt für Verwirrung",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2139.html",
+  "creators": [
+   "sge",
+   "tky"
+  ],
+  "num": "2139",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBeEcD6INn2NAGoOx1pag92FQVTAhN88jPyzEsWIuSHQy96s_jatXMCSna0pqbX77dTY8fsNqATrptxTUlPsPhSNUfK9AGBBPZDTFK84wpLAKhysRj83PRmczNFZLRpEKsAbcmp0AQ1sIxu9w9DaAgBUeeSBP_M1I6K-xGia_DQ1q0dTE42Muu0TYvrETw/w1600/tickerneuertorwart.jpg"
+ },
+ {
+  "content": "Södermalm: Ministerpräsident gerät in Stockholmer Bezirk unter Planierraupe",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2139.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2139"
+ },
+ {
+  "content": "Nichts als heiße Luft: Fön-Vertreter prahlte mit Sonderfunktionen",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2139.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "2139"
+ },
+ {
+  "content": "Eriwan: Armenierin stellt russischen Freund vor",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2139.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2139"
+ },
+ {
+  "content": "Spannend: Sumoringer versucht Skinny Jeans anzuziehen",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2139.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2139"
+ },
+ {
+  "content": "\"Schult uns Hüne?\": Dostojewski kann nicht glauben, dass Hulk Schreibkurs leitet",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2139.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2139"
+ },
+ {
+  "content": "Eintrag im Grundbuch: Chef notiert Notartermin als neue Mitarbeiter-Ausrede für Zuspätkommen",
+  "url": "https://www.der-postillon.com/2024/08/newsticker-2139.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2139"
  }
 ]
