@@ -120075,5 +120075,62 @@ export const tickers =
    "par"
   ],
   "num": "1"
+ },
+ {
+  "content": "Mondscheinsohn nahte: Beethoven beim Komponieren von Vampir gestört",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2142.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2142",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj01wfiG1l69_DhEMGhg7K-mJl7nEZhcsqqZN0rhdT85TrpX0j0PbE9QIBavPdZEfByv5JHZ9L0bi9Po0p7rBaN4P48assxQ2ysf4aaYIERlfOLVsDUzFjPPD2G4mrB5ZMdgK8zyuk6BedwoGTvxV6_XerWYywau_It0bhaFgQ2HfBf177i5vgY1YakFBmB/w1600/tickermondscheinsohn.jpg"
+ },
+ {
+  "content": "24/7: Zwei Dutzend Goldsucher ununterbrochen bei der Arbeit",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2142.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "2142"
+ },
+ {
+  "content": "Psychofahrmacker: Apothekenkurier rast wie ein Irrer",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2142.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2142"
+ },
+ {
+  "content": "Zur Last gelegt: Angeklagtem wird Affäre mit James' Frau vorgeworfen",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2142.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2142"
+ },
+ {
+  "content": "US-Bacon: Zentralasiaten importieren Speck",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2142.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2142"
+ },
+ {
+  "content": "Horten: Kaufhauskette muss wegen falschen Konzepts Insolvenz anmelden",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2142.html",
+  "creators": [
+   "hso"
+  ],
+  "num": "2142"
+ },
+ {
+  "content": "Warst lange Pferd, wirst endlich gut: Italienischer Lasagnekoch erwirbt Gaul vom Gnadenhof",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2142.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2142"
  }
 ]
