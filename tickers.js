@@ -120132,5 +120132,62 @@ export const tickers =
    "stp"
   ],
   "num": "2142"
+ },
+ {
+  "content": "Sieht man nicht alle Tage: Wandkalender mit vereinzelt geschwärzten Daten",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2143.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2143",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzV8DDwIdKSMkhcdb428k9hS51vTfii9gW7O3uGQCXwt3Ywls192zk0otyWGuk4yO3z0uOyKoMSTS3yO_HsLLJwlp02669UW-6gQLdN8bwoBTPwSYosyt8rHmMXiXePqS5m2k2OEWxBZGcZMaMlg2RihZcW7r1b0M0v9hshEFGX9v-d7aepa8NcNtwyUHH/w1600/tickerwandkalender.jpg"
+ },
+ {
+  "content": "Wasser, Laub, diesig: Moderatorin sorgt mit Herbstwettervorhersage für Empörung",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2143.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2143"
+ },
+ {
+  "content": "Hat alle im Loop gehalten: CEO von Achterbahnfirma wegen Nötigung verklagt",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2143.html",
+  "creators": [
+   "fbl"
+  ],
+  "num": "2143"
+ },
+ {
+  "content": "Jodler: Stimmakrobat braucht neue Schilddrüsentabletten",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2143.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2143"
+ },
+ {
+  "content": "Nur die Spitze des Eisbergs: Salatverschwendung schlimmer als befürchtet",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2143.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2143"
+ },
+ {
+  "content": "Low Pudel-Ei: Hund für besonders langen Hoden gewürdigt",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2143.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2143"
+ },
+ {
+  "content": "Angelegenheit noch nicht abgewickelt: Staatsanwaltschaft wird Fall von gestohlenem Toilettenpapier neu aufrollen",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2143.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2143"
  }
 ]
