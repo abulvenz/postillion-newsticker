@@ -120305,5 +120305,62 @@ export const tickers =
    "viv"
   ],
   "num": "2145"
+ },
+ {
+  "content": "Ins Wasser gefallen: Dresden muss Brückenjubiläumsfeier absagen",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2146.html",
+  "creators": [
+   "s0l"
+  ],
+  "num": "2146",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSPPW3PD_yXrRxgRxj_LyKyLsdomokJBL6LV6x32LRJAdRQ33h4HJX9V0N6Q6nOeXr7MD0tvWAXr76uPqX56KlAjHKy7iMYZyB6WiEomz7VMfg1V2NTKjBcRazg6blxuxIHK-UBLWDwvmHb5LUTevdnobHKaGKpxDGuRgKbCTEIQf10w-7lYZW4VUM99Wp/w1600/tickerinswassergefallen_kor.jpg"
+ },
+ {
+  "content": "Messi buk Kuh: Franzose dankt Weltfußballer für Rinderbraten",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2146.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2146"
+ },
+ {
+  "content": "Migrationsgipfel: Bundestag einigt sich auf Flüchtlingslager auf Zugspitze",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2146.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2146"
+ },
+ {
+  "content": "Beter-Chaotin: Kirchenbesucherin randaliert nach Möhren-Überdosis",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2146.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2146"
+ },
+ {
+  "content": "Gerösteter Meiskolben: Sylvie holt sich beim Picknick Sonnenbrand auf der Nase",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2146.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2146"
+ },
+ {
+  "content": "Unna: Stadt in NRW ziemlich weit weg",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2146.html",
+  "creators": [
+   "dwi"
+  ],
+  "num": "2146"
+ },
+ {
+  "content": "Braucht Hund-Arsch-Stützung: Obdachloser sammelt Geld für Hinterbein-Prothesen seines Pudels",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2146.html",
+  "creators": [
+   "loc"
+  ],
+  "num": "2146"
  }
 ]
