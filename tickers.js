@@ -120362,5 +120362,64 @@ export const tickers =
    "loc"
   ],
   "num": "2146"
+ },
+ {
+  "content": "Fluch der Akribik: Johnny Depp sitzt seit sechs Stunden in der Maske",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2147.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2147",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-NZ_7DvYcO4d4qbohyphenhyphenajk2CwgtB_qKD9ggQidHXuw8WC0INbyxaa6ECEppgymB7APthvF6lz0Vn5K8RcsEozWSbPmF3XCIowZMuTmDCjYp5vk42XMb3ySr_wlQ2-mPIGp5WJU-SJVsPh4UYet9El3NO85xh9lsjp6Dv7Y1Sp6llSs5qwq8otDyQ8slbLU/w1600/tickerfluchderakribik.jpg"
+ },
+ {
+  "content": "Infam: Landwirt hält Geiseln gefangen",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2147.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2147"
+ },
+ {
+  "content": "Ecke herausgeholt: Trainer belohnt Stürmer mit Toblerone",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2147.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2147"
+ },
+ {
+  "content": "Kühlt Asche: Bestatter transportiert Urne sicherheitshalber in Kaltbehälter",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2147.html",
+  "creators": [
+   "adl"
+  ],
+  "num": "2147"
+ },
+ {
+  "content": "Liest Bedienungsanleitung: Kellner bildet sich weiter",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2147.html",
+  "creators": [
+   "oga",
+   "adm"
+  ],
+  "num": "2147"
+ },
+ {
+  "content": "Absacker: Kastrateur trinkt letzten Kräuterschnaps zum Feierabend",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2147.html",
+  "creators": [
+   "rau"
+  ],
+  "num": "2147"
+ },
+ {
+  "content": "For me double: Begeisterter Franzose in englischem Lokal bestellt zweite Portion",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2147.html",
+  "creators": [
+   "wye",
+   "tom"
+  ],
+  "num": "2147"
  }
 ]
