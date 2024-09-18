@@ -120421,5 +120421,62 @@ export const tickers =
    "tom"
   ],
   "num": "2147"
+ },
+ {
+  "content": "Mitläufer: Polizei erwischt Handlanger von Teppichdieben",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2148.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2148",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY6AvjrTzQYYaDThpuVvVjwU8RuvN0-n4z_sVFCQk3IMhsIzNOk6xxrbVlgVMunVQs2So22ieSKynGHYkLcO7nKvZXDvAtgg8Q0lSKtid7U8jrr8pM9rOAx7AqXYOgAKEjM1SMQCJi00imZJc3pekt6kgNcf2JHEUjpUghC_urBYRTpfE9uBIM0o9obv0W/w1600/tickermitlaeufer.jpg"
+ },
+ {
+  "content": "Salamist enttarnt: Carabinieri vereiteln Selbstmortadella-Attentat",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2148.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2148"
+ },
+ {
+  "content": "Uwes Hehler: Krimineller trauert am Grab um guten Kunden",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2148.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2148"
+ },
+ {
+  "content": "Kommt nicht drum herum: Durchgefallener Fahrschüler muss Pylonenkurs nochmal üben",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2148.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2148"
+ },
+ {
+  "content": "Uff Mandy: Sachse nimmt beim Sex Anruf entgegen",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2148.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2148"
+ },
+ {
+  "content": "Zinkflug: Metalltransportjet überladen",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2148.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2148"
+ },
+ {
+  "content": "Das Wantan ist des Müllers Lust: Fußballprofi stärkt sich vor Bergtour mit Teigtasche",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2148.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2148"
  }
 ]
