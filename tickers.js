@@ -120535,5 +120535,63 @@ export const tickers =
    "stp"
   ],
   "num": "2149"
+ },
+ {
+  "content": "Druckabfall: Flugpassagier kotzt in \"Bild\"-Zeitung",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2150.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2150",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx252kVcWSUz0wvV9jSZxhvyw-P8J-Ok1ZMwajEOgd66zjhCGZxXwzjCkIFFwkOsqnPJ-6cdxjpMHdNA97A2K6-HwDmPxW5-43txE8K8In6WWDuJOrg_mIeDPVWa-Qcj2Z0WUQUd2qmaR3HiXQgcflWv9n0V97aU6-s_66QDWjGFmMTBe3Rf_mQAdUUnv7/w1600/tickerdruckabfall.jpg"
+ },
+ {
+  "content": "SSID: Opa zeigt nach Bitte um WLAN-Zugang seine alten Ausweis",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2150.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2150"
+ },
+ {
+  "content": "Im Schlafrock: Fürstengattin genießt morgens schon Würstchen",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2150.html",
+  "creators": [
+   "kop",
+   "tom"
+  ],
+  "num": "2150"
+ },
+ {
+  "content": "Fischhackgöre: Weiblicher \"Nordsee\"-Azubi wird der neue Gotthilf",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2150.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2150"
+ },
+ {
+  "content": "Klarname: RAF-Terrorist benutzte nie Pseudonyme",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2150.html",
+  "creators": [
+   "dtb"
+  ],
+  "num": "2150"
+ },
+ {
+  "content": "Bau-Zehner: Sächsischer Baggerfahrer kriegt nicht mal Mindestlohn",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2150.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "2150"
+ },
+ {
+  "content": "Alt hergebracht: Chefin erzählt, wie Seniorenheim traditionell an neue Bewohner kommt",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2150.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2150"
  }
 ]
