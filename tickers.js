@@ -120593,5 +120593,64 @@ export const tickers =
    "sum"
   ],
   "num": "2150"
+ },
+ {
+  "content": "Macht nur Murghs: Indischer Koch gefeuert",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2151.html",
+  "creators": [
+   "sch",
+   "hem",
+   "wrb"
+  ],
+  "num": "2151",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirn8A4db7HSDm0zsitPVrYJkIoItFxNXE2IE7OAjEMFO84x7gR91PKALjx2r-eTaLVo1-FWuMY2LHqFJJpgTNOw9ryYxSggNLHGQiQhkP2XgxY1wv8m_GgmFNhlS5gOvr8fL-6FErm2kmvNZpIKe4Z9bMEAp7V01wVQmnbmwRY5VwXqChtQ9KWWO426VD7/w1600/tickermurghs_kor.jpg"
+ },
+ {
+  "content": "Sand da, Maria: Roland Kaiser weist Haushaltshilfe auf Schmutz im Hausflur hin",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2151.html",
+  "creators": [
+   "ogr"
+  ],
+  "num": "2151"
+ },
+ {
+  "content": "Über sie hergezogen: Italienischer Emigrant lästert über Alpen",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2151.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2151"
+ },
+ {
+  "content": "Direkter Mannfang: Tinder-Userin hat kurz nach Anmeldung Erfolg",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2151.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2151"
+ },
+ {
+  "content": "Threadchen: Diskussion in Marder-Forum schnell beendet",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2151.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2151"
+ },
+ {
+  "content": "Rechnung mit mehreren Unpikanten: 5x Döner ohne scharf = 32,50€",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2151.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2151"
+ },
+ {
+  "content": "Hat sich nichts zu Schulen kommen lassen: Pensionierter Lehrer bestellte Drogen stets nach Hause",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2151.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2151"
  }
 ]
