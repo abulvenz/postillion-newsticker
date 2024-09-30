@@ -120709,5 +120709,63 @@ export const tickers =
    "p2k"
   ],
   "num": "2152"
+ },
+ {
+  "content": "Testikel 1, Grundgemächt: Die Würde des Männchens ist unten tastbar",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2153.html",
+  "creators": [
+   "sch",
+   "tei"
+  ],
+  "num": "2153",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhICo9KrGJTwhJ15HwpVxKtZj7HA4x4x4VDelVtnZN3wUowxr5BM4cSO0n4adwPc-FjwnqxWlYb5sWDnKR8HFjThHZWkc6sB5Dxzw1PhR4FLfkjvKk6NJAb8zk4S99w00TjPaIOEBGr-KwiTM_oT-0g12WrSzLT8GD9us8PkynNeHGtPFdCbya56UR-gwDU/w1600/tickertestikel2_kor.jpg"
+ },
+ {
+  "content": "Pflockt Ober fest: Wiesnwirt beschränkt Wirkungsradius seiner Servicekräfte",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2153.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2153"
+ },
+ {
+  "content": "Macht sich auf: Patient bereitet sich schon mal für OP vor",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2153.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2153"
+ },
+ {
+  "content": "Heidenaufwand: Kran entfernt Ungläubige von Klostermauer",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2153.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2153"
+ },
+ {
+  "content": "Stickstoff: Oma fertigt schönen Gasflaschenüberzieher an",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2153.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2153"
+ },
+ {
+  "content": "Nach einer Warengeschichte: Neuer Film über Jeff Bezos im Kino",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2153.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2153"
+ },
+ {
+  "content": "Bidet zurückrufen: Baumarkt versucht Käufer von mangelhaftem Sitzwaschbecken zu kontaktieren",
+  "url": "https://www.der-postillon.com/2024/09/newsticker-2153.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2153"
  }
 ]
