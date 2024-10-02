@@ -120767,5 +120767,65 @@ export const tickers =
    "viv"
   ],
   "num": "2153"
+ },
+ {
+  "content": "Die Hopfung stirbt zuletzt: Man sollte nie Malz aufgeben",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2154.html",
+  "creators": [
+   "wrb",
+   "tei"
+  ],
+  "num": "2154",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho5XiW2Cclm7sIDtQoBexhctaCgPMXrhggEBjPGKsjUDrmUnYdLvNGiY-BWnVgDZ9RMKGVrqxIrmqs4e9KcOKncltuIVeDZ9Ss9JdJ3lMLq60v8agnX4Mlq5j1mK3THFvPApDCfP934LX5HCfeaAitWnapA29UypU16C7uy0b9UgihzELvfX14aE47i-Ce/w1600/tickerhopfung_kor.jpg"
+ },
+ {
+  "content": "Gay-T-Shirt: Schwuler Sachse trägt Wildkatzendruck",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2154.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2154"
+ },
+ {
+  "content": "18 Löcher: Golfer trennt sich nicht von seinen Glückssocken",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2154.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2154"
+ },
+ {
+  "content": "Casten Brot: Filmteam beginnt mit Personalauswahl für ersten \"Bernd\"-Film",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2154.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2154"
+ },
+ {
+  "content": "Folgt auf dem Fuße: Stalker in Sauna verbreitet Nagelpilz",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2154.html",
+  "creators": [
+   "adm",
+   "oga"
+  ],
+  "num": "2154"
+ },
+ {
+  "content": "Ein Huhn: Federvieh stört Schießerei vor Saloon",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2154.html",
+  "creators": [
+   "tei",
+   "wrb"
+  ],
+  "num": "2154"
+ },
+ {
+  "content": "Die unerträgliche Seichtigkeit des Leihens: Kundera-Roman \"Pfandhaus\" gnadenlos verrissen",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2154.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2154"
  }
 ]
