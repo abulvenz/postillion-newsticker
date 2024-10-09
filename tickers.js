@@ -120885,5 +120885,64 @@ export const tickers =
    "par"
   ],
   "num": "1"
+ },
+ {
+  "content": "Ließen Köpfe rollen: Chefetage feuert ungeschickte Salateinpacker",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2156.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2156",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinpsrBfMa_hAr0msNVRuOS6s1zM0O-hzLkTTdGWwjXyoe4PYFuWPE_lyZ5A2jbiXQTuhBOLuhXJczigOU2vneJwWWe7ttIecaBJFXIcFg2E9s3di-rYYGc6xpLmOtP053bv3lBbc9pg6hBOHCdMQ0-0p2ZNg8v1EUrsQKfTMr1KWrtFUwiK0-LNDAcqwab/w1600/tickersalat.jpg"
+ },
+ {
+  "content": "Steaua: Rumänischer Torwart hat Fußprobleme",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2156.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2156"
+ },
+ {
+  "content": "Er hatte nie die Hosen an: Daisy Duck erzählt über ihre Zeit mit Donald",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2156.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2156"
+ },
+ {
+  "content": "Persona non Krater: Vulkanforscher des Landes verwiesen",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2156.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "2156"
+ },
+ {
+  "content": "Tafel Ritter: Lancelot stärkt sich mit Trauben-Nuss-Schokolade",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2156.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2156"
+ },
+ {
+  "content": "No Wham!-Bahrain: Axl Rose kämpft gegen \"Last Christmas\"-Seuche in Golfstaat",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2156.html",
+  "creators": [
+   "wso",
+   "tei",
+   "sch"
+  ],
+  "num": "2156"
+ },
+ {
+  "content": "Der führt sich vielleicht auf: Regisseur erwägt, Premiere von autobiografischem Theaterstück wegen Lampenfieber abzusagen",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2156.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2156"
  }
 ]
