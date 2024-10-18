@@ -121117,5 +121117,63 @@ export const tickers =
    "sum"
   ],
   "num": "2159"
+ },
+ {
+  "content": "Schadensbegrenzung: Inhaberin von niedergebranntem Haus bekommt Absperrband umsonst",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2160.html",
+  "creators": [
+   "mth"
+  ],
+  "num": "2160",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjDVQZaBSY7A_DWtkGXgjEj7od6sBzPKP_pQWoUZkTbo4dU4rRmN2qBFz3G1nBQfghFCkiBRjFEZAj39NJcH0L7fQrE_zMvdFdbmzhacHU7O3lAO-mKgdYadvvJHJ8XarqeeQSEv231rsEfpk1Gvf0HP2FwE2fimg13F5HbZg5fCP3T9vksmxuDuQ0D9py/w1600/ticker_Grenze.jpg"
+ },
+ {
+  "content": "Allah Welsgesicht: Gott unter Fischen kaum zu erkennen",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2160.html",
+  "creators": [
+   "kol",
+   "wrb"
+  ],
+  "num": "2160"
+ },
+ {
+  "content": "Fühlt sich pudelwohl: Schäferhund mit Dauerwelle und rasierten Beinen sehr zufrieden",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2160.html",
+  "creators": [
+   "ber"
+  ],
+  "num": "2160"
+ },
+ {
+  "content": "\"Mir abpellen!\": Kind verlangt hautfreies Obst",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2160.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2160"
+ },
+ {
+  "content": "Gibt Acht: Radfahrer meidet Stein",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2160.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2160"
+ },
+ {
+  "content": "Abhott-Ecke: Pharmazeut richtet Dancefloor in seinem Laden ein",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2160.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2160"
+ },
+ {
+  "content": "Vor Fürth zig Ih-Ah-Rennen: Fränkische Stadt bis in die Achtziger deutsche Eselgalopp-Metropole",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2160.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2160"
  }
 ]
