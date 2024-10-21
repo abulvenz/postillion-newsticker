@@ -121175,5 +121175,63 @@ export const tickers =
    "tei"
   ],
   "num": "2160"
+ },
+ {
+  "content": "Scrollt: Internetnutzerin sucht nach Gewitterwarnung",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2161.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2161",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlJ6o3xQj5AGTBBSOGu1kmrmjkS-PtgLHrlSac2mg2a_4613Z9ZcSeIGkgo3SG-ERTnXN9dlqO3mav050iA6ORbnupIqdjBm5EFhVgrV0pH-qEkebdGMxcKfkawuqg0aIr-zWtTjOlgz413VRjmNBgO3QNgvAcuXDHglG4aOBWItmlID9njfvU2q7Vnwac/w1600/tickerscrollt.jpg"
+ },
+ {
+  "content": "Bekommt das alles nicht mehr unter einen Hut: Rastafari hat wöchentlich drei Flechttermine",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2161.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "2161"
+ },
+ {
+  "content": "Yes, vegan: Obama bestellt Gemüseplatte",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2161.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "2161"
+ },
+ {
+  "content": "Aber hallo: \"Fick dich\" ist keine gewöhnliche Begrüßung",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2161.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2161"
+ },
+ {
+  "content": "La Marche: Französischer Musiker kommt nicht in die Gänge",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2161.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2161"
+ },
+ {
+  "content": "Subtext: Subversives Subjekt substituiert subtil submissive Subalterne",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2161.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2161"
+ },
+ {
+  "content": "Sich selbst eingeschlossen: Gefängnisdirektor kritisiert gesamte Belegschaft für falsche Handhabung von Sicherheitssystem",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2161.html",
+  "creators": [
+   "viv",
+   "marc"
+  ],
+  "num": "2161"
  }
 ]
