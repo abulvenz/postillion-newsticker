@@ -121292,5 +121292,62 @@ export const tickers =
    "p2k"
   ],
   "num": "2162"
+ },
+ {
+  "content": "n-ter Preis: Captain Kirk holt letzten Gewinn bei Mathematiker-Tombola",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2163.html",
+  "creators": [
+   "dtb"
+  ],
+  "num": "2163",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvLQO3_-9hfo1zWof-81cbVKRL9g8YYxnelOnGtb1L7R0JTrjHPuRFasKQ-Hr8EXnDTL1Em9oqq-UKyxdUtYJBr49-oqs_rhBUvMbiMzvbaDMGKrt8g1DzGqDsaO0lKrjkblhnRaZ7IsUgDBvdsf940q3HFW1adlrOnAuSuKGV7peUFwJ7ATwnl8ViWIPP/w1600/tickernterprise.jpg"
+ },
+ {
+  "content": "Fällt ihr auf die Füße: Kugelstoßerin vernachlässigt Training",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2163.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2163"
+ },
+ {
+  "content": "\"Wählen sie dich?\": Politikerziervogel sät Zweifel",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2163.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2163"
+ },
+ {
+  "content": "Ging dazwischen: Frikadelle wollte eigentlich nur Streit unter Brötchenhälften schlichten",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2163.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2163"
+ },
+ {
+  "content": "Undav-Führung: VfB erzielt 1:0 aus dem Spielertunnel",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2163.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2163"
+ },
+ {
+  "content": "4K: Hochauflösender Fernseher übersteht selbst tiefste Temperaturen",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2163.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2163"
+ },
+ {
+  "content": "Schah riet d): Persischer Herrscher konnte Frage nach Berliner Klinik korrekt beantworten",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2163.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2163"
  }
 ]
