@@ -121349,5 +121349,64 @@ export const tickers =
    "p2k"
   ],
   "num": "2163"
+ },
+ {
+  "content": "2000 Nutzer können nicht irren: Labyrinth-Hersteller erhält überwiegend negative Rezensionen",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2164.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2164",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaQr1hMyKEnE9_Ht5lWISUm5Y8Ymi8QQBfAoY3e6aAguNM1Pf7__Z1We1RccTVSo6IxgA9solROy5oZTTi-oweDvEmHGES1raFHqN-KFuqeKQqHVx4QCnGsVMttnlcreKIEiiYLn-MAcXAqIuYcSfGVZP6uLGxjKo_GQ_LWuon_sC1Axaz9XUp2jT6sGGM/w1600/tickerlabyrinth.jpg"
+ },
+ {
+  "content": "Hoyerswerda: Österreicher bestätigt Anwesenheit von sächsischem Saisonarbeiter",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2164.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2164"
+ },
+ {
+  "content": "Ausgetragen: Hebamme streicht Kundin von Liste",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2164.html",
+  "creators": [
+   "wye",
+   "arc"
+  ],
+  "num": "2164"
+ },
+ {
+  "content": "Macht Peine breit: Niedersächsisches Callgirl verkauft auch Gras",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2164.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2164"
+ },
+ {
+  "content": "Reibt sich die Augen: Schlaftrunkener Kannibale verfeinert Müsli",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2164.html",
+  "creators": [
+   "wrb",
+   "ber"
+  ],
+  "num": "2164"
+ },
+ {
+  "content": "Aus Wendy gelernt: Mädchen kennt alle Pferdenamen",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2164.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2164"
+ },
+ {
+  "content": "Legt die Knarre nicht aus der Hand: Automechaniker arbeitet nachts als Auftragsmörder",
+  "url": "https://www.der-postillon.com/2024/10/newsticker-2164.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2164"
  }
 ]
