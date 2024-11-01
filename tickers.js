@@ -121467,5 +121467,63 @@ export const tickers =
    "wso"
   ],
   "num": "2165"
+ },
+ {
+  "content": "Süße Söder-Sau riss: Sachse bastelt zu Halloween Schweine-Piñata mit Politikerkopf",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2166.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2166",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1LjdIVkTbRuXI9-s2MwnKLLIqOSx9_HEJkywdlUyo1O87SEif-S-1QPRIA00QFWopeJ33UMaD5DwZslo74SyJwBMrghZLjobOBDjDjcpn7QUGDMr7cE4FUQoLlDrCig6UHt0qfDwuhnxximdJAALUvN4OKflTaPqJx8n_ZDj7-PZyVkO-jnRjeRmiiEaO/w1600/tickapinata2.jpg"
+ },
+ {
+  "content": "Klimt: Zigarette auf Museumsbild abgelegt",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2166.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2166"
+ },
+ {
+  "content": "Notar z.T.: Jurist arbeitet nebenberuflich als Mediziner",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2166.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2166"
+ },
+ {
+  "content": "Chef muss das Gespräch mit ihm suchen: Stenograph hat schon wieder Protokoll verlegt",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2166.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2166"
+ },
+ {
+  "content": "Hans Zimmer: Solo wohnt bei Filmkomponist zur Miete",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2166.html",
+  "creators": [
+   "mta",
+   "stp"
+  ],
+  "num": "2166"
+ },
+ {
+  "content": "Lass die Finger von E-Manuela: Fettes Brot warnen vor neuem Sex-Roboter",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2166.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2166"
+ },
+ {
+  "content": "Kommt vom Mosten: Weinbauer bestimmt Windrichtung anhand des Hefegeruchs",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2166.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2166"
  }
 ]
