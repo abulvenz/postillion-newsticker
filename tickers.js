@@ -121525,5 +121525,121 @@ export const tickers =
    "sch"
   ],
   "num": "2166"
+ },
+ {
+  "content": "Einer von 80 Pylonen: Max Giesinger unter den Besten im Fahrsicherheitstraining",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2168.html",
+  "creators": [
+   "zey"
+  ],
+  "num": "2168",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGdQUPqAiySBIGSYYRFWN3LMel4-yOxBYnrxk4pHSEpS8Cd4HtdFYyQP8YnTLq0Z7wGPh4gqrh26LP7X8Hi3Q6B-4zVGCHaUpneadEoOveOnEkwnf6lTjKR48K4KxdrpoBCQqNfaxQfLWfeuUhM4aeYEW7bPpQwmnm5roTrI1K9yNR8kx3iDE_i8EXYCqK/w1600/tickerpylone2.jpg"
+ },
+ {
+  "content": "Bär riecht: Olfaktorische Untersuchung von Grizzly abgeschlossen",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2168.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2168"
+ },
+ {
+  "content": "Klackt sein Leid: Kastagnetten-Spieler besucht Selbsthilfegruppe",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2168.html",
+  "creators": [
+   "cbe",
+   "tom"
+  ],
+  "num": "2168"
+ },
+ {
+  "content": "Poldance: Inu-It-Girl an Stange festgefroren",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2168.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2168"
+ },
+ {
+  "content": "Ein Mann der Tarte: Konditor veranstaltet Wettbacken",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2168.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2168"
+ },
+ {
+  "content": "Streicht die Segel: Maler gibt Widerstand gegen irrsinnigen Gorch-Fock-Auftrag auf",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2168.html",
+  "creators": [
+   "jam",
+   "oga"
+  ],
+  "num": "2168"
+ },
+ {
+  "content": "Pitt-Sack Kahlzone: Frau lässt bei Anblick von Brads blankem Skrotum Teigtasche fallen",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2168.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2168"
+ },
+ {
+  "content": "Pickel im Gesicht: Minenarbeiter erschlägt Kollegen nach Kommentar über Hautunreinheit",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2167.html",
+  "creators": [
+   "cdi"
+  ],
+  "num": "2167",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLQlihtpF8-Dej-6Bz5qFQ4wkyLXpzpW9_1ZId88MkFEqCrTxb0HsfsLx9C1HYWUmyc6vVitxV-30YmhAcyoAnmBS2qhfQiZ6cNchgYI8x7Gx4ep0iymhpvX9Aj55BBLe_BVLLSJclO5kEAmzl5jUR9H30ir3RAGAIoJGACoI6KX-mOtKAcal3J8lVdR4V/w1600/tickerpickel2.jpg"
+ },
+ {
+  "content": "Färöerflucht: Sächsischer Verkehrsrowdy wandert aus",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2167.html",
+  "creators": [
+   "dtb"
+  ],
+  "num": "2167"
+ },
+ {
+  "content": "Legt ihm keine Steine in den Weg: Hausbesitzer zieht Klage gegen faulen Pflasterer zurück",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2167.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2167"
+ },
+ {
+  "content": "Viele haben Winterfond bekommen: Neue Gänsebratensoße in aller Munde",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2167.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2167"
+ },
+ {
+  "content": "Venige Beschwerden: Außer Krampfadern alles in Ordnung",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2167.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2167"
+ },
+ {
+  "content": "Assads Los gestrichen: Syrischer Diktator darf nicht an Tombola teilnehmen",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2167.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2167"
+ },
+ {
+  "content": "Schnell noch ein Plätzchen ergattert: Kekssüchtiger in ausgebuchte Selbsthilfegruppe aufgenommen",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2167.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2167"
  }
 ]
