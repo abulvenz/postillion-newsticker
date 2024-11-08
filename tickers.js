@@ -121641,5 +121641,62 @@ export const tickers =
    "oga"
   ],
   "num": "2167"
+ },
+ {
+  "content": "Kacke Kacke buchen: Nach Airline-Pleite gestrandete Familie muntert sich mit Kinderlied auf",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2169.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2169",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw9XB_AiWBl4INWSdM6D3gFn3bzj3g8XXJMUbtGKUO3JHQvsyMDOZ-Z5r-YRJCj4cbPZFhvXLzVuLLz9Lk60oH3RjxB48f_EUDHmZUwsIueHvkYwGDVwFIn88arkMV_HJbqVBOmJwwNE3L-oGH3hE31x6xEiRExj0nh4j8HZi68E0vEhgYnagvSX5r0rOs/w1600/tickerkackebuchen.png"
+ },
+ {
+  "content": "Alte Hasen im Filmgeschäft: Eddie Möhrvieh und Eva Langohria",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2169.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2169"
+ },
+ {
+  "content": "Nur echt mit 52 Szenen: Ehepaar streitet sich jede Woche um Bahlsen-Kekse",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2169.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2169"
+ },
+ {
+  "content": "Pinsel wenija: Berliner Künstler verliert Malgerät in Pittsburgh",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2169.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2169"
+ },
+ {
+  "content": "Mit Durchwahl auf dem Klo: Firmenchef trotz Diarrhoe erreichbar",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2169.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2169"
+ },
+ {
+  "content": "Fragte nach Geschäftsleiter: Unzufriedener Kunde steigt Ladenbesitzer aufs Dach",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2169.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2169"
+ },
+ {
+  "content": "Vorrauschsauend: Parkinsonpatient legt beim Schnapseinschenken etwas unter",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2169.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "2169"
  }
 ]
