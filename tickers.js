@@ -121698,5 +121698,62 @@ export const tickers =
    "cbe"
   ],
   "num": "2169"
+ },
+ {
+  "content": "Nahkoterfahrung: Vater fällt beim Windelwechseln in Ohnmacht",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2170.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2170",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS89VCaxDIntJh7Vo5uokDkydKor1RYhalLtdmtmhrR6714iVtwC76F0NFRZnxlBqWt4q1NIMI1USnGIntc9CjQKLcsJOrlyZ0-LFTyk_f7Ww7O-FQ8vbzsn1JLbsnLvz8SiQnGXI1FimYSwEv4WjQjin6fVl1ujYr-3JTPFeRgJYSnR-42SqwpB0nv-aY/w1600/tickernahkot.jpg"
+ },
+ {
+  "content": "OG: Sächsischer Architekt stimmt weiterer Etage zu",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2170.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2170"
+ },
+ {
+  "content": "Hat ihm nichts vorzuwerfen: Obdachloser toleriert Magenknurren seines Hundes",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2170.html",
+  "creators": [
+   "lou"
+  ],
+  "num": "2170"
+ },
+ {
+  "content": "Statt tief: Fotograf stellt seine Kamera lieber höher auf",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2170.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2170"
+ },
+ {
+  "content": "Gespräch unter vier Augen: Angestellter würfelt aus, ob er Vorladung seines Chefs folgt",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2170.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2170"
+ },
+ {
+  "content": "Zaudert: Magier will sich nicht direkt als Legastheniker bezeichnen",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2170.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2170"
+ },
+ {
+  "content": "Konnte sich endlich durchringen: Zögerliche Frau installiert eigenhändig Schamlippenpiercings",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2170.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2170"
  }
 ]
