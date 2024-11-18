@@ -121870,5 +121870,62 @@ export const tickers =
    "wso"
   ],
   "num": "2172"
+ },
+ {
+  "content": "Jetzt hat er den Salat: Schulhofschläger erpresst Mittagessen von Veganerkind",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2173.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "2173",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0LEO_EaOtA8bybHEt0H9Gn8-2UlRJebzhqLDsploEhmTKiWqrm7faVBo1ECdWcR4PapKxYhBUP6QAMss0OAJoXm6VOjCtU_ibAEpNtfzVNUnUIkCrBJa1rlMKRgafg9Ch-Ynfw7NjGGBib3Y0zZ78RBgob3TfKwdYy7Clhx4hJNTXmsIe_y5PNtcRAe8d/w1600/tickersalat.png"
+ },
+ {
+  "content": "Nur blöde Laien: Comedy-Nachwuchswettbewerb enttäuscht",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2173.html",
+  "creators": [
+   "jeo"
+  ],
+  "num": "2173"
+ },
+ {
+  "content": "Ende Februar: Anfang Merz",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2173.html",
+  "creators": [
+   "arc"
+  ],
+  "num": "2173"
+ },
+ {
+  "content": "Sure: US-Schaf weiß, was ihm blüht",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2173.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2173"
+ },
+ {
+  "content": "Da kann man nichts sagen: Knebel funktioniert einwandfrei",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2173.html",
+  "creators": [
+   "lia"
+  ],
+  "num": "2173"
+ },
+ {
+  "content": "Naschwille: Kinder in Tennessee verlangen Süßes",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2173.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2173"
+ },
+ {
+  "content": "\"Die geht tanken? Sinnfrei!\": Mann hat das Recht, Frau, die mit Benzinkanister fußläufig unterwegs ist, kritisch zu betrachten",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2173.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2173"
  }
 ]
