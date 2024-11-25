@@ -122042,5 +122042,64 @@ export const tickers =
    "tom"
   ],
   "num": "2175"
+ },
+ {
+  "content": "*bluthust*: Tuberkulosekranker koppelt Kopfhörer",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2176.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2176",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTVhP8jhMYYbn1wgabG9Df5ZiQjMJFLPMSH-ECkhYZc8ikl_-N4gtKcs9V5Mg3mXP_ABZsZLxmRrUCt_v6JOA6o2cx7mHm06E_ps58wkYHg58tbNgI3FCVHooU8nO4EGo9fLMwckAq8K5LlVFE_yuBgx6GGVUnYKaJlsL1uVNMY074VETRCHhtvKxeBpvT/w1600/tickerbluthust.jpg"
+ },
+ {
+  "content": "Kein Hexenwerk: Kräuterfrau kauft Lebkuchenhaus einfach beim Bäcker",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2176.html",
+  "creators": [
+   "ber"
+  ],
+  "num": "2176"
+ },
+ {
+  "content": "Ganz leer: Olaf Scholz kontrolliert Unterstützerliste",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2176.html",
+  "creators": [
+   "ttl",
+   "kop"
+  ],
+  "num": "2176"
+ },
+ {
+  "content": "Krumme Geschäfte: Klärwerksbetreiber verkauft \"Schokobananen\" auf Ebay",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2176.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2176"
+ },
+ {
+  "content": "Jets gateslos: Erster Naturflughafen eröffnet",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2176.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2176"
+ },
+ {
+  "content": "Hat Abgebrochen: Mann verschenkt Knorpelfische nach erfolgloser Tierpflegerlehre",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2176.html",
+  "creators": [
+   "nil",
+   "cbe"
+  ],
+  "num": "2176"
+ },
+ {
+  "content": "Schmelzt Igel der Nationen: Französischer Koch streicht Froschschenkel-Rezept zugunsten von Multikulti-Gericht",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2176.html",
+  "creators": [
+   "bak"
+  ],
+  "num": "2176"
  }
 ]
