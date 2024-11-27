@@ -122101,5 +122101,62 @@ export const tickers =
    "bak"
   ],
   "num": "2176"
+ },
+ {
+  "content": "Mayobart: Comedian hat wohl Pommes gegessen",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2177.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2177",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmofqWbZv_G_WDWXjO_H47AhKDxtI89IqY4_dpRvguNxI2_L0CBDeCAGKT4IblEDSrLO-RMZq75p8VqG7xzIAaslIksosdIPHlraqpMjJFeT-slS3PwyEroa4rkwktObn6zHUAGJAiqnlalVeTwpW4c0QSi0M8YyLE7B4ZVtwZtYKDqLzx6MPKrQn6BIOm/w1600/tickermayobart.png"
+ },
+ {
+  "content": "Beilleibe keine Seltenheit: Immer mehr Menschen haben Körper in Form einer Axt",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2177.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2177"
+ },
+ {
+  "content": "Meßmer: Firmenchef bestätigt laufende Teeingehaltskontrolle",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2177.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2177"
+ },
+ {
+  "content": "Kann schnell Kippen: Freude über zigarettendrehendes Kind",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2177.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2177"
+ },
+ {
+  "content": "Aus Froschhaltefolie: Tierschützer bauen Krötenzaun",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2177.html",
+  "creators": [
+   "ber"
+  ],
+  "num": "2177"
+ },
+ {
+  "content": "Niederrhein: Anwohner möchte auf keinen Fall in Fluss schwimmen",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2177.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2177"
+ },
+ {
+  "content": "ZEIT-Umstellung: Polizei beendet Geiselnahme in Redaktionsgebäude zwischen 2:55 und 2:10 Uhr",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2177.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2177"
  }
 ]
