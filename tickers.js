@@ -122158,5 +122158,62 @@ export const tickers =
    "nil"
   ],
   "num": "2177"
+ },
+ {
+  "content": "\"Schwarte!\": Rheinländer zeigt sich bei Metzger ungeduldig",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2178.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2178",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFzmkVXIlQd0ZNWSvDQlsTkZ96ssFm2kui2jacWToSZ2taf5DFqELoDsLt4JzfkKYQ9RBbOTUAx_dJR0BCaV1FnalLastODQTO_vf8enVHX_AzdANu0N5NrAjI0LIyeiT1HXvduZhlU89EDBHRDI1Pq262gwAEy3MHDlsl_gFiZ84V44T2TseUaqHLKkVN/w1600/tickerschwarte.jpg"
+ },
+ {
+  "content": "B lag auf den Zähnen: Mann gönnt sich nach Buchstabensuppe Mundpflege",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2178.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2178"
+ },
+ {
+  "content": "Schneewalzer: Pistenraupe mit Zünddefekt planiert im 3/4-Takt",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2178.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2178"
+ },
+ {
+  "content": "8 Emmys: Film über griechische Göttin gewinnt Fernsehpreis",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2178.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2178"
+ },
+ {
+  "content": "Steht auf der Matte: Gast kann \"Willkommen\" gar nicht lesen",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2178.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2178"
+ },
+ {
+  "content": "Coverband: Partycombo wartet an Gepäckausgabe",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2178.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2178"
+ },
+ {
+  "content": "Die Nackte kann ohne: Entblößte Schauspielerin brauchte für Rolle in Komödie nicht vorzusprechen",
+  "url": "https://www.der-postillon.com/2024/11/newsticker-2178.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2178"
  }
 ]
