@@ -184,6 +184,15 @@ export const exceptionalStuffByUrl = {
     authors: "wso, tei/stp, wye, sum, adm, mta, jam/tei",
   },
   "https://www.der-postillon.com/2024/12/newsticker-2179.html": {
-    authors: "ttl, sta, wso, rag, nil, wrb, nil",
+    tickers: [
+      "Schob Haydn: US-Präsident begann berufliche Laufbahn 1803 als Altenpfleger in Wien",
+      "Verklemmt: Elektriker lässt Schlafzimmer dunkel",
+      "Auch Sonntagsauf: Trinkhalle nie geschlossen",
+      "Bled, oh je: Hessischer Anwalt vergisst Schlussvortrag",
+      "*** Steht noch in den Sternen: Wann wird endlich das Format dieser Eilmeldung korrigiert? ***",
+      "Zikade: Grille läßt sich Tarot legen",
+      "Da kannste einen drauf lassen: Weight Watchers-Waage definitiv nicht für mehrere Personen geeignet",
+    ],
+    //   authors: "ttl, sta, wso, rag, nil, wrb, nil",
   },
 };
