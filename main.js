@@ -118,7 +118,7 @@ const buildQueryString = () => {
 
 use(
   tickers
-    .flatMap((ticker) => ticker.creators)
+    .flatMap((ticker) => ticker.creators || [])
     .map((name) => name.replaceAll("&nbsp;", "").trim())
     .reduce((acc, v) => {
       acc[v] = (acc[v] || 0) + 1;
