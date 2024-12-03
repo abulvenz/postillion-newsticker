@@ -183,4 +183,7 @@ export const exceptionalStuffByUrl = {
   "https://www.der-postillon.com/2024/07/newsticker-2126.html": {
     authors: "wso, tei/stp, wye, sum, adm, mta, jam/tei",
   },
+  "https://www.der-postillon.com/2024/12/newsticker-2179.html": {
+    authors: "ttl, sta, wso, rag, nil, wrb, nil",
+  },
 };
