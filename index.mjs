@@ -3,7 +3,7 @@ import regex from "./regex.mjs";
 import fs, { readFileSync } from "fs";
 import { exceptionalStuffByUrl } from "./exceptionalStuffByUrl.mjs";
 
-let clearEverything = true;
+let clearEverything = false;
 const displayBrowser = false;
 
 const maximumNumberOfPages = 1e100;
@@ -21,6 +21,7 @@ if (clearEverything === false) {
 
 const scheduledURLs = [
   // Uncomment one or more to test
+  // "https://www.der-postillon.com/2024/12/newsticker-2179.html"
   // "https://www.der-postillon.com/2021/10/newsticker-1710.html",
   // "https://www.der-postillon.com/2020/12/newsticker-1585.html",
   // "https://www.der-postillon.com/2018/01/newsticker-1149.html",
@@ -246,7 +247,7 @@ const mainLoop = async (cStartURL) => {
       console.log("Error extracting authors " + url);
       console.log(authors);
       problematicTickers.push(
-        "Error extracting authors " + url + " " + authors
+        "Error extracting authors " + url + " " + authors + " "
       );
     }
 
