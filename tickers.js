@@ -3,32 +3,58 @@ export const tickers =
  {
   "content": "Schob Haydn: US-Präsident begann berufliche Laufbahn 1803 als Altenpfleger in Wien",
   "url": "https://www.der-postillon.com/2024/12/newsticker-2179.html",
+  "creators": [
+   "ttl"
+  ],
   "num": "2179",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaEvW5QsAqrv_oDfB4qeom4chQGp-yz940JN9Cw-juhUo0sKWzIOJIkpRz6nVskk9g4rNeUXz-MYI48FEsTGy4TH3tEml3vcpbO5YDRuaARQRejCXZXVW3AKRacrfHzr6RuJmg0ip4jkwh8yBpZ6Qps7O2BncgsK9SYYQ_v5tkckYY5dA7fZ7UriMr5S1f/w1600/tickerhaydn.png"
  },
  {
   "content": "Verklemmt: Elektriker lässt Schlafzimmer dunkel",
   "url": "https://www.der-postillon.com/2024/12/newsticker-2179.html",
+  "creators": [
+   "sta"
+  ],
   "num": "2179"
  },
  {
   "content": "Auch Sonntagsauf: Trinkhalle nie geschlossen",
   "url": "https://www.der-postillon.com/2024/12/newsticker-2179.html",
+  "creators": [
+   "wso"
+  ],
   "num": "2179"
  },
  {
   "content": "Bled, oh je: Hessischer Anwalt vergisst Schlussvortrag",
   "url": "https://www.der-postillon.com/2024/12/newsticker-2179.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2179"
+ },
+ {
+  "content": "*** Steht noch in den Sternen: Wann wird endlich das Format dieser Eilmeldung korrigiert? ***",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2179.html",
+  "creators": [
+   "nil"
+  ],
   "num": "2179"
  },
  {
   "content": "Zikade: Grille läßt sich Tarot legen",
   "url": "https://www.der-postillon.com/2024/12/newsticker-2179.html",
+  "creators": [
+   "wrb"
+  ],
   "num": "2179"
  },
  {
   "content": "Da kannste einen drauf lassen: Weight Watchers-Waage definitiv nicht für mehrere Personen geeignet",
   "url": "https://www.der-postillon.com/2024/12/newsticker-2179.html",
+  "creators": [
+   "nil"
+  ],
   "num": "2179"
  },
  {
@@ -97507,7 +97533,7 @@ export const tickers =
    "sjs"
   ],
   "num": "500",
-  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vvx7lbygxRfkpeqXIoXLFkJu1jE8CaGrJbDD-rrGEKKGuuMmwohlu4Q1lARdHBCcVUqdq2VKCKd8L9V27KZZpu1C6h8V5SCQSyGCCAvBr_E9LtVr0t4A1AjafjjZRsrdchYvcVXg=w1600"
+  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_s8Hued9pzpc23fQ2LYwJBp1AsWQ-RXpJghGa2ylSOTtQr3naZJCsgh3GGZVq-NjxW03AbShqBM-PydlfmWWKyQdh2mVO1yjOc56ubpi1ikJ-N1wWaNjkiKDxihl3f6oAWEoeV6UQ=w1600"
  },
  {
   "content": "Komplizierter Bruch: Ärzte kommen bei Visite auf keinen gemeinsamen Nenner",
