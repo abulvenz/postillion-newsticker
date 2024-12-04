@@ -122272,5 +122272,64 @@ export const tickers =
    "par"
   ],
   "num": "1"
+ },
+ {
+  "content": "Entscheidet nach bestimmten Gesichtspunkten: Mann bevorzugt Frauen mit Sommersprossen",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2180.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2180",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpToZ_eLqNxn7dG1Y1a6TOR0RhS6o2zTN5fJjkwS2c0KmOYpGJoCd3Vz6It5MV4HVGDgEuVmwFgzuu71VD80z2XaRWUbfN9XvVV9Zs9vpPYkBPrq3AHy4uzCYa6lSW3TXHEUbB-lfjDFSOvHnGrUOnRvJTrvtu9BI7_4cf_VFEVObNgJZk-0zLr4YAT0nr/w1600/tickersprossen.png"
+ },
+ {
+  "content": "Fitwi, ein Turnschuh: Marathonläufer knackt Rekord trotz Schlappenverlust",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2180.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2180"
+ },
+ {
+  "content": "Swingend erforderlich: Big Band braucht Bläser",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2180.html",
+  "creators": [
+   "sta",
+   "stp"
+  ],
+  "num": "2180"
+ },
+ {
+  "content": "Eine dreiste Liegesumme: Möbelhaus verlangt 999€ für Klappbett",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2180.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2180"
+ },
+ {
+  "content": "Gelbe Seiten: Herrchen von inkontinentem Dackel sucht fieberhaft Tierarztnummer",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2180.html",
+  "creators": [
+   "dtb"
+  ],
+  "num": "2180"
+ },
+ {
+  "content": "Wirkt echt wunder: Ein Peitschenhieb kann jemanden direkt anders aussehen lassen",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2180.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2180"
+ },
+ {
+  "content": "Vor Hirsebar: Gehweg neben veganem Bistro erwartungsgemäß von Lastenrädern zugeparkt",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2180.html",
+  "creators": [
+   "wrb",
+   "wye"
+  ],
+  "num": "2180"
  }
 ]
