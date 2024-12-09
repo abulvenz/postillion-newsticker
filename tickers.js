@@ -122388,5 +122388,62 @@ export const tickers =
    "sch"
   ],
   "num": "2181"
+ },
+ {
+  "content": "Für den Althacksgebrauch: Supermarktchef investiert in Mett-Umetikettierungsmaschine",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2182.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2182",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdUyS2yzZhzxHtHMbfqIVMnvevW8AgV2SlFnqtzwMkXoyVGX0zu009rMSG8JMWnPkBF7DHSesSdFNm871-ZNlSS-HKyennd3oam7i1LSX0QaFOziho57gMQIVlpKtBmo0G66Obt4qJhh3thQulO3Ty671vcwK0J4OyLJz6cJSGVxpGTEXOBC8is_eBwPMC/w1600/tickeralthack.png"
+ },
+ {
+  "content": "Aus 30 Metern abgezogen: Fernschuss trifft Stadiontoilette",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2182.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2182"
+ },
+ {
+  "content": "Baut Snare: Sachse fertigt Senfeimer-Schlagzeug an",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2182.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2182"
+ },
+ {
+  "content": "Ex-Erzieher-Platz: Kita muss Raucherecke an benachbarte Kaserne abtreten",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2182.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2182"
+ },
+ {
+  "content": "So wird ein Schuhu draus: Eule macht Fortschritte beim Logopäden",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2182.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2182"
+ },
+ {
+  "content": "Mag Bluessongs: Gitarrist trägt gerne kurze Jacken",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2182.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2182"
+ },
+ {
+  "content": "\"Ich hätte schwören können ...\": Neu gewählter Präsident hatte sich falschen Termin für Vereidigung gemerkt",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2182.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2182"
  }
 ]
