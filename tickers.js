@@ -122445,5 +122445,63 @@ export const tickers =
    "sum"
   ],
   "num": "2182"
+ },
+ {
+  "content": "Wird zu einem Ein-Ziegen-Desaster: Viehmarkt findet kaum Aussteller",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2183.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2183",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv4tYe9HE70mwAKVufToUBqUHA3IIX1Z1CDhWucjM0YQJsrTWwu0hOi1sdPOJZu83N4Kq5re27PSYB81YVYfUmT-vD-LqnLVUbjzaNMTVe-pj_K65BNJW2Q0a1bAquMpdJMuQ5sK30s0bH4SmiVm41440HrEkDlr952O9GJ8vS__JVIiFLWffxUrRw2lo4/w1600/tickereineziege.jpg"
+ },
+ {
+  "content": "Aß Saat: Gestürzter syrischer Diktator hinterlässt Brachland",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2183.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2183"
+ },
+ {
+  "content": "Krankennschwester: Pflegerin ist Baugerät ein Begriff",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2183.html",
+  "creators": [
+   "p2k",
+   "wrb"
+  ],
+  "num": "2183"
+ },
+ {
+  "content": "Mitch Huss: Glühweinverkäufer verwundert, dass alle seinen Namen kennen",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2183.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2183"
+ },
+ {
+  "content": "Wie die Tage vergehen: Wechseljahre-Seminar schon wieder rum",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2183.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2183"
+ },
+ {
+  "content": "Kubismus: Picasso malt Obstbrei kauendes Nutztier",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2183.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2183"
+ },
+ {
+  "content": "Ist 0K: Physik-Professor mit Antwort nach -273,15-Grad-Celsius-Frage zufrieden",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2183.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2183"
  }
 ]
