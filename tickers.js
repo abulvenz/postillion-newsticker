@@ -122912,5 +122912,63 @@ export const tickers =
    "ttl"
   ],
   "num": "2190"
+ },
+ {
+  "content": "Disstanz: Waldorfschüler verspotten Lehrer aus sicherer Entfernung",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2191.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2191",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAIfcZh9vcivR3CXlrOlrXCqNRUdPmqLnrBTAg4A1ccKXb0AlAc8qcnv6FPc-9ckghX1jFt25ujjeRnhoFUvcySxlpFnUdvg7TjlXvL3ebUISghx5PnHJpW197qyEMf-OMP-Ia7rhKqiUCIIdDtzPFeCDXINvWnwzxpgicic5rR7rI8FQq7hbSJBYDgRJI/w1600/ticker_Tanz.jpg"
+ },
+ {
+  "content": "Hier gibt es nichts zu säen: Polizei sperrt ausgeraubtes Gartencenter ab",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2191.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2191"
+ },
+ {
+  "content": "Nicht jedermanns Ache: Flussprivatisierung bei Anglern wenig beliebt",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2191.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "2191"
+ },
+ {
+  "content": "Fahrt der Lanz-Fahrräder: Moderator sponsert AfD-Parteiausflug nach Moskau",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2191.html",
+  "creators": [
+   "ttl",
+   "sum"
+  ],
+  "num": "2191"
+ },
+ {
+  "content": "Gehörn verboten: Aktivist kämpft gegen Lebkuchen mit Hirschhornsalz",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2191.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2191"
+ },
+ {
+  "content": "Herr Tefal: Psychiatriepatient hält sich für Küchengerätehersteller",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2191.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2191"
+ },
+ {
+  "content": "Aber Kant: Diskussion über kategorischen Imperativ überzeugt Schiedsrichter nicht, Tor nachträglich zu geben",
+  "url": "https://www.der-postillon.com/2024/12/newsticker-2191.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2191"
  }
 ]
