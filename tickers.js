@@ -123142,5 +123142,62 @@ export const tickers =
    "par"
   ],
   "num": "1"
+ },
+ {
+  "content": "Cop, 'n Rad und Wiese: Velopolizist verfolgt Tiefkühltortendieb durch Park",
+  "url": "https://www.der-postillon.com/2025/01/newsticker-2195.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2195",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg28fJdN2HJiSv-5Qppg-JL0bc9OvS8OnYtWIg51iYAJmDJbfu_sr5PKFpYCiRK5obfZcyPOrMrIC8lfr6c5kSjD26bsTrTanLZycpSWtDKY1_JGjqYiTfWZxvq2O6R5ot0ZS8TDQNqh_aaZd6_ST0sqGpe9y7b24BfG0aczxh_Crm5Ym91DXUMshp0PpJw/w1600/tickertortendieb.png"
+ },
+ {
+  "content": "Macht Heilfasten: Björn Höcke versucht, sieben Tage auf Hitlergruß zu verzichten",
+  "url": "https://www.der-postillon.com/2025/01/newsticker-2195.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2195"
+ },
+ {
+  "content": "Unter Mieder: Frau beherbergt Parasiten",
+  "url": "https://www.der-postillon.com/2025/01/newsticker-2195.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2195"
+ },
+ {
+  "content": "Sagt ihr nichts: Mutter kann mit Mutismus-Diagnose von Kind wenig anfangen",
+  "url": "https://www.der-postillon.com/2025/01/newsticker-2195.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2195"
+ },
+ {
+  "content": "Auf Enthalsort: Henker stets in Fallbeilnähe anzutreffen",
+  "url": "https://www.der-postillon.com/2025/01/newsticker-2195.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2195"
+ },
+ {
+  "content": "Entspurt: Wintersportort beseitigt letzte Loipen",
+  "url": "https://www.der-postillon.com/2025/01/newsticker-2195.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2195"
+ },
+ {
+  "content": "Lange NASA: Pinocchio schreibt mehrjährige Erfahrung als Astronaut in seinen Lebenslauf",
+  "url": "https://www.der-postillon.com/2025/01/newsticker-2195.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2195"
  }
 ]
