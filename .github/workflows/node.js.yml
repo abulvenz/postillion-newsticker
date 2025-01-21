@@ -21,13 +21,13 @@ jobs:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
+      - run: sudo chmod -R 777 /__w/_temp
       - uses: actions/checkout@v3
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
           cache: "npm"
-      - run: sudo chmod -R 777 /__w/_temp
       - run: git config --global user.email "actions@github.com"
       - run: git config --global user.name "Build bot"
 
