@@ -72,7 +72,9 @@ const scheduledURLs = [
 
 const browser = await puppeteer.launch({
   headless: displayBrowser ? false : "new",
+  args: ['--no-sandbox'],
 });
+
 const page = await browser.newPage();
 
 await page.setRequestInterception(true);
