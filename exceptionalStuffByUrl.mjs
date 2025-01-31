@@ -195,4 +195,15 @@ export const exceptionalStuffByUrl = {
     ],
     //   authors: "ttl, sta, wso, rag, nil, wrb, nil",
   },
+  "https://www.der-postillon.com/2025/01/newsticker-2205.html": {
+    tickers: [
+      "Wa-Sagerin: Hellseherin kommt aus Berlin",
+      "Hat wohl einen Clown gefrühstückt: Kannibale rülpst Konfetti",
+      "Arschbart geblieben: Frau schickt Ehemann doch nicht zur Gesäß-Epilation",
+      "Seitenwände: Finanzierung für winddichte Bundeswehr-Pavillons steht",
+      "Ließ sich leicht einwickeln: Junge Frau fällt auf falschen Christo herein",
+      '✝✝✝ Vlog: Neue Folge aus der Serie "Wie töte ich einen Vampir" ✝✝✝',
+      "Dehnziel war Schinken: Schauspieler versucht, mit Stretching-Übung hinter die Fleischtheke zu greifen",
+    ],
+  },
 };
