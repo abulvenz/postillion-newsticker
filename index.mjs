@@ -3,7 +3,7 @@ import regex from "./regex.mjs";
 import fs, { readFileSync } from "fs";
 import { exceptionalStuffByUrl } from "./exceptionalStuffByUrl.mjs";
 
-let clearEverything = false;
+let clearEverything = true;
 const displayBrowser = false;
 
 const maximumNumberOfPages = 1e100;
@@ -72,7 +72,7 @@ const scheduledURLs = [
 
 const browser = await puppeteer.launch({
   headless: displayBrowser ? false : "new",
-  args: ['--no-sandbox'],
+  args: ["--no-sandbox"],
 });
 
 const page = await browser.newPage();
@@ -192,7 +192,7 @@ const mainLoop = async (cStartURL) => {
     }
 
   for (url of scheduledURLs) {
-    if (alreadyFetched.indexOf(url) >= 0) continue;
+    if (noTest && alreadyFetched.indexOf(url) >= 0) continue;
     alreadyFetched.push(url);
     console.log("Calling ", url);
     const currentTickers = [];
@@ -203,11 +203,11 @@ const mainLoop = async (cStartURL) => {
       );
     } else {
       (await fetchTickers()).forEach((ticker) => {
-        regex(ticker.trim(), reg_newsticker_plain, (text) => {
-          if (text[0].trim() !== "Newsticker")
-            currentTickers.push({ content: text[0].trim(), url });
+          regex(ticker.trim(), reg_newsticker_plain, (text) => {
+            if (text[0].trim() !== "Newsticker")
+              currentTickers.push({ content: text[0].trim(), url });
+          });
         });
-      });
     }
     let authors = "";
     if (exceptionalStuffByUrl[url]?.authors) {

@@ -206,4 +206,15 @@ export const exceptionalStuffByUrl = {
       "Dehnziel war Schinken: Schauspieler versucht, mit Stretching-Übung hinter die Fleischtheke zu greifen",
     ],
   },
+  "https://www.der-postillon.com/2025/03/newsticker-2220.html": {
+    tickers: [
+      "+++ Bärgetappe: Tanzender Grizzly irritiert Radrennfahrer +++",
+      "+++ L saß: Französin findet passendes Kleid +++",
+      "+++ Besenabrechnung: Hexe reicht Reisekosten ein +++",
+      "+++ 🇬🇧 Slaps dick: Buster Keaton acts in gay SM porn movie 🇬🇧 +++",
+      "+++ So leicht kommt ihr keiner davon: Oma serviert üppigen Nachtisch +++",
+      "+‍+‍+ Elastisch: Fitzgerald war für ihr Gummimöbel bekannt +‍+‍+",
+      '+++ "Freut mich. Sie kämmen zu Lärm!": Mann verzückt, dass neuer Friseur trotz Baustelle eröffnet +++',
+    ]
+  },
 };
