@@ -34,10 +34,10 @@ page.on("request", (request) => {
 
 const alreadyFetched = JSON.parse(readFileSync("./alreadyFetched.json"));
 const tickers = JSON.parse(
-  readFileSync("./tickers.js").replace("export const tickers =", "")
+  (fs.readFileSync("./tickers.js") + "").replace("export const tickers =", "")
 );
 const problematicTickers = JSON.parse(
-  readFileSync("./problematicTickers.json")
+  fs.readFileSync("./problematicTickers.json")
 );
 
 if (clearEverything) {
