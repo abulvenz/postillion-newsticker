@@ -4,10 +4,9 @@ import fs, { readFileSync } from "fs";
 import { exceptionalStuffByUrl } from "./exceptionalStuffByUrl.mjs";
 import { a } from "tagl-mithril";
 
-let clearEverything = false;
-const displayBrowser = false;
+console.log("🚀 Script started");
 
-const maximumNumberOfPages = 1e100;
+const displayBrowser = false;
 
 const startURL = "https://www.der-postillon.com/search/label/Newsticker";
 const startURLBE = "https://www.the-postillon.com/search/label/Newsticker";
@@ -35,10 +34,17 @@ const yearAndMonthFromOlderUrl = (url) => {
 
 const browser = await puppeteer.launch({
   headless: displayBrowser ? false : "new",
-  args: ["--no-sandbox"],
+  args: [
+    "--no-sandbox",
+    "--disable-gpu",
+    "--single-process",
+    "--disable-setuid-sandbox",
+  ],
 });
 
 const page = await browser.newPage();
+
+console.log("🚀 Browser launched");
 
 /** This makes loading faster, don't load unneeded images */
 await page.setRequestInterception(true);
@@ -137,7 +143,7 @@ const current_month = last_ticker_year_month.month || new Date().getMonth() + 1;
 const isCurrentYearAndMonth = ({ year, month }) =>
   year >= current_year && month >= current_month;
 
-console.log(last_ticker_year_month)
+console.log(last_ticker_year_month);
 console.log(`Current year: ${current_year}, Current month: ${current_month}`);
 
 tickers = tickers.filter((ticker) => {
@@ -253,7 +259,7 @@ if (true) {
   await mainLoop(startURLBE);
 }
 
-tickers = tickers.sort((a,b) => +a.num > +b.num ? -1 : 1);
+tickers = tickers.sort((a, b) => (+a.num > +b.num ? -1 : 1));
 
 fs.writeFileSync(
   "tickers.js",
