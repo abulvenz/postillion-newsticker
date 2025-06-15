@@ -22,9 +22,6 @@ jobs:
           apt-get install -y chromium
           ln -s /usr/bin/chromium /usr/bin/chromium-browser
         shell: bash
-        continue-on-error: false
-        # Erzwinge Root-Rechte:
-        run-as: root
 
       - uses: actions/checkout@v4
 
