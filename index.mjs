@@ -34,8 +34,7 @@ const yearAndMonthFromOlderUrl = (url) => {
 
 const browser = await puppeteer.launch({
   headless: displayBrowser ? false : "new",
-  executablePath:
-    process.env.PUPPETEER_EXECUTABLE_PATH || "/usr/bin/chromium",
+  executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || "/usr/bin/chromium",
   args: [
     "--no-sandbox",
     "--disable-gpu",
@@ -68,8 +67,6 @@ page.on("request", (request) => {
 let tickers = JSON.parse(
   (fs.readFileSync("./tickers.js") + "").replace("export const tickers =", "")
 );
-
-const currentContents = tickers.map((t) => t.content);
 
 const findOlderPageLink = async () =>
   page.evaluate(
@@ -152,6 +149,9 @@ tickers = tickers.filter((ticker) => {
   const { year, month } = yearAndMonthFromUrl(ticker.url);
   return !isCurrentYearAndMonth({ year, month });
 });
+
+const currentContents = tickers.map((t) => t.content);
+
 const determineURLsToProcess = async (url) => {
   const urls = [];
   while (url !== undefined) {

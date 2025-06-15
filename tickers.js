@@ -1,6 +1,182 @@
 export const tickers = 
 [
  {
+  "content": "Tah da!: Neuer Abwehrchef des FC Bayern in München feierlich vorgestellt",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2262.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2262",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0FVZEluj4l6rFSPBrA-xc5hXBF0vrJfLkNn2VSGxHGfjbl0DpCbxsCIOnMosdk3lu2AzanJ1izdOwitL3FlL1mqOMzSJ2JgdRWcJaoVYgDPU97LkeMnoae8zO8EtzcO2lWVl8XDVF5DpQszsDqkbzbRkdp5POopRxA4y8oiShtl-2SAA3GZb7QLdXs1b-/w1600/tickertahda.jpg"
+ },
+ {
+  "content": "Peaks: Die höchsten Impfraten wurden während der Coronapandemie erreicht",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2262.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2262"
+ },
+ {
+  "content": "Kaum Waterkant: Rheinländischer Hamburgtourist kann aufgrund von Nebel wenig sehen",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2262.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2262"
+ },
+ {
+  "content": "Extrahierte: Zusätzlicher Schäfer entpackt ZIP-Datei",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2262.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "2262"
+ },
+ {
+  "content": "Der Junge bringt alles mit: Lamine Yamal war erfolgreich einkaufen",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2262.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2262"
+ },
+ {
+  "content": "Rehvulvaheld: Vermeintlicher Western entpuppt sich als Sodomie-Porno",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2262.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2262"
+ },
+ {
+  "content": "1920x1080 Pickel: Schüler nach Selfie-Check an Computerbildschirm völlig aufgelöst",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2262.html",
+  "creators": [
+   "ttl",
+   "tei"
+  ],
+  "num": "2262"
+ },
+ {
+  "content": "Für Schreiende: Mutter verteilt Schnuller an ihre Kinder",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2261.html",
+  "creators": [
+   "chö"
+  ],
+  "num": "2261",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiloUtBL1z8uXcTtutbA_73CAGxaSycFFlukIyWjlW7Jr6w0dbfzDf-up2kEHhXDKmU5qspCzUq-x7o4AgReY5D-6nPxuZsscM4F72Djx4AAnMgipvktbS4d2ixGZRtHME3sIpAMDQhidNOCYkfB6BuK0oNc9OpcQIRzZ_SYOpVN2kUuWuy6beY_Al8u8zp/w1600/tickerschreiende.jpg"
+ },
+ {
+  "content": "Felslawinen: Stark behaarte verschüttete Ureinwohnerinnen in Hoher Tatra ausgegraben",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2261.html",
+  "creators": [
+   "rau"
+  ],
+  "num": "2261"
+ },
+ {
+  "content": "Kriegte nichts auf die Käthe: Jede Brehme-Flanke verfehlte Völler",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2261.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2261"
+ },
+ {
+  "content": "Video bot Schaft: Mann schickt Angebeteter Nackt-Clip",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2261.html",
+  "creators": [
+   "bfr",
+   "mth"
+  ],
+  "num": "2261"
+ },
+ {
+  "content": "Kokshero: Drogenkurier lockt Neukunden mit Gratis-Diätlimonade",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2261.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2261"
+ },
+ {
+  "content": "Hoch die Gläser: Fensterbaufirma feiert 25-jähriges Betriebsjubiläum",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2261.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2261"
+ },
+ {
+  "content": "Ungefährdet: Favorit gewinnt Mainzelmännchenähnlichkeitswettbewerb mit großem Vorsprung",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2261.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2261"
+ },
+ {
+  "content": "Vollgas-Koffersicherung: Allianz verlangt Gepäckfixierung ab 200 km/h",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2260.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2260",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji_Z0GbQ0FcQFr32cALi5mgsFHR95sxwILXTPPQbplhnIPCmgMtZm0sKeVAxCO2Plgc27y-ohJV68nZfjerP82M4Jx-KuSV3YTmJi9MTp7-jce37q3TkxfHnzhqI4U15ESTExpA_dHlNfub-CfohNsGgS2tNZNRxMnyWkW1AEboreVuGY_zzb2o9ODt6M5/w1600/tickerkoffersicher.jpg"
+ },
+ {
+  "content": "Barfuß: Kneipengast kürzt Zehennägel auf Tresen",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2260.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2260"
+ },
+ {
+  "content": "Da kann er nichts ausrichten: Feng-Shui-Berater steht ratlos in ausgeräumter Wohnung",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2260.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2260"
+ },
+ {
+  "content": "Inshallateur bestellt: Imam lässt Wasserhähne gen Mekka ausrichten",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2260.html",
+  "creators": [
+   "kgk"
+  ],
+  "num": "2260"
+ },
+ {
+  "content": "Isst Felssalat: Steinadler achtet auf Ernährung",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2260.html",
+  "creators": [
+   "stp",
+   "wrb"
+  ],
+  "num": "2260"
+ },
+ {
+  "content": "Wieder Single: Sängerin veröffentlicht nach Trennung neue Platte",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2260.html",
+  "creators": [
+   "adl"
+  ],
+  "num": "2260"
+ },
+ {
+  "content": "Kommt im Zug Ute?: Schaffner beachtet Schwarzfahrer wegen stöhnender Dame nicht",
+  "url": "https://www.der-postillon.com/2025/06/newsticker-2260.html",
+  "creators": [
+   "tei",
+   "mth",
+   "nil"
+  ],
+  "num": "2260"
+ },
+ {
   "content": "Einen ganz schönen Bock geschossen: Jäger missversteht das Konzept eines Streichelzoos",
   "url": "https://www.der-postillon.com/2025/06/newsticker-2259.html",
   "creators": [
@@ -172,6 +348,297 @@ export const tickers =
    "wso"
   ],
   "num": "2257"
+ },
+ {
+  "content": "Kochwäsche: Tim Mälzer reinigt Arbeitskleidung bei 95 Grad",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2256.html",
+  "creators": [
+   "tom",
+   "oga"
+  ],
+  "num": "2256",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6Xd_DjzE4alwzEVW00-JKFKRKVwRNCCwoIwgpUGaBHQpV_ol22ED1Ge6mEPrhZsNxtDf3mhpTuxN9R1Hl8r-c8ZxgqeaZ0ZeZpirTndBi4rMNWfuITyUI5FFQUomzAQgYSrNJTkmYSkjVVxCuhHnmdTJXeMEwVVcFukzztsYkbo1UqqMcl0KpBPhVEO-9/w1600/tickerkochwa%CC%88sche.jpg"
+ },
+ {
+  "content": "Pik-Hand: Skatspieler nascht Peperoni",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2256.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2256"
+ },
+ {
+  "content": "Kurze Zündschnur: Männer mit Micropenis neigen zu Wutausbrüchen",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2256.html",
+  "creators": [
+   "mvt"
+  ],
+  "num": "2256"
+ },
+ {
+  "content": "Kleb-Lätta: Kind schützt Hasenfutter mit Streichfett vorm Wegfliegen",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2256.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2256"
+ },
+ {
+  "content": "Bringen nichts: Paketdienste liefern keine Homöopathie-Produkte mehr aus",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2256.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2256"
+ },
+ {
+  "content": "Weg geht Arier: Hitler verlässt Steakhouse",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2256.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2256"
+ },
+ {
+  "content": "Links und rechts 'ne Schelle verpasst: Bud Spencer entdeckt nicht verkehrstüchtiges Fahrrad",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2256.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2256"
+ },
+ {
+  "content": "Selbstredend: Natürlich unterbricht Markus Lanz ständig seine Gäste",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2255.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2255",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyM3KxWQXQzYAPT5l0xAHAQOVOf743yceUVVS9s0luUEchyphenhyphenZTszsa2t-w9wD6DuGFAj9roud3Hdh4hZCMhB-sd4M3U5BsUYDNMRkWE1eMXILdk322Vsi76GDflZbchABwCHe-pxkTL8nwTEzy_pdpwWmSIyRwvLkYFvvghhJ-JtFcLnzKNw7I6-2O_7CQN/w1600/tickerlanz.jpg"
+ },
+ {
+  "content": "Speck drum erweitert: Wrestler nun auch als Sumoringer aktiv",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2255.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2255"
+ },
+ {
+  "content": "Freilassing: Oberbayerische JVA plant Tag der offenen Tür",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2255.html",
+  "creators": [
+   "oga",
+   "ttl"
+  ],
+  "num": "2255"
+ },
+ {
+  "content": "Hat sich übernommen: Sklave meldet nach Freikauf Privatinsolvenz an",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2255.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2255"
+ },
+ {
+  "content": "Schnell über Seen: Motorboot-Tuning-Ratgeber etwas klein geraten",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2255.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2255"
+ },
+ {
+  "content": "Krausarmer Mord: Glatzköpfiger tötet Glatthaarigen",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2255.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "2255"
+ },
+ {
+  "content": "Folgesabbat: Lätzchen muss am nächsten jüdischen Ruhetag gereinigt werden",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2255.html",
+  "creators": [
+   "egi"
+  ],
+  "num": "2255"
+ },
+ {
+  "content": "Auf die Seite gelegt: Kim Jong-Un hatte für gekentertes Kriegsschiff lange gespart",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2254.html",
+  "creators": [
+   "frcx",
+   "ber"
+  ],
+  "num": "2254",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR7IN85Ku84WqCD5UcsZBsPA7w_m5H5v4W_5DgQZzkGqwJao74JgFGr5-evxPOi19XZTN5IhsCeRuM7gvDDyxDCL-XTKGIKmYxyxkW2sBWBcMbZaezWwSF7RMHtPTEogRWD414FpTotUxPl3xJL5ImYE0PWjd10Abwrt1TJ4iBtoiK3iDkRb_9ytYUasTB/w1600/tickerseitegelegt2.jpg"
+ },
+ {
+  "content": "Hai litt leer: Hungriger Knorpelfisch sieht einzige Rettung in Führer",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2254.html",
+  "creators": [
+   "tei"
+  ],
+  "num": "2254"
+ },
+ {
+  "content": "Will es nicht Näher erklären: Frau übergibt wortlos geplatzte Hose",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2254.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2254"
+ },
+ {
+  "content": "Elversberg: Maulwurf gräbt Hügel am Strafstoßpunkt",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2254.html",
+  "creators": [
+   "tky"
+  ],
+  "num": "2254"
+ },
+ {
+  "content": "Wirbelte zu viel Staub auf: Mafia-Pate beseitigt seine Putzfrau",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2254.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2254"
+ },
+ {
+  "content": "In fact: Brite tatsächlich erkältet",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2254.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2254"
+ },
+ {
+  "content": "Hat ihn in eine Schublade gesteckt: Arzt kategorisiert Patient mit Penisquetschung als Masochisten",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2254.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2254"
+ },
+ {
+  "content": "Abschleckdienst: ADAC-Hund tröstet Pannenfahrer",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2253.html",
+  "creators": [
+   "tei",
+   "sch"
+  ],
+  "num": "2253",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC9QfHWDJQp_P3qmyEVd3ivPCheJi7sxVpP-du21dNclfEYrfdwvvcQwFyC1u_ZbON4QqcM819tmewpQI83NZtKT4pnrKrHzFJlY0v99_bN-YngsFRvCPPQmw_1fNAUpmZCDEZQL7nvkB1zqBse97PkojA9G-BzLgFBaFvPjU3YyTOPWSEZXtjAj5eiz9x/w1600/tickerabschlecker.jpg"
+ },
+ {
+  "content": "Mähsohn nett: Frau lädt Gärtnersprössling in Dachgeschosswohnung ein",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2253.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2253"
+ },
+ {
+  "content": "Strukturschwacher Raum: Cottbuser WG-Bewohner kann sich keine Raufasertapete leisten",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2253.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2253"
+ },
+ {
+  "content": "In Wien no Wehretats: Österreichs Regierung beschließt in Weinlaune radikale Abrüstung",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2253.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2253"
+ },
+ {
+  "content": "Scheißt über das Ziel hinaus: Wettdefäkierer befördert Wurst 100 Meter weit",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2253.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "2253"
+ },
+ {
+  "content": "Hotzenplotz?: Aiwanger erfragt Status von Kitasuche für Räubertochter",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2253.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2253"
+ },
+ {
+  "content": "Extrem polarisierend: Sonnenbrillenfans uneins über stärker gefilterte Gläser",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2253.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2253"
+ },
+ {
+  "content": "Dicke Farbe steht: Offener Eimer Alpinaweiß droht auszutrocknen",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2252.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2252",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUncJ29DuaqiWtVYVN_ozSOO9bCGvQky_2myXeMkDp6okHvnG9_szBPFC8Atpbh7fPcu98N3BTsH6_su5wPWxlYdhuorRt61c0Qw8D8NvXW1CwarQv1KH-RxP35r7TawmYM2508bx_ASVfp-ZFFQTshbb8dS-OUKlDWafv16xej5PmrK2hQEyZA9Rjboqz/w1600/tickerdickefarbe.jpg"
+ },
+ {
+  "content": "Beschreiben Sie sich selbst: Tätowierer hat Vorstellungsgespräch",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2252.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2252"
+ },
+ {
+  "content": "Fickt Yves: TikTokerin prahlt mit erfundener Sex-Story über Eigenrauch",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2252.html",
+  "creators": [
+   "frcx",
+   "stp",
+   "tei"
+  ],
+  "num": "2252"
+ },
+ {
+  "content": "Ohrsachensuche: Warum hat Opa schon wieder sein Hörgerät verloren?",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2252.html",
+  "creators": [
+   "adm"
+  ],
+  "num": "2252"
+ },
+ {
+  "content": "Späht sie? Mischgetränkedieb fühlt sich beobachtet",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2252.html",
+  "creators": [
+   "rau"
+  ],
+  "num": "2252"
+ },
+ {
+  "content": "Burensohn: Elon Musk wirft Medien Rufmord vor",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2252.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2252"
+ },
+ {
+  "content": "Was für eine Oberweite: Attraktive Athletin stellt Rekord im Kellnerwerfen auf",
+  "url": "https://www.der-postillon.com/2025/05/newsticker-2252.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2252"
  },
  {
   "content": "Langnase: Pinocchio behauptet, gar kein Eis gegessen zu haben",
