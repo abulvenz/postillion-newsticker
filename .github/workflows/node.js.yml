@@ -1,16 +1,6 @@
-name: Build and Deploy GH Pages
-
-on:
-  push:
-    branches: [main]
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    container:
-      image: ghcr.io/puppeteer/puppeteer:latest
-
     env:
       PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
       PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: "true"
@@ -20,8 +10,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y chromium
-          ln -s /usr/bin/chromium /usr/bin/chromium-browser
-        shell: bash
+          sudo ln -s /usr/bin/chromium /usr/bin/chromium-browser
 
       - uses: actions/checkout@v4
 
