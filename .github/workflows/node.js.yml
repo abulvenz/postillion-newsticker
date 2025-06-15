@@ -18,8 +18,8 @@ jobs:
     steps:
       - name: Install Chromium
         run: |
-          apt-get update
-          apt-get install -y chromium
+          sudo apt-get update
+          sudo apt-get install -y chromium
           ln -s /usr/bin/chromium /usr/bin/chromium-browser
         shell: bash
 
