@@ -34,6 +34,8 @@ const yearAndMonthFromOlderUrl = (url) => {
 
 const browser = await puppeteer.launch({
   headless: displayBrowser ? false : "new",
+  executablePath:
+    process.env.PUPPETEER_EXECUTABLE_PATH || "/usr/bin/chromium",
   args: [
     "--no-sandbox",
     "--disable-gpu",
