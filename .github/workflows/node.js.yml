@@ -19,7 +19,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y chromium
-          sudo ln -s /usr/bin/chromium /usr/bin/chromium-browser
+#          sudo ln -s /usr/bin/chromium /usr/bin/chromium-browser
 
       - uses: actions/checkout@v4
 
