@@ -47,6 +47,8 @@ function checkVisible(elm) {
 }
 const themes = ["default", "dark"];
 let brightness = localStorage.getItem("brightness") || 0;
+let fuzzy = localStorage.getItem("fuzzy") || 0;
+
 
 const intermediate = tickers.reduce((acc, v) => {
   acc[v.content.trim()] = v;
@@ -61,7 +63,7 @@ keys(intermediate)
 
 console.log(tickers.length);
 
-tickers.sort((a, b) => -+a.num + +b.num);
+// tickers.sort((a, b) => -+a.num + +b.num);
 
 const goDark = (p) => {
   brightness = p % themes.length;
@@ -83,6 +85,14 @@ let range = 0;
 let search = "";
 let MAX = INCREMENT;
 let byAuthor = [];
+
+const toggleFuzzy = () => {
+  fuzzy = fuzzy === 0 ? 1 : 0;
+  range = fuzzy === 0 ? 0 : range;
+  localStorage.setItem("fuzzy", fuzzy);
+  m.redraw();
+}
+
 
 const parseQueryString = () => {
   const data = m.parseQueryString(window.location.search);
@@ -113,27 +123,26 @@ const buildQueryString = () => {
   window.history.pushState({ path: newurl }, "", newurl);
 };
 
+window.showStatistics = () => {
+  use(
+    tickers
+      .flatMap((ticker) => ticker.creators || [])
+      .map((name) => name.replaceAll("&nbsp;", "").trim())
+      .reduce((acc, v) => {
+        acc[v] = (acc[v] || 0) + 1;
+        return acc;
+      }, {}),
+    (tickerCountByAuthor) => {
+      Object.keys(tickerCountByAuthor)
+        .filter((author) => tickerCountByAuthor[author] < 40)
+        .forEach((author) => delete tickerCountByAuthor[author]);
 
-// console.log(tickers.filter(t=>!t.creators || t.creators.includes(undefined)))
-
-use(
-  tickers
-    .flatMap((ticker) => ticker.creators || [])
-    .map((name) => name.replaceAll("&nbsp;", "").trim())
-    .reduce((acc, v) => {
-      acc[v] = (acc[v] || 0) + 1;
-      return acc;
-    }, {}),
-  (tickerCountByAuthor) => {
-    Object.keys(tickerCountByAuthor)
-      .filter((author) => tickerCountByAuthor[author] < 40)
-      .forEach((author) => delete tickerCountByAuthor[author]);
-
-    Object.keys(tickerCountByAuthor)
-      .sort((a, b) => -tickerCountByAuthor[a] + tickerCountByAuthor[b])
-      .forEach((author) => console.log(author, tickerCountByAuthor[author]));
-  }
-);
+      Object.keys(tickerCountByAuthor)
+        .sort((a, b) => -tickerCountByAuthor[a] + tickerCountByAuthor[b])
+        .forEach((author) => console.log(author, tickerCountByAuthor[author]));
+    }
+  );
+};
 
 const createFuse = () => {
   if (range > 0) {
@@ -275,30 +284,32 @@ m.mount(document.body, {
                 idx < byAuthor.length - 1 ? "/" : "",
               ])
             ),
-            div["col-md-4 col-sm-12"](
-              p(
-                span.tooltip.bottom(
-                  {
-                    "aria-label":
-                      "Ganz links wird die komplette Eingabe gesucht. Danach immer fuzzier.",
-                  },
-                  "Diffusität der Suche"
+            fuzzy
+              ? div["col-md-4 col-sm-12"](
+                  p(
+                    span.tooltip.bottom(
+                      {
+                        "aria-label":
+                          "Ganz links wird die komplette Eingabe gesucht. Danach immer fuzzier.",
+                      },
+                      "Diffusität der Suche"
+                    )
+                  ),
+                  input({
+                    type: "range",
+                    min: 0,
+                    max: 100,
+                    value: range,
+                    oninput: (e) => {
+                      range = +e.target.value;
+                      MAX = INCREMENT;
+                      fuse = createFuse();
+                      selection = fuse.search(search);
+                      updateAuthors();
+                    },
+                  })
                 )
-              ),
-              input({
-                type: "range",
-                min: 0,
-                max: 100,
-                value: range,
-                oninput: (e) => {
-                  range = +e.target.value;
-                  MAX = INCREMENT;
-                  fuse = createFuse();
-                  selection = fuse.search(search);
-                  updateAuthors();
-                },
-              })
-            )
+              : null
           )
         ),
         "Hier sind " +
@@ -419,11 +430,19 @@ m.mount(document.body, {
       p(
         "Ohne Gewähr auf Sittenwidrigkeit, Fehlerfreiheit und Vollständigkeit."
       ),
-      button.small(
-        { onclick: (e) => goDark(brightness + 1) },
-        brightness === 0
-          ? "Nur die Dunkelheit ist echt, "
-          : "aber das Licht scheint so."
+      div.buttonGroup(
+        button.small(
+          { onclick: (e) => goDark(brightness + 1) },
+          brightness === 0
+            ? "Nur die Dunkelheit ist echt, "
+            : "aber das Licht scheint so."
+        ),
+        button.small(
+          { onclick: (e) => toggleFuzzy() },
+          fuzzy === 1
+            ? "Fuzzy-Suche ist an"
+            : "Fuzzy-Suche ist aus"
+        )
       )
     ),
   ],
