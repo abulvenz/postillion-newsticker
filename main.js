@@ -47,7 +47,7 @@ function checkVisible(elm) {
 }
 const themes = ["default", "dark"];
 let brightness = localStorage.getItem("brightness") || 0;
-let fuzzy = localStorage.getItem("fuzzy") || 0;
+let fuzzy = +localStorage.getItem("fuzzy") || 0;
 
 
 const intermediate = tickers.reduce((acc, v) => {
@@ -239,7 +239,7 @@ m.mount(document.body, {
   view: (vnode) => [
     header(
       a.logo(
-        m(posthorn, { width: "70px", height: "35px" }),
+        img.logoIcon({src: new URL("logo.svg",import.meta.url), alt: "Postillon Logo"}),
         span.logo("Geheimarchive des Postillon")
       )
     ),

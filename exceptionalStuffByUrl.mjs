@@ -206,4 +206,15 @@ export const exceptionalStuffByUrl = {
       "Dehnziel war Schinken: Schauspieler versucht, mit Stretching-Übung hinter die Fleischtheke zu greifen",
     ],
   },
+  "https://www.der-postillon.com/2025/04/newsticker-2241.html": {
+    tickers: [
+      "Weißer Rauch nicht: Vatikanbesucher nach Farbe für erfolglose Papstwahl gefragt",
+      "Würgeschlanke: Bulimikerin wünscht sich Haustier",
+      "Nervilüpölll.k,,,,,, .,, ,m ffreeeeeeefddreee<ayyaaAAAAAA>A<><<<<a: Katze überquert Tastatur",
+      "Hoch die Tassen!: Eltern feiern Teenie, der aus Kellerwohnung Geschirr nach oben bringt",
+      "Eichelheer: Vogeldame freut sich auf Bukkake-Party",
+      "Besser wie Sex: Jugendlicher gerät angesichts Deutsch-Fümpf in Eckstase",
+      "Fridjof, der Nuschelire: Stephen Kings neuer Roman über einen nordischen Insulaner mit Sprachfehler erschienen",
+    ],
+  },
 };
