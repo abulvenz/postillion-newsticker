@@ -1238,7 +1238,7 @@ export const tickers =
   "num": "2241"
  },
  {
-  "content": "Nervilüpölll.k,,,,,, .,, ,m ffreeeeeeefddreee<ayyaaAAAAAA>A<><<<<a: Katze überquert Tastatur",
+  "content": "Nervilüpölll.k,,,,,, .,, ,m ffreeeeeeefddreee&lt;ayyaaAAAAAA&gt;A&lt;&gt;&lt;&lt;&lt;&lt;a: Katze überquert Tastatur",
   "url": "https://www.der-postillon.com/2025/04/newsticker-2241.html",
   "creators": [
    "sta"
@@ -1249,7 +1249,8 @@ export const tickers =
   "content": "Hoch die Tassen!: Eltern feiern Teenie, der aus Kellerwohnung Geschirr nach oben bringt",
   "url": "https://www.der-postillon.com/2025/04/newsticker-2241.html",
   "creators": [
-   "stp"
+   "stp",
+   "tom"
   ],
   "num": "2241"
  },

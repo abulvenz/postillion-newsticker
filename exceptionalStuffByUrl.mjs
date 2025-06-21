@@ -210,7 +210,7 @@ export const exceptionalStuffByUrl = {
     tickers: [
       "Weißer Rauch nicht: Vatikanbesucher nach Farbe für erfolglose Papstwahl gefragt",
       "Würgeschlanke: Bulimikerin wünscht sich Haustier",
-      "Nervilüpölll.k,,,,,, .,, ,m ffreeeeeeefddreee<ayyaaAAAAAA>A<><<<<a: Katze überquert Tastatur",
+      "Nervilüpölll.k,,,,,, .,, ,m ffreeeeeeefddreee&lt;ayyaaAAAAAA&gt;A&lt;&gt;&lt;&lt;&lt;&lt;a: Katze überquert Tastatur",
       "Hoch die Tassen!: Eltern feiern Teenie, der aus Kellerwohnung Geschirr nach oben bringt",
       "Eichelheer: Vogeldame freut sich auf Bukkake-Party",
       "Besser wie Sex: Jugendlicher gerät angesichts Deutsch-Fümpf in Eckstase",

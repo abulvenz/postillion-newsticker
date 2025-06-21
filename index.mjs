@@ -25,7 +25,8 @@ const yearAndMonthFromUrl = (url) => {
 };
 const yearAndMonthFromOlderUrl = (url) => {
   if (!url) return { year: 0, month: 0 };
-  const match = url.match(/updated-max=(\d{4})\/(\d{2})\/.*$/);
+  const match = url.match(/.*updated-max=(\d{4})-(\d{2}).*$/);
+  console.log("yearAndMonthFromOlderUrl", url, match);
   return {
     year: match ? parseInt(match[1], 10) : 0,
     month: match ? parseInt(match[2], 10) : 0,
@@ -163,9 +164,11 @@ const determineURLsToProcess = async (url) => {
     );
     console.log("Found URLs: ", urls.length, urls);
     url = await findOlderPageLink();
+    console.log("Found older page link: ", url);
     url = isCurrentYearAndMonth(yearAndMonthFromOlderUrl(url))
       ? url
       : undefined;
+    console.log("Next URL: ", url);
   }
   return urls.filter((url) => url.indexOf("search/label") < 0);
 };
