@@ -1,6 +1,181 @@
 export const tickers = 
 [
  {
+  "content": "Will arbeitslose Halbiren: Merz setzt auf gezielte Einwanderung",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2296.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2296",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHq3SomX8vPVBKZqNN1Z8qgzhrkeQ27mGqK5wyC5ErgYUwZxR9rT8oxjoZBSGY1fOOd6XWxF15Va45t7WN0LiUvVU7OKw6x6ht8KrHnlngvNlO4R9XuKijz4YBbr96E3Ecl0FyycNuDjRcDv5GuQvGIsEw5ctQntDKR4JDF7BI-dChZwIWkz0WjI8RyamE/w1600/tickerhalbiren2.jpg"
+ },
+ {
+  "content": "Zeltende erden: Camper in Yttrium-Abbaustätte vom Blitz getroffen",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2296.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2296"
+ },
+ {
+  "content": "Sieht lauter weiße Mäuse: Betrunkener Einbrecher in Apple-Store",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2296.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "2296"
+ },
+ {
+  "content": "Calw in Klein: Modeschöpfer bastelt schwäbisches Stadtmodell",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2296.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "2296"
+ },
+ {
+  "content": "Drei-Punkte-Wurf: Blinder Basketballer trifft",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2296.html",
+  "creators": [
+   "wso",
+   "s0l"
+  ],
+  "num": "2296"
+ },
+ {
+  "content": "Null Koma, nix: Arzt heilt Unfallopfer in Windeseile",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2296.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "2296"
+ },
+ {
+  "content": "Über Sofas macht man keine WC: Sanitärinstallateur lehnt nicht ganz ernst gemeinten Auftrag ab",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2296.html",
+  "creators": [
+   "adl"
+  ],
+  "num": "2296"
+ },
+ {
+  "content": "Stab noch an der Unfallstelle: Zauberer tödlich verunglückt",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2295.html",
+  "creators": [
+   "s0l"
+  ],
+  "num": "2295",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqlZQjFBDlDX9gjxKfQPA4lD36dMWLTfKyBIeBBi0O207N0pi7-HQAKVlLviLXl1915f9x9j_HX4BxOcsPgkjmCNWhIpHeYUCYWjUOn3TqvYcJUob8BmNtX6eSq2xLQT31WCuYSeBc0HmX9JP7HilTSIVvulmYrNpfLqfwqjHKS55jE_aziTNKHzYhN62D/w1600/tickerzauberstab3.jpg"
+ },
+ {
+  "content": "Modric: 40-jähriger Kroate müffelt",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2295.html",
+  "creators": [
+   "ca8"
+  ],
+  "num": "2295"
+ },
+ {
+  "content": "Würgt Inder vorm Bahnhof Zoo: Christiane F. festgenommen",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2295.html",
+  "creators": [
+   "nil",
+   "ttl",
+   "cbe"
+  ],
+  "num": "2295"
+ },
+ {
+  "content": "Neue Schicht: Lasagneköche wechseln sich ab",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2295.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "2295"
+ },
+ {
+  "content": "MAGA-Quark: Müller-Milch druckt Trump-Sprüche auf Verpackung",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2295.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2295"
+ },
+ {
+  "content": "Wegen seines Einfüllungsvermögens: Frau verliebt sich in Tankstellen-Milliardär",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2295.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2295"
+ },
+ {
+  "content": "Erkenschwick?: Schwabe zeigt Ruhrpottler rundgelutschtes Hustenbonbon",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2295.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2295"
+ },
+ {
+  "content": "Mit viel Herzblut dabei: OP-Reinigerin liebt ihren Job",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2294.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2294",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSrDYUcIQExHMAUgGpBhMEBidFuTTv5KKlk4oNbg3frstYVLic235wMqFBlfZZmS64FYeV8IcQNbFP2QFUqhFDNPotwVMYJktyX_8B9Ve_yttGvPX9GXPZgkaxjr_ZWpCtBtLtabdmCgT5YYa0LX2Xj-T87XvhiYWo7lJmAQyftvRsfE7EeIc3dZ9q_QcC/w1600/tickerherzblut.jpg"
+ },
+ {
+  "content": "Weiß nicht, was ihn da unten erwartet: Taucher unsicher vor Petting mit Meerjungfrau",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2294.html",
+  "creators": [
+   "gül"
+  ],
+  "num": "2294"
+ },
+ {
+  "content": "Salvator! Dalli! Künstler will sofort Starkbier serviert bekommen",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2294.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2294"
+ },
+ {
+  "content": "Milchprodukt vereist: Temperatur lag unter dem Kefirpunkt",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2294.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2294"
+ },
+ {
+  "content": "KI-Pflaume: Moderator kapiert ChatGPT nicht",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2294.html",
+  "creators": [
+   "ttl",
+   "p2k"
+  ],
+  "num": "2294"
+ },
+ {
+  "content": "Für Groß und Klein: Indoorspielplatz bekommt neue Sanitäranlage",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2294.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2294"
+ },
+ {
+  "content": "Isst auf dem Laufenden: Zecke weiß jederzeit, wo sich ihr Windhund befindet",
+  "url": "https://www.der-postillon.com/2025/09/newsticker-2294.html",
+  "creators": [
+   "chö"
+  ],
+  "num": "2294"
+ },
+ {
   "content": "Öhrli-Adapter: Erster Schweizer nutzt ein Hörgerät",
   "url": "https://www.der-postillon.com/2025/09/newsticker-2293.html",
   "creators": [
