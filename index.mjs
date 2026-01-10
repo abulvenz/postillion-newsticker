@@ -137,8 +137,10 @@ const last_ticker_year_month = tickers[0]
   ? yearAndMonthFromUrl(tickers[0].url)
   : { year: 0, month: 0 };
 
-const current_year = last_ticker_year_month.year || new Date().getFullYear();
-const current_month = last_ticker_year_month.month || new Date().getMonth() + 1; // Months are 0-indexed in JavaScript
+const current_year = new Date().getFullYear();
+const current_month = new Date().getMonth() + 1; // Months are 0-indexed in JavaScript
+// const current_year = last_ticker_year_month.year || new Date().getFullYear();
+// const current_month = last_ticker_year_month.month || new Date().getMonth() + 1; // Months are 0-indexed in JavaScript
 
 const isCurrentYearAndMonth = ({ year, month }) =>
   year >= current_year && month >= current_month;
