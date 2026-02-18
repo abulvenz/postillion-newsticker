@@ -140,6 +140,8 @@ const last_ticker_year_month = tickers[0]
   : { year: 0, month: 0 };
 
 const isCurrentYearAndMonth = ({ year, month }) => {
+  // Shortcut for cleaning everything. Delete tickers.js beforehand.
+  // return true;
   const articleDate = year * 12 + month;
   const now = new Date();
   const currentDate = now.getFullYear() * 12 + now.getMonth() + 1;

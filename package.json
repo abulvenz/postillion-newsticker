@@ -2,6 +2,7 @@
   "name": "postillion-newsticker",
   "version": "1.0.0",
   "description": "Extraction of very important lines of poetry.",
+  "type": "module",
   "scripts": {
     "start": "parcel index.html",
     "build": "node index.mjs --no-sandbox && rm -rf ./docs/ && parcel build --dist-dir=docs --public-url=https://abulvenz.github.io/postillion-newsticker/ index.html",
