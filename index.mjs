@@ -16,7 +16,7 @@ const countStr = (haystack, needle) =>
 
 const yearAndMonthFromUrl = (url) => {
   const match = url.match(
-    /https:\/\/www\....-postillon\.com\/(\d{4})\/(\d{2})\/.*$/
+    /https:\/\/www\....-postillon\.com\/(\d{4})\/(\d{2})\/.*$/,
   );
   return {
     year: match ? parseInt(match[1], 10) : 0,
@@ -66,20 +66,20 @@ page.on("request", (request) => {
  * Load existing tickers and already fetched URLs
  */
 let tickers = JSON.parse(
-  (fs.readFileSync("./tickers.js") + "").replace("export const tickers =", "")
+  (fs.readFileSync("./tickers.js") + "").replace("export const tickers =", ""),
 );
 
 const findOlderPageLink = async () =>
   page.evaluate(
     () =>
       document.querySelector("a.blog-pager-older-link")?.attributes["data-load"]
-        ?.nodeValue
+        ?.nodeValue,
   );
 
 const extractImage = async () =>
   page.evaluate(
     () =>
-      document.querySelectorAll("head > meta[property='og:image']")[0]?.content
+      document.querySelectorAll("head > meta[property='og:image']")[0]?.content,
   );
 
 const fetchTickerArticleLinks = async () =>
@@ -91,7 +91,9 @@ const fetchTickerArticleLinks = async () =>
   });
 
 console.log(
-  JSON.stringify(tickers.map((ticker) => +ticker.num).sort((a, b) => -a + b)[0])
+  JSON.stringify(
+    tickers.map((ticker) => +ticker.num).sort((a, b) => -a + b)[0],
+  ),
 );
 
 const fetchTickers = async () => {
@@ -104,13 +106,13 @@ const fetchTickers = async () => {
       } else {
         console.log(
           "STRANGE EMPTY BODY",
-          document.querySelector("div.post-body")
+          document.querySelector("div.post-body"),
         );
       }
     } catch (error) {
       console.log(
         "STRANGE EMPTY BODY",
-        document.querySelector("div.post-body")
+        document.querySelector("div.post-body"),
       );
     }
     return innerTickers;
@@ -137,14 +139,14 @@ const last_ticker_year_month = tickers[0]
   ? yearAndMonthFromUrl(tickers[0].url)
   : { year: 0, month: 0 };
 
-const current_year = new Date().getFullYear() - 1;
-const current_month = new Date().getMonth() + 1; // Months are 0-indexed in JavaScript
-
-const isCurrentYearAndMonth = ({ year, month }) =>
-  year >= current_year && (year < current_year || month >= current_month);
+const isCurrentYearAndMonth = ({ year, month }) => {
+  const articleDate = year * 12 + month;
+  const now = new Date();
+  const currentDate = now.getFullYear() * 12 + now.getMonth() + 1;
+  return articleDate >= currentDate - 2;
+};
 
 console.log(last_ticker_year_month);
-console.log(`Current year: ${current_year}, Current month: ${current_month}`);
 
 tickers = tickers.filter((ticker) => {
   const { year, month } = yearAndMonthFromUrl(ticker.url);
@@ -160,7 +162,7 @@ const determineURLsToProcess = async (url) => {
     (await fetchTickerArticleLinks()).forEach((url) =>
       isCurrentYearAndMonth(yearAndMonthFromUrl(url))
         ? urls.push(url)
-        : undefined
+        : undefined,
     );
     console.log("Found URLs: ", urls.length, urls);
     url = await findOlderPageLink();
@@ -184,8 +186,8 @@ const mainLoop = async (cStartURL) => {
   const scheduledURLs_ = Object.keys(
     (await determineURLsToProcess(url)).reduce(
       (acc, url) => Object.assign(acc, { [url]: (acc[url] || 0) + 1 }),
-      {}
-    )
+      {},
+    ),
   );
   for (url of scheduledURLs_) {
     console.log("Calling ", url);
@@ -193,7 +195,7 @@ const mainLoop = async (cStartURL) => {
     await page.goto(url);
     if (exceptionalStuffByUrl[url]?.tickers) {
       exceptionalStuffByUrl[url].tickers.forEach((ticker) =>
-        currentTickers.push({ content: ticker.trim(), url })
+        currentTickers.push({ content: ticker.trim(), url }),
       );
     } else {
       (await fetchTickers()).forEach((ticker) => {
@@ -213,7 +215,7 @@ const mainLoop = async (cStartURL) => {
         spans.forEach((span) =>
           span.style["font-size"] === "x-small"
             ? potentials.push((str = span.innerText))
-            : null
+            : null,
         );
         return potentials; //:nth-child(10)
       });
@@ -225,14 +227,14 @@ const mainLoop = async (cStartURL) => {
       ?.forEach((author, idx) =>
         currentTickers[idx]
           ? (currentTickers[idx].creators = author.split("/"))
-          : console.log(currentTickers.length, authors.split(",").length)
+          : console.log(currentTickers.length, authors.split(",").length),
       );
 
     if (exceptionalStuffByUrl[url]?.num) {
       currentTickers.forEach((t) => (t.num = exceptionalStuffByUrl[url].num));
     } else {
       regex(url, reg_number_from_url, (num) =>
-        currentTickers.forEach((t) => (t.num = num[0]))
+        currentTickers.forEach((t) => (t.num = num[0])),
       );
     }
     console.log("Found num: ", currentTickers[0]?.num, " for ", url);
@@ -268,7 +270,7 @@ tickers = tickers.sort((a, b) => (+a.num > +b.num ? -1 : 1));
 
 fs.writeFileSync(
   "tickers.js",
-  "export const tickers = \n" + JSON.stringify(tickers, null, 1)
+  "export const tickers = \n" + JSON.stringify(tickers, null, 1),
 );
 
 browser.close();
