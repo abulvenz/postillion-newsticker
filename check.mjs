@@ -16,7 +16,7 @@ const sorted = (arr) => {
   return b;
 };
 
-console.log(+tickers[0].num);
+console.log(`Letzter Ticker ${+tickers[0].num}`);
 
 const histo = tickers
   .map((t) => t.num)
@@ -28,6 +28,11 @@ const maxi = Math.max(
     .filter((e) => e === e),
 );
 
-console.log(maxi);
+console.log(`Größte Ticker Num ${maxi}`);
 
-console.log(range(1, maxi).filter((e) => !histo[`${e}`]).join(", "));
+console.log("Fehlende Tickers")
+console.log(
+  range(1, maxi)
+    .filter((e) => !histo[`${e}`])
+    .join(", "),
+);
