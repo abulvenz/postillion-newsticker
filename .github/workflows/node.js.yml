@@ -19,9 +19,8 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y chromium
-#          sudo ln -s /usr/bin/chromium /usr/bin/chromium-browser
-        run: | 
           which chromium || which chromium-browser || ls -l /snap/bin | grep -i chromium
+#          sudo ln -s /usr/bin/chromium /usr/bin/chromium-browser
 
       - uses: actions/checkout@v4
 
