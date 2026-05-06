@@ -35,13 +35,16 @@ const yearAndMonthFromOlderUrl = (url) => {
 
 const browser = await puppeteer.launch({
   headless: displayBrowser ? false : "new",
-  executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || "/usr/bin/chromium",
+  executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || process.env.CHROME_PATH || "/snap/bin/chromium",
   args: [
     "--no-sandbox",
     "--disable-gpu",
     "--single-process",
     "--disable-setuid-sandbox",
+    "--disable-dev-shm-usage"
   ],
+  timeout: 120000,
+  protocolTimeout: 120000
 });
 
 const page = await browser.newPage();
