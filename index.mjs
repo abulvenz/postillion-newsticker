@@ -122,6 +122,7 @@ const fetchTickers = async () => {
   });
 };
 
+// My dearest function
 const use = (v, f) => f(v);
 
 const reg_newsticker_plain = /[\+]+\+\+(.*)[\+]+\+\+/gm;
