@@ -226,14 +226,16 @@ const mainLoop = async (cStartURL) => {
         return potentials; //:nth-child(10)
       });
     }
-    authors
+    // Clean author strings: remove trailing non-author info like "; Foto: Shutterstock"
+    const cleanedAuthors = authors.map((str) => str.replace(/;.*$/, "").trim());
+    cleanedAuthors
       .find((str) => countStr(str, ",") === currentTickers.length - 1)
       ?.split(",")
       ?.map((e) => e.trim())
       ?.forEach((author, idx) =>
         currentTickers[idx]
           ? (currentTickers[idx].creators = author.split("/"))
-          : console.log(currentTickers.length, authors.split(",").length),
+          : console.log(currentTickers.length, cleanedAuthors.split(",").length),
       );
 
     if (exceptionalStuffByUrl[url]?.num) {
@@ -245,7 +247,7 @@ const mainLoop = async (cStartURL) => {
     }
     console.log("Found num: ", currentTickers[0]?.num, " for ", url);
     if (
-      authors
+      cleanedAuthors
         .find((str) => countStr(str, ",") === currentTickers.length - 1)
         ?.split(",")?.length !== currentTickers.length
     ) {

@@ -217,4 +217,55 @@ export const exceptionalStuffByUrl = {
       "Fridjof, der Nuschelire: Stephen Kings neuer Roman über einen nordischen Insulaner mit Sprachfehler erschienen",
     ],
   },
+  "https://www.der-postillon.com/2026/02/newsticker-2364.html": {
+    tickers: [
+      "Ferkel Scott: Bayer dankbar für Wiedergeburt auf Schweinefarm",
+      "Schüsselposition: Neuer Küchenchef ernannt",
+      "Spahnische: Königin Letizia gesteht Verhältnis mit Jens",
+      "Fünfzigster Saitensprung: Untreuer Geiger überspannt den Bogen",
+      "Sehr weird: Kellner gackert wie ein Huhn",
+      "Cannes, Nice, Seine: Blinder bereist Frankreich",
+      "Generalabrechnung im Bundestag: Opposition kritisiert gestiegene Kosten für Allzweckreiniger",
+    ],
+    authors: "stv, sum, stp, lou, nil, tky, ttl",
+  },
+  "https://www.der-postillon.com/2026/02/newsticker-2365.html": {
+    tickers: [
+      "Hat einen Daumen dagelassen: Ex-Mitarbeiter bewertet Video von Schreinerei",
+      "Wichttick: Es müssen genau sieben Gartenzwerge vor dem Haus stehen!",
+      "Der Legende nach: Das X auf der Landkarte markiert den Schatz",
+      "Braushaarverlauf: IT-Forensiker findet Indizien für verstopften Duschenabfluß",
+      "Ruft nach seiner Ballastwache: König wurden die Gewichte geklaut",
+      "Lübeck-Inder: Asiatischer Austauschlehrer begrüßt norddeutsche Schulklasse",
+      "Fotoshooting an der Ostsee: Models Posen, Fotograf Stettin der Mitte, es kamen Danzig Zuschauer",
+    ],
+    authors: "tom, wso, viv, wrb, evw, sum, frcx",
+  },
+  "https://www.der-postillon.com/2026/02/newsticker-2366.html": {
+    tickers: [
+      "Laut einer Erhebung: 80% aller Menschen ächzen beim Aufstehen",
+      "Aller Ahnfang ist schwer: Altenpflegelehrling entwischt eigener Großvater",
+      "Wieder ausgetreten: Verletzter verlässt Reitverein",
+      "Gans fand Tasttisch: Wasservogel erfreut sich an Blindentafel",
+      "Bloß nicht nachlassen: Todkranker Geizhals versucht, Erbe hinauszuzögern",
+      "Ekel-AfD: Franzose von rechter Partei angewidert",
+      "Treppen leer Zeichen: Haus Meister informiert beim Nach Mittag Kaffee Kränzchen die Alten Heim Bewohner über das Verbot der Sperr Müll Lagerung in den Flucht Wegen zum Innen Hof",
+    ],
+    authors: "wye, tky, sch/ber, p2k/nil, nil, tom, frcx",
+  },
+  "https://www.der-postillon.com/2026/02/newsticker-2367.html": {
+    tickers: [
+      "Wurde aufgenommen: Radarfallenopferselbsthilfegruppe begrüßt neues Mitglied",
+      "Im Bett lag Ken: Barbie wäscht Flecken raus",
+      "Hier gibt es Knicks zu sehen: New-Yorker gelangweilt von Basketball-Spiel",
+      "Ein Letztes auf Bäumen: Umweltaktivistengruppe auf einzelnes Mädchen dezimiert",
+      "In der ersten Person: Ich war bis eben noch Jungfrau",
+      "Teeregal: Straßenbauer gießt erstmal Heißgetränk auf",
+      "Sächt se nur: Feierabend herbeisehnender Hesse glaubt Siri nicht, dass es erst vier ist",
+    ],
+    authors: "sum, adm, sch, viv, nil, cbe, ttl",
+  },
+  "https://www.der-postillon.com/2026/04/newsticker-2386.html": {
+    authors: "ttl/wrb, jam, p2k, mth, kly, frcx, s0l",
+  },
 };
