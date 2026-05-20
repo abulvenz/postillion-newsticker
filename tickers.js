@@ -1564,8 +1564,8 @@ export const tickers =
   "creators": [
    "sum"
   ],
-  "num": "2367",
-  "image": ""
+   "num": "2367",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnAxFv0kNSCmzpm3uwnp6h4-vHGQAJhutV2vBq5jXZ09labk1leGdffJiT-IfveQ81x_bc2n5QaTrlLNSMOyLuXtNIE-uwD7XQfQZigVkWSxdnqcEimw1jsR5op11KEZd_NHoZJ6vMzUXRENiR8jwFFkcRLqVhRW8x7PJVJb5X70e-3o_gNj3ySID_Wfsb/w1600/tickeraufgenommen2.jpg"
  },
  {
   "content": "Im Bett lag Ken: Barbie wäscht Flecken raus",
@@ -1621,8 +1621,8 @@ export const tickers =
   "creators": [
    "wye"
   ],
-  "num": "2366",
-  "image": ""
+   "num": "2366",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDqicQzXEgs9rVOysl74B2qZ0PhPvM7QLkHR4JlcHIKrxxlXZiF99bxLfiYnKVPIWTSGV_1Pb2wNl7i39PV2NfAWvlBEfw2oxHC1YU0O2XOjOEs0XTRQ3U6fjp2FCG3jW4PKDyhh3cr_6EpuOV77_HxFK2dJSJo75TLKCYYPbCgO4LdeZKlACCIFv7DiDT/w1600/tickererhebung.jpg"
  },
  {
   "content": "Aller Ahnfang ist schwer: Altenpflegelehrling entwischt eigener Großvater",
@@ -1680,8 +1680,8 @@ export const tickers =
   "creators": [
    "tom"
   ],
-  "num": "2365",
-  "image": ""
+   "num": "2365",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbV0lH1qVE6RWwoZJ7WvORM37RryeKsEIg6V25xacjFkmlSIkHZeP1SjIFPYBO15ESuUCvXsqtMPEn60GQfVmSRUOcXgEfjo8VWXs479-VG_y7F7ArxaM8rbQycu4sgMOCClDpDirjfN4BFVUm36fvufvzaBKq2jIemImK6lSA6do_6S5g7zL-bcUJ_XnL/w1600/tickerdaumendagelassen.jpg"
  },
  {
   "content": "Wichttick: Es müssen genau sieben Gartenzwerge vor dem Haus stehen!",
@@ -1737,8 +1737,8 @@ export const tickers =
   "creators": [
    "stv"
   ],
-  "num": "2364",
-  "image": ""
+   "num": "2364",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioCddEy1uVLIq4scpnExHC85TG96HFUuKbCtpFCMRrXkl9bo3adfFRuOdc6RPGxj0mYJRLOm6BpE3TEw4F3Yqvj9NKUPass4_uJrUCOh_B40d_ZydYPcJXq5nW99i6k2OMZE7eV-LqRzX2VlZTyvwGo97BFcozE_btNx7mXgLcHGzDi-thGHaT1GZxLRW1/w1600/tickerferkelscott.jpg"
  },
  {
   "content": "Schüsselposition: Neuer Küchenchef ernannt",
