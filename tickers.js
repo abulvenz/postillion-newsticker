@@ -6182,8 +6182,7 @@ export const tickers =
   "content": "Schlechte Haftbedingungen: Gefängnisinsassen bekommen für dritte Zähne zu wenig Kukident",
   "url": "https://www.der-postillon.com/2025/08/newsticker-2288.html",
   "creators": [
-   "stp",
-   "wrb"
+   "stp"
   ],
   "num": "2288"
  },
