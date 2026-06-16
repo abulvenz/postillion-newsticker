@@ -10,24 +10,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
-      PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: "true"
 
     steps:
-      - name: Install Chromium
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium
-          which chromium || which chromium-browser || ls -l /snap/bin | grep -i chromium
-#          sudo ln -s /usr/bin/chromium /usr/bin/chromium-browser
-
       - uses: actions/checkout@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+
+      - name: Cache Puppeteer browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/puppeteer
+          key: puppeteer-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
 
       - name: Install dependencies
         run: npm ci

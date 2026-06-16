@@ -35,11 +35,12 @@ const yearAndMonthFromOlderUrl = (url) => {
 
 const browser = await puppeteer.launch({
   headless: displayBrowser ? false : "new",
-  executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || process.env.CHROME_PATH || "/snap/bin/chromium",
+  // Use the browser bundled with Puppeteer by default. Only override via env
+  // (PUPPETEER_EXECUTABLE_PATH / CHROME_PATH) when a specific binary is needed.
+  executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || process.env.CHROME_PATH || undefined,
   args: [
     "--no-sandbox",
     "--disable-gpu",
-    "--single-process",
     "--disable-setuid-sandbox",
     "--disable-dev-shm-usage"
   ],
