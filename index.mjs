@@ -9,7 +9,8 @@ console.log("🚀 Script started");
 const displayBrowser = false;
 
 const startURL = "https://www.der-postillon.com/search/label/Newsticker";
-const startURLBE = "https://www.the-postillon.com/search/label/Newsticker";
+// the-postillon.com (EN) wird nicht mehr aktualisiert; die alten Daten
+// bleiben in tickers.js. Nur noch die deutsche Seite crawlen.
 
 const countStr = (haystack, needle) =>
   haystack.split("").filter((e) => e === needle).length;
@@ -270,9 +271,12 @@ const mainLoop = async (cStartURL) => {
   }
 };
 
-if (true) {
+// Eine unerreichbare Seite darf den Build nicht killen –
+// bereits gesammelte Ticker werden trotzdem geschrieben.
+try {
   await mainLoop(startURL);
-  await mainLoop(startURLBE);
+} catch (error) {
+  console.error(`Skipping ${startURL}: ${error.message}`);
 }
 
 tickers = tickers.sort((a, b) => (+a.num > +b.num ? -1 : 1));
