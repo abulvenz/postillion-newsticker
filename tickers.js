@@ -117584,7 +117584,7 @@ export const tickers =
   "content": "Macht den großen Reibach: Wäscherei leitet Abwässer ungeklärt in Fluss",
   "url": "https://www.der-postillon.com/2012/10/newsticker-369.html",
   "creators": [
-   "usa"
+   "arc"
   ],
   "num": "369"
  },
