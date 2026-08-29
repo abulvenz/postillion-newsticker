@@ -3,13 +3,29 @@ name: Build and Deploy GH Pages
 on:
   push:
     branches: [main]
+    # Änderungen an der Ticker-Datenbank triggern den Workflow NICHT erneut,
+    # sonst würde sich der Job durch seinen eigenen Commit endlos selbst starten.
+    paths-ignore:
+      - "tickers.js"
 
    # build also on monday, wednesday, friday at 12:00 UTC
   schedule:
     - cron: '0 12 * * 1,3,5'
+
+  # erlaubt manuelles Auslösen über die GitHub-Oberfläche
+  workflow_dispatch:
+
+# Verhindert, dass sich parallele Läufe gegenseitig überschreiben (Datenverlust!).
+concurrency:
+  group: build-and-deploy
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      # nötig, damit der Job den aktualisierten tickers.js nach main pushen darf
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -30,6 +46,22 @@ jobs:
 
       - name: Build
         run: npm run build
+
+      # Die gecrawlten Daten werden zurück nach main committet, damit die
+      # Ticker-Datenbank persistent wächst. Ohne diesen Schritt startete jeder
+      # Lauf vom eingefrorenen Stand und verpasste Ausgaben gingen dauerhaft
+      # verloren (siehe Issue #14).
+      - name: Persist crawled data to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tickers.js
+          if git diff --cached --quiet; then
+            echo "Keine neuen Ticker – nichts zu committen."
+          else
+            git commit -m "data: update tickers [skip ci]"
+            git push origin HEAD:main
+          fi
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
