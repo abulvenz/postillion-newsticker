@@ -1,6 +1,63 @@
 export const tickers = 
 [
  {
+  "content": "War sehr vage: Handwerker fragte nach \"Gluggerding, um Regal gerade aufzuhängen\"",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2439.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2439",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWWEZWifS6yb0c2sh3IqLDz5zxtaN_7kTQpbrJxuYZm3Z89x8QJu1TDXa1x3cRrSzNMc5PZHPQ_CvqUgL6TsWtp3tVewwWUfE3itqQn1REidt7uThtnfRfgziGhmEsIEQFSfF5FoTnGMmS9C7D6VQzoTiB_VjPhS-0jpShvT9P0K0aBQXHEgy9PkiojoQF/w1600/tickervage.jpg"
+ },
+ {
+  "content": "Anhaltende Frische: Tramperin benutzt 48-Stunden-Deo",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2439.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2439"
+ },
+ {
+  "content": "Kater fehlt: Yvonne meldet Stubentigerdiebstahl",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2439.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2439"
+ },
+ {
+  "content": "Steht drauf: Fetischist liebt bedruckte Shirts",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2439.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2439"
+ },
+ {
+  "content": "\"Den Dackel!\": Sachse betrauert von Oktopus erbeuteten Hund",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2439.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2439"
+ },
+ {
+  "content": "Nach Laden: Schießwütiger Räuber will auch noch Bank überfallen",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2439.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2439"
+ },
+ {
+  "content": "Arschspalterei: Dessous-Verkäuferinnen können sich nicht auf die richtige Definition von String und Tanga einigen",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2439.html",
+  "creators": [
+   "evw"
+  ],
+  "num": "2439"
+ },
+ {
   "content": "Potasche: Mann bewahrt Backzutat hinten in der Hose auf",
   "url": "https://www.der-postillon.com/2026/08/newsticker-2438.html",
   "creators": [
