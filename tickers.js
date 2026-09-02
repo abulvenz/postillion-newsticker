@@ -1,6 +1,63 @@
 export const tickers = 
 [
  {
+  "content": "Muss der Schüler?: Lehrer rätselt, ob penetrantes Melden an Strebsamkeit oder Blasenschwäche liegt",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2440.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2440",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhksL_LMo8cJnsAw4pfYD8z3sIFAzyDjq4oP7iH24WS4GIdEqlyChYmLEfFlHGd4oWft7PwHFsmiwmkponWdCbwTxcpTFow7p765xz1xgtgmGZFmxB55ANh_L0tvHIFW9jBGKXnXOYOTscAqgbaXAW6K2JqCnCqHiYL7bfspyYMa48xupKw1xqsaP6NNTlx/w1600/tickermussderschu%CC%88ler2.jpg"
+ },
+ {
+  "content": "Türlicht, Türlicht: Das Bo erklärt Kühlschrankbeleuchtung",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2440.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2440"
+ },
+ {
+  "content": "Bär wär's: Sächsischer Sodomit sucht Grizzly als Bettgespielin",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2440.html",
+  "creators": [
+   "–"
+  ],
+  "num": "2440"
+ },
+ {
+  "content": "Wollte zuviel: Schaf des Dopings überführt",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2440.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2440"
+ },
+ {
+  "content": "Primarten: 5chimpan53n, Gori11as und Orang-U7ans",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2440.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2440"
+ },
+ {
+  "content": "\"Erich, Honig her!\": Margot schimpft beim Frühstück",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2440.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2440"
+ },
+ {
+  "content": "Bringt das denn was?: Hundebesitzer zweifelt an Vorteil von Apportierübungen mit Meerschweinchen",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2440.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2440"
+ },
+ {
   "content": "War sehr vage: Handwerker fragte nach \"Gluggerding, um Regal gerade aufzuhängen\"",
   "url": "https://www.der-postillon.com/2026/08/newsticker-2439.html",
   "creators": [
