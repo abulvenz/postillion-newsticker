@@ -1,6 +1,63 @@
 export const tickers = 
 [
  {
+  "content": "Über die Dörrverfahren: Lokalreporter recherchiert zu Haltbarmachung",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2441.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2441",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7ZuGyvfNJD1IMovAHyyZ_Ic6MeOFpfKI6VylHseiHgMmavTnoOtPp9nE-Mo005crpc8xk0nQc7Ipnqh-zJq_sGAiqtOFsDYhCTSdO_pQk51l9Kz2NHbSPa7TAGatZxckupITuldcaOOZ6LBH3SJF-FLSRhOrhI5W8yq6tFA3Y9qGXWXLgfxaaOdzb8agS/w1600/tickerdo%CC%88rrverfahren.jpg"
+ },
+ {
+  "content": "Auf der nach oben offenen Richtersgala: Erdbeben erschüttert Juristen-Gartenfest",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2441.html",
+  "creators": [
+   "arc"
+  ],
+  "num": "2441"
+ },
+ {
+  "content": "Naankappe: Karnevalist trägt indische Brotmütze",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2441.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2441"
+ },
+ {
+  "content": "Lauf an der Pegnitz: Fränkin gibt Gatten Tipp für Joggingstrecke",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2441.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2441"
+ },
+ {
+  "content": "Fiat-Heiler: Arte sendet ausschweifende Doku über Vertragswerkstatt",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2441.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2441"
+ },
+ {
+  "content": "Brown: FC Bayern erklärt Neuzugang Bierherstellung",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2441.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2441"
+ },
+ {
+  "content": "Hält ihn schon die ganze Zeit hin: Gattin ignoriert nonverbale Fellatioaufforderung",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2441.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2441"
+ },
+ {
   "content": "Muss der Schüler?: Lehrer rätselt, ob penetrantes Melden an Strebsamkeit oder Blasenschwäche liegt",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2440.html",
   "creators": [
