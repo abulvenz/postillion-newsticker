@@ -1,6 +1,66 @@
 export const tickers = 
 [
  {
+  "content": "Bräuchte mal wieder 'ne Nase: Sphinx kokssüchtig",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "loc"
+  ],
+  "num": "2442",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLi-FYKEWY621cBbpUZCWVceWiZRZdwxGezOUizAFnvW0Ul40nrtPX6zzrMPsEXwr9pBtJMIOlC6oQu65QHVCxy9F77OT6-BmVawAWvVOHB-PFAktAbHNi_n-GgraAFXaSkPtV3jxQm72T728BJ3jVV4weCIy1uMxFGH9donFAtbW6DX9QEuiCz_-VwhNi/w1600/tickersphinx.jpg"
+ },
+ {
+  "content": "Nonnsens: Klosterfrauen blödeln mit Mähwerkzeug herum",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "evw",
+   "mta"
+  ],
+  "num": "2442"
+ },
+ {
+  "content": "Mit zwei Achten unterwegs: Polizei stoppt radfahrenden Nazi",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2442"
+ },
+ {
+  "content": "Konkursmasse: Play-Doh pleite",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2442"
+ },
+ {
+  "content": "Ätsch, Iren: Sänger kommt am 1.April doch nicht nach Dublin",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "ttl",
+   "wye",
+   "kop"
+  ],
+  "num": "2442"
+ },
+ {
+  "content": "Glühende Landschaften: Klimawandel bestätigt Kohl-Versprecher",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2442"
+ },
+ {
+  "content": "Food-Tour: Restaurant-Tester wird morgen durch die Stadt gehen",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2442"
+ },
+ {
   "content": "Über die Dörrverfahren: Lokalreporter recherchiert zu Haltbarmachung",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2441.html",
   "creators": [
