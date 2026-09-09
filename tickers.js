@@ -1,6 +1,64 @@
 export const tickers = 
 [
  {
+  "content": "Narrt sie: Sachsen-Anhalter fallen auf freundlichen Herrn Siegmund herein",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2443.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2443",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtHdJI_JceA5B_fc8_yXlHnV0bhyphenhyphenbMhHq8Pr51xSbK8u7D-8YZ-YSDtMCdzePSYrNm4c6x09OreNugbSZ7CUlN46AO343bFjHMqVq2oNY5qdxSSalVJCSZXxUieNBWDOItQmkGblg0G9FzYlLAhZjEaKuePb2ggI6fVIrV1aBPOa3PPOXVeLGkXGtnakzV/w1600/tickersiegmund.jpg"
+ },
+ {
+  "content": "Riecht wie im Boomerkäfig: Millennial lüftet Elternschlafzimmer",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2443.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2443"
+ },
+ {
+  "content": "Tolle Ranzen: Extravagante Schultornister weichen von DIN-Norm ab",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2443.html",
+  "creators": [
+   "oga",
+   "evw"
+  ],
+  "num": "2443"
+ },
+ {
+  "content": "Muss kürzer treten: Langzeitarbeitsloser verkauft Clownschuhsammlung",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2443.html",
+  "creators": [
+   "loc"
+  ],
+  "num": "2443"
+ },
+ {
+  "content": "Rita spoart: Bayerin verzichtet auf Markenschokolade",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2443.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2443"
+ },
+ {
+  "content": "Geht von Tyr zu Tyr: Kriegsgott von dementem Hausierer genervt",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2443.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "2443"
+ },
+ {
+  "content": "\"Was glauben die eigentlich, wer sie sind?\" Krankenpflegerin genervt von Amnesiepatienten",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2443.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2443"
+ },
+ {
   "content": "Bräuchte mal wieder 'ne Nase: Sphinx kokssüchtig",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
   "creators": [
