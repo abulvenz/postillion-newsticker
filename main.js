@@ -26,22 +26,22 @@ const use = (v, f) => f(v);
 const INCREMENT = 1000;
 console.log(tickers.length);
 
-/** Formatiert den Stand als "HH:MM TT.MM.JJJJ" in lokaler Zeit. */
+/** Formatiert den Stand als "TT.MM.JJJJ HH:MM" in lokaler Zeit. */
 const formatStand = (iso) => {
   if (!iso) return null;
   const d = new Date(iso);
   if (isNaN(d.getTime())) return null;
   const p = (n) => String(n).padStart(2, "0");
   return (
-    p(d.getHours()) +
-    ":" +
-    p(d.getMinutes()) +
-    " " +
     p(d.getDate()) +
     "." +
     p(d.getMonth() + 1) +
     "." +
-    d.getFullYear()
+    d.getFullYear() +
+    " " +
+    p(d.getHours()) +
+    ":" +
+    p(d.getMinutes())
   );
 };
 
