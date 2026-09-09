@@ -71,7 +71,12 @@ page.on("request", (request) => {
  * Load existing tickers and already fetched URLs
  */
 let tickers = JSON.parse(
-  (fs.readFileSync("./tickers.js") + "").replace("export const tickers =", ""),
+  // Alles vor dem eigentlichen Ticker-Array (inkl. optionalem
+  // `export const lastUpdated = "...";`) entfernen, dann bleibt reines JSON.
+  (fs.readFileSync("./tickers.js") + "").replace(
+    /^[\s\S]*?export const tickers\s*=\s*/,
+    "",
+  ),
 );
 
 const findOlderPageLink = async () =>
