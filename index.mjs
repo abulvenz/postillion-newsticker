@@ -283,7 +283,10 @@ tickers = tickers.sort((a, b) => (+a.num > +b.num ? -1 : 1));
 
 fs.writeFileSync(
   "tickers.js",
-  "export const tickers = \n" + JSON.stringify(tickers, null, 1),
+  "export const lastUpdated = " +
+    JSON.stringify(new Date().toISOString()) +
+    ";\nexport const tickers = \n" +
+    JSON.stringify(tickers, null, 1),
 );
 
 browser.close();
