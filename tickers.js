@@ -1,6 +1,64 @@
-export const lastUpdated = "2026-09-09T16:43:50.398Z";
+export const lastUpdated = "2026-09-11T16:07:46.766Z";
 export const tickers = 
 [
+ {
+  "content": "Russisch Raclette: Tischgrill liegt nur ein Pfännchen bei",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2444.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2444",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirlotRgKDPDRB755knl190UqsntSMb-vk_Cmxcxl-fQpDVgNlsJEv4j9cURBRgYMGZ9IYjNk4qWvayY6dBTBgnRZ5e0iUpVVdaJG0BCcIbdo5PZf7AW45ynDduWqFQdjpEGsGtv1PcvvAMW15UsNCUP1qN4PvBFpYwYWGK37Ht4FEhPNfiuAfFHU1vD4z8/w1600/tickerraclette.jpg"
+ },
+ {
+  "content": "Sei kein Frosch! Amphibienweibchen fordert von Partner Rollenspiel",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2444.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2444"
+ },
+ {
+  "content": "Vieh leicht: Mastbetrieb hätte eventuell ab und zu füttern sollen",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2444.html",
+  "creators": [
+   "kgk"
+  ],
+  "num": "2444"
+ },
+ {
+  "content": "Klatschmaul: Hooligan wehrt sich gegen tratschenden Nachbarn",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2444.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2444"
+ },
+ {
+  "content": "Ahrschleuse: Rheinischer Binnenschiffer klagt nach Passage über Intimparasiten",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2444.html",
+  "creators": [
+   "nil",
+   "ttl"
+  ],
+  "num": "2444"
+ },
+ {
+  "content": "Ährenmord: Eifersüchtiger verwüstet Getreidefeld seines Rivalen",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2444.html",
+  "creators": [
+   "afo"
+  ],
+  "num": "2444"
+ },
+ {
+  "content": "Elektroendzifferlokkram: Neurologe sucht mit Messung Grund für Schienenfahrzeugnummernfetisch",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2444.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2444"
+ },
  {
   "content": "Narrt sie: Sachsen-Anhalter fallen auf freundlichen Herrn Siegmund herein",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2443.html",
