@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-09-11T16:07:46.766Z";
+export const lastUpdated = "2026-09-14T14:47:24.692Z";
 export const tickers = 
 [
+ {
+  "content": "Platschsparend: Schwimmbad eröffnet 0-Meter-Brett",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2445.html",
+  "creators": [
+   "chö"
+  ],
+  "num": "2445",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLZ092VgKDMDdNN2l8AoQbL6UZo1_ZZeYLY5oIAGwY6TkbWZlGgtwKNoxZ6ON6zRg8p9yIXqpedRn0S569i2Xg8VO2kcPHT8J9Yl-2of5KpSW7esFCRlGUjM2XS_d3jPuEX7qmGRw1pw6d59Pe4SpE5N3q9NM6r6B-CutXfLG08pKVMpawWoC1f5XGg0Ds/w1600/tickerplatsch1.jpg"
+ },
+ {
+  "content": "Ständig am Pumpen: Junge Mutter mit Milchüberschuss Dauergast im Fitnessstudio",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2445.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "2445"
+ },
+ {
+  "content": "Bellt fast: irische Katze übt erfolgreich Hundelaute",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2445.html",
+  "creators": [
+   "aaa"
+  ],
+  "num": "2445"
+ },
+ {
+  "content": "Greift nach den Sternen: Astronaut lässt Dreijährigen bei Mercedes-Händler unbeaufsichtigt",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2445.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2445"
+ },
+ {
+  "content": "Masseurin: Therapeutin löst Harnblockade",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2445.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2445"
+ },
+ {
+  "content": "Hat es kommen sehen: Mutter erwischt pubertierendes Kind beim Masturbieren",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2445.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2445"
+ },
+ {
+  "content": "Weil er sich mit Hasch reibt: Thorsten füllt Mitgliedsantrag bei Cannabisfetischclub besonders deutlich aus",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2445.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2445"
+ },
  {
   "content": "Russisch Raclette: Tischgrill liegt nur ein Pfännchen bei",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2444.html",
