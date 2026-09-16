@@ -1,6 +1,37 @@
-export const lastUpdated = "2026-09-14T17:55:24.018Z";
+export const lastUpdated = "2026-09-16T16:27:03.167Z";
 export const tickers = 
 [
+ {
+  "content": "Die mit dem roten Stuhl: XXXLutz-Restaurant muss Kundin wegen Glasscherben im Burger entschädigen",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
+  "num": "2446",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk5-Y91y7UGmYR4-fyxstVjU9WhF5KkLI_JU8vvk_ttcnV9snW2GPEmHviN5XRMf_EC-qz5FksoGSjGUf9sS4S0T6UpFBm5qQ5LRwZQb9eXf5FyEGhRt0xzfmnO9bJHGvV0XIIyrIFwsnAasz0ZPaOGXq9xm2QxSvWAtY9psyPiVfe-ffUcNY40sq12CCG/w1600/tickerroterstuhl.jpg"
+ },
+ {
+  "content": "Bistro: Gast beschwert sich bei ungehobeltem Kellner",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
+  "num": "2446"
+ },
+ {
+  "content": "Gibt's ja gar nicht: Wanderer gelingt Bigfoot-Foto in Bielefeld",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
+  "num": "2446"
+ },
+ {
+  "content": "Claude Eckel: Franzose vertreibt Sanitärartikel",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
+  "num": "2446"
+ },
+ {
+  "content": "Bungalows angezündet: Dumme Hooligans außerhalb des Stadions",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
+  "num": "2446"
+ },
+ {
+  "content": "Pending: Matratzenlieferung steht noch aus",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
+  "num": "2446"
+ },
  {
   "content": "Platschsparend: Schwimmbad eröffnet 0-Meter-Brett",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2445.html",
@@ -173,6 +204,66 @@ export const tickers =
    "rag"
   ],
   "num": "2443"
+ },
+ {
+  "content": "Bräuchte mal wieder 'ne Nase: Sphinx kokssüchtig",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "loc"
+  ],
+  "num": "2442",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLi-FYKEWY621cBbpUZCWVceWiZRZdwxGezOUizAFnvW0Ul40nrtPX6zzrMPsEXwr9pBtJMIOlC6oQu65QHVCxy9F77OT6-BmVawAWvVOHB-PFAktAbHNi_n-GgraAFXaSkPtV3jxQm72T728BJ3jVV4weCIy1uMxFGH9donFAtbW6DX9QEuiCz_-VwhNi/w1600/tickersphinx.jpg"
+ },
+ {
+  "content": "Nonnsens: Klosterfrauen blödeln mit Mähwerkzeug herum",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "evw",
+   "mta"
+  ],
+  "num": "2442"
+ },
+ {
+  "content": "Mit zwei Achten unterwegs: Polizei stoppt radfahrenden Nazi",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2442"
+ },
+ {
+  "content": "Konkursmasse: Play-Doh pleite",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "sta"
+  ],
+  "num": "2442"
+ },
+ {
+  "content": "Ätsch, Iren: Sänger kommt am 1.April doch nicht nach Dublin",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "ttl",
+   "wye",
+   "kop"
+  ],
+  "num": "2442"
+ },
+ {
+  "content": "Glühende Landschaften: Klimawandel bestätigt Kohl-Versprecher",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2442"
+ },
+ {
+  "content": "Food-Tour: Restaurant-Tester wird morgen durch die Stadt gehen",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2442.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2442"
  },
  {
   "content": "Über die Dörrverfahren: Lokalreporter recherchiert zu Haltbarmachung",
@@ -401,6 +492,65 @@ export const tickers =
    "frcx"
   ],
   "num": "2438"
+ },
+ {
+  "content": "Steht vor dem Aus: Mittelloser Franzose wurde zwangsgeräumt",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2437.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2437",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiaGMbLQFARroCix_JnGry37RXL9_DA2eNnI-p6snNTkqQnilanW1BIQLW8Gi9DOuX1HlAZmIODsT7T-miPORr539bakg0twT0HrQrhcaDGSCpXaLSuVrjZn9uq5ryaafAE88A_3VxfRJnNrhBZPRhuOndA2hNGkEHU1JauP96LAy9zYjMxXhHK-U4B5Ir/w1600/Ticker_Aus.jpg"
+ },
+ {
+  "content": "Wilma: Fred Feuerstein hat Gelüste",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2437.html",
+  "creators": [
+   "dtb",
+   "oga"
+  ],
+  "num": "2437"
+ },
+ {
+  "content": "Breitensport: Sumo-Ringen in Japan beliebt",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2437.html",
+  "creators": [
+   "frcx",
+   "sum"
+  ],
+  "num": "2437"
+ },
+ {
+  "content": "Maschruhm: Engländerin wird Strickchampignon",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2437.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2437"
+ },
+ {
+  "content": "Genug von mir: Mann stellt sich in Suizidselbsthilfegruppe vor",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2437.html",
+  "creators": [
+   "dtb"
+  ],
+  "num": "2437"
+ },
+ {
+  "content": "Lieber Non-Stop: Touristen fliegen ungern über Beirut",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2437.html",
+  "creators": [
+   "marc"
+  ],
+  "num": "2437"
+ },
+ {
+  "content": "Überhaupt nichts zugelassen: Fußballteam von KFZ-Behörde siegt nach wochenlangem Trainingslager",
+  "url": "https://www.der-postillon.com/2026/08/newsticker-2437.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2437"
  },
  {
   "content": "Mag Genfer Stimmung: Touristin trotz Durchfalls gut gelaunt",
