@@ -1,35 +1,62 @@
-export const lastUpdated = "2026-09-16T16:27:03.167Z";
+export const lastUpdated = "2026-09-17T08:40:10.826Z";
 export const tickers = 
 [
  {
   "content": "Die mit dem roten Stuhl: XXXLutz-Restaurant muss Kundin wegen Glasscherben im Burger entschädigen",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
+  "creators": [
+   "nil",
+   "loc"
+  ],
   "num": "2446",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk5-Y91y7UGmYR4-fyxstVjU9WhF5KkLI_JU8vvk_ttcnV9snW2GPEmHviN5XRMf_EC-qz5FksoGSjGUf9sS4S0T6UpFBm5qQ5LRwZQb9eXf5FyEGhRt0xzfmnO9bJHGvV0XIIyrIFwsnAasz0ZPaOGXq9xm2QxSvWAtY9psyPiVfe-ffUcNY40sq12CCG/w1600/tickerroterstuhl.jpg"
  },
  {
   "content": "Bistro: Gast beschwert sich bei ungehobeltem Kellner",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
+  "creators": [
+   "sum"
+  ],
   "num": "2446"
  },
  {
   "content": "Gibt's ja gar nicht: Wanderer gelingt Bigfoot-Foto in Bielefeld",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
+  "creators": [
+   "sch"
+  ],
   "num": "2446"
  },
  {
   "content": "Claude Eckel: Franzose vertreibt Sanitärartikel",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
+  "creators": [
+   "stp"
+  ],
   "num": "2446"
  },
  {
   "content": "Bungalows angezündet: Dumme Hooligans außerhalb des Stadions",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
+  "creators": [
+   "rag"
+  ],
   "num": "2446"
  },
  {
   "content": "Pending: Matratzenlieferung steht noch aus",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
+  "creators": [
+   "arc"
+  ],
+  "num": "2446"
+ },
+ {
+  "content": "Zeilenumbruch: <br/>Patient<br/>lässt<br/>Freunde<br/>Gips<br/>beschriften",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
+  "creators": [
+   "kol"
+  ],
   "num": "2446"
  },
  {
