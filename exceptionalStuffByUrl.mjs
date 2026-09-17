@@ -268,4 +268,15 @@ export const exceptionalStuffByUrl = {
   "https://www.der-postillon.com/2026/04/newsticker-2386.html": {
     authors: "ttl/wrb, jam, p2k, mth, kly, frcx, s0l",
   },
+  "https://www.der-postillon.com/2026/09/newsticker-2446.html": {
+    tickers: [
+      "Die mit dem roten Stuhl: XXXLutz-Restaurant muss Kundin wegen Glasscherben im Burger entschädigen",
+      "Bistro: Gast beschwert sich bei ungehobeltem Kellner",
+      "Gibt's ja gar nicht: Wanderer gelingt Bigfoot-Foto in Bielefeld",
+      "Claude Eckel: Franzose vertreibt Sanitärartikel",
+      "Bungalows angezündet: Dumme Hooligans außerhalb des Stadions",
+      "Pending: Matratzenlieferung steht noch aus",
+      "Zeilenumbruch: <br/>Patient<br/>lässt<br/>Freunde<br/>Gips<br/>beschriften"
+    ],
+  },
 };
