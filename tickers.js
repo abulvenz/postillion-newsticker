@@ -1,6 +1,64 @@
-export const lastUpdated = "2026-09-17T08:40:10.826Z";
+export const lastUpdated = "2026-09-18T16:04:34.531Z";
 export const tickers = 
 [
+ {
+  "content": "Ozapft is': Russischer Geheimdienst hört Festzelt ab",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2447.html",
+  "creators": [
+   "dtb"
+  ],
+  "num": "2447",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAVZAqgoIJHj-6E6uYU6F30wUkWECJVhuJDDufRDPruM_mhy26m-M_c8U91ZJ8yGcXWgA0C2vnsaBgwH1nq4SFJ-5aU87zqEshOPO8Vpl1TA9dz9msvAtIL34oJI-GTwPmkrrRjuRi0-OJ3zaIHC98jivNkYBAS1GHUq2D8lsHYvwVfhtzs13xKUWwQ25/w1600/tickerozapft.jpg"
+ },
+ {
+  "content": "Damit mehr Mäuse reinkommen: Tierarzt lehnt Katzenpatienten ab",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2447.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2447"
+ },
+ {
+  "content": "Sack sehen an Halt: Vorbeifahrender Bus lüpft Röcke schottischer Magdeburg-Touristen",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2447.html",
+  "creators": [
+   "s0l",
+   "ron"
+  ],
+  "num": "2447"
+ },
+ {
+  "content": "Nur kurz anschwitzen: Korpulenter Koch beugt sich über Zwiebelwürfel",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2447.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2447"
+ },
+ {
+  "content": "Muss Guangzhou legen: Stadtplanpuzzle-WM-Teilnehmer sitzt Abgabefrist im Nacken",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2447.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "2447"
+ },
+ {
+  "content": "Neuer Spiderman-Film: Erstmalig komplett mit Webcams gedreht",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2447.html",
+  "creators": [
+   "dat"
+  ],
+  "num": "2447"
+ },
+ {
+  "content": "Rheinische Verlaufsform: Der Kölner ist ständig den Weg am Suchen am Tun",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2447.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "2447"
+ },
  {
   "content": "Die mit dem roten Stuhl: XXXLutz-Restaurant muss Kundin wegen Glasscherben im Burger entschädigen",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2446.html",
