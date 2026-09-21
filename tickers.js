@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-09-18T16:04:34.531Z";
+export const lastUpdated = "2026-09-21T18:01:46.647Z";
 export const tickers = 
 [
+ {
+  "content": "Das ist Sophies: Gemeines Mädchen eignet sich Spielzeug von Schwester an",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2448.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2448",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM4Wcq8mk4bYJzYjCnXMexTmNV6ZpvcYxILPeOhoo7y1nGMn01Qj5L1hp0AOa88zVX0o_YufkQcx0pGeyVqKbI9gpYNCCCeT6BoG8k0cEKJso9Bn9091sdjC_MmFIT_50RowvNeecqToqNtJZriflIsu_dXTpU7WyT-52J7zQN2x53ZwuCYhZ-xw5cbAnJ/w1600/tickersophies.jpg"
+ },
+ {
+  "content": "Provokativ: Lateinlehrer besteht penetrant auf Anrede-Fall",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2448.html",
+  "creators": [
+   "ömm"
+  ],
+  "num": "2448"
+ },
+ {
+  "content": "Kommen von der Stange: Stripteasetänzerinnen tragen Billigdessous",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2448.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2448"
+ },
+ {
+  "content": "Auch dumm, mein Sohn: Trump präsentiert Donald Jr. in Brutuskostüm",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2448.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2448"
+ },
+ {
+  "content": "Wegen Rechtsschreibschwäche: AfD wirft Linkshänder raus",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2448.html",
+  "creators": [
+   "ber"
+  ],
+  "num": "2448"
+ },
+ {
+  "content": "Walzwerk: Meeressäuger nach Unfall stark komprimiert",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2448.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2448"
+ },
+ {
+  "content": "In Betttracht gezogen: Brandgutachten sieht mögliches Eigenverschulden von Raucher in Nachthemd",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2448.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2448"
+ },
  {
   "content": "Ozapft is': Russischer Geheimdienst hört Festzelt ab",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2447.html",
