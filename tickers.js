@@ -52635,7 +52635,7 @@ export const tickers =
   "content": "Da tauchte irgendwann niemand mehr auf: Schwimmgruppe löst sich auf",
   "url": "https://www.der-postillon.com/2020/09/newsticker-1542.html",
   "creators": [
-   "mnh"
+   "dat"
   ],
   "num": "1542"
  },
@@ -53283,7 +53283,7 @@ export const tickers =
   "content": "Kam ohne Losung nicht rein: Mitglied mit Verstopfung an Geheimklub abgewiesen",
   "url": "https://www.der-postillon.com/2020/07/newsticker-1531.html",
   "creators": [
-   "mnh"
+   "dat"
   ],
   "num": "1531"
  },
@@ -63758,7 +63758,7 @@ export const tickers =
   "content": "Hanf im Glück: Bekiffter Mann schlägt sich beim Stolpern über Goldklumpen nur einen Zahn aus",
   "url": "https://www.der-postillon.com/2019/05/newsticker-1351.html",
   "creators": [
-   "omg"
+   "dat"
   ],
   "num": "1351"
  },
@@ -75826,7 +75826,7 @@ export const tickers =
   "url": "https://www.der-postillon.com/2018/01/newsticker-1144.html",
   "creators": [
    "loc",
-   "fah"
+   "dat"
   ],
   "num": "1144"
  },
@@ -75943,7 +75943,7 @@ export const tickers =
   "content": "\"Das sind die Neuesten\": Baltische Hebamme zeigt begeistert Babys vor",
   "url": "https://www.der-postillon.com/2017/12/newsticker-1142.html",
   "creators": [
-   "fah"
+   "dat"
   ],
   "num": "1142"
  },
@@ -110976,7 +110976,7 @@ export const tickers =
   "content": "Gerät im Arsch: Italiener fischt Handy aus dem Po",
   "url": "https://www.der-postillon.com/2013/11/newsticker-536.html",
   "creators": [
-   "hen"
+   "dat"
   ],
   "num": "536"
  },
