@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-09-21T18:01:46.647Z";
+export const lastUpdated = "2026-09-23T16:25:33.182Z";
 export const tickers = 
 [
+ {
+  "content": "Vanceday: US-Vize feiert Mitte der Woche",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2449.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2449",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPG112tJciRmDt8ZK8hDoj4KajUBzRIu-Sau8q3RAPEVNhvJpCSHN-7QgCLKEwNiulY-2LE_zCCoEnIfJ92XgcnqHI9Q_LdeL1wPdO2rX18iZ2NUpZJ7cf2PkjacopFFDieOLvPy5yFhyphenhyphenYsUeJ3JjwwSJip0vNyOA4E4Y50XGn_rQAi-1RChLZg-8WBLhB/w1600/tickervanceday.jpg"
+ },
+ {
+  "content": "Abkupfern und versilbern: Kunstfälscher befolgt goldene Regel",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2449.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2449"
+ },
+ {
+  "content": "Ausland saufträge: Deutsche Brauereien klagen über Exportrückgang",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2449.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2449"
+ },
+ {
+  "content": "Kommt nicht von ungefähr: Zahlenfetischist findet Rundungen unsexy",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2449.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2449"
+ },
+ {
+  "content": "Nur Polestar: Autohersteller bietet als Einziger kein Leder mehr an",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2449.html",
+  "creators": [
+   "loc"
+  ],
+  "num": "2449"
+ },
+ {
+  "content": "Festnetz: Fischereibetrieb ordert telefonisch Partydekoreuse",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2449.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2449"
+ },
+ {
+  "content": "Nur in Begleitung Einnässer-Wachshennen: Minderjährigen wird Zutritt lediglich mit inkontinenten Hühnern von Madame Tussauds gewährt",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2449.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2449"
+ },
  {
   "content": "Das ist Sophies: Gemeines Mädchen eignet sich Spielzeug von Schwester an",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2448.html",
