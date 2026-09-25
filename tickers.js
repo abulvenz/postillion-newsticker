@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-09-23T16:25:33.182Z";
+export const lastUpdated = "2026-09-25T16:51:37.262Z";
 export const tickers = 
 [
+ {
+  "content": "Herrjemine: Bergwerksverwaltung erlaubt nur einen Arbeiter pro Stollen",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2450.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2450",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijfbQTQOjdFgNGHZGhX7_LIfv5JqtAGeOnrb2u78MjqjXR1FFyNIL75kNrPZZdBpM2w0ouOVHYHCs4iZu2-dEEd_OZRzEdrS1Yx7snQ7JPlgeAN59PB3piiXuxG9Y9OUpzLp5GI6B12pVaOOUqdy5lUIkJoJP5UrQLCA1hP3wvnENfRRwsbHfiD8xevBDx/w1600/tickerherrjemine.jpg"
+ },
+ {
+  "content": "Zeugen je Hof was: Sektenmitglieder sorgen für Nachwuchs auf dem Land",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2450.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2450"
+ },
+ {
+  "content": "Blutbad angerichtet: Butler bereitet Wanne für Graf Dracula",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2450.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2450"
+ },
+ {
+  "content": "Sieht Zecke: Hundehalter findet Parasit auf Polstermöbel",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2450.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2450"
+ },
+ {
+  "content": "Probleme mit Oberstübchen: Bekloppter Österreicher kann Mini-Sahnebehälter nicht öffnen",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2450.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2450"
+ },
+ {
+  "content": "Nur zu: Bürger sollen ruhig mal versuchen, Termin beim Amt zu bekommen",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2450.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2450"
+ },
+ {
+  "content": "\"Schon Pol, Gaultier?\": Nordwärts reitender Modeschöpfer staunt über rotierende Kompassnadel",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2450.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2450"
+ },
  {
   "content": "Vanceday: US-Vize feiert Mitte der Woche",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2449.html",
