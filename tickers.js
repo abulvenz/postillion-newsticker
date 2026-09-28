@@ -1,6 +1,65 @@
-export const lastUpdated = "2026-09-25T16:51:37.262Z";
+export const lastUpdated = "2026-09-28T19:25:35.629Z";
 export const tickers = 
 [
+ {
+  "content": "Sektentführer: Guru hat Mumm",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2451.html",
+  "creators": [
+   "sum",
+   "arc"
+  ],
+  "num": "2451",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCEsYZQs3Ysr6VDKfkBmHfPHpWS_B4tbmnJ_q3O4jTmecMKiZwreb9xtWkttk5KoZrd3oc8_zVKAQS3-P5y9HEKnAFc0sfwfHTY2ZU8TXAgWGSjpxOwIHeSJqBQjRerNLTihrhk8GikPeE0MVBDCTL2bVKitrSo-moF1ggtJgHYDT6890kuRJXlat2Y5Nx/w1600/tickerguru%281%29.jpg"
+ },
+ {
+  "content": "Breisgau: Super knackt in Freiburg 3-Euro-Marke",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2451.html",
+  "creators": [
+   "hso"
+  ],
+  "num": "2451"
+ },
+ {
+  "content": "Bringt sie zum Tanzen: Taxifahrer steckt schüchterner Rave-Besucherin Ecstasy zu",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2451.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2451"
+ },
+ {
+  "content": "Popcorncopporn: \"Die Wachtmeisterinnen vom sexten Revier\" war 1972 Kinohit",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2451.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2451"
+ },
+ {
+  "content": "Schade: Fußballer bleibt bei Klopps DFB-Debüt torlos",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2451.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2451"
+ },
+ {
+  "content": "Drachmenzählen leicht gemacht: DreamWorks bezieht Subventionen aus Griechenland",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2451.html",
+  "creators": [
+   "aaa",
+   "dtb"
+  ],
+  "num": "2451"
+ },
+ {
+  "content": "Landet abgeschlagen auf den hinteren Plätzen: IS-Henker verliert Showköpfen gegen saudische Konkurrenz",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2451.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2451"
+ },
  {
   "content": "Herrjemine: Bergwerksverwaltung erlaubt nur einen Arbeiter pro Stollen",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2450.html",
