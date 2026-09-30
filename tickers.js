@@ -1,6 +1,66 @@
-export const lastUpdated = "2026-09-28T19:25:35.629Z";
+export const lastUpdated = "2026-09-30T17:47:48.822Z";
 export const tickers = 
 [
+ {
+  "content": "Nachrichten: Henker beginnt Feierabend mit der Tagesschau",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2452.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2452",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofAgMGCktB8nwKbujvjUDFmd4FnMYZ3mPuxf2K1Rl2cxRrx0XkKaY-HT_epyBSGvS8fXA8e-H0kMjb-7tEryq_xAsiQ8daIWO3r4IHC9w11FczMwJbA1oo1dDvzQYctY0NTOpk6Xz5PXqF2rc2jkBsfgMa4Erjd1i9RyWDS9SruhEajeawXTd9yOeWpKe/w1600/tickernachrichten.jpg"
+ },
+ {
+  "content": "Dušan Teglić: Serbischer Influencer gibt Hygienetipps",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2452.html",
+  "creators": [
+   "wso",
+   "mta",
+   "tky"
+  ],
+  "num": "2452"
+ },
+ {
+  "content": "Pierbauch: Hafenarbeiter übergewichtig",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2452.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "2452"
+ },
+ {
+  "content": "Lee... äh... Song: Chinesin verwechselt Liebschaften",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2452.html",
+  "creators": [
+   "hso"
+  ],
+  "num": "2452"
+ },
+ {
+  "content": "Periodensystem nicht verstanden: Chemie-Studentin erneut schwanger",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2452.html",
+  "creators": [
+   "aaa"
+  ],
+  "num": "2452"
+ },
+ {
+  "content": "Hatte sich auf Urinsekt gefreut: Paläontologe landet auf Fetisch- statt Fossilienparty",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2452.html",
+  "creators": [
+   "nil",
+   "jam"
+  ],
+  "num": "2452"
+ },
+ {
+  "content": "Wird sich hüten: Königin Camilla würde niemals ohne Kopfbedeckung zur Pferderennbahn gehen",
+  "url": "https://www.der-postillon.com/2026/09/newsticker-2452.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2452"
+ },
  {
   "content": "Sektentführer: Guru hat Mumm",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2451.html",
