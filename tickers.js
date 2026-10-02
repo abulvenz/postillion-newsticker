@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-09-30T17:47:48.822Z";
+export const lastUpdated = "2026-10-02T17:39:03.175Z";
 export const tickers = 
 [
+ {
+  "content": "\"Ich bin der König, der fällt!\": Leonardo DiCaprio stürzt von Schiff",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2453.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2453",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVrTpuxTzMY8ZaEwfm5CU9ceVERYFgOZPe1tFA8xeDhxwyll5S3v3_OcUEzncGXa03t3zhTY-T9lQN2ROQA6Vwr1EAemXEpAhwa8-XMk03i5xkyiJrU0yXF9xfqY0hBQIGcImhMVkYDyfHXJ2QmsZskKiJQlQCGt9D2QroBF9FCjFt9m8Evl4_mENJMOmM/w1600/tickerfa%CC%88llt.jpg"
+ },
+ {
+  "content": "Bitte Folgen: Autobahnpolizeiserienfans fordern weitere Staffel",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2453.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2453"
+ },
+ {
+  "content": "Image: Französisches Bild beschädigt",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2453.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2453"
+ },
+ {
+  "content": "Kreuzworträtsel: Mögliche Lösungen sind \"Kruzifix\", \"Crux\" und \"Rücken\"",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2453.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2453"
+ },
+ {
+  "content": "Ahnt Werben: Belgierin sieht Flirtversuche vorher",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2453.html",
+  "creators": [
+   "sxx"
+  ],
+  "num": "2453"
+ },
+ {
+  "content": "Täter mit Messer erschossen: Polizei beendet Amoklauf",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2453.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2453"
+ },
+ {
+  "content": "Tarnkappenpombär: Militärpilot versteckt Kartoffelchips in Mütze",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2453.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2453"
+ },
  {
   "content": "Nachrichten: Henker beginnt Feierabend mit der Tagesschau",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2452.html",
@@ -15,7 +72,6 @@ export const tickers =
   "url": "https://www.der-postillon.com/2026/09/newsticker-2452.html",
   "creators": [
    "wso",
-   "mta",
    "tky"
   ],
   "num": "2452"
@@ -29,7 +85,7 @@ export const tickers =
   "num": "2452"
  },
  {
-  "content": "Lee... äh... Song: Chinesin verwechselt Liebschaften",
+  "content": "Lee ... äh ... Song: Chinesin verwechselt Liebschaften",
   "url": "https://www.der-postillon.com/2026/09/newsticker-2452.html",
   "creators": [
    "hso"
