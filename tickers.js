@@ -1,6 +1,122 @@
-export const lastUpdated = "2026-10-02T17:39:03.175Z";
+export const lastUpdated = "2026-10-07T18:39:17.536Z";
 export const tickers = 
 [
+ {
+  "content": "Jetzt abschließen: Versicherungsvertreter steht vor dem Haus",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2455.html",
+  "creators": [
+   "ömm"
+  ],
+  "num": "2455",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlaSGKyH5daou51K4JmkiOXJ1xnkgIaQrxZxmE_ed9N8ErGn5CM_17jN19NAbatrYcRUpiypQxkQFrIEjTHAb19FMM4fE3BwDsJK_yqueLmSRtCpJutbJHVpiSQX-NCTx7z7wDDqTBu8pZo-nTGvo7WaYD5SYu-eFJuxMlSfe4SgyfWRsUU7uPLjVsoB1S/w1600/tickervertreter.jpg"
+ },
+ {
+  "content": "Verschleierte kosten: Mann vertuscht Besuch in afghanischem Bordell",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2455.html",
+  "creators": [
+   "dtb"
+  ],
+  "num": "2455"
+ },
+ {
+  "content": "Borgen Käfer: Schädlinge fahren in Leihwagen zum nächsten Baum",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2455.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2455"
+ },
+ {
+  "content": "Notaufnahme: Arzt ergänzt fehlendes Foto auf Krankenversichertenkarte",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2455.html",
+  "creators": [
+   "adl"
+  ],
+  "num": "2455"
+ },
+ {
+  "content": "Alles Erdenklischee: Gärtner sammelt in Buch sämtliche Stereotypen über Humus und Torf",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2455.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2455"
+ },
+ {
+  "content": "\"Da könnte ich kotzen\": Wiesn-Besucher findet erst nach drei Stunden geeigneten Ort, um sich zu übergeben",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2455.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2455"
+ },
+ {
+  "content": "Wels glaubt, Wild selig: Chinesischer Theologe behauptet, Franz von Assisi habe tatsächlich Tiere zum Christentum bekehrt",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2455.html",
+  "creators": [
+   "psi",
+   "wrb"
+  ],
+  "num": "2455"
+ },
+ {
+  "content": "Er liebt Knoblauchzehen: Mann taucht Füße in Tzatziki",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2454.html",
+  "creators": [
+   "aaa"
+  ],
+  "num": "2454",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4j50kJJb9m7Rq5N7vSEqECcuIZ33DV3pC5UqNgvysv0i9Y5GI6dQ0AVMzSsOSIVae6pdHPcvRuHGJ4CihkeHXBpGoiJfiKhGcycPW4DYK9g6UD2Piu3JLvVhFm9TVtJ0N3N22F0tzV0IRJLb42uIst8GosBN8zLOMRUaTailDtxDf4M92ZBOtPAPfD1zA/w1600/tickerzehen.jpg"
+ },
+ {
+  "content": "Mahnmal: Ehefrau erinnert Steinmetz an offene Gedenkstättenrechnung",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2454.html",
+  "creators": [
+   "kie",
+   "chö"
+  ],
+  "num": "2454"
+ },
+ {
+  "content": "Nur noch ein paar Versprengte: IS beklagt Personalmangel",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2454.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2454"
+ },
+ {
+  "content": "Ritt erschwert: Bote begründet Verspätung mit spitzem Gegenstand im Rücken",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2454.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2454"
+ },
+ {
+  "content": "Schleichwerbung: Nike platziert Sneakers in Indianerfilm",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2454.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2454"
+ },
+ {
+  "content": "Durchgegangen: Reitlehrer analysiert Pferdeunfall Stück für Stück",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2454.html",
+  "creators": [
+   "loc"
+  ],
+  "num": "2454"
+ },
+ {
+  "content": "Kein Kind von Trauriech-Guide: Abenteuerlustige Braut erleichtert, dass attraktiver Hochzeitsparfümberater Kondom dabeihat",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2454.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2454"
+ },
  {
   "content": "\"Ich bin der König, der fällt!\": Leonardo DiCaprio stürzt von Schiff",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2453.html",
