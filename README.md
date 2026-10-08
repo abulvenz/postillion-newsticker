@@ -16,7 +16,9 @@ Once those files have been written, [parceljs](https://parceljs.org/) is used to
 - [tagl-mithril](https://www.npmjs.com/package/tagl-mithril) to easier write mithril HTML in Javascript
 - [fuse.js](https://fusejs.io/) for more fuzzy search options
 
-The entire process is automated in a github action which will run on the 1st,3rd and 5th day of the week at 10:00 UTC. It will run `npm build` and commit the created files, after that the github page is redeployed.
+The entire process is automated in a github action which runs on Monday, Wednesday and Friday at 08:45 UTC (shortly after the new ticker appears at 09:30 Berlin time). On the 1st of every month a full update re-crawls all tickers. It will run `npm build` and commit the created files, after that the github page is redeployed.
+
+For a full update locally use `node index.mjs --full`.
 
 There are some misunderstandings in my way of using the actions, but it works, so I do not change it at the moment.
 

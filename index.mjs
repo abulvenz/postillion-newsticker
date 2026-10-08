@@ -8,6 +8,11 @@ console.log("🚀 Script started");
 
 const displayBrowser = false;
 
+// Voll-Update: alle Newsticker-Seiten neu crawlen statt nur der letzten Monate.
+// Aktivierung per `node index.mjs --full` oder FULL_UPDATE=true (CI, monatlich).
+const fullUpdate =
+  process.argv.includes("--full") || process.env.FULL_UPDATE === "true";
+
 const startURL = "https://www.der-postillon.com/search/label/Newsticker";
 // the-postillon.com (EN) wird nicht mehr aktualisiert; die alten Daten
 // bleiben in tickers.js. Nur noch die deutsche Seite crawlen.
@@ -38,15 +43,18 @@ const browser = await puppeteer.launch({
   headless: displayBrowser ? false : "new",
   // Use the browser bundled with Puppeteer by default. Only override via env
   // (PUPPETEER_EXECUTABLE_PATH / CHROME_PATH) when a specific binary is needed.
-  executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || process.env.CHROME_PATH || undefined,
+  executablePath:
+    process.env.PUPPETEER_EXECUTABLE_PATH ||
+    process.env.CHROME_PATH ||
+    undefined,
   args: [
     "--no-sandbox",
     "--disable-gpu",
     "--disable-setuid-sandbox",
-    "--disable-dev-shm-usage"
+    "--disable-dev-shm-usage",
   ],
   timeout: 120000,
-  protocolTimeout: 120000
+  protocolTimeout: 120000,
 });
 
 const page = await browser.newPage();
@@ -151,8 +159,7 @@ const last_ticker_year_month = tickers[0]
   : { year: 0, month: 0 };
 
 const isCurrentYearAndMonth = ({ year, month }) => {
-  // Shortcut for cleaning everything. Delete tickers.js beforehand.
-  // return true;
+  if (fullUpdate) return true;
   const articleDate = year * 12 + month;
   const now = new Date();
   const currentDate = now.getFullYear() * 12 + now.getMonth() + 1;
@@ -161,12 +168,12 @@ const isCurrentYearAndMonth = ({ year, month }) => {
 
 console.log(last_ticker_year_month);
 
-tickers = tickers.filter((ticker) => {
-  const { year, month } = yearAndMonthFromUrl(ticker.url);
-  return !isCurrentYearAndMonth({ year, month });
-});
+console.log(fullUpdate ? "🔁 FULL update" : "➕ Incremental update");
 
-const currentContents = tickers.map((t) => t.content);
+// Pro URL die frisch gecrawlten Ticker. Bestehende Ticker werden erst nach dem
+// Crawl und nur für erfolgreich geladene URLs ersetzt – ein abgebrochener Lauf
+// (oder nicht mehr gecrawlte Seiten wie the-postillon.com) verliert nichts.
+const crawledByUrl = {};
 
 const determineURLsToProcess = async (url) => {
   const urls = [];
@@ -203,77 +210,80 @@ const mainLoop = async (cStartURL) => {
     ),
   );
   for (url of scheduledURLs_) {
-    console.log("Calling ", url);
-    const currentTickers = [];
-    await page.goto(url);
-    if (exceptionalStuffByUrl[url]?.tickers) {
-      exceptionalStuffByUrl[url].tickers.forEach((ticker) =>
-        currentTickers.push({ content: ticker.trim(), url }),
+    try {
+      crawledByUrl[url] = await crawlArticle(url);
+    } catch (error) {
+      // Eine einzelne kaputte Seite soll nicht den ganzen Lauf beenden.
+      console.error(`Skipping ${url}: ${error.message}`);
+    }
+  }
+};
+
+const crawlArticle = async (url) => {
+  console.log("Calling ", url);
+  const currentTickers = [];
+  await page.goto(url);
+  if (exceptionalStuffByUrl[url]?.tickers) {
+    exceptionalStuffByUrl[url].tickers.forEach((ticker) =>
+      currentTickers.push({ content: ticker.trim(), url }),
+    );
+  } else {
+    (await fetchTickers()).forEach((ticker) => {
+      regex(ticker.trim(), reg_newsticker_plain, (text) => {
+        if (text[0].trim() !== "Newsticker")
+          currentTickers.push({ content: text[0].trim(), url });
+      });
+    });
+  }
+  let authors = "";
+  if (exceptionalStuffByUrl[url]?.authors) {
+    authors = [exceptionalStuffByUrl[url].authors];
+  } else {
+    authors = await page.evaluate(() => {
+      const spans = document.querySelectorAll(".post-body span");
+      let potentials = [];
+      spans.forEach((span) =>
+        span.style["font-size"] === "x-small"
+          ? potentials.push((str = span.innerText))
+          : null,
       );
-    } else {
-      (await fetchTickers()).forEach((ticker) => {
-        regex(ticker.trim(), reg_newsticker_plain, (text) => {
-          if (text[0].trim() !== "Newsticker")
-            currentTickers.push({ content: text[0].trim(), url });
-        });
-      });
-    }
-    let authors = "";
-    if (exceptionalStuffByUrl[url]?.authors) {
-      authors = [exceptionalStuffByUrl[url].authors];
-    } else {
-      authors = await page.evaluate(() => {
-        const spans = document.querySelectorAll(".post-body span");
-        let potentials = [];
-        spans.forEach((span) =>
-          span.style["font-size"] === "x-small"
-            ? potentials.push((str = span.innerText))
-            : null,
-        );
-        return potentials; //:nth-child(10)
-      });
-    }
-    // Clean author strings: remove trailing non-author info like "; Foto: Shutterstock"
-    const cleanedAuthors = authors.map((str) => str.replace(/;.*$/, "").trim());
+      return potentials; //:nth-child(10)
+    });
+  }
+  // Clean author strings: remove trailing non-author info like "; Foto: Shutterstock"
+  const cleanedAuthors = authors.map((str) => str.replace(/;.*$/, "").trim());
+  cleanedAuthors
+    .find((str) => countStr(str, ",") === currentTickers.length - 1)
+    ?.split(",")
+    ?.map((e) => e.trim())
+    ?.forEach((author, idx) =>
+      currentTickers[idx]
+        ? (currentTickers[idx].creators = author.split("/"))
+        : console.log(currentTickers.length, cleanedAuthors.split(",").length),
+    );
+
+  if (exceptionalStuffByUrl[url]?.num) {
+    currentTickers.forEach((t) => (t.num = exceptionalStuffByUrl[url].num));
+  } else {
+    regex(url, reg_number_from_url, (num) =>
+      currentTickers.forEach((t) => (t.num = num[0])),
+    );
+  }
+  console.log("Found num: ", currentTickers[0]?.num, " for ", url);
+  if (
     cleanedAuthors
       .find((str) => countStr(str, ",") === currentTickers.length - 1)
-      ?.split(",")
-      ?.map((e) => e.trim())
-      ?.forEach((author, idx) =>
-        currentTickers[idx]
-          ? (currentTickers[idx].creators = author.split("/"))
-          : console.log(currentTickers.length, cleanedAuthors.split(",").length),
-      );
-
-    if (exceptionalStuffByUrl[url]?.num) {
-      currentTickers.forEach((t) => (t.num = exceptionalStuffByUrl[url].num));
-    } else {
-      regex(url, reg_number_from_url, (num) =>
-        currentTickers.forEach((t) => (t.num = num[0])),
-      );
-    }
-    console.log("Found num: ", currentTickers[0]?.num, " for ", url);
-    if (
-      cleanedAuthors
-        .find((str) => countStr(str, ",") === currentTickers.length - 1)
-        ?.split(",")?.length !== currentTickers.length
-    ) {
-      console.log("Error extracting authors " + url);
-      console.log(authors);
-    }
-
-    if (currentTickers[0]) {
-      currentTickers[0].image = await extractImage();
-    }
-
-    /**
-     * For the tickers that have been
-     * extracted check if they already exist, otherwise add them to the results.
-     */
-    currentTickers
-      .filter((e) => currentContents.indexOf(e.content) < 0)
-      .forEach((ct) => tickers.push(ct));
+      ?.split(",")?.length !== currentTickers.length
+  ) {
+    console.log("Error extracting authors " + url);
+    console.log(authors);
   }
+
+  if (currentTickers[0]) {
+    currentTickers[0].image = await extractImage();
+  }
+
+  return currentTickers;
 };
 
 // Eine unerreichbare Seite darf den Build nicht killen –
@@ -283,6 +293,34 @@ try {
 } catch (error) {
   console.error(`Skipping ${startURL}: ${error.message}`);
 }
+
+const replacedUrls = new Set(
+  Object.keys(crawledByUrl).filter((url) => crawledByUrl[url].length > 0),
+);
+const previousByUrl = {};
+tickers
+  .filter((t) => replacedUrls.has(t.url))
+  .forEach((t) => (previousByUrl[t.url] ??= []).push(t));
+tickers = tickers.filter((t) => !replacedUrls.has(t.url));
+const currentContents = new Set(tickers.map((t) => t.content));
+
+for (const url of replacedUrls) {
+  crawledByUrl[url]
+    .filter((t) => !currentContents.has(t.content))
+    .forEach((t) => {
+      // Felder, die der Crawl nicht liefern konnte (z.B. Autoren, Bild),
+      // aus dem bisherigen Stand übernehmen.
+      const previous = previousByUrl[url]?.find((p) => p.content === t.content);
+      if (previous) {
+        if (!t.creators && previous.creators) t.creators = previous.creators;
+        if (!t.image && previous.image) t.image = previous.image;
+      }
+      tickers.push(t);
+    });
+}
+console.log(
+  `Crawled ${Object.keys(crawledByUrl).length} URLs, replaced ${replacedUrls.size}, total tickers ${tickers.length}`,
+);
 
 tickers = tickers.sort((a, b) => (+a.num > +b.num ? -1 : 1));
 
