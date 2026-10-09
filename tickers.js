@@ -1,6 +1,64 @@
-export const lastUpdated = "2026-10-09T07:10:08.573Z";
+export const lastUpdated = "2026-10-09T15:34:46.327Z";
 export const tickers = 
 [
+ {
+  "content": "Radlos: Frau kann sich Verlust ihres Drahtesels nicht erklären",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2456.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2456",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzXFetYV0-ZqAUTVfZ3qynxU105LMjfSqwLOavDBFtwRL52YjQu1TYMgCeqzzRl3Df52kZCY9xA5gDQy5kB4tnFEq0XUeVhRTVc4i89Uys4PVsME9tOBpS4xNAneR8od8bIajv1RBi-FvTR10ET7dTtt3MsxOieITO1X1pau-za2ZeUEAeywO2j4M3KKr6/w1600/tickerradlos.jpg"
+ },
+ {
+  "content": "Deutliche Anhalspunkte: Ehemann wegen Lippenstiftflecken in Erklärungsnot",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2456.html",
+  "creators": [
+   "frcx",
+   "mta"
+  ],
+  "num": "2456"
+ },
+ {
+  "content": "Wittert ein großes Geschäft: Dixiklo-Vermieter spaziert über Festivalgelände",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2456.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2456"
+ },
+ {
+  "content": "Hat Cockporn bestellt: Legastheniker landet im falschen Film",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2456.html",
+  "creators": [
+   "–"
+  ],
+  "num": "2456"
+ },
+ {
+  "content": "Zum Heizen ungeeignet: Motorradfahrer reklamiert Kachelofen",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2456.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2456"
+ },
+ {
+  "content": "Amtohr: CDU-Politiker als BND-Spitzel enttarnt",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2456.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2456"
+ },
+ {
+  "content": "Nimmt Überhand: Masturbationssüchtiger onaniert mittlerweile stündlich mit riesiger Kunstpranke",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2456.html",
+  "creators": [
+   "loc"
+  ],
+  "num": "2456"
+ },
  {
   "content": "Jetzt abschließen: Versicherungsvertreter steht vor dem Haus",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2455.html",
