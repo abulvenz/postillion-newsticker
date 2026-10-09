@@ -1,4 +1,4 @@
-export const lastUpdated = "2026-10-09T06:55:07.352Z";
+export const lastUpdated = "2026-10-09T07:10:08.573Z";
 export const tickers = 
 [
  {
@@ -27903,8 +27903,7 @@ export const tickers =
   "content": "Da kommt der Kranich hin: Bauvorhaben im Naturschutzgebiet abgelehnt",
   "url": "https://www.der-postillon.com/2023/07/newsticker-1973.html",
   "creators": [
-   "cbe",
-   "oga"
+   "cbe"
   ],
   "num": "1973"
  },
@@ -113489,7 +113488,7 @@ export const tickers =
    "sjs"
   ],
   "num": "500",
-  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_scmIPUZOgqvEdd7N_du2fZXCKgqjPAML_RQhgEbhOMqv-DGzzuxJmX3VpJNYxYcYqiZu1ZRTZU35RTdx5oGTw_tuFZoegI9ejaEXmJbqck52Kr2hpYXxAXGBZVNYYpBuH1X2WbrA=w1600"
+  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_u53nnxMonQMAioPLK4ih2-1hhBDQS3DtkC31HyHVbrMNdp9cE26ZiJW81MskmJ7r0Ooh9JM3lzCZ07HHo3bi8YrC-aDqW7Kr7kUSqSH1uIfYrlMG5jW7IBfVq8TibUu-re1z77xQ=w1600"
  },
  {
   "content": "Komplizierter Bruch: Ärzte kommen bei Visite auf keinen gemeinsamen Nenner",
@@ -113573,14 +113572,6 @@ export const tickers =
  },
  {
   "content": "\"I'm Sorry\": Man apologizes for stupid name",
-  "url": "https://www.der-postillon.com/2013/09/newsticker-500-xxl-edition-106.html",
-  "creators": [
-   "tim"
-  ],
-  "num": "500"
- },
- {
-  "content": "It's about time: Einstein's last book finally published",
   "url": "https://www.der-postillon.com/2013/09/newsticker-500-xxl-edition-106.html",
   "creators": [
    "tim"
