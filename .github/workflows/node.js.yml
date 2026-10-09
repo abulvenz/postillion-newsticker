@@ -37,7 +37,12 @@ jobs:
       contents: write
 
     steps:
+      # Immer den aktuellen Stand von main holen, nicht den SHA zum Zeitpunkt des
+      # Auslösens: Ein in der concurrency-Gruppe wartender Lauf würde sonst auf
+      # einem veralteten Stand bauen und beim Push von tickers.js abgelehnt.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
