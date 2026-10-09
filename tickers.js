@@ -1,4 +1,4 @@
-export const lastUpdated = "2026-10-08T14:28:15.780Z";
+export const lastUpdated = "2026-10-09T06:55:07.352Z";
 export const tickers = 
 [
  {
