@@ -1,6 +1,64 @@
-export const lastUpdated = "2026-10-09T15:34:46.327Z";
+export const lastUpdated = "2026-10-12T18:13:54.191Z";
 export const tickers = 
 [
+ {
+  "content": "An der TK: Wrestler sucht Rahmspinat",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2457.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2457",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyNyg5dtXpS4OQnEaIHb15kHCff8NXudZZb7T3ey2BbPQNXZbT0F5P0XOGZTgMGbCsUldzNgiCEiDsm5wdexAsXF31I015ABYMiBW1YdK2of7oj7liVcztiy16is-ynA8CvD5VoZpMSpjr7NxaK3YMUtu0dFjbCnxFN0BEjQV56HMCfvNqXUF5l1SFjkTL/w1600/tickertk.jpg"
+ },
+ {
+  "content": "Da springt einiges für sie raus: Rangerin öffnet Wilderern Känguru-Gehege",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2457.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "2457"
+ },
+ {
+  "content": "Rehwohllotion: Nivea will tierische Zielgruppen erschließen",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2457.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2457"
+ },
+ {
+  "content": "Macht sich auf den Weg: Gast pinkelt zum Abschied Selbstporträt in die Hauseinfahrt",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2457.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2457"
+ },
+ {
+  "content": "Mit Ziehthronen gehandelt: Kauf von Prunkrikschas erweist sich als Flop",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2457.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2457"
+ },
+ {
+  "content": "Macht Vakuum: Staubsaugerhersteller besetzt vakanten Vorstandsposten",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2457.html",
+  "creators": [
+   "psi",
+   "arc"
+  ],
+  "num": "2457"
+ },
+ {
+  "content": "Busanreise: Tourist hat doch kein Flugticket für Trip in südkoreanische Metropole gewonnen",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2457.html",
+  "creators": [
+   "bak"
+  ],
+  "num": "2457"
+ },
  {
   "content": "Radlos: Frau kann sich Verlust ihres Drahtesels nicht erklären",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2456.html",
