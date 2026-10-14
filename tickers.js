@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-10-12T18:13:54.191Z";
+export const lastUpdated = "2026-10-14T14:03:55.725Z";
 export const tickers = 
 [
+ {
+  "content": "Neuer Rekord: Bayern-Keeper kassiert schnellstes Bundesligator",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2458.html",
+  "creators": [
+   "sge"
+  ],
+  "num": "2458",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyUWKaDhpKCHPTqwF5WFOftHBQqqs19X_ZcqkbTi4g1dfwtQIGyimPKOtfSoozhc2Ky1E5GXNjHdosy1D2JvqkNVGNxsV2sz53YqDWLcY1QL5zOMqlGbvc1qwu1ptLBb-onY02D56ITOWW8Ppws6P3IlDJhQwEdTyTYfbefdyzFdEkxPT5qENiJPVuxh-a/w1600/tickerneuerrekord.jpg"
+ },
+ {
+  "content": "Opale: Schwäbisches Großväterchen entdeckt Edelsteine",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2458.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2458"
+ },
+ {
+  "content": "Bohrt nach: Kommissar muss Verdächtigem alles aus der Nase ziehen",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2458.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2458"
+ },
+ {
+  "content": "Pferd ritt extreme Positionen: AfD-Redner aus Sattel geworfen",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2458.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2458"
+ },
+ {
+  "content": "Endspannung: Kann ich den Furz bis zum Schluss der Yogastunde zurückhalten?",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2458.html",
+  "creators": [
+   "dtb"
+  ],
+  "num": "2458"
+ },
+ {
+  "content": "Haltebucht: Franzose wartet im Auto auf Gattin in Reisebüro",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2458.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2458"
+ },
+ {
+  "content": "Beim Schwatzfarn erwischt: Mann ohne Zugticket versteckt sich hinter redseliger Grünpflanze",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2458.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2458"
+ },
  {
   "content": "An der TK: Wrestler sucht Rahmspinat",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2457.html",
