@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-10-14T14:03:55.725Z";
+export const lastUpdated = "2026-10-16T13:32:56.395Z";
 export const tickers = 
 [
+ {
+  "content": "Geht steil: Bergwanderer-Reel hat bereits eine Million Likes",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2459.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2459",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk3Xy1d8DQktOrPkxRscDT_UUiWXjzvB0mjEncOEjA4Gg5fHX8KoDPuvtwjiKWVy8mTmNujN7he-RJLdPC3BymGH6A8WAAefdXTGV8CJk8m9VvlNPuP4rJZmMqWaCuxh6KOu-XLf27mVcjNd8C1zmNi9mCoGV8mLUMRKbBcd17-dro_3ssrhFBFO250Oau/w1600/tickersteil.jpg"
+ },
+ {
+  "content": "Steakhau-Serbin: Christina Block sucht Küchenhilfe in Belgrad",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2459.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "2459"
+ },
+ {
+  "content": "Hat Bindungsangst: Junge trägt lieber Schuhe mit Klettverschluss",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2459.html",
+  "creators": [
+   "dat"
+  ],
+  "num": "2459"
+ },
+ {
+  "content": "Mustang-Ken: Barbie-Freund braucht Benzin für Sportwagen",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2459.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2459"
+ },
+ {
+  "content": "Schläft dauernd: Generation Zzzz",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2459.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "2459"
+ },
+ {
+  "content": "Nordic Stalking: Finne sitzt Wanderin im Nacken",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2459.html",
+  "creators": [
+   "afo"
+  ],
+  "num": "2459"
+ },
+ {
+  "content": "X Hamster: Römer verspricht Tochter zehn Kleintiere für Verschwiegenheit über Browserverlauf",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2459.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2459"
+ },
  {
   "content": "Neuer Rekord: Bayern-Keeper kassiert schnellstes Bundesligator",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2458.html",
