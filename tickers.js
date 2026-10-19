@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-10-16T13:32:56.395Z";
+export const lastUpdated = "2026-10-19T15:53:20.461Z";
 export const tickers = 
 [
+ {
+  "content": "Fahren ständig zusammen: Extrem schreckhaftes Pärchen reist niemals getrennt",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2460.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2460",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_2MrTFYnJ4pYOUgt7rQIvzYTHzMl4unqU_YReQ6SGfO0_JDT7-Z0HFLLJrbbqc0IZG4VZoBZ3TZnjDpTOKljZwadQWs4_oz8OY2H6wzX_gt9FjomD4Eh-Ls-0QbVUcHftJnEy8qVnPIKEp_PwRAnb6V9GUGwREAky-gZqdb_poAa5qypQcYztCYtG8CiA/w1600/tickerzusammenfahren.jpg"
+ },
+ {
+  "content": "Dösender Applaus: Sachse klatscht im Halbschlaf Beifall",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2460.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2460"
+ },
+ {
+  "content": "Fans der Putzen: Reinigungskräfte haben Groupies",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2460.html",
+  "creators": [
+   "aaa"
+  ],
+  "num": "2460"
+ },
+ {
+  "content": "Muss mit Karate zahlen: Japanischer Kampfsportler vergisst Bargeld",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2460.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2460"
+ },
+ {
+  "content": "Hof endlich Allianz versichert: Assekuranz-Vertreter überzeugt Landwirt bei 10. Besuch",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2460.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "2460"
+ },
+ {
+  "content": "Für Olise: Bayernfan schreibt Beethovens Klavierstück um",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2460.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2460"
+ },
+ {
+  "content": "\"Auto grad hie\": Russe kann erklären, wieso er mit Panzer zu Besuch kommt",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2460.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2460"
+ },
  {
   "content": "Geht steil: Bergwanderer-Reel hat bereits eine Million Likes",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2459.html",
