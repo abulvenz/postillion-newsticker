@@ -1,35 +1,127 @@
-export const lastUpdated = "2026-10-21T14:09:19.486Z";
+export const lastUpdated = "2026-10-23T13:50:16.754Z";
 export const tickers = 
 [
  {
+  "content": "Schecksperro: Kapitän der Black Pearl kämpft mit Fluch der ausreichenden Kontodeckung",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2462.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2462",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOuvUXAi26ZU4Xfao74_sqXz70MOVmxnwip7SE4Kdm_J14Pj3qNlzk-Z5cz3ggd1rn5ltiDTBulEpzajCaC0SvQLkqDJyEgA1ZKlqmkBwZ_H2o6vp3hDA1DHEVixyTWwfEvZBtHPDN-y4hQ-FVXcJ0NKaMqnx_UUxEpX8EPSyz5ssZLwOaH4DJyLv4GWES/w1600/Ticker_Schecksperro.jpg"
+ },
+ {
+  "content": "Seit dem Verlust seiner Mutter: Halbwaise hat eine Schraube locker",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2462.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2462"
+ },
+ {
+  "content": "Aus Po Sound: Darmflötist enthüllt sein Geheimnis",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2462.html",
+  "creators": [
+   "wrd"
+  ],
+  "num": "2462"
+ },
+ {
+  "content": "Beetabblocker: Herzkreislaufpatient verweigert Gartenarbeit",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2462.html",
+  "creators": [
+   "bfr"
+  ],
+  "num": "2462"
+ },
+ {
+  "content": "\"Cosma, schiefer Haken!\": Nina kritisiert Tochter für schlechte Boxtechnik",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2462.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2462"
+ },
+ {
+  "content": "Teufelsgreis: Rentner, der von Alkohol wütend wird, trinkt Alkohol gegen Wutanfälle",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2462.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2462"
+ },
+ {
+  "content": "Wutbürgerliche Küche: Vorab ein Brot-Test, dann Frustenbraten an Kartoffelkretin mit brauner Soße, Sauerkraut und Hass-Avocado, begleitet vom Saft verschworener Trauben, zum Dessert Lebkuchenhetzen aus Verbittertschokolade auf Creme Brülle mit Afder Hate",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2462.html",
+  "creators": [
+   "tom",
+   "p2k",
+   "arc",
+   "tei",
+   "wrb",
+   "kgk",
+   "sum",
+   "bfr"
+  ],
+  "num": "2462"
+ },
+ {
   "content": "Muss er gleich nachsäen: Landwirt hat riesige Wiesenslücke",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2461.html",
+  "creators": [
+   "wrd"
+  ],
   "num": "2461",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjtT_j3sndTwxG_rUfiHniNPeCN_K1fbIOl9NMUnvKuoGux5Tz_zrSYq67wmClR2353L4Sh3TdjdCF1Kbv_36XGcmIYnNRF78nDTFTe-pqeYdToecMfgBHLqAVaZdTy70dtupnFD_Rk_j2Z_gXyWqpJNMYbLjb3qH__ajTwk40b6R5TtGLcmWD7_SIzXx/w1600/Ticker_Nachs%C3%A4en.jpg.jpg"
  },
  {
   "content": "Willischnitt: Kölner lehnt Kastration ab",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2461.html",
+  "creators": [
+   "sum"
+  ],
   "num": "2461"
  },
  {
   "content": "Hefebedürftig: Orientierungsloser Alkoholiker braucht dringend Bier",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2461.html",
+  "creators": [
+   "stp"
+  ],
   "num": "2461"
  },
  {
   "content": "Hängepartie: Start der Feier für ehemalige Viagraabhängige weiter unklar",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2461.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2461"
+ },
+ {
+  "content": "Rät so schlau (CH): Ex-Politiker bei SRF-Quizshow unbesiegbar",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2461.html",
+  "creators": [
+   "p2k",
+   "marc",
+   "wrb"
+  ],
   "num": "2461"
  },
  {
   "content": "Im Nagelstreifenanzug: Fakir geht zu Vorstellungsgespräch",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2461.html",
+  "creators": [
+   "hso"
+  ],
   "num": "2461"
  },
  {
   "content": "Darauf steht der Tod: Sensenmann spricht mit Tierhalter über Hundehäufchen",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2461.html",
+  "creators": [
+   "ttl"
+  ],
   "num": "2461"
  },
  {
