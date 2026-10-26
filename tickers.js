@@ -1,6 +1,64 @@
-export const lastUpdated = "2026-10-23T13:50:16.754Z";
+export const lastUpdated = "2026-10-26T15:29:39.882Z";
 export const tickers = 
 [
+ {
+  "content": "Postabfertigung: Analdildomanufaktur sucht neue Bürokraft",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2463.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2463",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnP22IvmelDOdptxO11P4AA5ozR64fatLWRCGwIxnELhqiTDMVb8B5pY9yS_479I0mLuvmwuvIpvmB7EHul7NMXvC97OuL2A4VKHQ_KCrQDiOsakzh_n37be790qUHIoZt6FvjjhKcgVj1v-hvoy4rxm9wHx2h3YOZ3D_saoISAxiRwaHZ80U458JD1dDE/w1600/tickerpostab.jpg"
+ },
+ {
+  "content": "Wisent: Rind gewinnt bei Jauch die Million",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2463.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2463"
+ },
+ {
+  "content": "Weckt Tote auf: Voodoo-Priester kocht starken Kaffee",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2463.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2463"
+ },
+ {
+  "content": "Faschule: Ausbilder lernen, wie man am Steuer gut duftet",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2463.html",
+  "creators": [
+   "aaa",
+   "sge"
+  ],
+  "num": "2463"
+ },
+ {
+  "content": "Sturzursache: Krankenkassensachbearbeiter bohrt unerbittlich wegen Unfallhergang nach",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2463.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2463"
+ },
+ {
+  "content": "Hält die Hand auf: OP-Assistent will Prämie für Hilfe bei Karpaltunnel-Eingriff",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2463.html",
+  "creators": [
+   "tom"
+  ],
+  "num": "2463"
+ },
+ {
+  "content": "Aufs Faltschiff Herd gesetzt: Elektriker kann Einzug bei Origamikünstlerin direkt wieder vergessen",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2463.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2463"
+ },
  {
   "content": "Schecksperro: Kapitän der Black Pearl kämpft mit Fluch der ausreichenden Kontodeckung",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2462.html",
