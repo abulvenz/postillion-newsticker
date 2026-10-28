@@ -1,6 +1,64 @@
-export const lastUpdated = "2026-10-26T15:29:39.882Z";
+export const lastUpdated = "2026-10-28T15:29:11.058Z";
 export const tickers = 
 [
+ {
+  "content": "Jetzt ist sie aber beruhigt: Frau erfährt, dass Überdosis Baldrian nicht tödlich ist",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2464.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2464",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMV-7x_tj9Q3lysFznnnKf3TkfEFqG0HJr-MCJ8MROm6_t0m8SH3tjn9q4urQih6YwaGZcGq_9GDdYB22GNiZpg1Da6XKrV7yEwGjp9vYG_lJIes47Xyc_i441x5JMYjuAEDsCte8RySg4_mIWUqkHWQgRl5jkotPtNhtUSIMhqGwDCDAcvZ-6gWxgWSjO/w1600/ticker_Baldrian.jpg"
+ },
+ {
+  "content": "Paukerface: Lehrer lässt sich bei Notenfindung nicht in die Karten gucken",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2464.html",
+  "creators": [
+   "aaa"
+  ],
+  "num": "2464"
+ },
+ {
+  "content": "Prost, die TUI irrte: Kreuzfahrtschiff-Bar darf Escortservice doch anbieten",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2464.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2464"
+ },
+ {
+  "content": "Zurück zu den Wurzeln: Pensionierter Zahnarzt eröffnet Praxis im Heimatort seiner Eltern",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2464.html",
+  "creators": [
+   "ömm"
+  ],
+  "num": "2464"
+ },
+ {
+  "content": "Ulmiges Gefühl: Fahranfänger wagt sich in Allee",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2464.html",
+  "creators": [
+   "hem",
+   "adm"
+  ],
+  "num": "2464"
+ },
+ {
+  "content": "\"Dann noch Froschaffen!\": Gentechniker wünschen sich schönen restlichen Arbeitstag",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2464.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2464"
+ },
+ {
+  "content": "Galgenraten: HE_KER _USS ARBEITS_ERAET ABSTOTTER_",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2464.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2464"
+ },
  {
   "content": "Postabfertigung: Analdildomanufaktur sucht neue Bürokraft",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2463.html",
