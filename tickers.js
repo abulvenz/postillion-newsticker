@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-10-28T15:29:11.058Z";
+export const lastUpdated = "2026-10-30T15:21:41.959Z";
 export const tickers = 
 [
+ {
+  "content": "Türkennwort: Gandalf kommt mit \"Merhaba\" nach Moria",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2465.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2465",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGdMrQcN6vXKM-l_tD3-wivX1k5lO164IELatSJm2wIYL72VKjqwPxDjJPrK1kzN3MA5JyiRGK2bRReuzJ-Si1GWp0crd9Vk4fnUOijYeZu5tmez6MGEbLYBJ48hCq4jbjVpd8LGKtkC3qfpOwghlId0Wv6ejxJ_X9IDu9dVP92nZWNJIuKYg6MXMpgEkJ/w1600/tickermoria3.jpg"
+ },
+ {
+  "content": "Lässt sich zur Wahl aufstellen: Alkoholkranker Bürgermeisterkandidat",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2465.html",
+  "creators": [
+   "cbe"
+  ],
+  "num": "2465"
+ },
+ {
+  "content": "Hat eine gute Kindarschtube genossen: Mann verzehrt Babysalbe mit Messer und Gabel",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2465.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2465"
+ },
+ {
+  "content": "Golfdinger: Bond-Bösewicht kommt nicht auf das Wort \"Schläger\"",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2465.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2465"
+ },
+ {
+  "content": "Sohn darf er mögen: Spahn zweigt 11 Milliarden für Nachwuchs ab",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2465.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2465"
+ },
+ {
+  "content": "Eingeschifft: Passagiere finden kein WC auf Ausflugsdampfer",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2465.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2465"
+ },
+ {
+  "content": "Rehdungsgase bilden: Autofahrer im Stau glaubt an Erkenntnisgewinn durch Wildfäkalgerüche",
+  "url": "https://www.der-postillon.com/2026/10/newsticker-2465.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2465"
+ },
  {
   "content": "Jetzt ist sie aber beruhigt: Frau erfährt, dass Überdosis Baldrian nicht tödlich ist",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2464.html",
@@ -22,7 +79,8 @@ export const tickers =
   "content": "Prost, die TUI irrte: Kreuzfahrtschiff-Bar darf Escortservice doch anbieten",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2464.html",
   "creators": [
-   "wso"
+   "wso",
+   "tom"
   ],
   "num": "2464"
  },
@@ -55,7 +113,7 @@ export const tickers =
   "content": "Galgenraten: HE_KER _USS ARBEITS_ERAET ABSTOTTER_",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2464.html",
   "creators": [
-   "wrb"
+   "nil"
   ],
   "num": "2464"
  },
