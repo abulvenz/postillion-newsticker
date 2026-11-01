@@ -1,4 +1,4 @@
-export const lastUpdated = "2026-10-30T15:21:41.959Z";
+export const lastUpdated = "2026-11-01T10:59:53.410Z";
 export const tickers = 
 [
  {
@@ -30,7 +30,8 @@ export const tickers =
   "content": "Golfdinger: Bond-Bösewicht kommt nicht auf das Wort \"Schläger\"",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2465.html",
   "creators": [
-   "wye"
+   "wye",
+   "dtb"
   ],
   "num": "2465"
  },
@@ -114072,7 +114073,7 @@ export const tickers =
    "sjs"
   ],
   "num": "500",
-  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_u53nnxMonQMAioPLK4ih2-1hhBDQS3DtkC31HyHVbrMNdp9cE26ZiJW81MskmJ7r0Ooh9JM3lzCZ07HHo3bi8YrC-aDqW7Kr7kUSqSH1uIfYrlMG5jW7IBfVq8TibUu-re1z77xQ=w1600"
+  "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ueOpz_Q4fnQSRo8tyS1PEWdE5rLUk7YPC5DRQMfayDiDbBj3PgbcApvR_8idf_iTC7Pp0dOxtA7WrAuG9uXo4LXTUVStrvoOq06ZF0CLLsavDAsLBekxoQj7rWseSQosDWPhQuAw=w1600"
  },
  {
   "content": "Komplizierter Bruch: Ärzte kommen bei Visite auf keinen gemeinsamen Nenner",
