@@ -1,6 +1,65 @@
-export const lastUpdated = "2026-11-01T10:59:53.410Z";
+export const lastUpdated = "2026-11-02T18:50:49.685Z";
 export const tickers = 
 [
+ {
+  "content": "Dinar for Won: Miss Sophie feiert Geburtstag in Wechselstube",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2466.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "2466",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKUvlxL3wNh5tWL0I4eXztqvxZtKeADF4RzAQoWT0HxCVM1pqwVJK9AAGUm8PkzSWfFa1ezi1vfFscStg37xN-lbVNwfA1YIqtScaNsNLqDpZyEeAUMD691t3K6ZkfB9g-fhAYCAfbVRPnovOS98b9iOvLAbS0Do0oLsmwCx569b24BLpHJScsOp7FmSUV/w1600/tickerdinarforwon.jpg"
+ },
+ {
+  "content": "Ganz billige Anmache: Typ fragt Aldi-Kundin, wo Salatdressing steht",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2466.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2466"
+ },
+ {
+  "content": "« Chien ne va plus ! » : Roulettespieler darf Dackel nicht setzen",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2466.html",
+  "creators": [
+   "küh",
+   "frcx"
+  ],
+  "num": "2466"
+ },
+ {
+  "content": "Erhält Regen zu Spruch: Gefeierter Schamane beendet Dürre",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2466.html",
+  "creators": [
+   "viv"
+  ],
+  "num": "2466"
+ },
+ {
+  "content": "Schlot-Airbag: Fußballer präsentiert Aufprallschutz für Schornsteinfeger",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2466.html",
+  "creators": [
+   "bfr",
+   "wso"
+  ],
+  "num": "2466"
+ },
+ {
+  "content": "Alle Höhen und Tiefen mitgemacht: Lebensgeschichte von Toningenieur sehr spannend",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2466.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2466"
+ },
+ {
+  "content": "Fascho nenn' sie mich: Höcke will von Nazi-Vorwürfen nichts mehr hören",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2466.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2466"
+ },
  {
   "content": "Türkennwort: Gandalf kommt mit \"Merhaba\" nach Moria",
   "url": "https://www.der-postillon.com/2026/10/newsticker-2465.html",
