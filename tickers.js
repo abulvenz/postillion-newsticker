@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-11-02T18:50:49.685Z";
+export const lastUpdated = "2026-11-04T16:36:48.523Z";
 export const tickers = 
 [
+ {
+  "content": "Bystander: Englischer Passant fragt nach Gemüt von Kampfhund",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2467.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2467",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkiRXoOKGr4J0nnGLL4J3Ha1xWfcC8_390_p7iaUaiLqiV4ZtLGZpuJ8lz65t-r4UkNXzrCBdOrPvRz_RoVf3c6TOlo4w4J5kMwcpWKJCFWvomh7_VxPTBD9d-9LHQNsdQZjZtYMUzJUx2eGMmolSNy7TBQG_yUClP2W6hKrhrJ25GfsypItx9apUb1qF1/w1600/tickerbystander.jpg"
+ },
+ {
+  "content": "Deutlich daneben: Beleidigungen nach verschossenem Elfmeter",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2467.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2467"
+ },
+ {
+  "content": "Geh'n Sie: Polizei löst Jugendproteste auf",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2467.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "2467"
+ },
+ {
+  "content": "Reine Bauchentscheidung: Mann lehnt Diät ab",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2467.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2467"
+ },
+ {
+  "content": "72 % der Befrackten: Mehrheit bezweifelt Nutzen von Pinguindemoskopie",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2467.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2467"
+ },
+ {
+  "content": "\"Ach, Sofa, stehe!\": Frau kapiert, wie sie Couch dazu bringt, Männchen zu machen",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2467.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2467"
+ },
+ {
+  "content": "Es kribbelt nicht mehr so wie früher: FKK-Pärchen macht auf verlassenem Lieblingsameisenhügel Schluss",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2467.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2467"
+ },
  {
   "content": "Dinar for Won: Miss Sophie feiert Geburtstag in Wechselstube",
   "url": "https://www.der-postillon.com/2026/11/newsticker-2466.html",
