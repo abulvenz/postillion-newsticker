@@ -1,6 +1,64 @@
-export const lastUpdated = "2026-11-04T16:36:48.523Z";
+export const lastUpdated = "2026-11-06T16:19:02.992Z";
 export const tickers = 
 [
+ {
+  "content": "Genug von seinem Matschshowgehabe: Frau trennt sich von Schlammwrestler",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2468.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2468",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxd23-pWuHLd-uL64K22pzryJoncosnnnxglFrtnRFvb87TVKV6El94cjM3x0HbHsraVDZ45nNPRaGbqeeDVM7aBoBHocu3fQRH02Xxk9a-I42z4-I8KumCJ7Fic0h24Mqp_P7UN4SLt4Q8fgzkC_eT8xKWHM5NQ6mYYFht5P28M29Y-PQjbtgoungutNx/w1600/tickermatschshow.jpg"
+ },
+ {
+  "content": "Äste auf der Wiese: Reh muss nach Orkan aufpassen",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2468.html",
+  "creators": [
+   "chö"
+  ],
+  "num": "2468"
+ },
+ {
+  "content": "Tippte Code um: Informatiker stirbt am Arbeitsplatz",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2468.html",
+  "creators": [
+   "adl"
+  ],
+  "num": "2468"
+ },
+ {
+  "content": "Midterm-Eier: Comedian verteilt Geschenke in Wahllokalen",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2468.html",
+  "creators": [
+   "jam"
+  ],
+  "num": "2468"
+ },
+ {
+  "content": "Maisterbetrieb: Handwerker will im Frühling in eigener Firma ableben",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2468.html",
+  "creators": [
+   "aaa",
+   "wrb"
+  ],
+  "num": "2468"
+ },
+ {
+  "content": "Gammelfleisch: Sachse isst ranziges Dromedarsteak",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2468.html",
+  "creators": [
+   "loc"
+  ],
+  "num": "2468"
+ },
+ {
+  "content": "Nur mit einem halben Ohr zugehört: Niki Lauda bei Sicherheitseinweisung wieder unkonzentriert",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2468.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2468"
+ },
  {
   "content": "Bystander: Englischer Passant fragt nach Gemüt von Kampfhund",
   "url": "https://www.der-postillon.com/2026/11/newsticker-2467.html",
