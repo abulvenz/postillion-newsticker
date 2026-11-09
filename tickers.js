@@ -1,6 +1,65 @@
-export const lastUpdated = "2026-11-06T16:19:02.992Z";
+export const lastUpdated = "2026-11-09T19:10:42.011Z";
 export const tickers = 
 [
+ {
+  "content": "Dönerwetter: In Dresden regnet's Kebab!",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2469.html",
+  "creators": [
+   "dtb",
+   "wso"
+  ],
+  "num": "2469",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4UIB1RkV9FcYjjYZvozCyP-2kPLEVbXhA8umKnNW-7Y7oj2ejr7Bt_7lyb-qPEklRKrs4RV_ZzYbq7hOoic0iiNw_r8fP4-yarfdL2H1ahhd4yXoxJFj11HbcqHBvM1WYL3zYNscYFRQ55Jl5KwvTp4ekv-c5eIWiuca9h83t60IZx_1hZCe6KuUQ3Gv5/w1600/tickerdo%CC%88nawedda.jpg"
+ },
+ {
+  "content": "Autoaggression: Selbstfahrendes Taxi kracht absichtlich in Baum",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2469.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2469"
+ },
+ {
+  "content": "Walt Disney: Trickfilmzeichner hatte zu keiner Zeit die Absicht, berühmt zu werden",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2469.html",
+  "creators": [
+   "loc",
+   "p2k"
+  ],
+  "num": "2469"
+ },
+ {
+  "content": "Kommen anscheinend in Mode: Dessousladen erwischt schon dritten Voyeur",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2469.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2469"
+ },
+ {
+  "content": "Mit Schlüsselbein: Skelett öffnet Haustür",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2469.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2469"
+ },
+ {
+  "content": "Er beleibt zig: Mannschaftskoch von Bundesligisten sorgt für massive Gewichtszunahmen",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2469.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2469"
+ },
+ {
+  "content": "Vorwärts immer, rückwärts nimmer: Honecker war nur mäßig gut beim Einparken",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2469.html",
+  "creators": [
+   "aaa"
+  ],
+  "num": "2469"
+ },
  {
   "content": "Genug von seinem Matschshowgehabe: Frau trennt sich von Schlammwrestler",
   "url": "https://www.der-postillon.com/2026/11/newsticker-2468.html",
