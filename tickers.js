@@ -1,6 +1,66 @@
-export const lastUpdated = "2026-11-09T19:10:42.011Z";
+export const lastUpdated = "2026-11-11T16:37:41.910Z";
 export const tickers = 
 [
+ {
+  "content": "Sei mal so dahingestellt: Ob Deko wirklich praktischen Nutzen hat?",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2470.html",
+  "creators": [
+   "mta",
+   "sum"
+  ],
+  "num": "2470",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBObAM7c8ISC6bvBlR0bW1aI4nuirRANTDq-N2irQDBiTtYUvkZTng2R5LFvTyzilRFHzE0022LIre3BpkMbm0y-o2ne8KAWeWwEkT6UO4h0iRSgSZlrociQLufR7yUKwsJJrLdLo21ZVA_BD5FCok6XxPEJvQVwVO85KPhakUn7Zos-skv8JRgokD0Rxc/w1600/tickerhingestellt2.jpg"
+ },
+ {
+  "content": "Wind der Reifen: Furzende Oma belästigt Mechaniker während Räderservice",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2470.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "2470"
+ },
+ {
+  "content": "Dann hebt er ab: Major Tom braucht Bargeld",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2470.html",
+  "creators": [
+   "kly"
+  ],
+  "num": "2470"
+ },
+ {
+  "content": "Wird es Wyatt bringen: Earp lobt Stöckchen apportierenden Welpen",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2470.html",
+  "creators": [
+   "stv"
+  ],
+  "num": "2470"
+ },
+ {
+  "content": "Die Pfändung mit der Maus: Kindersendung erklärt digitale Zwangsvollstreckung",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2470.html",
+  "creators": [
+   "tom",
+   "wso"
+  ],
+  "num": "2470"
+ },
+ {
+  "content": "Pessarwisser: Frau bekommt ungefragt Diaphragmafunktion erklärt",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2470.html",
+  "creators": [
+   "sch",
+   "stp"
+  ],
+  "num": "2470"
+ },
+ {
+  "content": "\"Im Mai Malta!\": Seniorin möchte nicht im Hochsommer ans Mittelmeer reisen",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2470.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2470"
+ },
  {
   "content": "Dönerwetter: In Dresden regnet's Kebab!",
   "url": "https://www.der-postillon.com/2026/11/newsticker-2469.html",
