@@ -1,6 +1,64 @@
-export const lastUpdated = "2026-11-11T16:37:41.910Z";
+export const lastUpdated = "2026-11-13T16:44:53.896Z";
 export const tickers = 
 [
+ {
+  "content": "Kehrt nie wieder Heim: Putzfrau verstorben",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2471.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2471",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisQ11R5CUjzVNut2Cb6IV1UcS5mYpqSpwkNuatBplcrTy380pCQuOqi48uxbYaea_emccAeapZGoCeaiV6P0o8hMSJn7iUUpfnqictQtcLb81A-O9AMmN6m2ENdVzevinrotwqS48Hf4p0ohXidOc0Yl4sFTrshdddnlr2OgCPDcDsvFBLHjzqEL5O1u9O/w1600/tickerkehrtniewieder.jpg"
+ },
+ {
+  "content": "Fürth seh'n: Mehr als ein Dutzend Touristen nehmen an Städtereise nach Franken teil",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2471.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2471"
+ },
+ {
+  "content": "Warnt vor voreiligen Schüssen: Richter will Todesurteil genau bedenken",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2471.html",
+  "creators": [
+   "cbo"
+  ],
+  "num": "2471"
+ },
+ {
+  "content": "Athletic Komatritt: Spanischer Linksverteidiger für ausgefeilte Karatetechnik gefürchtet",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2471.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2471"
+ },
+ {
+  "content": "Irrelefant: Zoowärter kümmert es nicht, dass Dickhäuter sich in Labyrinth verlaufen hat",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2471.html",
+  "creators": [
+   "dtb",
+   "nil"
+  ],
+  "num": "2471"
+ },
+ {
+  "content": "Verwahrlosung: Heruntergekommener Storagebetrieb ist passwortgeschützt",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2471.html",
+  "creators": [
+   "wrb"
+  ],
+  "num": "2471"
+ },
+ {
+  "content": "Hegseth: Bibi Blocksberg zaubert US-Verteidigungsminister Amtsenthebungsverfahren an den Hals",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2471.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2471"
+ },
  {
   "content": "Sei mal so dahingestellt: Ob Deko wirklich praktischen Nutzen hat?",
   "url": "https://www.der-postillon.com/2026/11/newsticker-2470.html",
