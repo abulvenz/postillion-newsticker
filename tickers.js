@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-11-13T16:44:53.896Z";
+export const lastUpdated = "2026-11-16T18:56:58.475Z";
 export const tickers = 
 [
+ {
+  "content": "Häkler und Koch: Waffenhersteller enttäuscht von Berufswünschen seiner Kinder",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2472.html",
+  "creators": [
+   "ska"
+  ],
+  "num": "2472",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPKLp9dXYlJI6bLsM3crHAaiv11rwR1FOmOq74vCHWaFh_W-ND4emUzeCRK5Hd9rg4vd-WuYcJZhytbGtyXgidJZro-kh_-PlixFfBbHhUsmwTOpbf1fShtrX4T1TT5QA2lCpomAa0ZcfxX2rwDEzw0GRaa8RVYlgU-mjS4lww0rFiHl44AgMvcsLWL6u3/w1600/tickerha%CC%88klerkoch.jpg"
+ },
+ {
+  "content": "Gesteh-Zimmer: CIA-Mitarbeiter baut zuhause Verhörraum für Besucher",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2472.html",
+  "creators": [
+   "adl"
+  ],
+  "num": "2472"
+ },
+ {
+  "content": "Heute gibt es Hackfleischsauce!: ... und damit Pasta!",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2472.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2472"
+ },
+ {
+  "content": "Schieferturm von Pisa: Bauwerk war einst ganz in schwarz gehüllt",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2472.html",
+  "creators": [
+   "aaa"
+  ],
+  "num": "2472"
+ },
+ {
+  "content": "Der fängt sich schon wieder: Kater hat Drehwurm gleich überwunden",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2472.html",
+  "creators": [
+   "ttl"
+  ],
+  "num": "2472"
+ },
+ {
+  "content": "Täter-News: Einbrecher leidet aktuell an Wundstarrkrampf",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2472.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2472"
+ },
+ {
+  "content": "Immer nachgießen: Zechkumpane pilgern jedes Jahr zu hessischer All-you-can-drink-Kneipe",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2472.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2472"
+ },
  {
   "content": "Kehrt nie wieder Heim: Putzfrau verstorben",
   "url": "https://www.der-postillon.com/2026/11/newsticker-2471.html",
