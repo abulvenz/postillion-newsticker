@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-11-16T18:56:58.475Z";
+export const lastUpdated = "2026-11-18T17:35:12.401Z";
 export const tickers = 
 [
+ {
+  "content": "Hammerlos: Unbewaffneter Thor bekommt Hulk als Gegner zugewiesen",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2473.html",
+  "creators": [
+   "wrd"
+  ],
+  "num": "2473",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgADurBN9KVuu5mafh1n04wxxkwDmtn4LaVLn25EL-qHcz6SXznQz5ahcUWThVuFTLlQb8-JMgCe-6rX35b8kKv2VTu9b7ToAeTH7mY79n2NbOqB9jms4H0X9jGDHxo7m6zHcNrx5P4ExWvqG-OUb9FRwhH8PZ_tGYjD6DZdhDHK4FgJR0Ov4dg5ZtZVX1/w1600/tickerhammerlos2.jpg"
+ },
+ {
+  "content": "Altharn-Native für Deutschland: Düsseldorfer AfD sucht biodeutsche Klofrau",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2473.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2473"
+ },
+ {
+  "content": "Schienen zu Reichen: Mehrheit zufrieden mit Bahnverbindungen nach Sylt",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2473.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2473"
+ },
+ {
+  "content": "Ist eine Echse: Französin zaubert Waran aus dem Hut",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2473.html",
+  "creators": [
+   "kop"
+  ],
+  "num": "2473"
+ },
+ {
+  "content": "Mehrere Schwertverletzte: Schlimmer Unfall auf Mittelaltermarkt",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2473.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2473"
+ },
+ {
+  "content": "Schief gewickelt: Pharao glaubt an Wiederauferstehung",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2473.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2473"
+ },
+ {
+  "content": "Eine Konifere auf seinem Gebiet: Legastheniker kennt alle Laubbäume sowie einzigen Nadelbaum in seinem Garten",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2473.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2473"
+ },
  {
   "content": "Häkler und Koch: Waffenhersteller enttäuscht von Berufswünschen seiner Kinder",
   "url": "https://www.der-postillon.com/2026/11/newsticker-2472.html",
