@@ -1,6 +1,64 @@
-export const lastUpdated = "2026-11-18T17:35:12.401Z";
+export const lastUpdated = "2026-11-20T17:18:41.787Z";
 export const tickers = 
 [
+ {
+  "content": "Hat Pipi in den Augen: Chrupalla amüsiert sich über Trinkunfall von Thomas Berthold",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2474.html",
+  "creators": [
+   "adg",
+   "wso"
+  ],
+  "num": "2474",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHlS63R9OJKdKoXc4xG1C2L6PP12nSg_etYuHrjRE1wHM_1uZ2TXeeAA84tfLTAgjWBvLvYpgfdgYmtyOWgoQ-11szcDrlVte69bBYeaN-jWYnGDZj_-fv5E6mk0HgGJmh_ptwo6q8nSGKJ4QoIi2zCjTIk1G2WU2GBgqu-lq0u5o0qnlZ0TE90WYI2Ufw/w1600/tickerpipi3.jpg"
+ },
+ {
+  "content": "Alles androh': Mafioso fordert Schutzgeld",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2474.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2474"
+ },
+ {
+  "content": "Vollkommener Quark: Restaurantkritiker dementiert übertriebenes Lob für Nachspeise",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2474.html",
+  "creators": [
+   "sum"
+  ],
+  "num": "2474"
+ },
+ {
+  "content": "\"Ist gerade in Mi Ting\": Huangs Sekretärin vertröstet Anrufer",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2474.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2474"
+ },
+ {
+  "content": "Na nebenan: Palindrom-Club tagt eine Tür weiter",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2474.html",
+  "creators": [
+   "aaa"
+  ],
+  "num": "2474"
+ },
+ {
+  "content": "Benno (10): Schüler fällt kein Synonym für \"gebrauchen\" ein",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2474.html",
+  "creators": [
+   "p2k"
+  ],
+  "num": "2474"
+ },
+ {
+  "content": "Peinlich berührt: Selbst Thomas Gottschalk kann sich alte \"Wetten, dass..?\"-Folgen nicht mehr ansehen",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2474.html",
+  "creators": [
+   "ca8"
+  ],
+  "num": "2474"
+ },
  {
   "content": "Hammerlos: Unbewaffneter Thor bekommt Hulk als Gegner zugewiesen",
   "url": "https://www.der-postillon.com/2026/11/newsticker-2473.html",
