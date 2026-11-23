@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-11-20T17:18:41.787Z";
+export const lastUpdated = "2026-11-23T20:35:24.914Z";
 export const tickers = 
 [
+ {
+  "content": "Geh, Thea, sechs: Schülerin wegen Zockens der Klasse verwiesen",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2475.html",
+  "creators": [
+   "söd"
+  ],
+  "num": "2475",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcCZSEzJJMWCQIN-7cctktqajtfsBPjYTkNFKuDZ4Smo2HfcikqTacn6j3xZHHQ_QR6_9nbdVQyj71fV2325r2H-aIAvtHssLthdNwfySI1ptHd32taperoNjLlMceLm6oGPjtU42h_RY_wxMG0YTB67EOvAvB3Q7jXPSt2dkDPdXAI4QCoeM6UIp1NgnK/w1600/tickergehthea.jpg"
+ },
+ {
+  "content": "Macht sich auf die Socken: Mann verpisst sich",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2475.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2475"
+ },
+ {
+  "content": "Für lau parken: Gönnerhafter Großgrundbesitzer gewährt Gärtner Gratisgarage",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2475.html",
+  "creators": [
+   "nil"
+  ],
+  "num": "2475"
+ },
+ {
+  "content": "NDIVIA: Jensen Huang verkauft jetzt Gemüse",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2475.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2475"
+ },
+ {
+  "content": "Lopez: Jennifer bittet Gatten, Kind nicht zu kritisieren",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2475.html",
+  "creators": [
+   "stp"
+  ],
+  "num": "2475"
+ },
+ {
+  "content": "Achse auf mein Haupt: KFZ-Mechaniker erklärt sich Arbeitsunfall mit eigenem Versagen",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2475.html",
+  "creators": [
+   "aaa"
+  ],
+  "num": "2475"
+ },
+ {
+  "content": "Erinnert an kloreiche Zeiten: Bürgermeister enthüllt Gedenktafel an letzter öffentlicher Toilette",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2475.html",
+  "creators": [
+   "wrd"
+  ],
+  "num": "2475"
+ },
  {
   "content": "Hat Pipi in den Augen: Chrupalla amüsiert sich über Trinkunfall von Thomas Berthold",
   "url": "https://www.der-postillon.com/2026/11/newsticker-2474.html",
