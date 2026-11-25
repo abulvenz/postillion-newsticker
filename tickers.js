@@ -1,11 +1,69 @@
-export const lastUpdated = "2026-11-23T20:35:24.914Z";
+export const lastUpdated = "2026-11-25T18:51:02.450Z";
 export const tickers = 
 [
+ {
+  "content": "Könnte ausrasten: Radfahrer moniert schlechte Klickpedale",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2476.html",
+  "creators": [
+   "sch"
+  ],
+  "num": "2476",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZry2DDRXl4CXEtsXSQqexhW460joSgGK2tB8ziu9a3mLDQ2A64-B6ZMzRC9EAlcsupIbcKWWEhAjFWmri86elBZL7UK91byqWvDb7hfqfUVeZOYk8c437Q9ESmYoe-SFopNShmexIfuZbUbB4rFYJfr9EjZkg3UDg6nuiBY1G8pjZhcwWSJsBOLiakgnj/w1600/tickerausrasten.jpg"
+ },
+ {
+  "content": "Godbye: Mann tritt aus Kirche aus",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2476.html",
+  "creators": [
+   "dat"
+  ],
+  "num": "2476"
+ },
+ {
+  "content": "Macht kein großes Ding draus: Patient akzeptiert, dass Arzt ihm Penisverlängerung verweigert",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2476.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2476"
+ },
+ {
+  "content": "Syndesmose? Harry Kane prüft im Liegen Rasenqualität",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2476.html",
+  "creators": [
+   "wso"
+  ],
+  "num": "2476"
+ },
+ {
+  "content": "Kreidezeit: Geologielehrer wünscht sich Schultafel ohne Elektronik zurück",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2476.html",
+  "creators": [
+   "oga"
+  ],
+  "num": "2476"
+ },
+ {
+  "content": "\"Gu'n AMD!\": Mainzelmännchen bewerben Prozessor",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2476.html",
+  "creators": [
+   "wrb",
+   "wso"
+  ],
+  "num": "2476"
+ },
+ {
+  "content": "Lieber ein Ende mit Schlecken als ein Schlecken ohne Ende: Chinese trennt sich von Cunnilingus-süchtiger Freundin",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2476.html",
+  "creators": [
+   "frcx"
+  ],
+  "num": "2476"
+ },
  {
   "content": "Geh, Thea, sechs: Schülerin wegen Zockens der Klasse verwiesen",
   "url": "https://www.der-postillon.com/2026/11/newsticker-2475.html",
   "creators": [
-   "söd"
+   "sör"
   ],
   "num": "2475",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcCZSEzJJMWCQIN-7cctktqajtfsBPjYTkNFKuDZ4Smo2HfcikqTacn6j3xZHHQ_QR6_9nbdVQyj71fV2325r2H-aIAvtHssLthdNwfySI1ptHd32taperoNjLlMceLm6oGPjtU42h_RY_wxMG0YTB67EOvAvB3Q7jXPSt2dkDPdXAI4QCoeM6UIp1NgnK/w1600/tickergehthea.jpg"
