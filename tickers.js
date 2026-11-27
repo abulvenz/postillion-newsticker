@@ -1,6 +1,63 @@
-export const lastUpdated = "2026-11-25T18:51:02.450Z";
+export const lastUpdated = "2026-11-27T18:28:07.713Z";
 export const tickers = 
 [
+ {
+  "content": "Sie machen Dorsch: Köche bereiten die ganze Nacht Fisch zu",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2477.html",
+  "creators": [
+   "rag"
+  ],
+  "num": "2477",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1K3ZST3XBYEPPcKBjlLslLsNjijTZCZl7s-qq1ntPUZTFL_wpCFFESSD-RQAMawuPbtwjTGiX2Ja5_v7t8JrXcEZPXOKQSeW6WdCLsPMuhusvhxFQnIoTrgtXyEh_4omSIifWXg_uF71bj2sl23qhBX2CrNmZ-lb_m-khU5HCkBsL20kALK1TueclsssZ/w1600/tickerdorschgemacht.jpg"
+ },
+ {
+  "content": "Methbar: Drogenkonsum in Kneipen nachweislich gestiegen",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2477.html",
+  "creators": [
+   "kol"
+  ],
+  "num": "2477"
+ },
+ {
+  "content": "\"Wir können nicht einfach zuschauen\": Spanner protestieren gegen die Schließung von FKK-Strand",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2477.html",
+  "creators": [
+   "sör"
+  ],
+  "num": "2477"
+ },
+ {
+  "content": "Wollte eigentlich *innenminister werden: Hans-Dietrich Gender",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2477.html",
+  "creators": [
+   "aaa"
+  ],
+  "num": "2477"
+ },
+ {
+  "content": "*Fritz box*: Charlotte Merz ärgert sich über langsames Internet",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2477.html",
+  "creators": [
+   "mta"
+  ],
+  "num": "2477"
+ },
+ {
+  "content": "Wärmer machen: Handwerker versichern Einbau stärkerer Heizung",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2477.html",
+  "creators": [
+   "wye"
+  ],
+  "num": "2477"
+ },
+ {
+  "content": "Leifs Tusch-Ort: Skandinavischer Künstler entscheidet sich doch für Umsetzung von Lebenstraum",
+  "url": "https://www.der-postillon.com/2026/11/newsticker-2477.html",
+  "creators": [
+   "loc"
+  ],
+  "num": "2477"
+ },
  {
   "content": "Könnte ausrasten: Radfahrer moniert schlechte Klickpedale",
   "url": "https://www.der-postillon.com/2026/11/newsticker-2476.html",
